@@ -3,29 +3,19 @@ Maintained by [Jackson Lee](http://jacksonllee.com/)
 Datasets
 ========
 
-Corpora
--------
+Datasets are organized by languages.
 
-English Brown, 5.9 MB (a plain text of roughly 1 million word tokens)
+`english-brown.txt`: English Brown, 5.9 MB (a plain text of roughly 1 million word tokens)
 
-English CHILDES child-directed speech, 24.6 MB (extracted from the Brent, Brown, Hall, HSLLD, MacWhinney, and Weist portions for North American English); includes age info for each line
+`english-childesCDS.txt`: English CHILDES child-directed speech, 24.6 MB (extracted from the Brent, Brown, Hall, HSLLD, MacWhinney, and Weist portions for North American English); includes age info for each line
 
-Ngrams
-------
-
-English Brown
-
-
-Paradigms
+_archives
 ---------
 
-first 50 verbs in English COCA
+The `_archives` folder contains a few derived datasets of interest -- to be incorporated under the language folder.
 
+- first 50 verbs in English COCA
 
-Graphs
-------
-
-English brown word neighbors (the first 1,000 most frequent words)
-
+- English brown word neighbors (the first 1,000 most frequent words)
 
 
