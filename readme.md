@@ -1,5 +1,3 @@
-Maintained by [Jackson Lee](http://jacksonllee.com/)
-
 Datasets
 ========
 
