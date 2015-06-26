@@ -7,6 +7,8 @@ Datasets are organized by languages.
 
 `english-childesCDS.txt`: English CHILDES child-directed speech, 24.6 MB (extracted from the Brent, Brown, Hall, HSLLD, MacWhinney, and Weist portions for North American English); includes age info for each line
 
+Also included are ngrams.
+
 _archives
 ---------
 
