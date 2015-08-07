@@ -12,6 +12,8 @@ Also included:
 - ngrams (from `ngrams.py`)
 - word neighbors (from `manifold.py`)
 
+French data have been added.
+
 _archives
 ---------
 
