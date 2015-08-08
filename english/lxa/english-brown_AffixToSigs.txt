@@ -1,0 +1,634 @@
+NULL 158
+s    75
+ed   54
+ing  51
+e    35
+d    33
+es   32
+y    25
+er   22
+r    21
+ion  18
+ly   17
+ng   17
+t    17
+ers  16
+rs   14
+'s   12
+n    11
+on   10
+al   9
+ve   8
+ce   7
+ic   7
+ity  7
+ous  7
+st   7
+ty   7
+g    6
+l    6
+m    6
+ts   6
+'    5
+a    5
+cy   5
+tic  5
+an   4
+ist  4
+ive  4
+o    4
+ons  4
+ry   4
+c    3
+ess  3
+est  3
+ful  3
+ial  3
+ies  3
+ned  3
+ns   3
+s'   3
+te   3
+tly  3
+ves  3
+ble  2
+cal  2
+ces  2
+ely  2
+en   2
+ent  2
+ey   2
+f    2
+gs   2
+h    2
+hip  2
+ian  2
+ied  2
+is   2
+ish  2
+ism  2
+man  2
+men  2
+or   2
+ped  2
+r's  2
+sm   2
+sts  2
+ted  2
+us   2
+-    1
+-c   1
+-up  1
+0    1
+age  1
+als  1
+and  1
+ant  1
+ar   1
+ary  1
+de   1
+dly  1
+ern  1
+fth  1
+fy   1
+i    1
+ia   1
+ics  1
+id   1
+ide  1
+ie   1
+ier  1
+ike  1
+ily  1
+k    1
+le   1
+ll   1
+nce  1
+ne   1
+nt   1
+ome  1
+ors  1
+ory  1
+our  1
+per  1
+re   1
+red  1
+ric  1
+sh   1
+sis  1
+son  1
+ss   1
+ter  1
+th   1
+ton  1
+um   1
+y's  1
+zed  1
+
+NULL 158
+'-NULL                    '-NULL-g-gs               '-NULL-hip                's-NULL                   's-NULL-al-s              
+'s-NULL-an                's-NULL-d-s               's-NULL-ed-ing-s          's-NULL-ian               's-NULL-ing-s             
+'s-NULL-ly                's-NULL-n-ns              's-NULL-s                 's-NULL-s-s'              --NULL                    
+-c-NULL                   -up-NULL                  0-NULL                    NULL-a                    NULL-age-s                
+NULL-al                   NULL-al-als-s             NULL-al-s                 NULL-an                   NULL-ant-ed-ing-s         
+NULL-ary-s                NULL-ce                   NULL-d                    NULL-d-dly-s              NULL-d-ful-s              
+NULL-d-ly                 NULL-d-ly-s               NULL-d-r                  NULL-d-r-rs               NULL-d-r-rs-s             
+NULL-d-r-s                NULL-d-rs                 NULL-d-rs-s               NULL-d-s                  NULL-e                    
+NULL-e-es                 NULL-e-s                  NULL-ed                   NULL-ed-ent-ing-s         NULL-ed-er                
+NULL-ed-er-ers-ing        NULL-ed-er-ers-ing-s      NULL-ed-er-es-ing         NULL-ed-er-ing            NULL-ed-er-ing-s          
+NULL-ed-er-s              NULL-ed-ers-ing           NULL-ed-ers-ing-s         NULL-ed-es                NULL-ed-es-ing            
+NULL-ed-es-ing-y          NULL-ed-ing               NULL-ed-ing-ion           NULL-ed-ing-ion-ive-s     NULL-ed-ing-ion-s         
+NULL-ed-ing-ly-s          NULL-ed-ing-s             NULL-ed-ing-s-y           NULL-ed-ing-y             NULL-ed-ion               
+NULL-ed-ly-s              NULL-ed-s                 NULL-ed-s-y               NULL-ed-y                 NULL-en                   
+NULL-er                   NULL-er-ers               NULL-er-ers-s             NULL-er-est-ly            NULL-er-ly                
+NULL-er-s                 NULL-ern                  NULL-ers                  NULL-ers-ing-s            NULL-es                   
+NULL-es-ing               NULL-es-s                 NULL-est                  NULL-ey                   NULL-ful                  
+NULL-ful-s                NULL-g                    NULL-h                    NULL-hip                  NULL-ia                   
+NULL-ial                  NULL-ial-ly               NULL-ial-s                NULL-ian                  NULL-ic                   
+NULL-ic-ics-s             NULL-ic-s                 NULL-ide                  NULL-ie                   NULL-ing                  
+NULL-ing-s                NULL-ion                  NULL-ion-ly               NULL-is                   NULL-ish                  
+NULL-ish-s                NULL-ism                  NULL-ism-s                NULL-ist                  NULL-ist-s                
+NULL-ity                  NULL-ity-ly               NULL-ity-ly-s             NULL-ity-s                NULL-k                    
+NULL-l                    NULL-le                   NULL-ly                   NULL-ly-s                 NULL-ly-st                
+NULL-ly-ty                NULL-man                  NULL-man-men              NULL-men                  NULL-n                    
+NULL-n-ns                 NULL-n-s                  NULL-ned                  NULL-o                    NULL-ome                  
+NULL-on                   NULL-ous                  NULL-ous-s                NULL-ped-per-s            NULL-ped-s                
+NULL-r                    NULL-r-rs                 NULL-r-rs-s               NULL-r-s                  NULL-rs                   
+NULL-rs-s                 NULL-ry                   NULL-ry-s                 NULL-s                    NULL-s'                   
+NULL-s-s'                 NULL-s-ted                NULL-s-y                  NULL-son                  NULL-st                   
+NULL-t                    NULL-ted                  NULL-ter                  NULL-th                   NULL-tic                  
+NULL-ton                  NULL-ty                   NULL-y                    
+
+s    75
+'s-NULL-al-s              's-NULL-d-s               's-NULL-ed-ing-s          's-NULL-ing-s             's-NULL-s                 
+'s-NULL-s-s'              's-s                      NULL-age-s                NULL-al-als-s             NULL-al-s                 
+NULL-ant-ed-ing-s         NULL-ary-s                NULL-d-dly-s              NULL-d-ful-s              NULL-d-ly-s               
+NULL-d-r-rs-s             NULL-d-r-s                NULL-d-rs-s               NULL-d-s                  NULL-e-s                  
+NULL-ed-ent-ing-s         NULL-ed-er-ers-ing-s      NULL-ed-er-ing-s          NULL-ed-er-s              NULL-ed-ers-ing-s         
+NULL-ed-ing-ion-ive-s     NULL-ed-ing-ion-s         NULL-ed-ing-ly-s          NULL-ed-ing-s             NULL-ed-ing-s-y           
+NULL-ed-ly-s              NULL-ed-s                 NULL-ed-s-y               NULL-er-ers-s             NULL-er-s                 
+NULL-ers-ing-s            NULL-es-s                 NULL-ful-s                NULL-ial-s                NULL-ic-ics-s             
+NULL-ic-s                 NULL-ing-s                NULL-ish-s                NULL-ism-s                NULL-ist-s                
+NULL-ity-ly-s             NULL-ity-s                NULL-ly-s                 NULL-n-s                  NULL-ous-s                
+NULL-ped-per-s            NULL-ped-s                NULL-r-rs-s               NULL-r-s                  NULL-rs-s                 
+NULL-ry-s                 NULL-s                    NULL-s-s'                 NULL-s-ted                NULL-s-y                  
+al-s                      d-r-rs-s                  d-r-s                     d-rs-s                    d-s                       
+ed-ing-s                  ed-s                      g-s                       ic-s                      ing-s                     
+ll-s                      ng-s                      ous-s                     r-s                       s-y                       
+
+ed   54
+'s-NULL-ed-ing-s          NULL-ant-ed-ing-s         NULL-ed                   NULL-ed-ent-ing-s         NULL-ed-er                
+NULL-ed-er-ers-ing        NULL-ed-er-ers-ing-s      NULL-ed-er-es-ing         NULL-ed-er-ing            NULL-ed-er-ing-s          
+NULL-ed-er-s              NULL-ed-ers-ing           NULL-ed-ers-ing-s         NULL-ed-es                NULL-ed-es-ing            
+NULL-ed-es-ing-y          NULL-ed-ing               NULL-ed-ing-ion           NULL-ed-ing-ion-ive-s     NULL-ed-ing-ion-s         
+NULL-ed-ing-ly-s          NULL-ed-ing-s             NULL-ed-ing-s-y           NULL-ed-ing-y             NULL-ed-ion               
+NULL-ed-ly-s              NULL-ed-s                 NULL-ed-s-y               NULL-ed-y                 al-e-ed-es-ing            
+e-ed-ent-es-ing           e-ed-er-ers-es-ing        e-ed-er-es-ing            e-ed-ers-es-ing           e-ed-ers-ing              
+e-ed-es-ing               e-ed-es-ing-ion           e-ed-es-ing-ion-ive       e-ed-es-ing-y             e-ed-ing                  
+e-ed-ing-ion              e-ed-ing-ion-or-ors       e-ed-ion                  ed-er-ers-ing             ed-er-ing                 
+ed-ers-ing                ed-es-ing                 ed-es-ion                 ed-ing                    ed-ing-ion                
+ed-ing-s                  ed-ion                    ed-s                      ed-y                      
+
+ing  51
+'s-NULL-ed-ing-s          's-NULL-ing-s             NULL-ant-ed-ing-s         NULL-ed-ent-ing-s         NULL-ed-er-ers-ing        
+NULL-ed-er-ers-ing-s      NULL-ed-er-es-ing         NULL-ed-er-ing            NULL-ed-er-ing-s          NULL-ed-ers-ing           
+NULL-ed-ers-ing-s         NULL-ed-es-ing            NULL-ed-es-ing-y          NULL-ed-ing               NULL-ed-ing-ion           
+NULL-ed-ing-ion-ive-s     NULL-ed-ing-ion-s         NULL-ed-ing-ly-s          NULL-ed-ing-s             NULL-ed-ing-s-y           
+NULL-ed-ing-y             NULL-ers-ing-s            NULL-es-ing               NULL-ing                  NULL-ing-s                
+al-e-ed-es-ing            e-ed-ent-es-ing           e-ed-er-ers-es-ing        e-ed-er-es-ing            e-ed-ers-es-ing           
+e-ed-ers-ing              e-ed-es-ing               e-ed-es-ing-ion           e-ed-es-ing-ion-ive       e-ed-es-ing-y             
+e-ed-ing                  e-ed-ing-ion              e-ed-ing-ion-or-ors       e-es-ing                  e-ing                     
+ed-er-ers-ing             ed-er-ing                 ed-ers-ing                ed-es-ing                 ed-ing                    
+ed-ing-ion                ed-ing-s                  er-ers-ing                er-ing                    ers-ing                   
+ing-s                     
+
+e    35
+NULL-e                    NULL-e-es                 NULL-e-s                  a-e                       al-e                      
+al-e-ed-es-ing            al-e-es                   e-ed-ent-es-ing           e-ed-er-ers-es-ing        e-ed-er-es-ing            
+e-ed-ers-es-ing           e-ed-ers-ing              e-ed-es-ing               e-ed-es-ing-ion           e-ed-es-ing-ion-ive       
+e-ed-es-ing-y             e-ed-ing                  e-ed-ing-ion              e-ed-ing-ion-or-ors       e-ed-ion                  
+e-ely-ion                 e-ely-ity                 e-es-ic                   e-es-ing                  e-es-ion                  
+e-es-ive                  e-es-y                    e-h                       e-ing                     e-ion                     
+e-ity                     e-l                       e-ng                      e-o                       e-y                       
+
+d    33
+'s-NULL-d-s               NULL-d                    NULL-d-dly-s              NULL-d-ful-s              NULL-d-ly                 
+NULL-d-ly-s               NULL-d-r                  NULL-d-r-rs               NULL-d-r-rs-s             NULL-d-r-s                
+NULL-d-rs                 NULL-d-rs-s               NULL-d-s                  d-es                      d-n                       
+d-nce-nt                  d-ng                      d-r                       d-r-r's                   d-r-r's-rs                
+d-r-red-rs                d-r-rs                    d-r-rs-s                  d-r-s                     d-r-st                    
+d-rs                      d-rs-s                    d-ry                      d-s                       d-ss                      
+d-st                      d-t                       d-t-ts                    
+
+es   32
+NULL-e-es                 NULL-ed-er-es-ing         NULL-ed-es                NULL-ed-es-ing            NULL-ed-es-ing-y          
+NULL-es                   NULL-es-ing               NULL-es-s                 al-e-ed-es-ing            al-e-es                   
+al-es                     ar-es                     c-es                      d-es                      e-ed-ent-es-ing           
+e-ed-er-ers-es-ing        e-ed-er-es-ing            e-ed-ers-es-ing           e-ed-es-ing               e-ed-es-ing-ion           
+e-ed-es-ing-ion-ive       e-ed-es-ing-y             e-es-ic                   e-es-ing                  e-es-ion                  
+e-es-ive                  e-es-y                    ed-es-ing                 ed-es-ion                 es-is                     
+es-ng                     es-ous                    
+
+y    25
+NULL-ed-es-ing-y          NULL-ed-ing-s-y           NULL-ed-ing-y             NULL-ed-s-y               NULL-ed-y                 
+NULL-s-y                  NULL-y                    and-y                     e-ed-es-ing-y             e-es-y                    
+e-y                       ed-y                      ess-y                     ey-y                      ic-ist-y                  
+ic-y                      ied-ies-y                 ied-y                     ier-y                     ies-y                     
+ies-y-y's                 ily-y                     ist-y                     ous-y                     s-y                       
+
+er   22
+NULL-ed-er                NULL-ed-er-ers-ing        NULL-ed-er-ers-ing-s      NULL-ed-er-es-ing         NULL-ed-er-ing            
+NULL-ed-er-ing-s          NULL-ed-er-s              NULL-er                   NULL-er-ers               NULL-er-ers-s             
+NULL-er-est-ly            NULL-er-ly                NULL-er-s                 e-ed-er-ers-es-ing        e-ed-er-es-ing            
+ed-er-ers-ing             ed-er-ing                 er-ers-ing                er-ers-re                 er-ing                    
+er-ng                     er-ric                    
+
+r    21
+NULL-d-r                  NULL-d-r-rs               NULL-d-r-rs-s             NULL-d-r-s                NULL-r                    
+NULL-r-rs                 NULL-r-rs-s               NULL-r-s                  d-r                       d-r-r's                   
+d-r-r's-rs                d-r-red-rs                d-r-rs                    d-r-rs-s                  d-r-s                     
+d-r-st                    n-ned-r-st                n-r                       ned-r                     r-s                       
+r-st                      
+
+ion  18
+NULL-ed-ing-ion           NULL-ed-ing-ion-ive-s     NULL-ed-ing-ion-s         NULL-ed-ion               NULL-ion                  
+NULL-ion-ly               e-ed-es-ing-ion           e-ed-es-ing-ion-ive       e-ed-ing-ion              e-ed-ing-ion-or-ors       
+e-ed-ion                  e-ely-ion                 e-es-ion                  e-ion                     ed-es-ion                 
+ed-ing-ion                ed-ion                    ion-ory                   
+
+ly   17
+'s-NULL-ly                NULL-d-ly                 NULL-d-ly-s               NULL-ed-ing-ly-s          NULL-ed-ly-s              
+NULL-er-est-ly            NULL-er-ly                NULL-ial-ly               NULL-ion-ly               NULL-ity-ly               
+NULL-ity-ly-s             NULL-ly                   NULL-ly-s                 NULL-ly-st                NULL-ly-ty                
+est-ly                    ly-ng                     
+
+ng   17
+ble-ng                    d-ng                      e-ng                      er-ng                     es-ng                     
+ly-ng                     ng-on                     ng-on-ons                 ng-on-ons-ve              ng-on-ons-ve-ves          
+ng-on-ve                  ng-s                      ng-sh                     ng-t                      ng-te                     
+ng-ty                     ng-ve                     
+
+t    17
+NULL-t                    ce-ces-t                  ce-ces-t-tly              ce-cy-t                   ce-t                      
+ce-t-tly                  ce-t-ts                   cy-t                      cy-t-tly                  cy-t-ts                   
+d-t                       d-t-ts                    m-t                       m-t-tic                   m-t-tic-ts                
+m-t-ts                    ng-t                      
+
+ers  16
+NULL-ed-er-ers-ing        NULL-ed-er-ers-ing-s      NULL-ed-ers-ing           NULL-ed-ers-ing-s         NULL-er-ers               
+NULL-er-ers-s             NULL-ers                  NULL-ers-ing-s            e-ed-er-ers-es-ing        e-ed-ers-es-ing           
+e-ed-ers-ing              ed-er-ers-ing             ed-ers-ing                er-ers-ing                er-ers-re                 
+ers-ing                   
+
+rs   14
+NULL-d-r-rs               NULL-d-r-rs-s             NULL-d-rs                 NULL-d-rs-s               NULL-r-rs                 
+NULL-r-rs-s               NULL-rs                   NULL-rs-s                 d-r-r's-rs                d-r-red-rs                
+d-r-rs                    d-r-rs-s                  d-rs                      d-rs-s                    
+
+'s   12
+'s-NULL                   's-NULL-al-s              's-NULL-an                's-NULL-d-s               's-NULL-ed-ing-s          
+'s-NULL-ian               's-NULL-ing-s             's-NULL-ly                's-NULL-n-ns              's-NULL-s                 
+'s-NULL-s-s'              's-s                      
+
+n    11
+'s-NULL-n-ns              NULL-n                    NULL-n-ns                 NULL-n-s                  d-n                       
+f-n                       l-n                       n-ned-r-st                n-ns-us                   n-r                       
+n-us                      
+
+on   10
+NULL-on                   a-on                      ng-on                     ng-on-ons                 ng-on-ons-ve              
+ng-on-ons-ve-ves          ng-on-ve                  on-ons-ve                 on-ve                     on-ve-ves                 
+
+al   9
+'s-NULL-al-s              NULL-al                   NULL-al-als-s             NULL-al-s                 al-e                      
+al-e-ed-es-ing            al-e-es                   al-es                     al-s                      
+
+ve   8
+fth-ve                    ng-on-ons-ve              ng-on-ons-ve-ves          ng-on-ve                  ng-ve                     
+on-ons-ve                 on-ve                     on-ve-ves                 
+
+ce   7
+NULL-ce                   ce-ces-t                  ce-ces-t-tly              ce-cy-t                   ce-t                      
+ce-t-tly                  ce-t-ts                   
+
+ic   7
+NULL-ic                   NULL-ic-ics-s             NULL-ic-s                 e-es-ic                   ic-ist-y                  
+ic-s                      ic-y                      
+
+ity  7
+NULL-ity                  NULL-ity-ly               NULL-ity-ly-s             NULL-ity-s                e-ely-ity                 
+e-ity                     ity-ous                   
+
+ous  7
+NULL-ous                  NULL-ous-s                es-ous                    ity-ous                   ous-s                     
+ous-ty                    ous-y                     
+
+st   7
+NULL-ly-st                NULL-st                   cal-st-sts                d-r-st                    d-st                      
+n-ned-r-st                r-st                      
+
+ty   7
+NULL-ly-ty                NULL-ty                   fy-ty                     ng-ty                     ous-ty                    
+sm-ty                     ty-zed                    
+
+g    6
+'-NULL-g-gs               '-g                       '-g-gs                    NULL-g                    ess-g                     
+g-s                       
+
+l    6
+NULL-l                    ble-l                     e-l                       l-n                       l-ry                      
+l-te                      
+
+m    6
+m-t                       m-t-tic                   m-t-tic-ts                m-t-ts                    m-tic                     
+m-ts                      
+
+ts   6
+ce-t-ts                   cy-t-ts                   d-t-ts                    m-t-tic-ts                m-t-ts                    
+m-ts                      
+
+'    5
+'-NULL                    '-NULL-g-gs               '-NULL-hip                '-g                       '-g-gs                    
+
+a    5
+NULL-a                    a-c                       a-e                       a-on                      a-um                      
+
+cy   5
+ce-cy-t                   cy-t                      cy-t-tly                  cy-t-ts                   cy-te                     
+
+tic  5
+NULL-tic                  m-t-tic                   m-t-tic-ts                m-tic                     sis-tic                   
+
+an   4
+'s-NULL-an                NULL-an                   an-en                     an-o                      
+
+ist  4
+NULL-ist                  NULL-ist-s                ic-ist-y                  ist-y                     
+
+ive  4
+NULL-ed-ing-ion-ive-s     e-ed-es-ing-ion-ive       e-es-ive                  ive-our                   
+
+o    4
+NULL-o                    an-o                      e-o                       i-o                       
+
+ons  4
+ng-on-ons                 ng-on-ons-ve              ng-on-ons-ve-ves          on-ons-ve                 
+
+ry   4
+NULL-ry                   NULL-ry-s                 d-ry                      l-ry                      
+
+c    3
+a-c                       c-es                      c-sm                      
+
+ess  3
+ess-g                     ess-ike                   ess-y                     
+
+est  3
+NULL-er-est-ly            NULL-est                  est-ly                    
+
+ful  3
+NULL-d-ful-s              NULL-ful                  NULL-ful-s                
+
+ial  3
+NULL-ial                  NULL-ial-ly               NULL-ial-s                
+
+ies  3
+ied-ies-y                 ies-y                     ies-y-y's                 
+
+ned  3
+NULL-ned                  n-ned-r-st                ned-r                     
+
+ns   3
+'s-NULL-n-ns              NULL-n-ns                 n-ns-us                   
+
+s'   3
+'s-NULL-s-s'              NULL-s'                   NULL-s-s'                 
+
+te   3
+cy-te                     l-te                      ng-te                     
+
+tly  3
+ce-ces-t-tly              ce-t-tly                  cy-t-tly                  
+
+ves  3
+f-ves                     ng-on-ons-ve-ves          on-ve-ves                 
+
+ble  2
+ble-l                     ble-ng                    
+
+cal  2
+cal-st-sts                cal-sts                   
+
+ces  2
+ce-ces-t                  ce-ces-t-tly              
+
+ely  2
+e-ely-ion                 e-ely-ity                 
+
+en   2
+NULL-en                   an-en                     
+
+ent  2
+NULL-ed-ent-ing-s         e-ed-ent-es-ing           
+
+ey   2
+NULL-ey                   ey-y                      
+
+f    2
+f-n                       f-ves                     
+
+gs   2
+'-NULL-g-gs               '-g-gs                    
+
+h    2
+NULL-h                    e-h                       
+
+hip  2
+'-NULL-hip                NULL-hip                  
+
+ian  2
+'s-NULL-ian               NULL-ian                  
+
+ied  2
+ied-ies-y                 ied-y                     
+
+is   2
+NULL-is                   es-is                     
+
+ish  2
+NULL-ish                  NULL-ish-s                
+
+ism  2
+NULL-ism                  NULL-ism-s                
+
+man  2
+NULL-man                  NULL-man-men              
+
+men  2
+NULL-man-men              NULL-men                  
+
+or   2
+e-ed-ing-ion-or-ors       id-or                     
+
+ped  2
+NULL-ped-per-s            NULL-ped-s                
+
+r's  2
+d-r-r's                   d-r-r's-rs                
+
+sm   2
+c-sm                      sm-ty                     
+
+sts  2
+cal-st-sts                cal-sts                   
+
+ted  2
+NULL-s-ted                NULL-ted                  
+
+us   2
+n-ns-us                   n-us                      
+
+-    1
+--NULL                    
+
+-c   1
+-c-NULL                   
+
+-up  1
+-up-NULL                  
+
+0    1
+0-NULL                    
+
+age  1
+NULL-age-s                
+
+als  1
+NULL-al-als-s             
+
+and  1
+and-y                     
+
+ant  1
+NULL-ant-ed-ing-s         
+
+ar   1
+ar-es                     
+
+ary  1
+NULL-ary-s                
+
+de   1
+de-ne                     
+
+dly  1
+NULL-d-dly-s              
+
+ern  1
+NULL-ern                  
+
+fth  1
+fth-ve                    
+
+fy   1
+fy-ty                     
+
+i    1
+i-o                       
+
+ia   1
+NULL-ia                   
+
+ics  1
+NULL-ic-ics-s             
+
+id   1
+id-or                     
+
+ide  1
+NULL-ide                  
+
+ie   1
+NULL-ie                   
+
+ier  1
+ier-y                     
+
+ike  1
+ess-ike                   
+
+ily  1
+ily-y                     
+
+k    1
+NULL-k                    
+
+le   1
+NULL-le                   
+
+ll   1
+ll-s                      
+
+nce  1
+d-nce-nt                  
+
+ne   1
+de-ne                     
+
+nt   1
+d-nce-nt                  
+
+ome  1
+NULL-ome                  
+
+ors  1
+e-ed-ing-ion-or-ors       
+
+ory  1
+ion-ory                   
+
+our  1
+ive-our                   
+
+per  1
+NULL-ped-per-s            
+
+re   1
+er-ers-re                 
+
+red  1
+d-r-red-rs                
+
+ric  1
+er-ric                    
+
+sh   1
+ng-sh                     
+
+sis  1
+sis-tic                   
+
+son  1
+NULL-son                  
+
+ss   1
+d-ss                      
+
+ter  1
+NULL-ter                  
+
+th   1
+NULL-th                   
+
+ton  1
+NULL-ton                  
+
+um   1
+a-um                      
+
+y's  1
+ies-y-y's                 
+
+zed  1
+ty-zed                    
+

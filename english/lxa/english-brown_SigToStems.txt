@@ -1,0 +1,3230 @@
+NULL-s                2420
+'s-NULL               827
+NULL-ly               665
+NULL-d-s              387
+NULL-d                326
+ed-ing                212
+NULL-ed-ing-s         208
+'s-NULL-s             196
+'-NULL                191
+ies-y                 184
+d-s                   176
+e-ed-es-ing           157
+NULL-ed               156
+NULL-ed-ing           151
+NULL-ing              114
+d-r                   99
+NULL-ed-s             98
+ng-on                 96
+e-y                   95
+e-ed-ing              92
+'-g                   72
+ng-on-ons             71
+d-r-rs                68
+NULL-es               64
+NULL-al-s             61
+ed-ion                57
+NULL-e                54
+NULL-y                54
+NULL-al               48
+NULL-ing-s            47
+'s-NULL-s-s'          46
+an-en                 46
+d-rs                  46
+NULL-ly-s             45
+ce-t                  45
+e-ing                 41
+NULL-n                40
+on-ons-ve             40
+on-ve                 39
+NULL-ed-es-ing        35
+NULL-ity-ly           33
+r-st                  33
+NULL-s-s'             32
+NULL-ity              31
+ce-t-tly              31
+e-es-ing              30
+ng-on-ons-ve          30
+e-ed-ing-ion          29
+ily-y                 29
+NULL-hip              28
+NULL-t                28
+e-ed-es-ing-ion       27
+NULL-ism              26
+NULL-a                25
+NULL-ed-er-ing-s      25
+NULL-s-y              25
+ed-s                  25
+NULL-er               24
+e-ion                 24
+ied-y                 24
+NULL-ic               23
+e-ed-ion              23
+NULL-d-r-s            22
+NULL-on               21
+NULL-ed-er-ers-ing-s  19
+NULL-g                19
+NULL-ic-s             19
+NULL-d-r-rs-s         18
+e-ity                 18
+es-ng                 18
+ied-ies-y             18
+m-t-ts                18
+'s-NULL-ian           17
+NULL-r                17
+cy-t                  17
+ed-ing-ion            17
+NULL-l                16
+e-ed-er-ers-es-ing    16
+ic-y                  16
+NULL-d-rs-s           15
+NULL-ed-es            15
+NULL-er-ers           15
+d-r-s                 15
+NULL-d-r              14
+NULL-ide              14
+NULL-man              14
+NULL-th               14
+d-r-r's-rs            14
+ed-er-ing             14
+ers-ing               14
+m-tic                 14
+NULL-ed-ing-s-y       13
+NULL-ion              13
+ce-t-ts               13
+e-ed-er-es-ing        13
+ed-ing-s              13
+ed-y                  13
+er-ing                13
+ion-ory               13
+NULL-d-rs             12
+NULL-ed-ers-ing-s     12
+NULL-ful-s            12
+NULL-ism-s            12
+NULL-ity-s            12
+NULL-n-ns             12
+c-es                  12
+er-ers-ing            12
+'s-NULL-ed-ing-s      11
+-up-NULL              11
+NULL-ist-s            11
+NULL-ity-ly-s         11
+NULL-ome              11
+NULL-s-ted            11
+al-e-es               11
+ed-es-ing             11
+ing-s                 11
+ng-sh                 11
+NULL-h                10
+NULL-man-men          10
+NULL-o                10
+NULL-rs-s             10
+NULL-ton              10
+d-r-r's               10
+ed-er-ers-ing         10
+ity-ous               10
+ly-ng                 10
+n-ns-us               10
+ng-ty                 10
+ty-zed                10
+'-g-gs                9
+'s-NULL-al-s          9
+'s-s                  9
+NULL-ant-ed-ing-s     9
+NULL-ary-s            9
+NULL-ed-ing-ion-ive-s 9
+NULL-ed-ing-y         9
+NULL-ed-ion           9
+NULL-ed-s-y           9
+NULL-n-s              9
+NULL-ous              9
+NULL-ous-s            9
+NULL-ry               9
+a-c                   9
+al-e-ed-es-ing        9
+ce-ces-t              9
+cy-t-tly              9
+cy-te                 9
+e-ely-ity             9
+ic-s                  9
+ies-y-y's             9
+ist-y                 9
+m-t-tic               9
+ng-on-ve              9
+ng-ve                 9
+'s-NULL-d-s           8
+NULL-ed-ent-ing-s     8
+NULL-ed-ing-ion-s     8
+NULL-ed-y             8
+NULL-ers              8
+NULL-ful              8
+NULL-ian              8
+NULL-ist              8
+NULL-k                8
+NULL-men              8
+NULL-ped-s            8
+NULL-r-s              8
+NULL-ry-s             8
+NULL-st               8
+NULL-ted              8
+and-y                 8
+c-sm                  8
+cal-st-sts            8
+cy-t-ts               8
+d-r-red-rs            8
+d-r-st                8
+e-ng                  8
+er-ng                 8
+m-ts                  8
+ous-ty                8
+s-y                   8
+sis-tic               8
+'-NULL-g-gs           7
+'-NULL-hip            7
+NULL-age-s            7
+NULL-d-ly             7
+NULL-e-es             7
+NULL-e-s              7
+NULL-er-s             7
+NULL-ers-ing-s        7
+NULL-ia               7
+NULL-ie               7
+NULL-is               7
+NULL-ish-s            7
+NULL-ly-st            7
+NULL-r-rs             7
+NULL-rs               7
+NULL-s'               7
+NULL-son              7
+NULL-ter              7
+ble-ng                7
+d-nce-nt              7
+d-r-rs-s              7
+d-st                  7
+d-t-ts                7
+e-ed-ers-ing          7
+e-ely-ion             7
+e-es-y                7
+ed-es-ion             7
+es-is                 7
+ey-y                  7
+fy-ty                 7
+l-ry                  7
+ng-t                  7
+ng-te                 7
+r-s                   7
+sm-ty                 7
+'s-NULL-ing-s         6
+'s-NULL-ly            6
+NULL-al-als-s         6
+NULL-an               6
+NULL-d-dly-s          6
+NULL-d-ful-s          6
+NULL-d-ly-s           6
+NULL-d-r-rs           6
+NULL-ed-er-ing        6
+NULL-ed-ers-ing       6
+NULL-ed-ing-ly-s      6
+NULL-er-est-ly        6
+NULL-er-ly            6
+NULL-ern              6
+NULL-le               6
+NULL-ped-per-s        6
+NULL-r-rs-s           6
+NULL-ty               6
+a-e                   6
+a-on                  6
+a-um                  6
+ar-es                 6
+ble-l                 6
+ce-ces-t-tly          6
+d-n                   6
+d-rs-s                6
+de-ne                 6
+e-ed-ers-es-ing       6
+e-ed-es-ing-ion-ive   6
+e-es-ic               6
+e-es-ion              6
+e-o                   6
+ed-ers-ing            6
+ess-g                 6
+ess-y                 6
+fth-ve                6
+g-s                   6
+i-o                   6
+ive-our               6
+l-n                   6
+l-te                  6
+ll-s                  6
+m-t                   6
+m-t-tic-ts            6
+n-r                   6
+ng-s                  6
+on-ve-ves             6
+'s-NULL-an            5
+'s-NULL-n-ns          5
+--NULL                5
+-c-NULL               5
+0-NULL                5
+NULL-ce               5
+NULL-ed-er            5
+NULL-ed-er-ers-ing    5
+NULL-ed-er-es-ing     5
+NULL-ed-er-s          5
+NULL-ed-es-ing-y      5
+NULL-ed-ing-ion       5
+NULL-ed-ly-s          5
+NULL-en               5
+NULL-er-ers-s         5
+NULL-es-ing           5
+NULL-es-s             5
+NULL-est              5
+NULL-ey               5
+NULL-ial              5
+NULL-ial-ly           5
+NULL-ial-s            5
+NULL-ic-ics-s         5
+NULL-ion-ly           5
+NULL-ish              5
+NULL-ly-ty            5
+NULL-ned              5
+NULL-tic              5
+al-e                  5
+al-es                 5
+al-s                  5
+an-o                  5
+cal-sts               5
+ce-cy-t               5
+d-es                  5
+d-ng                  5
+d-ry                  5
+d-ss                  5
+d-t                   5
+e-ed-ent-es-ing       5
+e-ed-es-ing-y         5
+e-ed-ing-ion-or-ors   5
+e-es-ive              5
+e-h                   5
+e-l                   5
+er-ers-re             5
+er-ric                5
+es-ous                5
+ess-ike               5
+est-ly                5
+f-n                   5
+f-ves                 5
+ic-ist-y              5
+id-or                 5
+ier-y                 5
+n-ned-r-st            5
+n-us                  5
+ned-r                 5
+ng-on-ons-ve-ves      5
+ous-s                 5
+ous-y                 5
+
+NULL-s                2420
+1970            2-year-old        45-degree        90-degree        abbreviation    
+abernathy       aberration        abide            abolitionist     aborigine       
+abortion        absence           absorption       academic         acceleration    
+accelerator     accelerometer     accolade         accommodation    accompaniment   
+accompanist     accomplice        accomplishment   accountant       accretion       
+accusation      achievement       acknowledgment   acquisition      acrobatic       
+action          adagio            adams'           adaptation       adapter         
+additive        adherent          adhesive         adirondack       adjective       
+adjunct         adjustment        administrator    admirer          admission       
+admonition      advancement       advertisement    advertiser       adviser         
+aerial          aerosol           aesthetic        affaire          affiliation     
+affirmation     affliction        afghan           african          afterward       
+aggie           agglutinin        aggregation      aggression       agitator        
+agreement       ailment           ainu             airfield         airplane        
+airport         airstrip          albanian         alcoholic        alibi           
+alignment       allegiance        alley            allocation       allotment       
+allowance       alloy             allusion         almond           alpert          
+alsatian        alteration        amazon           ambition         ambulance       
+amis            amplifier         amulet           amusement        anabaptist      
+anachronism     analogue          ancestor         andrena          andrew          
+anecdote        anesthetic        angle            anglo-american   anglo-saxon     
+anionic         ankle             announcement     annoyance        anode           
+antagonism      antecedent        anterior         anthem           anthropologist  
+anti-communist  anti-semite       antibiotic       anticipation     antiquarian     
+antique         anyway            apache           apartment        apologie        
+apostle         appalachian       appearance       appetite         appliance       
+applicant       application       appointee        appointment      apportionment   
+appraisal       appreciation      apprehension     appropriation    approximation   
+apron           aptitude          arabian          archangel        architecture    
+arena           argument          arhat            arianist         armament        
+armchair        armpit            arrangement      arrival          arrowhead       
+article         articulation      artisan          arylesterase     asian           
+aspect          aspencade         aspirant         aspiration       assailant       
+assassin        assemblage        assertion        assessment       asset           
+assignment      assistant         assumption       assurance        athenian        
+atmosphere      attachment        attainment       attendant        attention       
+attitude        attraction        audience         auditor          authentication  
+authorization   auto              automobile       avenue           aviator         
+avocado         axiom             axle             azalea           babylonian      
+bachelor        backbend          background       backward         backyard        
+badge           bake-off          ballad           ballard          ballerina       
+ballet          ballistic         ballot           ballplayer       banana          
+banister        banker            banner           banquet          banshee         
+bantu           barbarian         barnyard         barrack          barrel          
+barricade       barrier           bas-relief       basement         basic           
+basket          bassi             bathroom         bathtub          bathyran        
+battalion       batten            batterie         battle           battlefield     
+bauble          bawh              bayonet          bazaar           beaker          
+bean            bearden           bearing          beating          beatnik         
+beep            beer              beer-runner      beginning        behold          
+belgian         belief            believer         bellboy          belle           
+belonging       bemoan            bentley          bequest          bereavement     
+beset           beside            bespeak          best-seller      beverage        
+bible           bicep             bicycle          bidder           bifocal         
+billboard       billet            billiken         billing          billion         
+binder          biographer        biologist        biscuit          blade           
+bleeding        blessing          blizzard         bloke            blouse          
+blower          blue              blueprint        boasting         boatel          
+boatload        bodybuilder       boiler           boite            bombing         
+bone            bonfire           bookcase         booker           booking         
+booklet         boomerang         bootlegger       borden           borough         
+bosom           bostonian         bottleneck       bottom           boulder         
+boulevard       bouquet           bourbon          bovine           bower           
+bowl            boxcar            bracket          brake            breakdown       
+breaker         breakthrough      breakup          breakwater       breeze          
+brigade         briton            broadcasting     brochure         bronchiole      
+brothel         bucket            buddhist         buena            buffoon         
+bulkhead        bull's-eye        bumblebee        bumper           bunkmate        
+bunter          bureau            burlesque        burning          butler          
+by-product      byproduct         cabana           cabinet          cadillac        
+cafe            cafeteria         calculation      calendar         caliber         
+calibration     caliper           caller           calorie          camel           
+cameo           camper            campground       canal            cancer          
+candle          canister          cannibal         canoe            canyon          
+capacitor       capsule           captive          carbine          card            
+cardinal        carriage          carrier          carrot           carryover       
+carter          cartoonist        cartridge        carving          castle          
+castorbean      catalyst          catastrophe      caterpillar      cathedral       
+catkin          catskill          ceiling          celebration      cellar          
+cellulose       ceramic           cereal           certificate      cetera          
+chain           chairmanship      chambermaid      champion         championship    
+chandelier      chaplain          characteristic   characterization charles'        
+charting        chartist          cheek            cheekbone        cherokee        
+chestnut        cheyenne          chicken          chiefdom         chieftain       
+chimney         chin-up           chive            chloride         choctaw         
+choose          chord             chore            choreographer    chowder         
+chromatic       cigarette         cinder           cipher           circonscription 
+circumstance    citation          civilian         claimant         claret          
+classification  classmate         classroom        clause           cleaner         
+cleft           cliche            cliff            climate          clique          
+clod            closeup           clothesline      clue             clump           
+co-op           coal              coating          cobblestone      cockpit         
+cocktail        coconut           coed             coefficient      coincidence     
+coke            collaborator      colleague        collection       collision       
+colman          colored           columnist        combatant        combination     
+comedian        comic             coming           commander        commencement    
+commentator     commitment        commoner         commonplace      commonwealth    
+comparison      compartment       compatriot       compensation     competitor      
+compilation     complaint         completion       complication     component       
+composite       compulsion        computer         comrade          concentration   
+conception      concession        concessionaire   conclusion       conditioner     
+confabulation   confederate       confederation    confessional     confidence      
+configuration   confinement       conformist       confrontation    confusion       
+congratulation  congregationalist conjunction      connection       connoisseur     
+connotation     connote           conqueror        conquest         conscience      
+consequence     conservative      conserve         consideration    constantino     
+constituent     constriction      constrictor      consultant       consultation    
+container       contention        context          contingent       contraceptive   
+contradiction   contribution      convenience      conversion       conviction      
+convocation     cookie            cooler           cooperative      cope            
+coping          corduroy          core             corinthian       corpse          
+correction      correlation       correspondent    corridor         cosmetic        
+cosmo           cossack           cottage          counselor        counterpart     
+coupler         coupon            course           courtier         courtyard       
+covenant        covering          coyote           crackpot         cramp           
+creation        creator           creature         creek            creeper         
+crevice         crib              cricket          criticism        critter         
+crossing        cruiser           crusader         crusher          crystal         
+crystallite     cuban             cubist           cuff             culprit         
+culver          cupboard          curd             currant          curriculum      
+curry           curtis            cutting          dane             deacon          
+deadlines       dealing           debt             decimal          declaration     
+decompose       decoration        decorator        deductible       deduction       
+deed            defender          defense          deferent         deferment       
+deficit         definition        degree           dejeuner         delaware        
+delegation      deliberation      delimit          delinquent       delta           
+deltoid         demonstration     denial           denunciation     departure       
+dependent       deposition        depot            depression       deprivation     
+depth           derivation        descendant       description      designation     
+desk            desolation        dessert          destroyer        detector        
+detergent       determinant       determination    detractor        developer       
+deviant         deviation         device           dialogue         diameter        
+diamond         diehard           difference       dilemma          dinner          
+dinosaur        dipole            directive        disadvantage     disagreement    
+disappointment  disaster          disbursement     disciple         disclosure      
+discourse       discussion        dislocation      dispenser        disposition     
+disruption      dissatisfaction   dissension       dissenter        dissolution     
+distance        distiller         distinction      distortion       distraction     
+distribution    district          disturbance      ditmar           divan           
+dividend        do-gooder         doctrine         dodger           doing           
+dolphin         domain            donation         donor            dooley          
+doorway         dosage            douglas          dozen            draftee         
+dragon          dramatist         dramatize        drawer           drawing         
+drawing-room    dresser           dressing         drier            drinker         
+driveway        drone             dropping         drought          drugstore       
+duct            duet              duffer           dumbbell         dune            
+dupont          duration          dweller          dwelling         earning         
+earth-week      earthquake        easement         eatable          eating          
+echelon         ecumenist         edition          effluent         effort          
+egyptian        election          electronic       electroshock     elegance        
+elimination     elizabethan       ellipsoid        eluate           emanation       
+embodiment      emerald           empire           employment       encyclopedia    
+endearment      endeavour         ending           endowment        engagement      
+englander       engraving         enlargement      enrollment       ensemble        
+ensure          entail            enterprise       entertainer      entertainment   
+enthusiasm      entrepreneur      envelope         enzyme           epicycle        
+epidemic        episode           epithet          equation         equilibrium     
+equine          equivalent        eraser           error            escapade        
+escutcheon      eskimo            essence          establishment    estate          
+esthetic        ether             ethicist         evaluation       evangelist      
+evasion         evil              evocation        ex-convict       ex-president    
+exacerbation    exaggeration      exaltation       examination      examiner        
+example         excavation        excel            excellence       excerpt         
+exclamation     exclusion         excursion        executor         exemption       
+exertion        exhibition        existentialist   exit             expectation     
+expedition      expenditure       expense          experimentation  experimenter    
+explanation     exploration       explorer         exposition       exposure        
+expressway      extension         exterior         extra            extractor       
+extrapolation   eyeball           eyebrow          eyelid           facet           
+faction         failure           fairway          falsehood        farce           
+fare            farmhouse         farmland         farnese          farrell         
+fascist         fastening         fathom           favorite         feeding         
+feeling         fella             feller           fellow           fellowship      
+femme           fender            fermentation     ferraro          fertilizer      
+fervor          festival          fiat             fiber            fiddle          
+fighter         filament          filbert          filibuster       filipino        
+fill-in         filling           finalist         finder           finding         
+fingering       firecracker       fireplace        fitting          five            
+fixture         flag              flake            flannel          flapper         
+flavoring       flaw              flea             fledgling        fleming         
+flight          floe              floridian        flotilla         flyer           
+foal            folder            follow-up        follower         food            
+footfall        foothill          footnote         footstep         forage          
+foray           ford              forearm          forefinger       forehead        
+foreigner       forerunner        formation        formulation      fortune         
+forum           fosterite         fountain         fragrance        franchise       
+franciscan      freeholder        freeway          freezer          freighter       
+french-canadian friar             friendship       frieze           frog            
+frolic          frontier          frustration      fugitive         fund-raiser     
+funeral         furnishing        gage             gainer           galley          
+gallstone       gambit            gangster         gardener         gardenia        
+garment         gassing           gateway          gaucherie        gazette         
+gelding         gender            generalist       generalization   generator       
+genre           gentian           gentile          geologist        georgian        
+ghazal          ghetto            ghoul            gibe             gingham         
+giveaway        giver             glacier          globe            globulin        
+glycol          gnome             goal             going            goitrogen       
+golfer          grade-equivalent  gradient         gram             grandfather     
+grandson        grape             grapevine        grassland        graveyard       
+graybeard       greek             greenhouse       greeting         grenade         
+grievance       grinding          grouping         grover           growth          
+grudge          guardian          guerrilla        guise            gunner          
+gymnastic       gynecologist      gyration         gyro             haircut         
+half-brother    halfback          halfway          hallelujah       hallmark        
+hallway         halo              hamburger        hamiltonian      handbook        
+handful         handgun           handkerchief     handles          handstand       
+hangar          hangover          happening        harding          hardship        
+harris'         harvey            haven            hawker           haystack        
+headache        heading           headland         headquarter      headstand       
+hearer          hearing           heater           hebrew           heinze          
+helmet          helper            hemorrhage       herb             heretic         
+heritage        heroic            heron            herpetologist    hessian         
+highland        hitter            holding          holdup           holiday         
+hollyhock       homecoming        homemaker        homeward         homosexual      
+honeybee        hoodlum           hoof             hookup           hoosegow        
+horde           horizon           hormone          horror           hose            
+hostage         hound             householder      hugging          huntington      
+hurler          hurray            hutment          hydride          hydrocarbon     
+hydrogen        hymen             hymn             hypocrite        identification  
+idiom           idler             illumination     illustration     illustrator     
+imagination     imagining         imbalance        imitation        immigrant       
+imperfection    imperialist       implication      improvement      improvisation   
+impulse         in-group          inboard          incentive        incitement      
+inclination     inclusion         income           incompatible     incompetent     
+incumbent       indication        indicator        indictment       indoor          
+inducement      induction         indulgence       infection        inference       
+infestation     inflection        informant        infringement     ingredient      
+inhibition      injunction        injustice        inlet            inmate          
+inning          innovation        inoculation      inscription      insect          
+insecticide     insertion         inset            insight          insignificance  
+insinuation     inspection        installation     installment      instance        
+insulator       insurgent         insurrection     intangible       integer         
+integral        intendant         intensifier      interaction      interchange     
+interface       interferometer    interior         interlude        intermediate    
+intermission    internationalist  interpenetrate   interpolation    interpretation  
+interrelation   interrelationship interruption     intersection     interval        
+interviewee     interviewer       intestine        intonation       introduction    
+intruder        intrusion         intuition        invader          invasion        
+invention       investigation     investigator     investment       investor        
+involution      involvement       irritation       isle             israelite       
+italian         item              jake             james'           jaycee          
+jean            jeffersonian      jerebohm         jerking          jeroboam        
+jesuit          jesus'            joiner           jones'           journalist      
+jowl            judgement         judgment         judson           juice           
+julep           juncture          jungle           jurist           juror           
+justification   katangan          kenning          kernel           keynote         
+kick-off        kidnapper         kidney           killer           kilometer       
+kilowatt        kilowatt-hour     kingdom          kissing          kitchen         
+knob            know-nothing      kochanek         korean           kraut           
+laban           laborer           lagoon           lake             lamechian       
+lament          lamentation       lamp             landing          landmark        
+landslide       lane              language         lantern          laotian         
+lapel           lashing           latitude         launching        laundering      
+laurel          lawn              lawsuit          leading          leaflet         
+leaguer         leaving           ledger           lefthander       leger           
+legion          legislator        lemma            lesson           lewis'          
+lexicostatistic liaison           libertarian      libertie         libertine       
+lien            lifeboat          ligand           lighter          lilac           
+limitation      limousine         lindemann        lineage          liner           
+linguistic      liniment          liquidation      listing          literature      
+lithograph      litigant          loader           loading          lobe            
+lobule          locale            location         locomotive       lodging         
+logarithm       loin              longhorn         longing          longitude       
+loophole        loser             lotion           loudspeaker      louis'          
+loyalist        luncheon          magistrate       magnate          magnetism       
+magnitude       magnum            magpie           maguire          maiden          
+mailing         maitre            maker            makeshift        making          
+maladjustment   male              manifestation    manikin          manipulation    
+mannerism       manor             manuscript       maple            marble          
+mardi           marker            marketing        marking          marriage        
+martian         martini           masquerade       masterpiece      matisse         
+maverick        maximum           meadow           meal             measurement     
+mechanism       medal             medicine         meditation       meeting         
+megaton         membership        memoir           memorial         memory-picture  
+menarche        mennonite         menu             merchant         merger          
+message         messenger         metabolite       metal            metaphor        
+metaphysical    meteorite         methodist        methuselah       mexican         
+meyer           micelle           micrometeorite   micrometer       microorganism   
+microphone      microscope        microwave        midst            migrant         
+milestone       millidegree       milligram        million          millionaire     
+milquetoast     mineral           miniature        mink             minstrel        
+miracle         miscalculation    misconception    misconstruction  miscreant       
+misfortune      misrepresentation misunderstanding mitigate         mixer           
+mixture         moccasin          modification     modifier         modulation      
+molecule        monkey            monograph        monomer          monosyllable    
+monster         morphophonemic    morsel           mortgage         mosaic          
+mose            moslem            mosque           motel            motet           
+motif           motivation        motive           moulton          mountainside    
+mounting        mouthpiece        movement         movie            mule            
+multitude       museum            musing           musket           muslim          
+mustang         muzzle            mysticism        napkin           narcotic        
+narrative       nation-state      nationalism      native           navel           
+navigator       nazi              necklace         needles          negociant       
+negotiation     neighborhood      nephew           nerve            neusteter       
+neutralist      newcomer          newlywed         newsletter       nickel          
+niece           nigger            nightingale      nightmare        nikolai         
+nitrate         noise             nomia            non-catholic     nonconformist   
+northerner      nose              nostril          notable          notebook        
+notion          noun              nozzle           nuance           nude            
+nuisance        numeral           nutrient         nymph            nymphomaniac    
+o'dwyer         obedience         objection        objector         observance      
+obsession       obstacle          occupant         occurrence       octave          
+odor            off-flavor        offender         offense          offering        
+oilseed         old-timer         olympic          omission         onion           
+onlooker        onset             onslaught        onward           opening         
+operand         operator          opinion          oracle           orange          
+oration         orchard           orchestration    ordering         ordinance       
+orgasm          orientation       orthodontic      orthophosphate   ounce           
+out-of-door     outboard          outbreak         outburst         outcast         
+outcome         outdoor           outfielder       outlay           outlet          
+outpost         output            outrigger        outsider         oval            
+oven            overall           overcoat         overcome         overhang        
+overture        owen              ownership        oxide            oxygen          
+oyster          pacer             packard          packet           paean           
+pagoda          pail              painting         pajama           pakistani       
+palate          palazzo           pamphlet         panorama         panther         
+paperback       parable           parachute        paradigm         parameter       
+parapet         paraphrase        parasite         parasol          parlor          
+participant     particle          parting          partisan         partition       
+passenger       pastel            pastern          pastime          pasture         
+patina          pavement          pavilion         payment          peacock         
+peanut          peasant           pebble           pecan            pedal           
+peddler         pedestrian        pegboard         pennant          peptide         
+percentage      perception        performance      performer        persevere       
+persian         personage         perspective      persuasion       perturbation    
+phase           pheasant          philippine       phillip          philosopher     
+phonemic        phonetic          phonograph       phosphate        photo           
+photocathode    photographer      phrasing         physicist        piano           
+piazza          pickoff           piece            pigeon           pilgrimage      
+pillow          pinch-hitter      pine             pinnacle         pinning         
+pistol          piston            pitcher          pitfall          place-name      
+plaid           planetoid         planner          plantation       planting        
+plaque          platform          platoon          platter          playback        
+playhouse       playmate          playwright       plaza            pleasure        
+pocketbook      poem              poetic           pointer          pole            
+politician      politico          polybutene       polyester        polyether       
+polyisocyanate  polymerization    polynomial       polyphosphate    populaire       
+population      portion           poseur           positivist       possession      
+postcard        posture           potboiler        poultice         practitioner    
+pram            prank             preacher         preamble         precedent       
+precept         precinct          predecessor      prediction       predisposition  
+prefecture      preference        prelude          premiere         premise         
+premium         premonition       preoccupation    preparation      prerogative     
+prescription    presence          pressure         presumption      presupposition  
+pretense        pretext           prevision        primate          principle       
+probing         problem           procedure        proceeding       processor       
+proclamation    proctor           production       profile          progression     
+projectile      projection        prolusion        promenade        promoter        
+pronouncement   proponent         proposal         proprietorship   propulsion      
+prosecutor      prostitute        protease         protein          proton          
+province        psyche            psychiatrist     psychologist     publication     
+publisher       puddle            pulley           pulling          pulpit          
+pulsation       punishment        punk             pupil            puritan         
+pursuer         pursuit           purveyor         push-up          pyrometer       
+qualification   quarterback       questioner       questionnaire    quintet         
+quota           quotation         rabbit           race-driver      racketeer       
+radiation       radiator          railway          ramble           rambling        
+ramification    rancher           ranger           rapture          rascal          
+rathbone        rating            rationalization  rattler          rattlesnake     
+ravine          re-enactment      re-run           reactor          reading         
+reagent         realm             reappraisal      rebellion        receipt         
+receiver        recherche         recipe           recipient        recital         
+reckoning       recollection      recommendation   recording        recrimination   
+redcoat         reduction         redwood          reef             reference       
+referral        refinement        reflection       reflector        reformer        
+refreshment     refrigerator      refugee          registration     regulation      
+rehabilitation  rehearsal         reimbursement    reinforcement    rejection       
+relationship    religion          relive           remembrance      reminder        
+reminiscence    remnant           rendering        rendition        rental          
+renunciation    reorganization    repetition       replacement      reporter        
+representative  repression        reprisal         reproduction     repulsion       
+requirement     researcher        reservation      reservoir        residence       
+residue         resignation       resistance       resistor         resolution      
+resonance       response          restaurant       restraint        restriction     
+resultant       retailer          retirement       reunion          revelation      
+revelling       reverberation     reviewer         rewrite          rheumatic       
+rhode           rhyme             ribbon           rican            ridge           
+rigger          rim-fire          ringing          rite             ritual          
+riverbank       roadway           robertson        rocker           rocket-bomb     
+rodent          rodeo             roger            rolls-royce      rooftop         
+rookie          roommate          rostagno         rotation         roundup         
+ruffian         rumanian          run-up           runway           rupee           
+rustler         rutabaga          sabina           sable            safeguard       
+sage            sailboat          sako             salad            salon           
+saloon          salve             salvo            samuel           sarcasm         
+satellite       satire            satisfaction     sausage          sauterne        
+saving          saying            scaffolding      scandal          scandinavian    
+scapegoat       scenario          scenic           scheme           scholarship     
+schoolboy       schoolmate        schweitzer       scientist        scimitar        
+scion           scoreboard        scoundrel        scraping         screening       
+scripture       searchlight       secant           secessionist     secretion       
+section         sector            secularist       sedan            seedcoat        
+seeker          seismograph       selection        self-deception   self-image      
+self-portrait   sentinel          separation       sergeant         sermon          
+servant         serving           session          setback          setting         
+settlement      settler           shading          shaft            shaker          
+shareholder     shaving           shawl            shed             shibboleth      
+shill           shine             shipmate         shipment         shipper         
+shirt           shoe              shoelace         shoestring       shooter         
+shooting        shoreline         shortage         shortcut         shot            
+shotgun         showing           shrine           shrub            shutdown        
+sideboard       sideline          sidewalk         siecle           sierra          
+signature       signpost          silicate         sinner           siren           
+sit-in          site              sitting          situ             situation       
+skate           skeleton          skipper          skit             skull           
+skylight        skyscraper        sleeve           slicker          slide           
+slitter         slogan            slugger          smelt            snack           
+snag            sneaker           snowball         sociologist      socket          
+soft-drink      soiree            sojourner        solitude         solution        
+solvent         sometime          somewhere        sonata           sonnet          
+soothsayer      sophomore         soprano          sorrow           source          
+souvenir        soybean           spacer           spacesuit        spacing         
+spade           spasm             specialist       specie           specification   
+specimen        spectacle         spectator        specter          speculation     
+speculator      spewing           sphere           spire            split           
+spotlight       spouse            sputnik          squad            squadron        
+squall          staccato          staircase        stairway         stalling        
+stance          standard          staple           statement        statute         
+steak           steeple           steiner          stepmother       steroid         
+stetson         still             stimulant        stimulation      stipulate       
+stockholder     stocking          stomach          stopover         stoppage        
+storehouse      storyline         stove            strait           stratagem       
+straw           streetcar         stride           strike           striving        
+stubblefield    stunt             subdivision      subjectivist     submission      
+subpoena        subroutine        subsection       subspace         substance       
+substantiate    substrate         subsystem        subtype          suburbanite     
+subversive      subway            successor        sufferer         suffering       
+suggestion      suicide           suitcase         suitor           super-set       
+superlative     supermarket       superstition     supper           supplier        
+supporter       surfactant        surgeon          surrealist       surrounding     
+survivalist     suspension        suspicion        sweater          sweeney         
+sweetheart      swelling          swivel           syllable         symptom         
+synagogue       synthetic         syrian           tabernacle       tablespoonful   
+tablet          taboo             tabulation       tackle           tailin'         
+takeoff         taking            tango            tanker           tantrum         
+taoist          tappet            tarpaulin        task             tavern          
+teaching        teahouse          teamster         teaspoonful      technician      
+technique       teenager          tektite          telegram         teletype        
+teller          temperature       temptation       tenant           tenement        
+tenor           tentacle          tenth            terminal         terrain         
+terrier         testament         testimonial      testing          texan           
+textbook        thaxter           theater          theatergoer      theatre         
+thee            theme             theologian       therefore        thermocouple    
+thermodynamic   thermometer       these            thicket          thigh           
+thing           thinker           thomas'          thoroughfare     thousandth      
+three           throne            thruway          thud             thug            
+thynne          ticket            tidbit           tide             timetable       
+tissue          titer             titter           toilet           tomb            
+tombstone       tonic             topcoat          topping          torquer         
+torrent         torso             tortoise         touchdown        touchstone      
+tournament      township          tracing          tractor          trademark       
+trailer         trance            tranquilizer     transaction      transducer      
+transformer     transient         transistor       translation      transom         
+trapdoor        trapping          traveler         traveller        travelogue      
+tray            treatment         trend            trestle          trial           
+triangle        tribunal          tribute          trimming         trinitarian     
+trinket         triplet           tripod           trooper          troopship       
+trough          troupe            trouser          trucker          trunk           
+tulip           tumor             turbine          turkey           turning         
+turnout         turnpike          turret           turtle           twinge          
+two-by-four     two-week          typewriter       tyrant           ukrainian       
+umbrella        undergraduate     underlie         undertaking      underwriter     
+unification     unknown           upland           uprising         upset           
+upshot          upward            urethane         urging           usage           
+user            utterance         vagabond         valuation        valve           
+variable        variation         vase             vector           vegetable       
+vehicle         velour            vendor           ventricle        verge           
+version         vertebrate        vessel           veterinarian     vice            
+vice-president  victorian         viewer           viewpoint        villager        
+vine            vineyard          violation        violet           violinist       
+virginian       virtue            vision           visitation       visitor         
+vista           vitamin           vocalist         void             volcano         
+voltage         volume            voter            vowel            wage-rate       
+wagon           waiter            walker           wallpaper        walnut          
+wanderer        wandering         warden           ware             warehouse       
+warrior         wary              watching         watercolorist    waterfall       
+watershed       waterway          wavelength       waver            wedding         
+week-end        weekend           wendell          westerner        westward        
+wherefore       whig              whispering       whole            whore           
+wicket          width             williams'        winder           window          
+winner          winning           withstand        wohaw            woodward        
+work-out        workout           workshop         wrapper          wrestling       
+wring           wrist             writing          x-ray            yachtel         
+yarn            yeast             yokel            your             zombie          
+
+'s-NULL               827
+1700             1800         1840           1850           1860         
+1870             1900         1961           abbas          acheson      
+adair            adenauer     admassy        administration aeschbacher  
+agamemnon        agriculture  ahmad          ailey          aircraft     
+alexander        alix         allen          allison        alusik       
+amadee           anderson     andrei         andy           angelo       
+anniston         another      anthony        anyone         apollo       
+arbuckle         aristotle    arlene         armory         army         
+arnold           artery       arthur         askington      atlanta      
+auctioneer       augustine    austin         authority      b'dikkat     
+baby             balaguer     bancroft       bang-jensen    banks        
+barber           barco        barnard        barton         basil        
+batista          baylor       beauty         beckett        beebe        
+beethoven        beige        benefactor     benson         beowulf      
+berger           berman       bernini        berra          berry        
+betty            blanchard    blatz          bobbie         body         
+bolingbroke      bondsman     boniface       bootle         borromini    
+bradley          brandon      brandt         brannon        brenner      
+bridegroom       bridget      britain        broadway       brocklin     
+broglio          brooklyn     brooks         bruckner       brumidi      
+brush-off        buell        bultmann       burch          burlington   
+burnham          burton       byrd           cabot          caldwell     
+calhoun          caltech      cambodia       canada         cane         
+capone           cappy        carla          carmer         carreon      
+carwood          casey        casino         catherine      cathy        
+celie            chabrier     chambre        chandler       channing     
+charley          charlie      charlotte      childhood      children     
+chiropractor     choir        chopin         christine      chrysler     
+cicero           cimabue      city           clarke         claude       
+clayton          clergyman    cobb           colcord        coleridge    
+colmer           colony       colorado       communism      community    
+company          conant       concetta       congo          congressman  
+connecticut      conrad       coroner        costaggini     cotten       
+cotter           cotton       coughlin       county         craftsman    
+craig            creston      crombie        crosson        cunard       
+cunningham       curzon       custer         czarina        daddy        
+dade             dalton       dandy          danny          dante        
+darling          dartmouth    dave           davidson       davy         
+deegan           dekalb       delphine       denny          deputy       
+detroit          devey        diane          dickey         dictionary   
+digby            diman        django         doaty          doolin       
+doolittle        dostoevsky   doyle          drexel         dronk        
+dufresne         dwyer        earthmen       edison         edythe       
+egotist          eichmann     eileen         eisenhower     ekstrohm     
+elaine           else         emerson        emile          emma         
+emmett           en-lai       enemy          enright        erikson      
+ernie            estella      eugene         everybody      everyone     
+everything       executioner  faber          faget          family       
+favre            feathertop   february       felice         felix        
+ferguson         fiedler      fink           finney         fisherman    
+flautist         fleisher     florida        florist        flotte       
+floyd            flynn        forbes         foreman        formby       
+fosdick          francesca    francie        francisco      franklin     
+frayne           freddy       freeman        frelinghuysen  frenchman    
+fritzie          fromm        fudo           fuhrmann       gallery      
+galtier          gannett      gannon         gardner        gargery      
+garibaldi        garth        gavin          gaylor         geely        
+georgetown       germany      gerosa         getz           giffen       
+gilborn          gladden      gladdy         glendora       glimco       
+globocnik        goat         goethe         gogol          gordon       
+gore             gorham       gorton         gosson         grabski      
+gracie           grafin       grandma        granite        granny       
+greece           gregory      greville       griffin        griffith     
+grigori          groth        guardino       gulf           guthrie      
+hale             hammarskjold hammett        hampton        hamrick      
+haney            hangman      hansen         harburg        hardy        
+harlem           harmony      harriet        harrington     harrison     
+harry            harvard      haumd          hausman        havisham     
+haydn            hearst       hector         heidegger      heidenstam   
+helion           helva        hemingway      hemisphere     henrietta    
+henry            herberet     herford        herman         herry        
+hetman           hetty        hillman        hilprecht      hino         
+hirey            hogan        hoijer         holden         hollywood    
+horace           houghton     housman        howard         howsam       
+hrothgar         huckster     hudson         hugo           hume         
+huxley           hyde         indiana        industry       ingleside    
+inspector        istiqlal     italy          izaak          jackie       
+jacoby           jannequin    january        jehovah        jenkins      
+jennie           jenny        jerry          jersey         jessica      
+jeweler          joel         johnnie        johnson        jonathan     
+journal-bulletin juanita      jubal          juet           kahn         
+kai-shek         karipo       kate           katharine      katherine    
+katie            kayabashi    keith          kemble         kennan       
+kennedy          keys         killpath       kipling        kirby        
+kirov            kitti        kitty          knife          knowlton     
+kornbluth        koussevitzky kowalski       kremlin        kruger       
+krutch           kunkel       lady           laguardia      larson       
+latter           lattimer     lauchli        lawman         lawrence     
+layman           laymen       leavitt        leesona        lenin        
+leningrad        lenygon      leonato        leopold        lester       
+letch            liberty      lillian        lilly          lincoln      
+linda            littlepage   lizzie         lloyd          lockheed     
+loesser          lolotte      longfellow     longshoremen   lonsdale     
+lovejoy          lowell       lublin         lucas          lucifer      
+lucille          lucy         luke           lumumba        lyford       
+macaulay         macdonald    macklin        madison        madonna      
+maestro          maggie       magwitch       mahler         mahzeer      
+maitland         majesty      mallory        malraux        mama         
+manchester       manhattan    mankind        manley         mantle       
+marcel           maris        marksman       marlin         marlowe      
+martha           masu         matsuo         maude          maxine       
+maxwell          mccarthy     mcclellan      mccloy         mccone       
+mcconnell        mckinley     mcpherson      means          medfield     
+meeker           meltzer      mendelssohn    meredith       mexico       
+meynell          meyner       miami          michelangelo   mickey       
+mid-1960         mijbil       milhaud        militarist     millay       
+miller           mills        milwaukee      minnesota      miranda      
+miriam           missouri     mitchell       moliere        molly        
+mommy            mongolia     monmouth       montero        montgomery   
+morgan           morgenthau   moriarty       morton         moscow       
+mossberg         mozart       mulligan       mundt          munich       
+municipality     murphy       murray         musmanno       mussorgsky   
+myra             nadine       nagrin         nassau         nasser       
+nate             navy         needham        nehru          newbiggin    
+newport          nicolas      nixon          nugent         o'banion     
+o'connor         o'donnell    oats           oersted        oldenburg    
+oliver           olson        ontario        ordinary       orlick       
+ortega           othon        oxen           oxford         pagnol       
+palfrey          palmer       pamela         pandora        pantheon     
+parker           parry        partlow        party          pasadena     
+patchen          patrick      patrolman      patronne       pauling      
+pawtucket        peabody      peale          pedersen       pendleton    
+penny            pentagon     perier         perrin         petitioner   
+pettigrew        philadelphia philip         phouma         picasso      
+piepsam          pietro       pike           pilate         pimen        
+poetry           poitrine     poland         policeman      policemen    
+pollock          pompeii      pont           pony           pops         
+portland         potemkin     powell         pratt          printer      
+prokofieff       providence   ptolemy        pumblechook    quasimodo    
+quebec           quiney       rachel         racine         rameau       
+ramey            rangoni      rayburn        reavey         receptionist 
+rector           remarque     rembrandt      rexroth        rheinholdt   
+richardson       rifleman     riflemen       ritter         riverside    
+robby            robinson     romeo          roofer         roulette     
+rourke           ruger        runyon         rusk           russell      
+ruth             salesman     salter         sanctuary      sangallo     
+santa            santayana    sarah          satan          saxton       
+schiele          schonberg    schoolmaster   schopenhauer   schubert     
+schuyler         scotty       seaton         secretary      seebohm      
+segovia          semester     senate         sentry         seward       
+shaefer          shafer       shayne         shearing       shelley      
+sherman          shirley      sibylla        sidney         sihanouk     
+simon            simpson      skipjack       skolman        skolovsky    
+slater           slocum       sniper         snyder         society      
+solomon          sorrentine   sparling       sportsmen      sprague      
+springfield      stallion     stanley        stengel        stevenson    
+stewart          storyteller  stram          stravinsky     strindberg   
+sturley          sukarno      sulky          sulzberger     susan        
+susie            suvorov      swadesh        sweden         symphony     
+tahse            tech         tennessee      thayer         thelma       
+theology         thet         thompson       thoreau        throneberry  
+thurber          thursday     tilghman       tillie         todman       
+tolley           tolstoy      tommy          tomorrow       tonight      
+toscanini        trafton      trapper        treasury       trevelyan    
+tribune          truman       tucker         tuesday        tuttle       
+twain            udall        undersecretary underwood      university   
+varlaam          vectrol      verdi          verloop        vermont      
+vernon           vidal        vienna         vivian         voltaire     
+wagner           wally        walsh          warsaw         washington   
+washizu          watson       watson-watt    webster        weinstein    
+welch            wesker       wheeler        wheelock       whipple      
+whirlwind        whitehead    whitman        whittier       wilder       
+willie           winslow      wisconsin      wisman         wolff        
+wolpe            women        woodbury       woodcock       woodruff     
+workman          wright       wycoff         xavier         yale         
+yesterday        zachrisson   
+
+NULL-ly               665
+abnormal       abrupt        absent-minded abundant         accidental     
+according      accurate      accusing      acoustical       actuarial      
+acute          adamant       additional    adequate         administrative 
+admiring       admitted      advantageous  adverse          advised        
+affecting      affectionate  affirmative   aggressive       agile          
+agricultural   aimless       alarming      alleged          amazing        
+ambitious      amorphous     amused        amusing          analogous      
+analytical     anhydrous     annual        anxious          appalling      
+apparent       appraising    appreciative  approving        arrogant       
+artful         assured       astonishing   astronomical     attentive      
+attractive     aural         auspicious    austere          authoritative  
+awful          awkward       axial         beautiful        behavioral     
+belated        belligerent   bewildered    biblical         biological     
+bland          bleak         blissful      blithe           brazen         
+breathless     brilliant     broken        careful          careless       
+categorical    causal        cautious      ceaseless        ceremonial     
+charming       cheerful      childish      chronological    classical      
+clever         clinical      cohesive      cold-blooded     collective     
+comparative    compassionate competent     competitive      comprehensive  
+conceded       conclusive    concrete      concurrent       consanguineous 
+conscious      considerate   consistent    conspicuous      constructive   
+contemptuous   contented     continental   continual        continuous     
+convenient     converse      convincing    convulsive       copious        
+corresponding  cortical      courageous    courteous        covert         
+creative       crucial       cultural      curious          cynical        
+dangerous      dead          decent        deceptive        decided        
+decisive       defiant       definite      deliberate       delicate       
+delicious      delightful    demanding     denominational   depressing     
+despairing     desperate     determined    devastating      devoted        
+devout         dialectical   diligent      dimensional      disconcerting  
+discreet       dismal        dispassionate disproportionate distal         
+distant        distasteful   distinctive   distracted       disturbing     
+docile         doctrinal     dogged        dominant         doubtful       
+doubting       dour          dramatical    dreadful         dreamless      
+drunken        dynamical     eager         earnest          economical     
+effective      efficacious   efficient     effortless       electrical     
+elegant        eloquent      embarrassing  eminent          empirical      
+enchanting     encouraging   endless       enduring         engaging       
+enormous       enterprising  envious       epicyclical      equidistant    
+erroneous      ethical       everlasting   exasperating     exceeding      
+excellent      exceptional   excessive     excited          exclusive      
+exhausting     exhaustive    expansive     expectant        expected       
+expeditious    experiential  explicit      exquisite        extensive      
+external       exuberant     facetious     faithful         fascinating    
+fearful        fearless      ferocious     fervent          feverish       
+financial      fitful        flagrant      flamboyant       flattering     
+fluent         focal         foolish       former           forthright     
+fortunate      frenzied      frightening   frightful        frowning       
+fruitful       fruitless     furtive       gasping          generous       
+gentleman      genuine       geographical  geometrical      ginger         
+girlish        glaring       gleeful       glib             global         
+glorious       glum          gorgeous      governmental     graceful       
+gracious       grammatical   graphical     grateful         gratifying     
+gratuitous     habitual      haggard       half-hearted     halting        
+haphazard      harmless      harmonious    heated           helpful        
+helpless       hesitant      hesitating    hideous          hilarious      
+historical     hoarse        homogeneous   hopeless         horizontal     
+horrifying     humane        humiliating   hurried          identical      
+illegal        imaginative   immediate     immense          impassive      
+impatient      imperious     impersonal    implicit         important      
+imprecise      improper      impudent      inadequate       inadvertent    
+incessant      incoherent    incomplete    inconspicuous    inconvenient   
+increasing     indecisive    indefinite    indignant        indolent       
+industrious    ineffective   inept         infinite         infinitesimal  
+infrequent     ingenious     inherent      insane           insidious      
+insolent       instantaneous instinctive   insufficient     intelligent    
+intense        intensive     intentional   interesting      intermittent   
+internal       intricate     intriguing    intuitive        inverse        
+inward         ironical      isothermal    jagged           jocular        
+joyful         joyous        jubilant      judicious        knowing        
+laborious      laughing      legitimate    leisure          lewd           
+linear         listless      logical       loving           magical        
+magnificent    malicious     marked        marvelous        masterful      
+mathematical   meaningful    mechanical    merciful         merciless      
+methodical     meticulous    metrical      microscopical    militant       
+minimal        miraculous    mistaken      mocking          morose         
+most           mountainous   mournful      moving           mysterious     
+naked          nearsighted   needless      negative         nervous        
+nominal        non-violent   noncommittal  nondescript      notorious      
+numbing        numerical     oblique       obvious          occasional     
+ominous        ontological   operational   optical          oral           
+organizational ornate        outstanding   outward          overwhelming   
+painful        painless      painstaking   paradoxical      partial        
+passionate     passive       peaceful      perennial        perilous       
+peripheral     permanent     perpendicular perpetual        persistent     
+persuasive     pervasive     perverse      philosophical    physical       
+physiological  pictorial     pious         pitiful          pitiless       
+pleasant       pleasing      poignant      pointed          polite         
+political      pompous       positive      powerful         prayerful      
+precarious     precise       precocious    predominant      preferential   
+premature      previous      private       professed        profuse        
+progressive    prominent     proportionate protective       provocative    
+prudential     psychical     psychological pungent          purported      
+purposeful     purposive     qualitative   quantitative     querulous      
+questioning    racial        rakish        random           raucous        
+reassuring     rebellious    recent        reckless         recurrent      
+refreshing     relentless    religious     reluctant        repeated       
+reported       reputed       residential   resigned         resolute       
+resourceful    respectful    respective    responsive       restive        
+restless       reverent      rhythmical    ridiculous       rightful       
+rigorous       rollicking    rude          rugged           ruthless       
+satirical      scarce        scathing      scornful         scrupulous     
+seasonal       sedate        seeking       seeming          selective      
+self-conscious senseless     serene        serious          shattering     
+shining        shocking      silent        simultaneous     single-handed  
+sinuous        skeptical     skilful       skillful         sleepless      
+sluggish       smiling       smoldering    snobbish         snug           
+sobbing        sociological  sodden        soothing         soulful        
+sparse         spectacular   spectral      speculative      spontaneous    
+staggering     startling     statistical   stolid           strenuous      
+striking       structural    stubborn      studious         stunning       
+subconscious   subjective    subsequent    substantial      substantive    
+successful     successive    succinct      sudden           sufficient     
+sullen         superb        supine        supposed         supreme        
+sure           surprising    surreptitious suspicious       symbolical     
+symmetrical    syntactical   tactical      tactual          tantalizing    
+taunting       technical     technological tedious          temperate      
+temporal       tempting      tenacious     tentative        tenuous        
+terse          theoretical   thermal       thorough         thoughtful     
+thoughtless    threatening   tired         tireless         tonal          
+transverse     tremendous    triumphant    trusting         truthful       
+twirling       ultimate      unambiguous   unanimous        unceasing      
+uncommon       unconcerned   unconditional unconscious      uncritical     
+unerring       unexpected    unfailing     unfair           unhurried      
+unilateral     uninterrupted unique        unknowing        unlike         
+unnatural      unobtrusive   unofficial    unpleasant       unqualified    
+unrestricted   unselfish     unsmiling     unsuccessful     unusual        
+unwilling      unwise        unwitting     urgent           useful         
+useless        usual         vain          valiant          various        
+vehement       verbal        vertical      victorious       vigorous       
+violent        virtual       vivid         vocational       vociferous     
+waspish        wicked        willful       wistful          woeful         
+wonderful      wondering     wondrous      worried          zealous        
+
+NULL-d-s              387
+abuse        accentuate  accommodate  accumulate  accuse      
+achieve      acknowledge acquire      adore       advance     
+advocate     aerate      aggravate    aide        alienate    
+anticipate   appreciate  apprentice   approve     arcade      
+argue        arouse      arrive       ascribe     aspire      
+associate    assume      attribute    authorize   average     
+balance      bandage     barbecue     behave      birdie      
+bottle       bristle     bruise       bubble      bundle      
+cable        cake        capture      cascade     catalogue   
+cause        cease       celebrate    censure     change      
+characterize charge      chase        chuckle     circle      
+cite         clothe      co-operate   co-ordinate code        
+collapse     combine     commemorate  commence    compare     
+compensate   comprise    compromise   conceive    concentrate 
+conclude     confine     confuse      conjecture  conjugate   
+conjure      conspire    constitute   contemplate continue    
+contribute   cooperate   coordinate   costume     crackle     
+cradle       crease      create       cube        culminate   
+cultivate    cure        curse        curve       cycle       
+damage       dare        date         debate      deceive     
+declare      decline     decrease     define      demonstrate 
+demoralize   denote      denounce     deplore     derive      
+describe     deserve     designate    desire      despise     
+deteriorate  diagnose    dictate      dilate      disagree    
+disapprove   disbelieve  discharge    discipline  disclose    
+disease      disguise    dislike      displace    dispute     
+distribute   dome        dominate     donate      dose        
+eclipse      edge        elapse       eliminate   embrace     
+emphasize    enable      encourage    endure      engage      
+enhance      ensue       entitle      epitomize   estimate    
+evade        evidence    evoke        evolve      exchange    
+exclude      excuse      exercise     exile       experience  
+expire       explode     expose       extrapolate fable       
+facade       facilitate  fame         fascinate   fatigue     
+feature      fence       fete         figure      finance     
+flame        flare       fracture     fuse        garage      
+generate     gesture     giggle       glance      glimpse     
+graduate     grease      groove       guarantee   hedge       
+hesitate     hike        hinge        hole        hurdle      
+ignore       illumine    illustrate   imagine     imitate     
+impose       improve     include      incorporate increase    
+indicate     induce      influence    initiate    inspire     
+insure       integrate   intervene    intrigue    introduce   
+investigate  involve     issue        knuckle     lance       
+landscape    lapse       lease        lodge       lounge      
+massacre     maximize    measure      migrate     mingle      
+minimize     molar       motivate     mustache    necessitate 
+nickname     note        notice       operate     oppose      
+originate    outline     package      parade      paralyze    
+participate  pause       perceive     permeate    phrase      
+pickle       picture     pile         place       please      
+pledge       plunge      poise        pore        postulate   
+practice     praise      prejudice    prepare     prescribe   
+preserve     presume     presuppose   price       privilege   
+prize        probe       promise      propose     provoke     
+prune        purge       purse        quote       radiate     
+rage         rape        rate         re-examine  realize     
+recognize    reconcile   recreate     refuse      reimburse   
+reinforce    reiterate   rejoice      relate      release     
+relieve      remove      replace      reproduce   require     
+resemble     reserve     resolve      retire      reverse     
+riddle       ripple      rotate       route       rumble      
+sacrifice    saddle      scale        schedule    scope       
+score        scrape      sculpture    sense       sentence    
+sequence     serve       shade        silence     silhouette  
+single       size        slice        sluice      smile       
+snake        socialize   sophisticate spare       sparkle     
+specialize   spice       spike        sponge      stake       
+stare        stereotype  stimulate    store       stripe      
+stroke       structure   struggle     stumble     style       
+subdue       subordinate substitute   summarize   superimpose 
+supervise    surface     surmise      surprise    survive     
+symbolize    synthesize  telephone    telescope   terminate   
+terrace      texture     thrive       tile        title       
+tongue       torture     translate    tremble     trouble     
+type         unite       utilize      value       venture     
+verse        violate     visualize    welcome     wire        
+wrinkle      zone        
+
+NULL-d                326
+accede       accelerate     activate      actuate      agitate        
+allocate     amaze          animate       apologize    appease        
+arbitrate    articulate     assemble      assimilate   attire         
+authenticate automate       beguile       blame        bounce         
+brocade      bronze         bulge         calculate    camouflage     
+caricature   categorize     centrifuge    chaperone    cheere         
+chide        choke          chrome        circulate    coerce         
+collaborate  colonnade      combe         communicate  complicate     
+congratulate congregate     consolidate   construe     contaminate    
+contrive     converge       convince      cooke        correlate      
+corroborate  counterbalance craze         cremate      cripple        
+criticize    crumble        crystallize   dame         dangle         
+de-iodinate  decorate       deduce        degrade      delude         
+deluge       demythologize  depose        deprive      desegregate    
+devastate    deviate        differentiate dilute       disable        
+disaffiliate discontinue    discorporate  discourage   dislodge       
+disperse     dispose        dissolve      domicile     dope           
+doubte       downgrade      duplicate     dwindle      dynamite       
+educate      effecte        emancipate    emulate      encircle       
+endorse      enlarge        enrage        enslave      enunciate      
+equate       evacuate       evaluate      evaporate    exaggerate     
+exasperate   excise         execute       exonerate    fabricate      
+feare        filigree       flute         formalize    formulate      
+fraternize   fringe         frustrate     fumble       gauge          
+generalize   glare          glue          gouge        grapple        
+grille       grimace        grope         grumble      guzzle         
+hobble       huddle         humble        hypothesize  idolize        
+ignite       illuminate     imbibe        implore      impute         
+incense      incite         incline       inexperience inflame        
+inflate      infuriate      insulate      interne      intimidate     
+inure        invalidate     invoke        iodinate     isolate        
+jade         jimmie         jumble        lacerate     laminate       
+legislate    liberate       localize      locate       louse          
+lumpe        lunge          lure          mandate      manipulate     
+materialize  matriculate    mature        mealynose    meditate       
+memorize     menace         metamorphose  middle-age   mince          
+mobilize     modernize      mumble        nationalize  negotiate      
+neutralize   nominate       normalize     nudge        oblige         
+obliterate   obtaine        officiate     ooze         over-emphasize 
+oversize     paine          pantomime     patronize    pedigree       
+penetrate    perpetuate     pierce        pillage      plague         
+plume        polarize       populate      postpone     precipitate    
+preclude     preface        presage       prevaile     pronounce      
+propagate    proscribe      prosecute     protrude     pulse          
+quadruple    raine          rake          rationalize  re-use         
+rearrange    reassemble     reassure      rebuke       recapture      
+recede       recite         refine        refute       regulate       
+rehearse     reine          remonstrate   reorganize   repose         
+repudiate    rescue         resume        retaliate    retrace        
+reunite      revise         revive        ridicule     right-angle    
+rouse        rupture        sacre         salute       scare          
+scramble     scrimmage      secede        seclude      segregate      
+seize        self-serve     serenade      shuffle      sidle          
+simulate     sizzle         snare         solace       soothe         
+spangle      speculate      splice        sprinkle     spruce         
+squeeze      staffe         stampede      starre       startle        
+starve       stave          sterilize     stifle       sublime        
+subside      subsidize      suffuse       swerve       swipe          
+sympathize   tabulate       tangle        tease        throttle       
+tolerate     topple         trample       transcribe   traverse       
+unbalance    underestimate  underline     undermine    underrate      
+underscore   undersize      uninitiate    untie        unwire         
+update       upgrade        vacate        validate     victimize      
+vindicate    wade           waive         wedge        weede          
+whine        whistle        wiggle        wipe         wobble         
+writhe       
+
+ed-ing                212
+accost       adjudg      admitt     admonish     air-condition 
+allott       appall      arraign    astonish     bawl          
+bedd         bewitch     blacken    blar         blott         
+burgeon      cancell     captivat   careen       centraliz     
+chirp        chortl      christen   circumscrib  civiliz       
+clamber      clapp       clasp      clogg        commandeer    
+compell      conferr     confiscat  confound     cring         
+croon        cropp       darken     dart         daydream      
+debilitat    decant      deferr     deploy       disappoint    
+disillusion  dismount    disobey    dissipat     dott          
+dripp        dropp       drugg      embarrass    emitt         
+endear       engross     enthrall   equipp       estrang       
+exhal        exhilarat   expell     expound      extirpat      
+feign        flaunt      flout      foreclos     foreshorten   
+frett        frizzl      gesticulat glower       grinn         
+gripp        grokk       harangu    hemm         holler        
+humm         hurtl       impal      impell       incurr        
+individualiz interlac    interpos   intoxicat    inundat       
+ioniz        itemiz      jabb       jingl        jott          
+knitt        lamm        languish   launder      leaven        
+leer         mapp        marbleiz   marinat      meander       
+misplac      mopp        nagg       napp         nestl         
+nodd         occurr      omitt      outdistanc   overcrowd     
+overlapp     overturn    patroll    peek         permitt       
+perspir      philosophiz pinn       pistol-whipp plodd         
+plott        plugg       practis    preceed      preferr       
+prodd        propp       publiciz   pucker       pulveriz      
+punctur      purl        ragg       rapp         re-enact      
+refurbish    regroup     remand     remodel      revamp        
+ripen        roleplay    rummag     sagg         scandaliz     
+scoff        scoot       scowl      scrubb       scrutiniz     
+scuttl       shambl      shunn      shuttl       sicken        
+sift         skimm       slacken    slamm        slapp         
+smother      snarl       sneez      snubb        soar          
+sobb         spann       spurr      squatt       stalk         
+stammer      standardiz  stomp      straddl      strapp        
+stropp       strutt      stunn      submerg      submitt       
+subvert      swagger     swindl     systematiz   tagg          
+terroriz     thermoform  thresh     throbb       tinkl         
+transpir     tugg        twitter    two-tim      unchang       
+undress      undulat     unheed     uninterest   unlac         
+unsettl      waggl       waken      wean         wedd          
+whizz        winc        
+
+NULL-ed-ing-s         208
+abound     accept   adjust    administer affirm    
+afford     allow    amount    annoy      answer    
+appeal     arrest   assault   assign     attain    
+attempt    avoid    await     awaken     award     
+beckon     belong   bevel     blast      blend     
+bloom      boast    bolt      border     bother    
+broaden    burrow   carpet    claw       click     
+climb      clock    cluck     cluster    coil      
+comfort    commend  compound  conceal    concern   
+condemn    confirm  confront  contact    contrast  
+convert    crawl    creak     crown      decay     
+deck       dial     disappear discount   display   
+drill      drown    duck      endeavor   enjoy     
+eschew     escort   exceed    exclaim    expand    
+explain    extend   fashion   fasten     filter    
+finger     flavor   flounder  frown      fulfill   
+gather     glow     groom     happen     harrow    
+haunt      hoot     hover     howl       implement 
+insult     interest kneel     knock      layer     
+lean       lessen   limit     litter     lower     
+lurk       maintain maneuver  market     mask      
+mention    meter    model     mold       monitor   
+mortar     nail     neglect   number     obey      
+offer      overlook peel      peer       pertain   
+plow       pour     proceed   proclaim   prolong   
+pump       purport  quarrel   rasp       reappear  
+reason     recall   reckon    recommend  recount   
+reel       regain   regard    register   reign     
+remark     remember render    represent  resign    
+resort     retreat  return    reveal     revolt    
+reward     roar     root      scatter    scream    
+screen     seal     seem      shatter    sheet     
+shield     shoulder shout     shower     sight     
+signal     skirt    slant     smell      sneer     
+spell      spray    squeal    stack      stain     
+stamp      stay     steer     straighten strand    
+strengthen succeed  suspect   sustain    swallow   
+swarm      swell    swoop     taunt      thread    
+threaten   track    transport understand unfold    
+unload     unlock   veer      veil       vein      
+volunteer  wail     weaken    whisper    winter    
+wound      yelp     yield     
+
+'s-NULL-s             196
+1890         1920        1930        1940           1950         
+1960         actor       adolescent  afternoon      agent        
+airline      alliance    ambassador  amendment      anaconda     
+analyst      animal      announcer   area           association  
+attacker     attorney    baseball    bastard        bedroom      
+benet        blackwell   blonde      braque         bride        
+browning     buckskin    building    burman         canadian     
+caravan      carolina    catcher     cezanne        chapter      
+collector    college     colonel     comedie        commissioner 
+communicator concerto    conductor   conference     constable    
+consumer     controller  corporation cowboy         crane        
+crosby       cylinder    daniel      daughter       daylight     
+defendant    demon       designer    detective      distributor  
+dreiser      drummer     drunkard    duke           eagle        
+economist    eddie       educator    emperor        employee     
+evening      executive   female      fielder        football     
+foundation   france      frankfurter fraud          freedom      
+friday       furnace     game        gasket         generation   
+george       goulding    gourmet     governor       harper       
+historian    hitler      hood        hotel          hunter       
+injun        instructor  justice     kaiser         khrushchev   
+krim         landlord    larkin      leader         legation     
+legislature  liar        librarian   lieutenant     listener     
+lyricist     magazine    magician    management     mansion      
+mare         medium      mercer      missile        monday       
+morning      murderer    musician    mussolini      nature       
+nightclub    nothing     novelist    observer       opponent     
+orthodontist painter     palace      payne          physician    
+plaintiff    podger      pope        porter         postmaster   
+poussin      pride       professor   prosecution    pullman      
+puppet       raphael     reader      realtor        reputation   
+rider        river       rooster     ruling         sandburg     
+saturday     science     sculptor    sewer          shepherd     
+sheriff      sitter      skiff       sleeper        slope        
+snail        sophia      southerner  speaker        squire       
+styrene      summer      sunday      superintendent target       
+taylor       telegrapher textile     their          therapist    
+tiger        transferor  tribe       trujillo       union        
+valley       walter      wednesday   wolfe          yorker       
+youngster    
+
+'-NULL                191
+achaeans      adventists  allstates    angeles       arabs       
+architects    arkansas    artists      assessors     athletes    
+barcus        bates       beadles      beginners     birds       
+bishops       blevins     bombers      boris         bosis       
+boys          brothers    bucs         builders      burkes      
+burnsides     buyers      candidates   capitalists   carpenters  
+catholics     cervantes   chavez       clemens       clients     
+collins       colonists   composers    contractors   coolidges   
+copernicus    cousins     cowbirds     critics       customers   
+cutters       dancers     davis        days          dealers     
+delegates     democrats   dickens      doctors       dollars     
+doris         dresbachs   drivers      dryfoos       employers   
+engineers     farmers     flannagans   gaines        gershwins   
+giants        girls       goodness     grandmothers  growers     
+grownups      guests      guideposts   handlers      hendricks   
+hens          hesperus    hobbes       hodges        holmes      
+horns         horses      hours        hughes        idols       
+illinois      indians     irenaeus     islands       jaggers     
+janitors      jews        juniors      karns         krogers     
+ladies        lalauries   landis       lawyers       leeds       
+lions         lovers      machinists   manufacturers marquis     
+massachusetts materials   mathias      months        mothers     
+motorists     motors      nations      negroes       neighbors   
+networks      newspapers  nischwitz    nurses        officers    
+orioles       orleans     others       parents       pastors     
+peoples       pilots      pirates      planters      players     
+portwatchers  pounds      prisoners    producers     queens      
+raiders       redbirds    registrants  republicans   respondents 
+robards       rodgers     rogues       rulers        russians    
+sachems       secretaries sellers      ships         shores      
+simmons       singers     sisters      sixties       skyros      
+smugglers     soldiers    soloists     souls         soviets     
+stanislas     stations    stavropoulos strangers     students    
+subjects      supervisors survivors    swimmers      szolds      
+taxpayers     teachers    teammates    teen-agers    texas       
+times         tourists    traders      trees         twins       
+veterans      wales       weeks        wieners       willis      
+workers       writers     xydis        yankees       yanks       
+years         
+
+ies-y                 184
+abilit      absurdit    accessor       activit       actualit     
+adversar    affinit     agenc          alleghen      ambiguit     
+anniversar  antibod     antiquit       anxiet        auxiliar     
+availabilit balcon      beneficiar     bibliograph   biops        
+blueberr    boundar     brutalit       bureaucrac    butterfl     
+canner      capabilit   casualt        cavit         celebrit     
+centur      chancer     charit         chemistr      cherr        
+commentar   commodit    complexit      conspirac     constituenc  
+contemporar contingenc  continuit      corollar      coronar      
+crudit      currenc     decenc         deficienc     deformit     
+deit        delicac     democrac       densit        depravit     
+disabilit   discrepanc  disparit       ditt          diversit     
+divinit     documentar  dormitor       dumm          eccentricit  
+efficienc   embass      emissar        energ         enmit        
+eventualit  extremit    facilit        facult        fatalit      
+flims       forger      formalit       fraternit     frequenc     
+gaiet       galax       generalit      gyps          haberdasher  
+hierarch    hostilit    humanit        hypocris      identit      
+immediac    immensit    immoralit      impurit       inaccurac    
+inadequac   incongruit  inconsistenc   inevitabilit  intensit     
+irregularit jell        judiciar       laborator     legac        
+letharg     liabilit    localit        loyalt        luxur        
+majorit     malad       malignanc      maturit       mediocrit    
+mentalit    mercenar    mineralog      ministr       minorit      
+miscellan   miser       missionar      monaster      moralit      
+mutin       myster      mytholog       necessit      novelt       
+obscenit    obscurit    occupanc       opportunit    peculiarit   
+penalt      peon        personalit     phill         polarit      
+possibilit  potentialit preliminar     priorit       probabilit   
+propert     prophec     qualit         quantit       reactionar   
+realit      repositor   reproducibilit responsibilit revolutionar 
+rivalr      royalt      safet          scener        securit      
+sensibilit  sensitivit  shant          similarit     sonorit      
+sororit     specialt    stabilit       stupidit      subsidiar    
+subtlet     tapestr     tendenc        traged        troph        
+twent       uncertaint  urgenc         utilit        vacanc       
+vanit       variet      vocabular      weekl         
+
+d-s                   176
+accompanie   accomplishe accrue     affiliate  agonize      
+allie        allude      ambushe    analyse    anybody'     
+applie       approache   attache    banishe    befuddle     
+benche       blue-eye    blushe     bodie      bosse        
+branche      brushe      burie      buttresse  buzze        
+by-passe     caresse     castigate  certifie   choruse      
+ciliate      clarifie    clashe     classe     clenche      
+climaxe      clutche     coate      compresse  confesse     
+console      copie       couche     crie       crosse       
+dashe        decrie      dedicate   denie      depresse     
+diminishe    discusse    dishe      dismisse   dispatche    
+distinguishe distresse   echoe      elevate    elude        
+embodie      enclose     encompasse energize   envisage     
+espouse      establishe  exacerbate exemplifie expresse     
+ferrie       flashe      flourishe  focuse     foile        
+freckle      frescoe     fume       furnishe   glorifie     
+guesse       hammon      hopple     how'       hunche       
+identifie    impersonate implie     inche      insinuate    
+irritate     kisse       lashe      latche     levie        
+lobbie       magnifie    marche     marrie     masse        
+matche       messe       misse      multiplie  nobody'      
+notche       nourishe    obsesse    occupie    overestimate 
+overreache   parodie     passe      perishe    personifie   
+pervade      pimple      polishe    possesse   preoccupie   
+processe     progresse   prophesie  punishe    pupate       
+qualifie     querie      rallie     re-create  reache       
+reconvene    relaxe      replie     reshape    ruffle       
+rushe        salarie     satisfie   scratche   screeche     
+searche      shackle     shelve     shie       signifie     
+simplifie    sketche     slashe     snatche    specifie     
+speckle      splashe     splotche   steppe     stitche      
+storie       stresse     studie     switche    taxe         
+terrifie     testifie    tosse      touche     trespasse    
+trie         understate  unifie     vanishe    ventilate    
+vexe         vitiate     wheeze     wishe      witnesse     
+wrenche      
+
+e-ed-es-ing           157
+accus     achiev     acknowledg  acquir   advanc    
+advocat   argu       assum       assur    attribut  
+authoriz  averag     balanc      bandag   behav     
+bottl     bristl     bruis       captur   cascad    
+ceas      chang      characteriz circl    coincid   
+collaps   commemorat commenc     compar   compris   
+compromis conced     conceiv     conclud  confin    
+crackl    curv       damag       debat    deceiv    
+decid     declar     declin      decreas  demoraliz 
+denot     denounc    deriv       describ  deserv    
+despis    disbeliev  discharg    dislik   displac   
+eclips    embrac     emphasiz    enabl    encourag  
+endur     engag      enhanc      ensu     evad      
+evidenc   evok       evolv       exchang  exclud    
+exercis   exil       experienc   explod   featur    
+fenc      flam       flar        gestur   giggl     
+glanc     impos      improv      includ   increas   
+influenc  inspir     insur       interfer interven  
+intrigu   introduc   involv      issu     landscap  
+lodg      loung      maximiz     measur   mingl     
+minimiz   necessitat notic       outlin   packag    
+parad     perceiv    phras       pictur   plac      
+plung     prais      prepar      preserv  presum    
+promis    provid     purg        realiz   recogniz  
+reconcil  reinforc   reiterat    rejoic   releas    
+reliev    replac     reproduc    requir   resembl   
+reserv    resolv     retir       riddl    rippl     
+rumbl     schedul    sentenc     silenc   sluic     
+sparkl    specializ  strok       struggl  stumbl    
+subdu     summariz   superimpos  suppos   surpris   
+symboliz  telephon   thriv       trembl   troubl    
+utiliz    welcom     
+
+NULL-ed               156
+abolish      acquaint   affix      alligator  anger       
+anguish      apparel    apportion  apprehend  array       
+ascertain    assent     bait       barefoot   blight      
+bloat        boycott    broach     buffer     bunker      
+bypass       canter     cash       cement     charcoal    
+clang        comport    consign    crunch     curtail     
+daunt        default    detach     detain     detest      
+devour       discard    discontent discredit  dishonor    
+disinterest  disown     dispell    distrust   embark      
+encamp       engender   entreat    esteem     expend      
+extinguish   ferret     figger     fleck      flex        
+flicker      flirt      forfeit    furlough   garland     
+glean        goad       goddamn    greatcoat  hammer      
+heed         herald     high-power hoist      holster     
+honour       hush       impair     implant    imprint     
+infest       invert     lacquer    lather     left-hand   
+loaf         malign     maroon     mellow     mistrust    
+multicolor   nasal      obstruct   one-arm    open-end    
+ordain       outclass   outnumber  outweigh   overburden  
+overload     overshadow padlock    pamper     perch       
+plump        pout       readjust   rebuff     reclaim     
+recoil       reconsider redress    refill     refrain     
+reinterpret  renown     repeal     replenish  requisition 
+rescind      retort     revert     right-hand scent       
+shipwreck    simmer     slumber    slump      smear       
+smirk        snort      spatter    spear      sputter     
+straight-arm sugar      sulphur    surfeit    surmount    
+surpass      swath      synthesis  tailor     taint       
+thrash       trigger    two-color  unbound    unconcern   
+uncover      unearth    unscrew    upturn     usher       
+usurp        veto       whack      wilt       worst       
+wretch       
+
+NULL-ed-ing           151
+abandon    affront     align     amend     applaud    
+ascend     assay       astound   attest    augment    
+avail      avert       banter    belch     besmirch   
+bless      bolster     boom      bragg     cater      
+cavort     chatter     cheat     cherish   chew       
+cleans     comprehend  consent   consort   counteract 
+covet      criss-cross dampen    deem      deepen     
+disarm     discern     disgust   dismay    disregard  
+divert     drawl       droop     empower   enact      
+enchant    encroach    endanger  enlighten enrich     
+entrust    entry-limit exalt     fawn      ferment    
+flail      flank       flatten   flush     flutter    
+forward    frighten    further   gallop    gleam      
+glint      glisten     glitter   gnaw      gossip     
+grasp      greet       groan     growl     grunt      
+harass     harness     hasten    heighten  hitch      
+inhabit    install     lengthen  lick      loath      
+loot       lumber      lurch     mash      melt       
+mend       moisten     munch     murmur    muster     
+overflow   overheat    overwhelm pinch     pluck      
+quaver     quicken     ransack   reap      reek       
+relay      relinquish  reopen    retard    roam       
+romp       scald       scoop     sharpen   shorten    
+shriek     slaughter   smash     soak      solder     
+spout      sprawl      sprout    squint    squirt     
+stagger    stoop       stroll    succumb   supplant   
+surrender  surround    sway      swirl     taper      
+thaw       thump       thwart    tighten   toast      
+transplant twitch      unleash   wallop    wallow     
+warp       whirl       wink      wither    wrack      
+yearn      
+
+NULL-ing              114
+abstain     accompany amass    amplify      apply        
+backstitch  beautify  better   bleed        breach       
+brows       bully     carry    ceil         certify      
+clarify     classify  comply   copy         counterpoint 
+crimson     decry     defy     despair      disconcert   
+dishearten  disquiet  dowel    embody       empty        
+falsify     fancy     fatten   fetch        fullback     
+glimmer     glory     gould    gratify      grovel       
+heartbreak  hurry     identify imply        intensify    
+jest        jockey    jolly    jolt         justify      
+keyboard    lilt      marry    modify       molest       
+mould       mulch     multiply notify       occupy       
+onrush      overeat   overhaul overly       pester       
+prey        purify    putter   qualify      quell        
+quench      query     rally    re-establish ready        
+reassert    redirect  refuel   rely         remarry      
+reply       retch     retell   satisfy      scaffold     
+self-defeat self-pity sheath   shimmer      skylark      
+snoop       specify   study    suds         supply       
+sweep       tamper    teeth    tidy         tread        
+typify      unify     unpack   unreason     vary         
+waterproof  weary     weep     whimper      whoop        
+withhold    woodwork  yawn     yodel        
+
+d-r                   99
+amble      betraye   blackmaile blunte   boarde        
+booste     borrowe   broile     buste    charme        
+checke     chippe    choppe     cleare   clippe        
+corde      corrupte  crowde     demande  demurre       
+dippe      disclaime discovere  disturbe double-crosse 
+dragge     dreame    engrave    enquire  extrude       
+floate     forme     graye      grounde  gushe         
+halte      hardene   harveste   heale    hoppe         
+interprete jumpe     kidnape    logge    maile         
+miste      muffle    narrowe    neste    opene         
+ouste      plastere  pleade     plumbe   pretende      
+propelle   prosse    putte      quiete   recorde       
+recruite   redheade  refreshe   rolle    scorche       
+seduce     shocke    shredde    smarte   snappe        
+snuffe     softene   sounde     spille   starte        
+steadie    steame    stoke      stoppe   streame       
+streamline talke     tanne      tempte   throwe        
+transmitte trimme    trotte     twirle   twiste        
+uppe       warme     warne      widene   widowe        
+wielde     wrangle   yelle      zippe    
+
+NULL-ed-s             98
+acclaim   adorn        arrow   benefit     blanket  
+blister   blossom      blunder breakfast   breast   
+buffet    burden       caution chamber     channel  
+charter   chisel       clobber closet      coin     
+collar    contest      crater  crook       curtain  
+delay     detail       dock    doom        dwarf    
+elicit    encounter    endow   enlist      envision 
+essay     falter       fist    fork        fuel     
+funnel    furrow       gift    gown        gulp     
+gutter    hail         hamper  heap        impact   
+introject jacket       jail    loan        loop     
+matter    merit        mirror  moan        mound    
+ornament  pair         parcel  pardon      partner  
+pattern   peck         pencil  pigment     pillar   
+position  precondition profit  proposition rafter   
+reaffirm  refund       roast   rumor       saint    
+sanction  screw        shelter shovel      shunt    
+shutter   smack        soil    stray       streak   
+summon    talent       timber  tint        tunnel   
+vest      wreath       zero    
+
+ng-on                 96
+accordi     accumulati   activati    adopti       agglutinati   
+agitati     alleviati    basti       circulati    co-ordinati   
+conducti    conjugati    consolidati contaminati  contracti     
+coordinati  culminati    cultivati   de-iodinati  delineati     
+depicti     deteriorati  detonati    devastati    differentiati 
+diffusi     dilati       diluti      discriminati dispersi      
+disseminati dominati     emigrati    enervati     erecti        
+erupti      estimati     exasperati  expiati      exterminati   
+extracti    fabricati    fascinati   fusi         graduati      
+hesitati    humiliati    inaugurati  incepti      incorporati   
+incubati    indoctrinati infiltrati  inflicti     infuriati     
+injecti     instigati    insulati    invigorati   iodinati      
+irrigati    isolati      liberati    migrati      mitigati      
+moderati    navigati     nominati    originati    oscillati     
+participati penetrati    perfecti    perpetuati   pre-empti     
+predominati processi     promoti     recreati     redecorati    
+regenerati  repudiati    resurrecti  retaliati    segregati     
+stalli      subtracti    suffocati   supervisi    terminati     
+tolerati    transpirati  vaccinati   validati     ventilati     
+vibrati     
+
+e-y                   95
+admirabl     agreeabl      amicabl      appreciabl  audibl       
+believabl    capabl        charitabl    clemenc     comfortabl   
+competenc    conceivabl    considerabl  consistenc  constanc     
+credibl      demonstrabl   dependenc    deplorabl   disassembl   
+enviabl      equitabl      favorabl     feebl       formidabl    
+hesitanc     honorabl      horribl      immeasurabl impeccabl    
+imperceptibl impossibl     impotenc     improbabl   incipienc    
+incomparabl  incredibl     incurabl     indefinit   indelibl     
+inescapabl   inevitabl     inexorabl    inexplicabl inexpressibl 
+insuperabl   invariabl     invisibl     irredeemabl irreparabl   
+irresistibl  irreversibl   irrevocabl   irritabl    justifiabl   
+measurabl    miserabl      noticeabl    ostensibl   palpabl      
+possibl      predictabl    preferabl    probabl     profitabl    
+quinc        reasonabl     regrettabl   relevanc    reliabl      
+remarkabl    reproducibl   responsibl   sensibl     suitabl      
+sunshin      tangibl       terribl      translucenc unaccountabl 
+unappeasabl  unavoidabl    unbearabl    unbelievabl uncomfortabl 
+undeniabl    understandabl unimpeachabl unmanageabl unmistakabl  
+unpredictabl unquestionabl unreasonabl  unsuitabl   visibl       
+
+e-ed-ing              92
+amus       appeas     beguil        blam       bulg         
+categoriz  chid       chok          constru    contriv      
+convinc    corroborat counterbalanc crippl     criticiz     
+crystalliz dangl      degrad        delud      demythologiz 
+depriv     disabl     discourag     dissolv    dwindl       
+endors     enslav     excit         fumbl      glar         
+goug       grappl     grop          grumbl     huddl        
+hypothesiz implor     incit         invok      laminat      
+memoriz    menac      minc          mobiliz    moderniz     
+mumbl      nationaliz nudg          officiat   patroniz     
+pierc      polariz    postpon       precipitat pronounc     
+protrud    puls       quadrupl      rearrang   reassur      
+reced      refin      reorganiz     rescu      resum        
+reunit     rous       scrambl       seced      shuffl       
+sizzl      sooth      splic         sprinkl    squeez       
+startl     starv      steriliz      stifl      swerv        
+swip       sympathiz  throttl       toppl      trampl       
+travers    undermin   upgrad        whin       whistl       
+wiggl      writh      
+
+'-g                   72
+appearin     askin    becomin  bustlin buyin    
+callin       chargin  checkin  colorin confusin 
+considerin   countin  crouchin darin   darlin   
+denyin       dryin    durin    dustin  examinin 
+exterminatin fightin  followin gettin  ginnin   
+givin        grabbin  grazin   hangin  herdin   
+killin       lettin   listenin locatin lyin     
+marchin      peggin   playin   pleasin prayin   
+prevailin    producin pushin   puttin  rammin   
+redeemin     referrin rockin   rubbin  runnin   
+rustlin      seein    seekin   seizin  sellin   
+shippin      smilin   speakin  sportin standin  
+startin      stealin  strainin swingin talkin   
+throwin      travelin trippin  walkin  worryin  
+wrappin      yellin   
+
+ng-on-ons             71
+accelerati accommodati affecti      anticipati  appropriati 
+associati  auditi      calculati    calibrati   celebrati   
+compensati completi    complicati   concentrati confessi    
+confusi    constituti  constricti   contenti    contributi  
+conversi   convicti    correlati    delegati    depressi    
+designati  deviati     devoti       discussi    distracti   
+donati     editi       educati      eliminati   emanati     
+equati     exaggerati  excepti      exerti      exhibiti    
+formulati  frustrati   generati     illuminati  inflecti    
+inhibiti   insinuati   inspecti     instituti   interacti   
+intersecti irritati    liquidati    locati      manipulati  
+motivati   negotiati   professi     prosecuti   pulsati     
+radiati    reacti      rehabilitati rejecti     revisi      
+rotati     separati    stimulati    substituti  translati   
+violati    
+
+d-r-rs                68
+adapte     amplifie    banke       banne    boile        
+booke      bumpe       calle       campe    choreographe 
+cleane     commande    conditione  containe crushe       
+dange      defende     destroye    develope dissente     
+distille   entertaine  experimente felle    fertilize    
+flappe     floo        folde       founde   gardene      
+hawke      helpe       intensifie  joine    kidnappe     
+kille      labore      loade       mixe     offende      
+performe   photographe planne      platte   poste        
+praye      questione   reforme     reminde  reviewe      
+rigge      shippe      sinne       skippe   slugge       
+sneake     suffere     supporte    sweate   traile       
+transforme travele     travelle    viewe    walke        
+wandere    winde       wrappe      
+
+NULL-es               64
+actress  andrus   appendix  bias          bich       
+birch    blemish  blitz     buffalo       burgess    
+buss     campus   carcass   census        cinch      
+coolness crutch   dervish   flatness      flux       
+fortress gash     genius    hoss          hostess    
+illness  kindness kolkhoz   leash         lens       
+loss     lush     mailbox   mosquito      parish     
+parole   peach    pettiness poach         porch      
+potato   pouch    reproach  sakellariadis sandwich   
+sinus    slouch   speech    status        stewardess 
+suffix   surplus  thickness tomato        torch      
+tornado  torpedo  troy      two-inch      varnish    
+waitress weakness whiplash  witch         
+
+NULL-al-s             61
+accident       acoustic     addition      baptism      behavior     
+civilization   clinic       communication composition  computation  
+conformation   congregation consonant     constitution construction 
+continent      convention   conversation  creed        decision     
+development    devotion     dialectic     direction    dramatic     
+dynamic        economic     education     emotion      environment  
+exception      feud         fraction      friction     inspiration  
+instruction    invitation   jurisdiction  logistic     maniac       
+margin         monument     obligation    observation  operation    
+option         polemic      presentation  pyramid      relation     
+representation segment      sensation     sentiment    tactic       
+thyroid        topic        tradition     transition   tropic       
+verb           
+
+ed-ion                57
+abbreviat  ablat       acculturat  afflict    amalgamat       
+assassinat capitulat   collat      confabulat contort         
+deactivat  degenerat   dehydrat    demarcat   desecrat        
+disaffect  dislocat    dispossess  dissociat  elat            
+elongat    elucidat    elut        emasculat  enumerat        
+flagellat  flocculat   fractionat  immers     implicat        
+inculcat   induct      ingest      interpolat interrelat      
+irradiat   lubricat    miscalculat modulat    mutilat         
+obligat    overpopulat pollut      proliferat punctuat        
+re-elect   recalculat  reelect     renovat    retract         
+reverberat saturat     situat      televis    trans-illuminat 
+transgress venerat     
+
+NULL-e                54
+abroad   agnes    away      barrett   blum        
+born     brawl    broom     chines    choral      
+clair    communes confidant contender curia       
+dauphin  deutsch  drew      effecting emanuel     
+fisk     forbad   forsyth   glycerin  good-by     
+goodby   hardwick headlines heroin    himself     
+inhuman  lauri    lorrain   many      noir        
+noll     nott     ozon      paid      presently   
+princess ratcliff rees      sansom    secretariat 
+sheep    shuld    silicon   spit      theodor     
+thorp    took     wold      wynn      
+
+NULL-y                54
+abbe      baker     blake           brass   braver    
+butter    carne     conciliator     connall connell   
+copper    crank     creamer         dever   dirt      
+dishonest donna     donnell         dusk    filth     
+flesh     fluff     gravel          grubb   guilt     
+immodest  joss      loft            lura    orthodox  
+pals      paunch    photomicrograph pith    prodigall 
+quyne     regulator rubber          scant   scrutin   
+sill      spider    stale           swank   syrup     
+tartar    teens     thrift          tips    turner    
+tweed     velvet    wealth          worth   
+
+NULL-al               48
+allegoric      alphabetic  anarchic    arithmetic  asteroid    
+autobiographic autumn      biologic    bronchi     cosmic      
+cross-section  deformation detriment   digit       extern      
+fiction        geographic  geometric   graphic     gravitation 
+hexagon        information ironic      logic       matriarch   
+maturation     microscopic morphologic neuron      nutrition   
+occident       pathologic  philosophic physiologic preposition 
+problematic    procession  promotion   psychic     recreation  
+rhythmic       satiric     symbolic    symmetric   syntactic   
+transcendent   uneconomic  vocation    
+
+NULL-ing-s            47
+audition    balloon bargain  bend     bleat      
+bluff       bring   burst    caper    carload    
+cling       contour curb     cushion  dawn       
+debut       disk    duel     elbow    feast      
+fingerprint floor   founder  grain    highlight  
+hulk        lend    madrigal mushroom neck       
+paragraph   parrot  picker   pinpoint plank      
+quirk       rebuild slack    sling    somersault 
+spring      swear   tool     towel    tutor      
+vault       weather 
+
+'s-NULL-s-s'          46
+assessor   athlete    beginner  bomber      builder      
+burnside   buyer      carpenter client      composer     
+contractor coolidge   cousin    customer    dealer       
+dresbach   driver     farmer    grandmother janitor      
+junior     kroger     lalaurie  lawyer      manufacturer 
+network    other      owner     player      queen        
+registrant respondent seller    singer      sister       
+soviet     stranger   student   taxpayer    teacher      
+teammate   tourist    trustee   veteran     worker       
+writer     
+
+an-en                 46
+adri    alderm  boatm      businessm chairm   
+clergym coachm  committeem congressm countrym 
+craftsm doorm   englishm   firem     fisherm  
+frenchm freshm  gentlem    gunm      handym   
+henchm  horsem  infantrym  irishm    lawm     
+laym    letterm madm       midshipm  minutem  
+morg    newsm   newspaperm patrolm   policem  
+possem  postm   riflem     salesm    showm    
+spokesm sportsm statesm    townsm    workm    
+yachtsm 
+
+d-rs                  46
+backe         bleache  blinke     bugge    canvasse 
+classifie     corke    cracke     despoile downe    
+exploite      exporte  fixe       flippe   gaite    
+hange         hijacke  honeymoone learne   lifte    
+misinterprete mourne   muttere    nighte   nullifie 
+oile          picnicke plie       prowle   requeste 
+retaine       riote    saye       scanne   schoole  
+signe         sippe    skyjacke   strippe  sucke    
+suspende      thickene thrille    toppe    tormente 
+worshippe     
+
+NULL-ly-s             45
+absolute   active        alternative anatomical ancient     
+chemical   compact       compulsive  current    diagonal    
+elder      essential     expert      explosive  extreme     
+grating    grotesque     hopeful     incidental independent 
+innocent   instrumental  joint       manual     moderate    
+objective  offensive     periodical  principal  quarter     
+relative   routine       sailor      scholar    searching   
+sensitive  significant   sole        stirring   sweeping    
+theatrical understanding unfortunate warning    yearning    
+
+ce-t                  45
+affluen       ambivalen    benevolen  clairvoyan coexisten   
+cognizan      coheren      complaisan concordan  congruen    
+decaden       deterren     disobedien divergen   existen     
+fluorescen    ignoran      imminen    indifferen insisten    
+interdependen intoleran    irreveren  luminescen malevolen   
+negligen      nonequivalen pertinen   petulan    pre-existen 
+prevalen      radian       repentan   repugnan   resurgen    
+self-confiden self-relian  somnolen   subservien subsisten   
+toleran       truculen     turbulen   vigilan    virulen     
+
+e-ing                 41
+allur    aveng  balkaniz      blockad   capitaliz  
+chaf     corrod diddl         disprov   economiz   
+embezzl  expung extenuat      fulminat  gabbl      
+haggl    imping indiscriminat jeopardiz lactat     
+massag   meddl  merchandis    obsolet   overrid    
+purpl    remak  reprobat      rins      romanticiz 
+salvag   scrib  self-sacrific skindiv   straf      
+theoriz  trickl trifl         trundl    twinkl     
+unsheath 
+
+NULL-n                40
+alai      algeria   alto     australia austria   
+chose     colombia  crimea   dora      easter    
+forgive   formosa   froze    glen      guatemala 
+indonesia ithaca    jamaica  julia     lehman    
+lippman   louisiana lucia    mario     media     
+overtake  overthrow patricia presto    protozoa  
+prussia   shah      siberia  silke     sparta    
+stole     tunisia   unsee    venezuela wove      
+
+on-ons-ve             40
+aborti   absorpti   affirmati   aggressi  attenti      
+conclusi consultati decisi      declarati definiti     
+derivati descripti  determinati distincti evasi        
+evocati  exclusi    expansi     extensi   formati      
+illusi   imaginati  inclusi     injuncti  interpretati 
+intrusi  intuiti    obsessi     pensi     persuasi     
+positi   preparati  prescripti  producti  recepti      
+repetiti repressi   reproducti  repulsi   submissi     
+
+on-ve                 39
+administrati alliterati   coerci         cohesi    competiti   
+comprehensi  congesti     consumpti      corrosi   decepti     
+defecti      destructi    diminuti       evaporati ficti       
+inacti       indecisi     informati      inquisiti introspecti 
+legislati    negati       nutriti        occlusi   oppressi    
+overprotecti percussi     procreati      provocati recitati    
+redempti     refracti     remunerati     restorati retenti     
+seducti      self-asserti self-destructi successi  
+
+NULL-ed-es-ing        35
+accomplish approach attach      banish   blush   
+branch     by-pass  caress      clutch   dash    
+diminish   dispatch distinguish distress echo    
+establish  flourish furnish     guess    lash    
+match      notch    perish      polish   punish  
+reach      relax    search      sketch   slash   
+snatch     switch   toss        vanish   witness 
+
+NULL-ity-ly           33
+absurd      actual       artificial   avid       brutal       
+conceptual  confidential conventional critical   directional  
+eventual    familiar     fatal        informal   irrational   
+legal       marginal     mental       monumental municipal    
+mutual      peculiar     personal     practical  proportional 
+rapid       sexual       similar      singular   spatial      
+superficial timid        typical      
+
+r-st                  33
+bigge  bolde  deare    dete    earlie  
+easie  farthe franke   fulle   funnie  
+handie happie healthie heavie  highe   
+hotte  infe   kinde    lonelie loude   
+meeke  nastie poore    prettie proude  
+queere reale  slighte  smalle  stronge 
+sweete toughe younge   
+
+NULL-s-s'             32
+beadle   candidate cowbird   cutter  dancer    
+dollar   employer  flannagan folk    gershwin  
+giant    grower    guest     handler machinist 
+member   motorist  oriole    pirate  planter   
+prisoner producer  rogue     ruler   russian   
+shore    soloist   survivor  szold   teen-ager 
+trader   yankee    
+
+NULL-ity              31
+amoral       arid              carnal            circular congenial     
+convex       corporeal         domestic          elastic  familar       
+fecund       fidel             hilar             humid    immoral       
+immortal     impartial         inferior          jovial   lethal        
+lobular      lucid             modal             optimal  piezoelectric 
+sensual      third-dimensional three-dimensional tranquil trivial       
+viscoelastic 
+
+ce-t-tly              31
+abundan     arrogan  belligeren brillian   concurren  
+defian      diligen  dominan    eloquen    eminen     
+exuberan    impatien importan   impuden    inadverten 
+inconvenien indolen  insolen    intelligen magnificen 
+non-violen  permanen persisten  pleasan    predominan 
+prominen    pruden   recurren   reluctan   vehemen    
+violen      
+
+e-es-ing              30
+abid      battl     conserv   cours     decompos 
+dramatiz  ensur     enterpris envelop   fiddl    
+forag     gorg      headlin   hemorrhag incom    
+masquerad microphon overcom   paraphras rambl    
+reliv     rewrit    rhym      servic    skat     
+stapl     strid     strik     warehous  wrestl   
+
+ng-on-ons-ve          30
+abstracti  appreciati asserti    attracti    communicati 
+connecti   constructi creati     decorati    disrupti    
+distributi evaluati   illustrati imitati     impressi    
+indicati   instructi  inventi    investigati meditati    
+passi      possessi   predicti   progressi   reflecti    
+regulati   restricti  selecti    speculati   suggesti    
+
+e-ed-ing-ion          29
+activat    complicat consolidat contaminat   correlat 
+de-iodinat devastat  deviat     differentiat dilut    
+exaggerat  exasperat fabricat   formulat     frustrat 
+illuminat  infuriat  iodinat    isolat       liberat  
+negotiat   nominat   penetrat   perpetuat    repudiat 
+revis      segregat  tolerat    validat      
+
+ily-y                 29
+angr       arbitrar   clums      contradictor contrar      
+customar   daint      dand       dizz         extraordinar 
+fragmentar haught     husk       involuntar   merr         
+momentar   ordinar    perfunctor satisfactor  secondar     
+shabb      tard       temporar   unfunn       unhapp       
+unluck     unnecessar unstead    voluntar     
+
+NULL-hip              28
+apprentices censors    champions      companions comrades     
+courts      dictators  directors      disciples  distributors 
+editors     fellows    interrelations leaders    lords        
+mediums     musicians  partners       professors proprietors  
+relations   scholars   spaces         speakers   sponsors     
+stewards    successors troops         
+
+NULL-t                28
+abbot    arden   barnet   berne  bernhard 
+breve    choices closes   comes  dives    
+fines    forgo   frees    garnet julie    
+lieu     locus   lovelies meanes pales    
+reinhard relic   richer   riches simples  
+sores    sunburn thou     
+
+e-ed-es-ing-ion       27
+accommodat accumulat  associat celebrat   concentrat 
+conjugat   constitut  culminat cultivat   designat   
+deteriorat dilat      dominat  eliminat   estimat    
+fascinat   graduat    hesitat  incorporat motivat    
+originat   participat recreat  rotat      substitut  
+terminat   violat     
+
+NULL-ism              26
+absentee      anti-american anti-catholic anti-intellectual ascetic       
+authoritarian confucian     cosmopolitan  dual              electromagnet 
+evangelical   feudal        geocentric    gothic            isolation     
+monastic      perfection    presbyterian  provincial        sensational   
+supernatural  supranational totalitarian  transcendental    vigilant      
+zion          
+
+NULL-a                25
+1040     atlantic  attic bahi     barth  
+berth    britannic corsi edwin    erotic 
+galen    jude      kong  korneyev liss   
+moiseyev monic     ought pact     plasm  
+platonic segur     senor shaky    willy  
+
+NULL-ed-er-ing-s      25
+absorb boost   borrow  charm  contend 
+crowd  demand  flick   float  ground  
+halt   harvest plaster plead  pretend 
+print  record  recruit repeat roof    
+shock  soften  spill   tempt  warn    
+
+NULL-s-y              25
+advisor burglar chunk  cone       contributor 
+dale    draught felon  inhibitor  meat        
+milk    pearl   potter proprietor racket      
+resin   saxon   sensor silver     slipper     
+soap    wart    willow wisp       worm        
+
+ed-s                  25
+adsorb    bewilder billow   bloodstain brighten 
+cosponsor detour   discolor gloat      imprison 
+jackboot  lighten  parri    reprint    scallop  
+sprain    spurn    squirm   stilt      subpena  
+subtend   tether   tier     whisker    worsen   
+
+NULL-er               24
+25-foot   beech   bobby-sox british fowl 
+grimm     hash    holland   lard    lest 
+lied      mint    newark    often   rink 
+schilling shallow slender   tamp    thay 
+trigg     trumpet unsold    webb    
+
+e-ion                 24
+adjudicat  agglomerat  aggregat  annihilat    contrit      
+corporat   decelerat   desolat   detent       discret      
+eradicat   erudit      inactivat incarnat     insubordinat 
+irresolut  opposit     probat    procrastinat quadrill     
+re-evaluat recapitulat subjugat  summat       
+
+ied-y                 24
+autops     classif compl  dignif disqualif 
+flurr      fortif  frenz  gratif hurr      
+hypertroph justif  mollif mudd   notif     
+nullif     purif   ratif  remarr stratif   
+typif      verif   vivif  whinn  
+
+NULL-ic               23
+algebra    alphabet    crypt      iceland    idealist   
+idyll      mechanist   monolith   moralist   naturalist 
+nihilist   pacifist    paramagnet pathet     protoplasm 
+psychopath rationalist realist    relativist sadist     
+socialist  stylist     vitriol    
+
+e-ed-ion              23
+allocat   animat     arbitrat    articulat assimilat 
+congregat desegregat disaffiliat duplicat  emancipat 
+enunciat  evacuat    exonerat    ignit     inflat    
+intimidat obliterat  populat     propagat  simulat   
+tabulat   vacat      vindicat    
+
+NULL-d-r-s            22
+analyze   breathe challenge commute dazzle   
+fille     frame   glaze     glove   grade    
+improvise lecture poke      puzzle  raise    
+reduce    revolve save      stage   treasure 
+tumble    wage    
+
+NULL-on               21
+aches   bergs burt  clint  dicks    
+glenn   graft grist hilt   isaacs   
+lars    lips  lond  mats   michaels 
+nichols pays  pears peters steps    
+wheat   
+
+NULL-ed-er-ers-ing-s  19
+attack boil      contain develop dissent 
+farm   fold      load    paint   perform 
+point  question  remind  review  suffer  
+trail  transform view    wander  
+
+NULL-g                19
+agin    anythin aspirin basin   breakin 
+bumpin  cavin   chen    croakin delvin  
+dreamin irvin   lovin   raisin  thievin 
+thinkin tryin   waggin  waitin  
+
+NULL-ic-s             19
+antagonist    bureaucrat communist     diaphragm      enthusiast   
+expressionist humanist   impressionist individualist  myth         
+nationalist   organism   period        polymer        propagandist 
+prophet       rhythm     titan         traditionalist 
+
+NULL-d-r-rs-s         18
+admire  advertise carrie compute examine 
+explore intrude   invade merge   promote 
+pursue  range     rattle receive settle  
+space   vote      wave   
+
+e-ity                 18
+facil  felic      feminin   fertil   futil      
+hostil immatur    insecur   masculin mediocr    
+obscen procreativ productiv profan   radioactiv 
+suav   versatil   viril     
+
+es-ng                 18
+assembli betti     biddi  buddi buggi   
+citi     discoveri fairi  hobbi inquiri 
+paddi    panti     polici poppi rocki   
+smoki    thro      treati 
+
+ied-ies-y             18
+certif  clarif  decr  embod  exemplif 
+glorif  identif lobb  parod  qualif   
+quer    repl    salar satisf signif   
+simplif testif  unif  
+
+m-t-ts                18
+anti-communis arianis       buddhis   congregationalis cubis        
+evangelis     existentialis fascis    imperialis       industrialis 
+journalis     methodis      neutralis positivis        secularis    
+surrealis     taois         vocalis   
+
+'s-NULL-ian           17
+boston    carleton churchill cromwell  einstein 
+faulkner  freud    hamilton  hanover   hegel    
+jefferson newton   orwell    roosevelt schnabel 
+spencer   wilson   
+
+NULL-r                17
+able      artifice bevo   bugle  canto 
+curricula delle    deluxe howse  lange 
+laude     maye     mite   nebula scala 
+stella    verne    
+
+cy-t                  17
+astringen blatan    buoyan      complacen      deficien   
+desponden expedien  inconsisten inefficien     poten      
+pregnan   proficien redundan    self-sufficien transparen 
+vacan     vibran    
+
+ed-ing-ion            17
+calibrat  delineat detonat   disseminat emanat      
+emigrat   humiliat inaugurat incubat    indoctrinat 
+infiltrat inflect  liquidat  rebell     redecorat   
+resurrect suffocat 
+
+NULL-l                16
+apocrypha bacteria fide   flora   inertia   
+isabel    joshua   mcneil paschal phenomena 
+pleura    retina   trio   trivia  vagina    
+viscera   
+
+e-ed-er-ers-es-ing    16
+advertis announc comput consum danc       
+explor   intrud  invad  manag  manufactur 
+merg     rattl   receiv settl  spac       
+trad     
+
+ic-y                  16
+allegor       anatom  asymmetr  autobiograph autonom   
+chromatograph geometr morpholog oceanograph  phonolog  
+pre-histor    strateg symmetr   thermometr   topograph 
+typograph     
+
+NULL-d-rs-s           15
+arrange bribe    enforce glide     joke  
+move    organize pipe    prime     rope  
+sample  share    smoke   stabilize trace 
+
+NULL-ed-es            15
+ambush bench chorus clash     clench 
+climax couch dish   encompass foil   
+hunch  inch  latch  overreach stitch 
+
+NULL-er-ers           15
+both      bunt     do-good  fing foreign 
+frankfurt northern outfield rend roost   
+slick     sojourn  southern wand western 
+
+d-r-s                 15
+beste  clinche   crashe   dabble   emptie  
+fancie finishe   impresse lande    launche 
+presse programme punche   stretche washe   
+
+NULL-d-r              14
+blaze    compile condense fake   favore  
+graze    hande   heade    hustle inquire 
+presente procure retrieve rove   
+
+NULL-ide              14
+backs beds   canyons curbs     docks  
+fires hills  irons   mountains oceans 
+rings rivers streams ways      
+
+NULL-man              14
+beads       bonds  colts  eddy  fried 
+handicrafts heads  heck   leads marks 
+otto        pretty scotch weiss 
+
+NULL-th               14
+bread    commonweal eighteen    eleven     fifteen      
+fourteen nineteen   outgrow     seventeen  seventy-four 
+sixteen  thirteen   thirty-four thirty-six 
+
+d-r-r's-rs            14
+attacke commissione controlle coope      designe 
+drumme  fielde      hunte     listene    murdere 
+painte  sewe        summe     telegraphe 
+
+ed-er-ing             14
+ambl   chipp     dipp  double-cross dragg   
+engrav extrud    logg  muffl        propell 
+shredd transmitt trimm twirl        
+
+ers-ing               14
+bricklay   churchgo homebuild  housebreak lawmak 
+motel-keep plunk    policy-mak revell     seafar 
+swimm      vouch    well-wish  whopp      
+
+m-tic                 14
+autis       bolshevis  determinis feudalis hedonis    
+isolationis materialis opportunis optimis  paternalis 
+plas        pluralis   synergis   unrealis 
+
+NULL-ed-ing-s-y       13
+curl    deliver gear   jerk  puff   
+recover risk    shadow storm string 
+swamp   weight  word   
+
+NULL-ion              13
+compass    convent  crucifix dissect eros  
+exempt     extinct  incurs   infarct quest 
+tax-exempt transact transit  
+
+ce-t-ts               13
+adheren  adolescen assistan  attendan   corresponden 
+deferen  devian    equivalen incompeten insurgen     
+preceden torren    transien  
+
+e-ed-er-es-ing        13
+analyz challeng commut   dazzl  divid 
+fram   glaz     improvis lectur puzzl 
+reduc  revolv   tumbl    
+
+ed-ing-s              13
+adjoin  adjourn braid  catapult  churn  
+clamp   engulf  hinder overpower quiver 
+smolder stiffen zoom   
+
+ed-y                  13
+blurr  cackl    disunit   equall flopp  
+grizzl heft     kindl     panick slaver 
+totall unequall upholster 
+
+er-ing                13
+bestsell gun-sling housekeep  kidd matchmak 
+maul     money-mak place-kick rodd scaveng  
+shopp    wett      wrongdo    
+
+ion-ory               13
+anti-discriminat classificat condemnat explanat explorat 
+inflammat        introduct   observat  premonit purgat   
+reformat         revelat     satisfact 
+
+NULL-d-rs             12
+appraise  baffle      bathe   besiege campaigne 
+eulogize  persuade    restore shifte  straggle  
+subscribe synchronize 
+
+NULL-ed-ers-ing-s     12
+back    down   exploit export  learn  
+lift    mutter raid    request retain 
+thicken thrill 
+
+NULL-ful-s            12
+bale   faith    fate       glee     meaning 
+prayer resource tablespoon teaspoon thought 
+truth  youth    
+
+NULL-ism-s            12
+abstraction anglican   athletic career despot 
+hindu       protestant revival  robot  stoic  
+unitarian   utopian    
+
+NULL-ity-s            12
+acid     criminal eccentric fluid   hospital 
+infidel  liquid   minor     plastic senior   
+specific superior 
+
+NULL-n-ns             12
+africa      albania arabia diva   guardia 
+katanga     korea   oratio persia rumania 
+scandinavia syria   
+
+c-es                  12
+academi     allergi dynasti majesti moni    
+orthographi phoni   prosodi reli    specifi 
+symphoni    terrifi 
+
+er-ers-ing            12
+beer-runn beginn    best-sell bodybuild bootlegg 
+cutt      fund-rais hitt      sitt      taxpay   
+theatergo typewrit  
+
+'s-NULL-ed-ing-s      11
+bellow  center flock   flood group 
+harbor  panel  pioneer pool  scout 
+sponsor 
+
+-up-NULL              11
+beefed  blown  bucking dammed  dried  
+hunched pumped rolled  stepped stored 
+stuck   
+
+NULL-ist-s            11
+canon      cartoon  column expansion guitar 
+reception  revision solo   survival  violin 
+watercolor 
+
+NULL-ity-ly-s         11
+intellectual irregular mortal original particular 
+potential    regular   rigid  solid    spiritual  
+vital        
+
+NULL-ome              11
+bothers  burdens fears fours    hands 
+quarrels threes  tires troubles twos  
+ventures 
+
+NULL-s-ted            11
+admit  blot commit marina omit  
+permit plot regret slot   squat 
+submit 
+
+al-e-es               11
+aborigin adjectiv anecdot  architectur doctrin  
+glob     medicin  procedur residu      scriptur 
+spir     
+
+ed-es-ing             11
+accru  agoniz  allud  befuddl consol 
+elud   nourish pervad stepp   wheez  
+wrench 
+
+ing-s                 11
+crossroad    environ forebear geyser mislead 
+misrepresent resound scissor  teem   tinker  
+zeis         
+
+ng-sh                 11
+bangi   blui  fooli greeni moori 
+parki   reddi rubbi sluggi warmi 
+yellowi 
+
+NULL-h                10
+dept        doug         eric nawt         plus 
+sixty-eight thirty-eight toot twenty-eight viet 
+
+NULL-man-men          10
+clergy crafts french handy  infantry 
+irish  sales  spokes sports yachts   
+
+NULL-o                10
+albert    artur bong borne   fats    
+ferdinand kant  pint realism tristan 
+
+NULL-rs-s             10
+adventure dime    drove gamble    inside 
+revenue   romance sauce submarine tube   
+
+NULL-ton              10
+asking  barring beaver  chester evans   
+farming herring hunting leigh   welling 
+
+d-r-r's               10
+jewele palme parke  petitione printe 
+roofe  salte trappe tucke     wheele 
+
+ed-er-ers-ing         10
+bann    controll distill drumm flapp   
+kidnapp plann    sinn    skipp travell 
+
+ity-ous               10
+ambigu   anonym   credul   enorm    frivol 
+homogene incongru spontane unambigu unanim 
+
+ly-ng                 10
+crazi  drowsi fussi  readi  shaki 
+sleepi sloppi speedi steami sulki 
+
+n-ns-us               10
+ambitio  cautio  expeditio fractio     infectio 
+rebellio religio repetitio superstitio suspicio 
+
+ng-ty                 10
+cavi  continui divini maturi perplexi 
+probi prosperi securi severi totali   
+
+ty-zed                10
+brutali   centrali  civili conventionali fertili 
+hospitali immortali legali personali     sexuali 
+
+'-g-gs                9
+buildin drawin  holdin kissin meanin 
+meetin  shootin showin workin 
+
+'s-NULL-al-s          9
+denomination department division     government institution 
+mechanic     occupation organization region     
+
+'s-s                  9
+brahm    constellation facet-plane leopard lizard 
+outskirt purchaser     steinbeck   wive    
+
+NULL-ant-ed-ing-s     9
+account assist attend  claim  descend 
+expect  intend protest result 
+
+NULL-ary-s            9
+diversion  illusion legend   mission      parliament 
+precaution reaction sediment substitution 
+
+NULL-ed-ing-ion-ive-s 9
+assert  attract connect  disrupt exhaust 
+prevent protect restrict suggest 
+
+NULL-ed-ing-y         9
+clatter flatter savor  shiver shrill 
+shudder squash  squeak stuff  
+
+NULL-ed-ion           9
+conscript distort   eject    infect interrupt 
+recess    recollect suppress trill  
+
+NULL-ed-s-y           9
+blood bulk   cloud    fault   lull 
+peak  powder splinter warrant 
+
+NULL-n-s              9
+arise   barge collage dystopia forsake 
+mistake rise  spoke   strive   
+
+NULL-ous              9
+cadaver courage humor libel rancor 
+treason venom   vigor zeal  
+
+NULL-ous-s            9
+advantage cavern danger  gorge   hazard 
+mountain  peril  traitor villain 
+
+NULL-ry               9
+baptiste corona covent  knight-errant lavato 
+lotte    sent   statuto summit        
+
+a-c                   9
+anemi      arabi    encyclopedi eugeni   euphori 
+hydrophobi hyperemi myopi       nostalgi 
+
+al-e-ed-es-ing        9
+approv arous caus   figur    practic 
+refus  remov revers structur 
+
+ce-ces-t              9
+fragran indulgen   insignifican obedien observan 
+referen reminiscen resistan     resonan 
+
+cy-t-tly              9
+apparen decen  efficien  expectan fluen 
+poignan pungen sufficien urgen    
+
+cy-te                 9
+accura   adequa   delica   illegitima immedia 
+inaccura inadequa legitima priva      
+
+e-ely-ity             9
+agil   auster creativ  immens insan 
+passiv scarc  selectiv seren  
+
+ic-s                  9
+aristocrat atheist   autocrat      diatom    modernist 
+monopolist pessimist photoelectron sycophant 
+
+ies-y-y's             9
+authorit communit compan      deput     dictionar 
+enem     galler   municipalit universit 
+
+ist-y                 9
+anthropolog artiller  cacophon geolog herpetolog 
+pharmac     psycholog sociolog zoolog 
+
+m-t-tic               9
+idealis naturalis nihilis pacifis  rationalis 
+realis  relativis sadis   socialis 
+
+ng-on-ve              9
+co-operati compressi contemplati disintegrati initiati 
+integrati  preventi  prohibiti   protecti     
+
+ng-ve                 9
+costi effecti massi    resisti respecti 
+resti stro    supporti voti    
+
+'s-NULL-d-s           8
+culture guide     house institute stone 
+suite   syndicate voice 
+
+NULL-ed-ent-ing-s     8
+consist correspond depend  differ exist 
+insist  persist    respond 
+
+NULL-ed-ing-ion-s     8
+accord adopt affect content erect 
+erupt  exert reject 
+
+NULL-ed-y             8
+bluster butcher chalk  fuzz knott 
+pepper  starch  thirst 
+
+NULL-ers              8
+casework   down-and-out eastern    jeep lineback 
+midwestern overnight    pittsburgh 
+
+NULL-ful              8
+barns bliss   distaste forget forgit 
+peace remorse wrath    
+
+NULL-ian              8
+babylon brahms brazil  corinth egypt 
+gauss   hess   shylock 
+
+NULL-ist              8
+abolition conservation genetic     harpsichord jansen 
+psalm     secession    segregation 
+
+NULL-k                8
+aromatic frederic mackinac merrimac nova 
+pins     squaw    tole     
+
+NULL-men              8
+boats  cattle cavalry frontiers grooms 
+quarry trades tribes  
+
+NULL-ped-s            8
+clap    crop drop  flip handicap 
+overlap slap strap 
+
+NULL-r-s              8
+bite clove dove  gable partake 
+sofa tone  weave 
+
+NULL-ry-s             8
+gadget  gallant image  machine memo 
+pageant scene   weapon 
+
+NULL-st               8
+again among  cute dense greene 
+keene little mole 
+
+NULL-ted              8
+bela   deep-sea emit  fret nausea 
+outfit rebut    strut 
+
+and-y                 8
+flatl   greenl highl homel mainl 
+motherl overl  portl 
+
+c-sm                  8
+alcoholi anti-semiti byroni   dogmati galvani 
+patrioti pragmati    rheumati 
+
+cal-st-sts            8
+anthropologi ecumeni    evangeli  geologi gynecologi 
+methodi      psychologi sociologi 
+
+cy-t-ts               8
+constituen contingen delinquen detergen occupan 
+solven     tangen    tenan     
+
+d-r-red-rs            8
+charte counte gutte manne mete 
+repai  showe  snee  
+
+d-r-st                8
+briefe busie   calme  longe neare 
+slowe  smoothe steepe 
+
+e-ng                  8
+beati bowi  conni grazi lingeri 
+matti sorti tilli 
+
+er-ng                 8
+barri  chanti chilli clothi courti 
+fronti frothi raini  
+
+m-ts                  8
+abstractionis defeatis         neo-classicis perfectionis puris 
+symbolis      transcendentalis zionis        
+
+ous-ty                8
+capaci feroci hilari loquaci precoci 
+tenaci veraci vivaci 
+
+s-y                   8
+frill  jitter maggot respirator sinew 
+vicker wile   wilke  
+
+sis-tic               8
+hypno       mime   narco  necro proteoly 
+psychoanaly sclero synthe 
+
+'-NULL-g-gs           7
+comin doin  goin leavin nothin 
+sayin takin 
+
+'-NULL-hip            7
+authors citizens friends judges members 
+owners  trustees 
+
+NULL-age-s            7
+acre broker gallon mile parson 
+teen yard   
+
+NULL-d-ly             7
+alternate approximate consummate intimate mute 
+secure    severe      
+
+NULL-e-es             7
+claus    discours hord premier refuge 
+therefor troup    
+
+NULL-e-s              7
+antenna being clement oath quit 
+sultan  sword 
+
+NULL-er-s             7
+brick   bunk chest execution hoop 
+pension pond 
+
+NULL-ers-ing-s        7
+broadcast forecast grind send spend 
+uphold    vacation 
+
+NULL-ia               7
+cecil  fuchs    niger rhodes sylvan 
+virgil yugoslav 
+
+NULL-ie               7
+bourgeois brod dion fritz natal 
+nell      tess 
+
+NULL-is               7
+cornwall digital franco genes gill 
+karl     tenn    
+
+NULL-ish-s            7
+amateur    european freak kitten non-jew 
+schoolgirl token    
+
+NULL-ly-st            7
+bare    crude fierce mere pure 
+sincere vague 
+
+NULL-r-rs             7
+calenda old-time   outside teenage thinke 
+torque  underwrite 
+
+NULL-rs               7
+caste equalize  forty-nine nibble ringside 
+sieve wholesale 
+
+NULL-s'               7
+archbishop ass'n  christopher falcon steelmaker 
+surcliffe  wacker 
+
+NULL-son              7
+donald erik   esther neil pater 
+robin  sander 
+
+NULL-ter              7
+fens    gangs   hips pinch-hit tricks 
+wildcat winches 
+
+ble-ng                7
+collapsi converti discerni falli reproduci 
+reversi  sensi    
+
+d-nce-nt              7
+concurre differe    existe insiste persiste 
+recurre  transcende 
+
+d-r-rs-s              7
+dresse   drie    modifie pitche preache 
+publishe supplie 
+
+d-st                  7
+balla earne fainte fitte flori 
+foule prou  
+
+d-t-ts                7
+balle baske bille bucke socke 
+tappe toile 
+
+e-ed-ers-ing          7
+baffl   besieg   persuad restor smuggl 
+straggl subscrib 
+
+e-ely-ion             7
+considerat deliberat desperat invers precis 
+profus     resolut   
+
+e-es-y                7
+breez  excellenc flak instanc juic 
+notabl steepl    
+
+ed-es-ion             7
+affiliat    castigat dedicat exacerbat impersonat 
+overestimat re-creat 
+
+es-is                 7
+anastomos chav    ellips emphas hypothes 
+neuros    prognos 
+
+ey-y                  7
+berkel dail   manl mcfeel stac 
+tawn   whitel 
+
+fy-ty                 7
+clari digni falsi identi intensi 
+nulli quali 
+
+l-ry                  7
+beneficia   elementa functiona hend judicia 
+supplementa tempora  
+
+ng-t                  7
+checki damni looki petti pursui 
+stru   summi 
+
+ng-te                 7
+anchori composi defini favori fosteri 
+opposi  spri    
+
+r-s                   7
+digge   ditche flie fortie hoove 
+pacifie sacke  
+
+sm-ty                 7
+activi   emotionali historici liberali opportuni 
+populari unreali    
+
+'s-NULL-ing-s         6
+breed clerk clown conflict fund 
+tower 
+
+'s-NULL-ly            6
+coward divine instant stout wife 
+woman  
+
+NULL-al-als-s         6
+confession incident instrument metaphysic miner 
+profession 
+
+NULL-an               6
+dominic epicure gratt hawaii sunt 
+tibet   
+
+NULL-d-dly-s          6
+assure concede decide determine suppose 
+tire   
+
+NULL-d-ful-s          6
+grace hate shame taste tune 
+waste 
+
+NULL-d-ly-s           6
+appropriate complete elaborate obscure separate 
+tense       
+
+NULL-d-r-rs           6
+dispense erase idle peddle rustle 
+waite    
+
+NULL-ed-er-ing        6
+disturb oust plumb refresh trapp 
+tuck    
+
+NULL-ed-ers-ing       6
+blink   canvass honeymoon prowl suck 
+torment 
+
+NULL-ed-ing-ly-s      6
+alert blind exact last limp 
+order 
+
+NULL-er-est-ly        6
+bold   dark loud meek proud 
+strong 
+
+NULL-er-ly            6
+brisk cheap furious harsh mild 
+vast  
+
+NULL-ern              6
+midwest   northeast northwest south-east southeast 
+southwest 
+
+NULL-le               6
+catt  gaul glenda orvil pueri 
+scuff 
+
+NULL-ped-per-s        6
+chip clip skip slip stop 
+wrap 
+
+NULL-r-rs-s           6
+cruise  crusade freeze ledge lose 
+village 
+
+NULL-ty               6
+beau     disloyal nine penal suzerain 
+virtuosi 
+
+a-e                   6
+camill celi gonn habl rozell 
+syring 
+
+a-on                  6
+camer comm criteri jord porti 
+silic 
+
+a-um                  6
+antiser curricul medi memorand millenni 
+strat   
+
+ar-es                 6
+arteriol granul macromolecul modul nodul 
+tubul    
+
+ble-l                 6
+hospita impractica practica remova renewa 
+socia   
+
+ce-ces-t-tly          6
+confiden consequen convenien differen distan 
+elegan   
+
+d-n                   6
+brau  polle unshave warre waxe 
+woode 
+
+d-rs-s                6
+gobble grasse hatte pushe skirmishe 
+watche 
+
+de-ne                 6
+carbi chlori confi divi fluori 
+iodi  
+
+e-ed-ers-es-ing       6
+arrang   enforc organiz purchas sampl 
+stabiliz 
+
+e-ed-es-ing-ion-ive   6
+appreciat co-operat contemplat cooperat integrat 
+relat     
+
+e-es-ic               6
+atmospher catastroph meteorit micrometeorit parasit 
+psych     
+
+e-es-ion              6
+certificat  composit confederat prostitut stipulat 
+substantiat 
+
+e-o                   6
+aventin   brogli carthag metr portag 
+sorrentin 
+
+ed-ers-ing            6
+bleach   despoil hijack scann sipp 
+worshipp 
+
+ess-g                 6
+balkin heavin pettin readin scratchin 
+stagin 
+
+ess-y                 6
+fairl namel purposel shapel statel 
+timel 
+
+fth-ve                6
+eighty-fi fifty-fi forty-fi seventy-fi twel 
+twenty-fi 
+
+g-s                   6
+bobbin huggin mullin pickin robbin 
+rollin 
+
+i-o                   6
+cennin  cors guardin palazz ricc 
+virtuos 
+
+ive-our               6
+eighty-f fifty-f forty-f seventy-f thirty-f 
+twenty-f 
+
+l-n                   6
+barto custodia jovia latera perennia 
+virgi 
+
+l-te                  6
+corpora   effectua electora germina proxima 
+reciproca 
+
+ll-s                  6
+john'  somebody' someone' sun' today' 
+winche 
+
+m-t                   6
+colonialis federalis fundamentalis nudis platonis 
+quietis    
+
+m-t-tic-ts            6
+capitalis     expressionis humanis impressionis individualis 
+traditionalis 
+
+n-r                   6
+bria   drunke fatte heathe rato 
+unclea 
+
+ng-s                  6
+bori    diagnosi landi loomi skii 
+spirali 
+
+on-ve-ves             6
+adhesi   conservati contracepti explosi narrati 
+subversi 
+
+'s-NULL-an            5
+baltimore luther rousseau shakespeare wesley 
+
+'s-NULL-n-ns          5
+cuba georgia russia victoria virginia 
+
+--NULL                5
+ahah eighteenth higher nursery upper-middle 
+
+-c-NULL               5
+-20-degrees 1-degree 10-degrees 110-degrees 37-degrees 
+
+0-NULL                5
+$102 $150 $250 $310 $500 
+
+NULL-ce               5
+bernie lauren not-a then when 
+
+NULL-ed-er            5
+blackmail broil gush harden wield 
+
+NULL-ed-er-ers-ing    5
+adapt crush destroy entertain offend 
+
+NULL-ed-er-es-ing     5
+crash finish launch punch stretch 
+
+NULL-ed-er-s          5
+palm petition redhead widen widow 
+
+NULL-ed-es-ing-y      5
+flash scratch screech splash touch 
+
+NULL-ed-ing-ion       5
+depict distract inflict inject subtract 
+
+NULL-ed-ly-s          5
+disorder ghost initial prick prompt 
+
+NULL-en               5
+damp flax jens reub sunk 
+
+NULL-er-ers-s         5
+household prison raft tank troop 
+
+NULL-es-ing           5
+beach caucus index itch relish 
+
+NULL-es-s             5
+carbon industrialist innuendo memento toward 
+
+NULL-est              5
+crass frail roaring stanch staunch 
+
+NULL-ey               5
+ballyhoo jock offers shirl whims 
+
+NULL-ial              5
+equator existent influent nonresident potent 
+
+NULL-ial-ly           5
+confident consequent different evident prudent 
+
+NULL-ial-s            5
+adverb dictator proverb resident tangent 
+
+NULL-ic-ics-s         5
+anion dialect electron gymnast linguist 
+
+NULL-ion-ly           5
+abject circumspect imperfect indirect intent 
+
+NULL-ish              5
+fiend heathen puppy wasp yeller 
+
+NULL-ly-ty            5
+certain entire proper several uncertain 
+
+NULL-ned              5
+attu into machine-gun ripe sun-tan 
+
+NULL-tic              5
+cinema enigma melodrama schema trauma 
+
+al-e                  5
+brut carn homicid mitr nocturn 
+
+al-es                 5
+arteri ceremoni controversi remedi territori 
+
+al-s                  5
+aeronautic mutation optic sinusoid statistic 
+
+an-o                  5
+capell francisc mexic morocc palladi 
+
+cal-sts               5
+archaeologi botani chemi cosmologi philologi 
+
+ce-cy-t               5
+emergen impoten incipien relevan translucen 
+
+d-es                  5
+candi enrolle inducte patente rabi 
+
+d-ng                  5
+limpi livi luri placi timi 
+
+d-ry                  5
+canne mocke quacke sala statione 
+
+d-ss                  5
+coarsene governe likene loosene whitene 
+
+d-t                   5
+frankfor hatche raymon skille whippe 
+
+e-ed-ent-es-ing       5
+compet emerg preced presid solv 
+
+e-ed-es-ing-y         5
+bubbl doubl singl spong tast 
+
+e-ed-ing-ion-or-ors   5
+accelerat agitat educat insulat prosecut 
+
+e-es-ive              5
+defens expens impuls offens respons 
+
+e-h                   5
+grap peac roug stanc sulamit 
+
+e-l                   5
+beal larva stol unti vial 
+
+er-ers-re             5
+calib chamb deliv theat timb 
+
+er-ric                5
+calorimet diamet paramet spectromet spectrophotomet 
+
+es-ous                5
+furi luxuri mysteri obsequi prodigi 
+
+ess-ike               5
+childl dreaml godl lifel warl 
+
+est-ly                5
+angri hearti merri mighti unhappi 
+
+f-n                   5
+brie chie spoo thereo whereo 
+
+f-ves                 5
+bookshel shel thie whar yoursel 
+
+ic-ist-y              5
+anarch biolog patholog physiolog psychiatr 
+
+id-or                 5
+horr liqu splend stup torp 
+
+ier-y                 5
+costl hungr livel lonel nast 
+
+n-ned-r-st            5
+deepe harde quicke shorte tighte 
+
+n-us                  5
+contagio flirtatio nutritio oblivio seditio 
+
+ned-r                 5
+caree harshe redde sadde sicke 
+
+ng-on-ons-ve-ves      5
+acti directi executi objecti relati 
+
+ous-s                 5
+gase impetu portent rigor sinu 
+
+ous-y                 5
+chivalr endogam exogam infam monogam 
+
