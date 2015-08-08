@@ -1,0 +1,7356 @@
+-1/2	9	1	14	18	2	3	5	6	7	9
+-1/2-inch	4	1	12	17	18
+-1958	3	1952	1957	mid
+-1960	3	1959	mid	pre
+-3/4''	3	2	3	5
+-acre	4	22	520	645	half
+-acting	3	long	play	slow
+-action	4	bolt	lever	love-in	pump
+-age	4	middle	old	school	teen
+-aid	4	first	hearing	l	n
+-air	3	bel	mid	open
+-american	6	i	inter	ish	l	n	o
+-appointed	3	court	newly	self
+-armed	4	e	heavy	straight	well
+-attack	3	counter	post	pre
+-away	3	break	far	give
+-back	5	drawn	front	hold	no	spring
+-backed	6	broken	high	lobster	stiff	straight	sway
+-ball	4	cap-and	pro	submarine	volley
+-barrel	4	20-inch	pork	short	single
+-based	6	dallas	land	london	r	railway	t
+-bearing	3	d	non	oil
+-black	4	brown	coal	e	jet
+-blind	3	near	psychically	stone
+-blooded	3	d	hot	warm
+-blown	3	free	full	wind
+-blue	3	dark	navy	pale
+-boat	3	fishing	pleasure	small
+-bodied	3	full	long	many
+-born	7	england	first	h	hungarian	k	native	swiss
+-bound	8	brass	e	ell	er	khaki	morocco	protein	rth
+-box	3	cracker	hardtack	mite
+-bred	4	city	home	london	well
+-brown	3	dark	green	yellow
+-building	7	apartment	body	e	nation	relationship	s	still
+-caliber	3	22	45	thirty
+-car	4	cattle	freight	motor	small
+-case	3	case-by	case-to	fee-per
+-cell	3	4	air	information
+-cent	4	64	76-per	fifty	five
+-cents	3	-and	25	9
+-century	5	half	mid	quarter	th	twenty-first
+-channel	3	8	clear	dual
+-chilling	3	blood	over	spine
+-christian	3	anti	judeo	sub
+-city	7	60	central	half	home	intra	semi	super
+-clad	6	black	full	half	iron	levi	white
+-class	9	er	first	h	ing	low	middle	second	social	two
+-cola	3	co	coca	oopsie
+-color	5	different	e	non	off	two
+-colored	8	coral	e	fawn	multi	straw	t	terra-cotta	two
+-communist	4	anti	ex	non	o
+-conscious	7	advertising	design	freedom	lf	pre	s	semi
+-consuming	3	all	self	time
+-control	3	h	self	voluntary
+-controlled	3	government	n	radar
+-cost	5	customer	high	low	total	utility
+-covered	6	hand	ivy	n	plastic	shrub	snow
+-crossing	3	criss	double	road
+-cut	3	r	short	wide
+-day	12	0	22	4	5	7	e	o	opening	present	r	ten	y
+-degree	6	1	5	90	first	hundred-and-eighty	second
+-degrees	6	-16	-78	0	24	37	5
+-degrees-c	6	0	2	37	463	5	6
+-degrees-f	4	0	109	2	5
+-density	3	high	higher	line
+-developed	3	less	under	well
+-dimensional	3	e	third	two
+-dollar	5	d	multi-million	six	twenty-five	ty
+-dominated	3	protestant	russian	white
+-door	5	closed	door-to	next	out-of	wide
+-down	9	e	fourth	knock	n	nothing	ow	pegged	smash-'em	t
+-driven	3	belt	line	r
+-driving	3	no	onward	safe
+-duty	5	after	heavy	light	low	off
+-edged	4	brown	razor	salt	steel
+-educated	5	best	college	half	university	well
+-end	7	dead	en	end-to	high	term	week	year
+-existent	3	ever	non	pre
+-eye	3	bull's	eye-to	private
+-eyed	7	black	bright	cross	d	deep	e	y
+-face	4	child	face-to	open	rat
+-faced	6	d	hawk	janus	n	t	y
+-family	4	e	multi	stuart	two
+-fed	3	grass	money	well
+-fighting	3	fire	fist	in
+-filled	8	art	d	drama	e	fun	half	k	r
+-fire	5	cease	center	hell	rapid	rim
+-fitting	3	bad	snug	tightest
+-floor	3	eleventh	first	second
+-fold	5	e	f	four	thousand	two
+-foot	15	0	3	5	6	8-1/2	84	9	calf's	e	eight	eight-and-a-half	six	ten	three-hundred	ty
+-free	7	cell	e	friction	t	tariff	tax	y
+-french	3	anti	english-scottish	pre
+-front	4	bay	e	left	pectoral
+-gallon	5	10	25	five	six	ten
+-game	8	162	3	5	big	nine	per	small	two
+-girl	3	boy-meets	little	play
+-glass	4	cut	d	gas	silica
+-god	3	father	non	sky
+-going	3	easy	ocean	theater
+-grade	5	junior	low	sixth	third	top
+-gray	4	dark	l	silver	stone
+-green	6	bright	dark	dusty	e	grass	yellow
+-ground	3	above	fresh	freshly
+-group	4	in	out	peer	sub
+-growing	5	cotton	ever	fast	slow	tall
+-grown	3	full	half	home
+-haired	7	drab	e	k	red	straight	titian	y
+-half	3	five-and-a	one	second
+-hand	5	fourth	hand-to	over	second	t
+-handed	4	en	heavy	single	t
+-handling	4	data	materials	money	quick
+-head	4	beach	death's	fountain	two
+-headed	7	blonde	k	level	r	t	woolly	wrong
+-hearted	3	half	hard	t
+-high	3	er	record	t
+-hit	5	15	hard	no	pinch	seven
+-home	3	boarding	five	home-and
+-horse	3	one	saw	startled
+-hour	9	10	16	4	e	half	kilowatt	r	ten	two
+-hours	3	after	kilowatt	man
+-house	5	e	log	new	nut	well
+-hungry	3	beef	money	power
+-images	3	memory	picture	self
+-in-law	3	er	ers	son
+-inch	14	0	1	2	3	4	6	8	e	eight	en	f	quarter	six	two
+-ins	3	fill	sit	stand
+-intellectual	3	anti	ical	non
+-interest	3	high	self	special
+-iron	5	nickel	one	seven	t	vitamin-and
+-jazz	3	ex	neo	poetry-and
+-jewish	3	anglo	gentile	n
+-keeping	3	home	long	motel
+-known	5	best	lesser	little	long	well
+-labeled	4	carboxy	fluorescein	isocyanate	ring
+-lane	3	four	single	two
+-large	4	-at	big	over	too
+-law	3	-in	natural	state
+-leaf	3	hundred	loose	tea
+-leg	3	one	spider	wooden
+-legged	4	cross	dainty	high	thousand
+-length	4	e	floor	t	vowel
+-level	10	er	high	low	nd	off	on	price	sub-conscious	t	top
+-life	4	half	long	real	time
+-lighted	3	back	flood	neon
+-like	14	cameo	e	god	ic	l	m	n	ng	putty	r	rock	ss	t	th
+-line	8	fence	goal	long	old	party	t	two	water
+-lined	5	book	palm	ry	sheep	willow
+-lived	3	long	longer	short
+-living	4	bottom	cost-of	good	re
+-long	4	e	month	r	week
+-looking	8	d	e	limp	r	swollen	t	tough	y
+-loving	5	e	freedom	fun	music	poultry
+-made	8	camp	e	hand	man	ready	strong	tailor	well
+-making	7	arms	budget	decision	h	love	music	y
+-man	7	00	33	cow	e	half	man-to	six
+-management	3	engineering	game	labor
+-married	4	all	double	newly	not-yet
+-mile	9	00	5	7	e	half	n	quarter	two	ty
+-minded	9	absent	e	high	morbid	n	narrow	nazi	s	y
+-minute	7	10-a	2-hour-and-27	30	5	e	en	last
+-miss	3	dream	hit-and	rodney
+-month	9	12	18	3	4	60	e	once-a	six	ten
+-moving	3	fast	forward	slow
+-name	4	boy	no	place	what's-his
+-necked	3	bull	foamy	red
+-negro	3	all	american	anti
+-night	5	all	d	day	e	over
+-nosed	5	broken	hard	pug	tube	two
+-o'clock	4	10	four	one	seven
+-odd	3	0	hundred	ty
+-of-war	3	men	short	tug
+-off	10	ake	brush	cut	fall	far	half	hands	kick	play	sawed
+-offs	3	bake	kick	lay
+-old	6	11-month	age	centuries	quarter-century	week	year
+-one	3	o	plus	ty
+-oriented	6	e	l	on	s	world	y
+-out	9	all	d	e	far	ing	k	n	straight	way
+-outs	3	fall	k	wash
+-over	4	all	e	ed	going
+-owned	3	government	state	y
+-packed	4	action	closely	pre	truth
+-page	6	16	195	64	689	front	twenty
+-paid	3	company	highest	lower
+-passenger	5	12	4	5	6	7
+-pattern	3	cut-to-a-familiar	motion	waffle
+-piece	3	0	85	fur
+-place	3	ed-in	second	t
+-point	5	38	fine	pin	six	stopping
+-political	3	non	o	trans
+-pound	4	208	400	5	fifty
+-power	5	14	high	low	three	will-to
+-president	3	acting	ex	vice
+-priced	4	bargain	high	low	r
+-processing	3	data	food	heat
+-product	3	by	end	multi
+-proof	3	bomb	coup	water
+-purpose	3	l	multi	multiple
+-quality	3	high	higher	top
+-raising	5	a	cost	fund	hair	hell
+-range	4	long	mid	middle	short
+-rate	4	d	e	first	toll
+-reaching	3	far	out	sky
+-resistant	3	abrasion	fire	weather
+-ridden	5	demon	dream	e	politics	r
+-road	3	off	sea	toll
+-room	7	7	e	guard	ing	locker	rest	two
+-round	6	all	e	last	merry-go	moon	year
+-run	8	2	3	5	d	e	long	t	two
+-san	4	bifutek	girl	kayabashi	papa
+-saving	3	face	labor	money
+-scale	3	broad	large	ll
+-school	6	after	e	high	out-of	public	y
+-season	4	christmas	early	pre	two
+-seeking	3	information	revenge	self
+-set	4	deep	high	re	super
+-shan	4	huo	hwa	ng	t'ai
+-shaped	3	column	e	tulip
+-shot	5	11	12	e	hot	n
+-shoulder	3	chest-back	chest-back-lat	shoulder-to
+-sided	3	four	many	one
+-singer	3	ex	gospel	preacher
+-size	5	good	life	smaller	sparrow	t
+-sized	7	box	egg	fair	full	le	medium	pint
+-soaked	3	ar	blood	sweat
+-sounding	7	deep	foreign	high	strange	sweet	symbolic	wild
+-soviet	5	LLUN	anti	chinese	non	sino
+-speaking	3	english	greek	icelandic
+-speed	3	high	low	variable
+-sponsored	5	democratic	istiqlal	municipally	philco	state
+-stage	5	big	double	f	on	second
+-stained	3	betel	blood	smoke
+-state	10	church	federal	feeling	i	intra	n	nine	out-of	solid	steady
+-step	5	e	out-of	stair	step-by	two
+-story	7	1-1/2	d	e	four	mystery	short	two
+-stricken	3	grief	poverty	terror
+-style	5	chicago	old	squat	tudor	western
+-sucking	3	finger	lip	thumb
+-supported	3	government	listener	state
+-surface	4	-to	hard	reverse	sub
+-table	4	breakfast	luncheon	pier	round
+-taking	3	ath	leave	pains
+-tale	4	fairy	folk	ll	tattle
+-temperature	5	constant	high	low	me	stress
+-term	5	14	long	longer	short	two
+-thick	3	3/8-inch	dust	extra
+-thirty	5	eight	four	ne	seven	six
+-through	3	break	follow	see
+-time	8	d	e	half	ll	long	non	r	t
+-times	3	many	standard	sun
+-ton	3	00	1	six
+-top	4	clean	cross	table	tilt
+-topped	3	e	flat	high
+-town	5	big	inter	little	out-of	small
+-trading	3	city	horse	no
+-trained	6	american	commando	management	obedience	well	y
+-type	9	d	e	l	n	r	reeves	sandwich	t	y
+-ups	4	follow	n	push	stand
+-valued	4	complex	le	multi	o
+-wage	3	high	low	non
+-war	7	-of	accidental	cold	go-to	post	pre	tug-o'
+-water	6	above	electric-sewer	high	hot	low	wind-and
+-way	6	dream	e	f	that-a	two	walk
+-week	9	-a	2	7-day	earth	eight	mid	seven	three	two
+-weight	4	d	heavy	light	thrust-to
+-west	3	berlin	east	herrin-murphysboro
+-western	3	non	pro	soviet
+-white	5	all	chalk	non	pinkish	snow
+-wide	9	LLUN	area	barrel	kingdom	three-inch	tion	twenty-nine-foot	world	y
+-will	3	free	good	self
+-wise	3	ce	penny	t
+-word	4	5000	by	seven	whole
+-work	3	busy	make	open
+-writing	3	cross	fiction	song
+-yard	6	0	508	545	56	back	boat
+-year	15	-a	0	1	4	52	6	e	full	half	ight	multi	o	r	ten	ty
+-year-old	15	0	1	2	3	39	4	5	6	7	8	e	eighty	en	five-hundred	two
+/16''	4	1	3	5	7
+/64''	3	21	3	5
+/8-inch	3	1	3	5
+0-day	3	1	6	9
+0-degrees	6	0	1	18	2	5	9
+0-degrees-c	5	1	2	34	7	8
+0-degrees-f	3	16	4	9
+0-foot	5	00	1	38	39	5
+0-inch	3	3	5	6
+0-megaton	3	0	2	5
+0-yard	3	0	22	28
+0-year	3	1	3	5
+0-year-old	5	1	2	4	5	7
+00's	4	17	19	5	8
+00-mile	3	5	6	7
+1-inch	3	1	2	LLUN
+10-degrees-c	3	1	4	LLUN
+2-1/2	3	1	2	LLUN
+2-inch	4	1	1/	4	LLUN
+2-year-old	5	1	2	5	6	LLUN
+20-degrees	3	-	1	2
+3-1/2	3	1	3	LLUN
+3-year-old	3	2	5	LLUN
+4-inch	3	1/	2	LLUN
+4-year-old	3	2	4	LLUN
+40's	3	'	18	19
+5-degrees	4	10	4	6	8
+5-degrees-c	3	32	37	LLUN
+5-foot	3	2	3	LLUN
+5-year-old	3	1	2	6
+50's	3	'	18	19
+50th	3	1/	3	LLUN
+6-year-old	3	1	2	3
+60's	3	18	19	LLUN
+7-year-old	3	2	3	6
+70's	3	17	18	LLUN
+abbed	8	bl	d	j	n	r	sc	st	sw
+abbing	3	d	gr	j
+abbling	3	d	g	squ
+abel	7	LLUN	b	is	l	mehit	n	z
+aber	4	LLUN	bl	f	s
+abilities	7	LLUN	avail	cap	dis	li	prob	t
+ability	13	LLUN	cap	form	i	ic	is	iv	l	n	prob	r	su	t
+abit	3	h	iuv	t
+able	23	LLUN	b	c	d	e	f	g	h	i	k	l	m	n	p	r	s	t	tax	u	v	w	y	z
+abled	5	c	dis	en	f	st
+ables	10	break	c	en	f	g	l	par	s	t	vari
+ably	15	LLUN	c	d	e	i	k	m	on	p	prob	r	t	unappeas	unimpeach	v
+about	4	LLUN	hows	round	run
+ace's	4	bonif	furn	pal	r
+aced	6	f	grim	l	men	p	r
+aces	6	LLUN	f	l	n	p	r
+acey	3	LLUN	l	st
+achable	3	appro	det	unimpe
+ache	7	LLUN	c	head	m	p	pal	ust
+ached	4	LLUN	e	ro	t
+acher	3	aeschb	e	schleierm
+aches	6	LLUN	ap	e	head	o	t
+aching	4	LLUN	att	e	o
+acial	3	f	intergl	r
+acid	3	LLUN	non	pl
+acies	5	delic	immedi	inadequ	leg	r
+acing	5	f	l	men	p	r
+acious	8	effic	l	loqu	mend	p	r	ten	viv
+aciously	3	effic	r	ten
+acity	6	aud	cap	loqu	ten	ver	viv
+ack's	3	bl	j	m
+acked	10	b	h	j	l	p	qu	r	rans	sm	t
+acker	4	cr	s	t	w
+ackers	6	att	b	cr	h	j	p
+acket	3	j	p	r
+ackets	3	j	p	r
+acking	8	b	h	hij	l	p	r	s	t
+ackled	3	c	cr	sh
+ackles	3	cr	h	t
+acks	11	adirond	b	l	n	p	qu	r	s	sh	sm	t
+acle	4	deb	n	r	t
+acles	3	n	r	t
+acon	3	b	e	m
+acquainted	3	LLUN	re	un
+acre	3	-	LLUN	s
+acted	7	LLUN	cont	en	ex	imp	r	re
+actic	3	clim	gal	t
+acting	7	-	LLUN	cont	en	ex	r	re
+action	7	-	LLUN	f	in	r	re	trans
+actions	6	LLUN	f	r	re	red	trans
+activate	3	LLUN	in	re-
+activation	3	LLUN	de	in
+active	7	LLUN	att	builder/	in	o	r	surface-
+activity	4	LLUN	in	radio	re
+actly	3	abstr	comp	ex
+actor	7	LLUN	cinem	f	multip	r	re	red
+actor's	3	LLUN	benef	r
+actors	4	LLUN	f	re	tr
+acts	7	LLUN	cont	ex	f	mp	r	re
+actual	4	LLUN	contr	f	t
+ad's	5	ahm	e	l	r	ro
+ada's	3	LLUN	arm	can
+added	3	LLUN	p	w
+adding	4	LLUN	cl	m	p
+addock	3	cr	h	p
+address	3	LLUN	he	public-
+addy	4	c	d	gl	irraw
+aded	12	c	e	f	j	n	o	persu	pom	r	sh	v	w
+aden	6	alm	baden-b	br	bro	l	le
+ader	6	crus	e	inv	k	o	r
+aders	6	crus	e	inv	lo	persu	r
+ades	11	alcibi	brig	c	e	en	l	p	r	s	sh	v
+ading	10	block	casc	crus	e	f	o	persu	r	sh	v
+adings	3	e	lo	sh
+adios	3	LLUN	r	torrid-
+adjusted	5	LLUN	mal	re	un	well-
+adjustment	3	LLUN	mal	re
+adle	3	be	cr	l
+adly	6	b	bro	de	gl	m	s
+adness	5	b	de	gl	m	s
+ador	4	ambass	ecu	labr	salv
+afer	4	ga	r	s	sh
+affected	3	LLUN	dis	un
+after	5	LLUN	here	herein	r	with-but-
+agan	4	f	j	n	p
+aged	15	LLUN	assu	band	c	eng	flood-rav	l	m	man	middle-	pack	r	s	st	w
+agement	3	eng	man	r
+agen	3	coll	copenh	oz
+ager	10	e	j	n	st	steinh	teen-	tr	vill	voy	w
+agers	4	d	l	n	teen-
+ages	19	LLUN	arri	av	c	ck	g	h	l	langu	line	m	n	nd	p	r	s	t	voy	w
+aget	3	f	m	p
+agged	9	b	g	j	l	n	r	s	t	w
+agging	8	g	n	r	s	t	unfl	w	zigz
+aggle	3	g	h	str
+aggling	3	h	str	w
+aggressive	3	LLUN	over	un
+aggy	3	b	cr	sh
+aging	13	LLUN	band	g	hemorrh	m	man	mass	p	pack	r	salv	st	w
+agon	5	duh	hex	pent	r	w
+agonal	4	di	hex	oct	tetr
+agrant	3	fl	fr	v
+agree	3	LLUN	dis	fil
+agua	3	man	nicar	t
+ague	6	LLUN	h	le	pl	pr	v
+ahan	3	isf	nisf-i-j	stran
+aided	4	LLUN	r	tax-	un
+aids	4	LLUN	m	pl	r
+aier	3	f	m	ornr
+ailed	11	f	fl	h	j	m	n	s	t	tr	v	w
+ailer	3	m	ret	tr
+ailey	3	LLUN	b	d
+ailing	11	LLUN	b	f	fl	m	n	r	ret	s	v	w
+ails	11	f	h	j	m	n	p	prev	r	s	t	w
+aimed	3	LLUN	cl	m
+ain's	3	r	t	tw
+ain't	3	't	LLUN	c
+aine	7	l	m	oc	p	quinz	r	t
+ained	8	ench	g	ord	p	pl	r	rem	t
+ainful	3	disd	g	p
+aining	6	disd	g	pl	r	rem	t
+ainless	3	p	r	st
+ainly	5	cert	m	pl	ung	v
+ains	8	ch	disd	g	l	m	p	r	t
+aint	8	compl	f	h	p	qu	s	str	t
+ainted	5	acqu	f	p	s	t
+aints	4	compl	p	restr	s
+ainty	3	cert	d	suzer
+aire	4	f	l	n	t
+aired	3	LLUN	h	p
+aires	4	aff	ast	n	popul
+airing	3	ch	f	p
+airless	3	LLUN	f	h
+airmen	3	LLUN	ch	rep
+airs	6	LLUN	f	h	l	p	st
+airways	3	LLUN	f	st
+airy	4	LLUN	d	f	h
+aise	5	ch	franc	mal	n	r
+aited	3	b	g	w
+akable	3	e	unmist	unsh
+aked	10	b	c	e	f	n	o	r	sl	st	w
+aken	6	aw	fors	o	sh	t	we
+aker	8	b	e	f	m	qu	sh	sloan	t
+akers	4	e	m	qu	sh
+akes	13	b	br	c	earthqu	fors	j	l	m	o	sh	sn	t	w
+akin	4	LLUN	bre	cro	t
+aking	8	b	e	m	o	qu	sh	t	w
+al's	14	LLUN	anim	capit	h	individu	istiql	jub	materi	p	r	riv	seg	vid	wa
+alate	3	ox	p	phth
+alding	3	b	sc	sp
+aldo	4	LLUN	gesu	w	zir
+ale's	5	fem	h	lonsd	pe	y
+aled	14	charco	e	exh	gimb	i	nas	p	r	reg	riv	sc	sign	tot	unequ
+ales	11	b	c	d	gonz	imperi	m	nighting	p	s	t	w
+alia	7	LLUN	m	paraphern	reg	speciment	tr	westph
+alian	3	austr	it	mamm
+alie	3	ath	nat	ros
+aline	4	alk	hy	s	sulfaquinox
+aling	8	di	e	h	madrig	p	sign	spir	tot
+alis	4	alk	digit	r	tibi
+alism	10	c	d	e	form	i	n	r	reviv	t	u
+alist	9	du	e	i	loy	n	r	t	v	voc
+alistic	9	cannib	e	feud	i	individu	n	r	t	univers
+alists	9	i	individu	loy	n	r	surre	surviv	t	voc
+alities	9	c	municip	on	orm	potenti	r	re	t	u
+ality	13	c	g	i	leth	m	mod	municip	n	r	re	t	u	univers
+alization	7	e	i	it	n	oc	r	u
+alize	10	ation	detrib	i	oc	orm	r	re	t	u	univers
+alized	10	e	i	leg	loc	n	orm	r	scand	t	u
+alizes	5	ci	demor	re	sign	visu
+alizing	7	nation	r	re	scand	speci	t	u
+alked	4	b	ch	t	w
+alking	3	b	t	w
+alks	3	b	t	w
+all's	4	b	f	h	ud
+alle	3	s	v	w
+alled	10	app	b	c	enthr	equ	g	marsh	riv	t	w
+aller	3	c	sm	t
+allet	4	b	g	p	w
+alley	3	LLUN	g	v
+alleys	3	LLUN	g	v
+allied	3	LLUN	moscow-	r
+allies	4	LLUN	r	s	t
+alling	8	app	b	c	f	g	marsh	r	st
+alloped	3	g	sc	w
+allow	6	LLUN	f	s	sh	t	w
+allowed	4	LLUN	dis	h	w
+allows	4	LLUN	g	marshm	sw
+alls	9	b	c	f	g	h	over	squ	st	w
+ally	14	LLUN	b	c	cip	e	g	i	m	n	r	s	t	u	w
+alma	3	LLUN	h	schm
+alms	3	p	qu	re
+alness	3	physic	r	re
+alogies	3	an	gene	miner
+alogue	3	an	cat	di
+alogues	3	an	cat	di
+alone	3	-	LLUN	m
+alta	3	m	per	y
+alted	4	ex	h	m	s
+alter	5	LLUN	f	h	s	w
+alters	3	LLUN	f	w
+alties	4	casu	oy	pen	speci
+alting	3	ex	h	s
+alton	4	LLUN	d	s	w
+alty	7	casu	e	oy	pen	r	s	speci
+alves	4	c	h	s	v
+alysis	3	an	di	par
+alyzed	3	an	di	par
+am's	12	ad	e	fo	h	heidenst	i	isl	n	p	r	s	varla
+amas	4	alab	d	paj	r
+ambiguous	3	LLUN	semi-	un
+amble	3	g	pre	r
+ambled	3	LLUN	scr	sh
+ambles	3	g	pre	r
+ambling	4	LLUN	g	r	sh
+amed	8	d	e	f	l	n	o	r	sh
+amel	3	c	car	en
+amen	3	LLUN	camer	se
+ament	8	arm	l	lig	parli	predic	r	rn	test
+aments	7	arm	deline	l	parli	rn	sacr	test
+amer	3	e	goss	r
+ames	7	f	fl	fr	g	h	j	n
+ameter	3	di	hex	par
+amic	4	dyn	glut	l	r
+amin	4	benj	dre	thi	vit
+amine	4	ex	f	mel	super-cond
+amines	4	LLUN	amphet	catechol	ex
+aming	7	e	g	l	n	o	r	t
+ammed	5	d	j	l	moh	r
+amming	3	h	l	r
+amon	3	d	l	perg
+amount	3	LLUN	par	tant
+amped	6	c	cl	rev	st	sw	tr
+amper	4	c	h	p	t
+amping	5	c	cl	rev	st	sw
+ample	4	LLUN	ex	s	tr
+amps	6	c	ch	l	r	st	sw
+ams'	3	ad	te	willi
+amus	3	d	hypothal	ignor
+an's	16	americ	carav	d	de	f	g	i	jonath	kenn	l	m	o	r	sus	t	y
+ana's	3	d	indi	santay
+anage	3	app	m	orph
+analysis	3	LLUN	o	self-
+analytic	3	LLUN	psycho	real-
+anas	3	ban	cab	m
+anbury	3	b	d	st
+ance	20	allow	ask	cogniz	come-upp	d	disturb	g	h	i	l	m	n	r	s	signific	t	u	v	venge	y
+ance's	3	alli	fr	v
+anced	8	adv	affi	d	entr	fin	h	l	outdist
+ancel	3	LLUN	c	ch
+ancers	3	c	d	rom
+ances	16	allow	annoy	d	disturb	eleg	h	i	insignific	l	m	n	nu	nuis	r	st	v
+anch	3	h	r	st
+ancho	3	p	r	s
+ancies	4	f	malign	p	vac
+ancing	8	adv	d	enh	fin	l	outdist	pr	rom
+ancy	10	buoy	del	f	n	nd	p	relev	t	vac	vibr
+and's	3	comm	husb	l
+anda	3	propag	r	serv
+andals	3	s	sc	v
+ande	3	gr	h	melis
+anded	8	b	exp	h	l	m	r	rough-s	underst
+ander	10	alex	byst	cori	g	gr	h	l	m	s	w
+andered	3	me	squ	w
+anders	8	LLUN	comm	l	lefth	misunderst	ole	p	w
+anding	8	b	exp	h	l	m	s	st	str
+ando	4	ferdin	m	orl	sforz
+andon	3	b	br	l
+ands	9	b	exp	h	l	lig	m	r	s	st
+andstand	3	b	gr	h
+andy	8	LLUN	c	d	h	norm	org	r	s
+ane's	5	c	cr	di	j	l
+aned	6	e	o	orph	pl	red-turb	w
+aneous	3	extr	miscell	t
+aner	3	cle	pl	s
+anes	9	cr	d	kof	l	m	me	p	polysilox	ureth
+anese	4	jap	leb	mang	sud
+aney	3	del	h	mcelv
+ange	4	ch	l	l'	r
+anged	5	b	cl	d	h	r
+anger	5	LLUN	d	feuchtw	l	r
+angers	3	d	h	r
+anges	3	ch	g	r
+anging	3	b	h	r
+angle	6	-	LLUN	d	sp	t	tri
+angled	7	d	m	r	right-	sp	t	w
+angles	3	LLUN	b	tri
+angling	4	LLUN	d	g	j
+ango	3	dj	kw	t
+angs	7	b	boomer	f	g	h	must	p
+angular	3	LLUN	rect	tri
+ania	6	alb	an	m	oce	pomer	sylv
+anic	8	galv	m	mech	org	p	tit	transoce	volc
+anin	3	k	m	t
+aning	4	e	gro	imitation-c	w
+anini	3	basti	pag	tosc
+anion	3	LLUN	comp	o'b
+anis	3	j	kiw	pakist
+anish	5	b	d	europe	sp	v
+anism	9	cosmopolit	g	galv	hum	i	ic	mech	mohammed	urb
+anist	6	accomp	hum	i	mahay	mech	org
+anistic	3	hum	mech	pi
+anists	4	accomp	bot	hum	i
+anita	3	LLUN	ju	manz
+anity	5	christi	hum	prof	s	v
+anium	3	germ	tit	ur
+anization	6	europe	mech	metropolit	near-balk	org	urb
+anize	3	balk	hum	org
+anized	6	europe	germ	mech	org	urb	vulc
+anizing	4	balk	christi	galv	org
+anked	5	b	fl	h	r	y
+anker	4	b	c	fr	t
+anking	5	b	l	r	th	y
+anks	6	b	l	r	t	th	y
+anky	3	cr	l	sw
+ann's	3	LLUN	m	sh
+anna	3	LLUN	v	w
+anne	4	LLUN	jo	laus	z
+anned	7	b	c	f	m	pl	sp	t
+anner	4	b	m	pl	t
+anners	4	b	m	pl	sc
+anning	7	b	c	ch	f	m	pl	sp
+annon	4	br	c	g	h
+anny	6	c	d	f	m	r	t
+anol	3	cyclohex	esp	eth
+anon	3	c	m	tri
+anos	3	pi	sopr	volc
+ans'	6	e	flannag	h	i	republic	veter
+ansen	3	christi	h	j
+ansom	3	h	r	s
+ansy	3	p	r	t
+ant's	7	defend	eleph	inf	inst	n	pl	r
+anta	4	LLUN	atl	s	w
+ante	6	LLUN	d	dur	l	s	t
+anted	7	c	ch	l	p	r	unten	w
+anter	4	b	c	h	pl
+antic	7	LLUN	atl	fr	gig	m	ped	sycoph
+antically	3	fr	m	sycoph
+antine	4	brig	byz	const	eleph
+anting	6	c	ch	gr	l	p	w
+antly	12	adam	d	flamboy	g	i	jubil	n	r	s	signific	t	triumph
+anto	3	c	k	s
+anton	4	LLUN	bl	st	w
+antry	6	g	gall	inf	knight-err	p	page
+ants	17	LLUN	c	e	end	h	i	inf	l	litig	m	n	p	r	s	serv	t	w
+anty	3	h	r	sc
+anum	3	br	lanth	laud
+anus	3	coriol	pand	tet
+anville	3	d	gr	m
+anza	5	bon	esper	l	p	rom
+aped	7	e	g	kidn	r	sc	sh	t
+aper	6	c	che	kidn	p	r	t
+apers	4	c	di	p	r
+apes	5	c	jack-an-	r	sh	t
+aping	5	e	g	r	sc	sh
+aples	3	m	n	st
+appear	3	LLUN	dis	re
+appearance	4	LLUN	blot-	dis	re
+appeared	3	LLUN	dis	re
+appearing	3	LLUN	dis	re
+appears	3	LLUN	dis	re
+apped	7	c	l	m	n	r	s	t
+apper	4	d	fl	n	r
+appers	3	fl	kidn	wr
+apping	7	l	m	n	r	s	t	y
+apple	4	LLUN	crab	gr	pine
+appointed	3	-	LLUN	dis
+appy	4	c	h	s	sn
+apses	3	LLUN	l	syn
+aque	3	br	op	pl
+ar's	7	c	e	g	li	st	ts	w
+arable	3	LLUN	p	unbe
+arbor	3	LLUN	grape-	h
+arch	6	LLUN	atri	m	mon	se	t
+arched	5	LLUN	m	p	se	st
+arches	4	LLUN	m	men	se
+arching	3	LLUN	m	se
+archy	4	an	hier	patri	st
+arco	3	LLUN	b	div
+arcus	3	LLUN	b	m
+ard's	12	bast	bo	drunk	garr	gu	h	harv	leop	liz	n	tuss	w
+arded	7	be	bo	disc	gu	reg	ret	w
+arden	6	LLUN	be	g	george-b	h	w
+ardens	3	be	g	w
+arder	4	155-y	bo	h	l
+arding	7	bo	bomb	gu	h	reg	ret	w
+ardly	4	h	hagg	haphaz	w
+ardo	3	acc	bern	edg
+ards	17	b	ball	bast	be	bo	boulev	c	gu	h	k	leop	n	reg	stand	w	y	z
+ardy	3	h	jeop	t
+are's	3	m	shakespe	squ
+ared	12	c	d	e	infr	l	o	p	sh	sn	squ	sug	t
+arely	3	b	r	squ
+arers	3	he	seaf	sh
+ares	11	LLUN	c	d	f	l	m	p	sh	squ	t	w
+arest	3	b	buch	e
+aret	5	cab	cam	cl	g	k
+arge	3	b	ch	l
+arging	3	b	ch	enl
+argo	5	c	emb	f	m	t
+aria	6	bav	becc	bulg	m	mal	t
+arian	8	antiqu	barb	hung	n	r	shakespe	t	v
+arianism	4	LLUN	it	millen	vocabul
+arians	7	antiqu	barb	gramm	in	libr	meg	t
+aried	3	sal	v	we
+aries	11	bound	i	l	n	prim	r	s	t	tu	v	vag
+arily	8	m	necess	ordin	r	second	t	w	we
+arin	4	aliz	gag	m	mand
+arina	4	cz	f	m	oc
+arine	3	g	kath	m
+aring	9	c	d	e	f	l	o	p	sh	t
+ario	6	di	impres	loth	m	n	ont
+arious	4	c	greg	hil	v
+ariously	4	hil	prec	upro	v
+aris	5	m	mili	p	pol	salut
+arish	4	be	g	nightm	p
+arism	4	milit	plagi	ts	ul
+arities	4	ch	disp	l	peculi
+arity	6	ch	disp	l	li	r	solid
+arium	3	b	seaqu	t
+arius	3	d	not	ordin
+arized	3	l	not	summ
+ark's	4	cl	m	ru	sh
+arked	3	emb	m	p
+arker	5	b	d	m	new	p
+arking	4	b	m	p	skyl
+arks	5	l	m	oz	p	sh
+arlene	3	LLUN	d	m
+arley	4	b	ch	f	p
+arling	3	d	sn	sp
+arly	3	e	l	li
+armed	9	-	LLUN	al	dis	f	h	re	un	w
+armer	5	c	ch	f	p	w
+arming	5	al	ch	dis	f	w
+arms	7	LLUN	al	ch	e	f	small-	w
+arned	3	d	e	w
+arner	3	g	v	w
+arness	3	e	famili	h
+arns	5	b	e	k	w	y
+aron	4	a	b	c	sh
+around	3	LLUN	turn	twice-
+arping	3	c	h	w
+arranged	4	LLUN	dis	over-	re
+arre	4	b	biz	c	st
+arred	7	b	ch	j	m	sc	t	w
+arrel	3	b	c	qu
+arrell	3	d	f	mag
+arried	4	c	h	m	p
+arring	5	b	m	sp	st	w
+arrington	3	LLUN	b	h
+arrow	7	LLUN	b	d	h	m	n	y
+arrowed	3	LLUN	h	n
+arrows	3	LLUN	h	n
+arry	9	b	c	g	h	l	m	p	qu	t
+arse	3	he	o	sp
+arson	6	LLUN	c	g	l	p	pe
+art's	4	LLUN	he	moz	stew
+arte	4	LLUN	ast	bonap	c
+arted	8	c	ch	d	he	p	sm	st	thw
+arter	7	c	ch	g	hov	qu	sm	st
+arters	3	c	ch	qu
+arth	3	b	e	g
+arthy	3	e	mcc	sw
+articulate	3	LLUN	in	p
+arting	5	ch	d	p	st	thw
+artly	3	p	sm	t
+arton	3	b	ke	wh
+arts	10	LLUN	beaux-	c	ch	he	m	p	qu	st	w
+arty	7	LLUN	c	he	m	mori	p	w
+arty's	3	m	mori	p
+arve	3	c	h	st
+arvey	3	LLUN	c	h
+ary's	4	m	n	secret	u
+as's	4	abb	luc	nicol	thom
+ased	6	b	c	ch	class-bi	e	r
+aser	4	b	er	m	richter-ha
+ases	10	b	bi	c	e	g	h	o	peptid	r	v
+ashed	10	c	d	l	m	qu	r	st	unab	unle	w
+asher	4	LLUN	cr	h	w
+ashes	8	LLUN	bang-s	cr	d	g	l	le	w
+ashing	8	cr	d	gn	l	m	squ	unle	w
+ashings	3	l	skull-b	w
+asia	3	LLUN	fant	pl
+asian	4	-	LLUN	cauc	eur
+asing	4	b	ch	e	r
+asion	3	occ	persu	v
+asions	3	occ	persu	v
+asis	4	b	emph	i	st
+aska	3	al	nebr	v
+asked	4	LLUN	b	m	un
+askets	3	b	c	g
+asking	3	LLUN	b	m
+asks	4	LLUN	c	m	t
+asms	4	enthusi	org	sarc	sp
+ason	4	e	j	m	sar
+asped	3	cl	g	r
+asping	3	cl	g	r
+asps	3	g	h	r
+assed	6	canv	cl	g	m	p	r
+assemble	3	LLUN	dis	re
+assembly	3	LLUN	dis	sub-
+asser	3	LLUN	g	n
+asses	7	LLUN	b	carc	gr	l	m	p
+asset	3	LLUN	g	poc
+assing	6	canv	g	m	p	r	s
+asso	5	b	l	per	pic	t
+assy	5	adm	emb	g	gl	r
+aste	5	c	h	p	t	w
+asted	9	-m	bre	breakf	contr	l	o	p	t	w
+aster	8	alab	dis	e	f	lanc	m	pl	v
+asters	5	LLUN	c	dis	m	pl
+astes	3	p	t	w
+astic	9	bomb	fant	h	i	l	m	n	r	sarc
+astically	5	dr	enthusi	fant	l	sarc
+asting	9	b	c	contr	fe	l	o	p	t	w
+astings	3	bo	broadc	h
+astly	4	gh	l	steadf	v
+astor	4	LLUN	al	c	p
+asts	9	breakf	c	contr	e	enthusi	l	m	n	o
+asty	4	h	n	p	t
+at's	9	b'dikk	c	diplom	e	f	h	o	p	r
+atable	4	deb	e	pal	r
+atant	3	bl	comb	supern
+atch	9	b	c	h	l	m	n	p	scr	w
+atched	7	h	l	m	p	scr	sn	w
+atches	8	c	l	m	p	scr	sn	th	w
+atching	7	c	disp	h	m	scr	sn	w
+ate's	6	c	k	n	pil	st	teamm
+ateau	3	b	ch	pl
+ated	18	b	c	compens	d	e	g	h	i	ill-f	l	m	n	o	p	r	t	u	v
+ateful	3	f	gr	h
+ately	10	adequ	i	ic	l	m	n	priv	r	sed	st
+ater	8	c	cr	e	flo	l	m	p	w
+atered	3	c	cr	w
+aters	5	bo	cr	e	jew-h	w
+ates	19	b	c	co	compens	d	e	f	g	h	i	l	m	n	p	r	sk	t	u	v
+ates'	6	b	candid	deleg	pir	st	teamm
+athe	4	b	e	l	o
+athed	5	b	e	lo	sw	unsc
+ather	5	e	f	g	l	r
+athered	4	e	f	g	l
+athers	4	b	e	f	g
+athing	4	b	e	lo	sc
+aths	4	b	e	o	p
+athy	5	abern	bre	c	k	p
+atic	7	acrob	emph	i	lun	m	r	st
+atically	3	emph	m	r
+atics	4	acrob	fan	m	thermost
+ating	18	b	c	d	e	g	h	i	l	m	n	o	p	r	s	sk	t	u	v
+atingly	4	fascin	humili	r	t
+atings	3	co	e	r
+ation	17	ax	b	c	d	e	g	i	iz	l	m	n	p	r	s	t	u	v
+ation's	9	associ	constell	found	leg	n	occup	organiz	r	t
+ational	12	c	e	form	g	iz	n	observ	occup	r	rel	s	t
+ationalism	4	congreg	n	r	sens
+ationalist	3	congreg	n	r
+ationally	5	n	organiz	r	rot	voc
+ationist	3	conserv	neo-stagn	segreg
+ations	17	c	cre	d	fix	g	i	iz	l	m	n	p	r	rb	s	t	u	v
+atis	3	gr	it	s
+atism	3	conserv	defe	m
+ative	15	c	caus	cre	evalu	g	i	l	lax	n	r	rm	sed	t	talk	v
+atively	9	affirm	ci	cre	l	n	neg	provoc	r	t
+atives	6	conserv	l	n	r	represent	rog
+atization	3	cr	hypost	m
+atlantic	3	-	LLUN	trans
+atomic	4	LLUN	an	di	sub
+aton	5	autom	b	e	meg	r
+ator	11	autocollim	c	cre	elev	equ	g	i	l	n	r	t
+atorial	4	conspir	dict	equ	n
+ators	9	c	cre	g	i	innov	l	n	r	t
+atory	12	anticip	c	compens	g	it	l	li	m	mand	n	r	v
+atron	3	m	p	thyr
+attack	3	-	LLUN	counter
+atted	5	b	h	l	p	squ
+atten	4	b	f	fl	wr
+atter	7	b	c	f	h	l	m	p
+atter's	3	b	l	squ
+attered	7	b	h	l	m	p	sc	t
+attering	4	b	h	l	sc
+atters	5	b	h	m	pl	sc
+atti	4	bug	p	pozz	scol
+atting	5	b	ch	m	p	squ
+attle	4	b	c	r	se
+attles	3	b	r	w
+atty	6	LLUN	ch	f	n	p	rat-a-tat-t
+atum	3	d	str	ultim
+aturation	3	m	ren	s
+ature	9	caric	curv	e	er	l	m	mini	n	st
+atured	4	caric	fe	m	n
+atures	5	e	er	legisl	mini	n
+atus	3	fl	r	st
+au's	3	e	morgenth	nass
+aud's	3	fr	milh	s
+auer	4	b	g	n	schopenh
+augh	3	l	murt	rickenb
+aught	5	c	n	onsl	r	t
+aughty	3	dr	h	n
+auling	3	h	m	p
+ault	6	boissone	cor	f	gib	s	v
+aulted	3	ass	barrel-v	f
+aults	4	f	ren	s	v
+aunch	3	l	p	st
+aunt	6	LLUN	d	g	gr	h	t
+aunted	4	d	fl	h	t
+aunting	3	fl	h	t
+aunts	3	LLUN	h	t
+ause	3	c	l	p
+auses	3	c	cl	p
+aust	3	exh	f	holoc
+automatic	3	LLUN	all-	semi
+aved	9	c	e	ensl	h	p	r	s	st	w
+avement	3	bere	ensl	p
+aven	3	h	he	r
+aver	6	cad	e	qu	r	s	w
+avery	3	LLUN	br	sl
+aves	9	c	e	h	l	lo	oct	r	s	w
+avia	3	scandin	t	yugosl
+avian	3	mold	mor	scandin
+avid	3	LLUN	d	gr
+avin	4	c	g	le	ribofl
+aving	8	c	e	ensl	h	p	r	s	w
+avings	4	engr	le	s	sh
+avis	4	LLUN	ch	d	m
+avity	3	c	r	su
+avor	4	ende	f	fl	s
+avored	4	ende	f	fl	s
+avoring	4	ende	f	fl	s
+avors	3	ende	f	fl
+aware	3	LLUN	del	un
+awareness	3	LLUN	self-	un
+away	9	-	LLUN	break	e	fly	hath	r	run	t
+awed	5	LLUN	gn	l	th	whips
+awing	7	c	cl	dr	gn	h	p	s
+awning	3	d	f	y
+axed	5	clim	co	rel	t	w
+axes	5	LLUN	clim	ho	rel	t
+axial	3	LLUN	co	r
+axing	4	co	rel	t	w
+axis	3	-	LLUN	t
+ay's	4	d	l	murr	w
+ayed	9	b	dec	dism	l	r	s	sash	st	sw
+ayer	6	l	m	r	sooths	taxp	th
+ayer's	3	pl	taxp	th
+ayers	4	l	pr	s	taxp
+ayes	3	LLUN	h	pl
+ayin'	3	pl	pr	s
+aying	10	b	dec	dism	h	l	p	r	s	st	sw
+aylor	3	b	g	t
+aylor's	3	b	g	t
+ayne	7	ag	bisc	charl	fr	p	sh	w
+ayne's	3	fr	p	sh
+azed	5	am	d	g	l	r
+azer	3	g	gr	l
+azes	3	g	gl	h
+azine	4	hydrox	mag	phenothi	prom
+azing	4	am	g	l	r
+azio	3	f	ign	pancr
+bable	4	impertur	indescri	pro	uncom
+bach	3	LLUN	en	es
+bach's	3	auer	dres	offen
+back	14	-	LLUN	a	draw	e	feed	flash	half	l	play	r	snap	t	wing
+backs	8	-	LLUN	er	half	kick	play	set	turtle
+baked	3	-	LLUN	sun
+balance	5	LLUN	counter	im	un	water-
+balanced	4	-	LLUN	counter	un
+ball	9	-	LLUN	e	high	kim	n	t	volley	w
+ball's	3	LLUN	base	foot
+balls	5	8-	LLUN	e	foot	snow
+band	4	LLUN	contra	hus	sweat
+banded	3	LLUN	dis	full-
+bans	3	LLUN	cu	la
+baptist	3	LLUN	ana	congregational-
+bard	3	LLUN	lom	scab
+barrel	3	-	LLUN	gun
+bars	5	LLUN	cross	handle	plasti-	sand
+bated	4	a	de	exacer	incu
+bates	3	LLUN	de	exacer
+bath	4	LLUN	bird	oil-	sab
+bating	4	com	de	incu	repro
+bation	3	incu	pro	r
+bats	3	LLUN	acro	at-
+baum	3	LLUN	kersh	n
+bbed	4	a	i	o	u
+bber	3	o	u	we
+bbing	5	a	e	o	ri	u
+bble	5	a	i	o	pe	u
+bbled	4	a	o	ri	u
+bbles	4	a	bu	o	pe
+bbling	3	a	bu	wo
+bean	5	LLUN	carib	castor	jaco	soy
+beans	3	LLUN	castor	soy
+bearing	4	-	LLUN	fore	over
+bears	3	LLUN	for	fore
+beat	6	LLUN	down	heart	off	off-	up
+beaten	3	LLUN	brow	weather
+bees	3	LLUN	bumble	honey
+being	3	LLUN	well	well-
+believe	3	LLUN	dis	make-
+believing	3	LLUN	dis	un
+bell	6	LLUN	a	b	camp	lu	r
+belly	4	-	LLUN	sow	under
+bent	4	LLUN	cum	non-absor	un
+ber's	4	bom	fa	r	sto
+berated	3	LLUN	li	rever
+berations	3	ab	deli	rever
+bered	3	clob	m	so
+berg	10	d	ek	heidel	hult	m	n	nor	ny	s	schmidl-see
+berg's	4	LLUN	s	schon	strind
+berger	4	LLUN	n	neu	sulz
+berman	4	LLUN	blau	do	lie
+berries	4	LLUN	blue	cran	straw
+berry	6	LLUN	black	dog	e	rasp	wood
+bers	5	al	i	m	ob	tu
+bert	9	LLUN	hu	l	lam	os	phili	r	ro	sy
+berto	3	LLUN	al	ro
+bery	3	b	new	stans
+beth	4	LLUN	a	lam	mac
+bian	5	a	all-les	colom	danu	ple
+bide	3	LLUN	a	car
+bie's	3	bob	crom	hu
+bies	4	a	ob	ru	zom
+bile	4	LLUN	la	mo	nu
+bility	4	a	de	i	o
+bine	4	com	r	sa	triphenylsti
+bing	8	LLUN	b	m	pro	r	rudkoe	scri	tu
+bingly	3	distur	num	sob
+bins	3	LLUN	b	ca
+bird	5	LLUN	cow	e	hola	star
+birds	5	LLUN	black	cow	rail	red
+birds'	3	LLUN	cow	red
+birth	4	LLUN	child	re	re-
+bitch	3	LLUN	a	son-of-a-
+bite	3	LLUN	frost	jaco
+biting	5	LLUN	bab	hi	inha	or
+bits	7	LLUN	gam	ha	hi	or	rab	tid
+bject	3	a	o	su
+bled	6	LLUN	a	b	gar	m	ou
+bler	5	a	dab	lie	m	no
+bles	7	a	b	i	m	mar	o	u
+bling	6	a	b	m	ou	si	war
+block	3	-	LLUN	road
+blood	3	LLUN	half-	life
+blown	3	-	LLUN	over
+board	14	-	LLUN	a	ck	d	e	g	h	key	ll	n	out	p	r
+boards	8	LLUN	bill	cup	e	floor	in	out	peg
+boat	7	-	LLUN	eam	life	river	sail	speed
+boats	4	LLUN	e	sail	tow
+bodied	3	-	LLUN	em
+bodies	3	LLUN	anti	em
+body	10	-	LLUN	anti	em	ever'	good	no	pea	some	y
+body's	5	LLUN	no	pea	some	y
+boiled	4	LLUN	hard	hard-	par
+bolic	3	hyper	meta	sym
+bone	9	LLUN	collar	herring	jaw	k	petti	rath	shin	thigh-
+boned	3	-	berib	raw
+bones	6	LLUN	car	cheek	lazy	marrow	rath
+book	10	-	LLUN	check	e	hand	scrap	sketch	song	t	year
+books	8	LLUN	copy	hand	non-	note	prayer	school	t
+boom	3	LLUN	boom-boom-	ka
+bor's	3	har	la	neigh
+bore	3	LLUN	for	smooth
+bored	3	LLUN	har	la
+boring	4	LLUN	bela	har	neigh
+born	9	-	LLUN	dear	fresh	l	n	new	re	stub
+borne	4	LLUN	helicopter-	os	r
+borough	4	LLUN	jones	marl	scar
+bors	3	har	la	neigh
+bound	9	-	LLUN	a	e	rock	spell	storm	th	un
+bounded	3	LLUN	a	un
+bounds	3	LLUN	a	out-of-
+bout	3	'	LLUN	a
+boxes	3	LLUN	mail	snuff
+boys	5	LLUN	bully	cow	l	whipping-
+braced	3	LLUN	em	well-
+bracing	3	LLUN	em	under
+bread	3	LLUN	bee	corn
+break	3	LLUN	day	t
+breaking	4	LLUN	heart	house	law-
+breaks	4	LLUN	fire	out	wind
+bred	4	-	LLUN	city	thorough
+bric	3	fa	ham	ru
+bridge	7	LLUN	cam	draw	foot	stur	ux	wal
+bright	3	LLUN	jewel-	l
+brium	3	equili	im	oppro
+broiled	3	LLUN	charcoal-	em
+broke	3	LLUN	boling	pem
+broken	3	LLUN	house	un
+brook	5	LLUN	donny	hol	sea	west
+brothers	3	LLUN	fair	half-
+brous	3	fi	sca	tene
+brush	6	LLUN	clothes	e	paint	tooth	under
+buck	3	LLUN	reed	roe
+bugs	3	-	LLUN	bed
+builders	3	LLUN	body	home
+building	6	-	LLUN	body	e	road	ship
+built	3	-	LLUN	re
+bula	3	ne	sonam	ta
+bular	3	lo	ne	tu
+bums	3	LLUN	al	freight-
+burdened	3	LLUN	over	un
+burg	5	har	luxem	n	s	sand
+burg's	3	har	olden	sand
+burger	3	LLUN	ham	new
+burn	7	LLUN	au	cli	el	sun	wo	y
+burned	3	LLUN	sun-	un
+burst	3	LLUN	cloud	out
+bury	6	LLUN	an	new	s	ter	wood
+busch	3	LLUN	knapperts	rauschen
+bush	4	LLUN	am	e	salt
+buster	3	LLUN	block-	fili
+by's	7	ba	cros	dig	form	jaco	kir	rob
+cable	5	LLUN	i	impec	impla	o
+cably	3	i	impec	irrevo
+cade	7	ar	aspen	barri	bro	de	fa	s
+caded	4	ar	bro	cas	fa
+cades	7	ar	aspen	barri	cas	caval	de	fa
+calculated	3	LLUN	mis	re
+calculation	3	LLUN	mis	re
+cale	3	i	lo	s
+called	4	LLUN	re	so-	un
+cals	3	i	o	ras
+came	3	LLUN	be	over
+camp	3	-	LLUN	en
+cans	4	LLUN	i	pe	s
+cant	5	LLUN	i	s	se	va
+canted	3	LLUN	e	in
+cants	3	commer	i	se
+capable	3	LLUN	in	ines
+capacity	3	LLUN	in	performance-
+caps	3	LLUN	handi	mob
+carbon	3	LLUN	chlorine-	o
+card	5	-	LLUN	dis	post	score
+care	3	-	LLUN	s
+cars	4	LLUN	box	s	street
+cart	3	LLUN	ox	tea
+case	7	-	LLUN	book	brief	show	stair	suit
+cases	5	LLUN	book	fra	stair	suit
+cast	8	LLUN	broad	down	e-	fore	out	over	rough
+casters	3	LLUN	broad	fore
+casting	3	LLUN	broad	fore
+castle	3	LLUN	flyer-	new
+casts	4	LLUN	broad	fore	out
+cate	4	edu	i	o	va
+cated	9	confis	defe	demar	edu	i	incul	o	trun	va
+cates	3	advo	i	impre
+cating	5	confis	edu	i	o	pla
+cation	7	edu	i	incul	o	r	self-depre	va
+cational	3	communi	edu	vo
+cations	5	edu	i	impre	o	va
+ce's	5	a	for	gree	i	n
+ceable	3	a	enfor	i
+cede	4	ac	con	e	inter
+ceded	4	ac	con	e	super
+cedes	3	con	mer	pre
+ceed	3	ex	pro	suc
+ceeded	4	ex	pre	pro	suc
+ceeding	4	ex	pre	pro	suc
+ceeds	3	ex	pro	suc
+ceive	3	con	e	per
+ceived	3	con	e	per
+ceives	3	con	e	per
+ceiving	3	con	e	per
+cell	4	-	LLUN	milliamperes/	pur
+cels	3	can	ex	par
+cement	6	LLUN	a	asbestos-	indu	n	nfor
+cements	5	enti	indu	n	pla	reinfor
+cence	4	fi	inno	s	translu
+cency	3	compla	de	translu
+cent	11	-	LLUN	a	ac	e	inno	magnifi	per	s	translu	vin
+center	3	-	LLUN	epi
+cently	3	e	inno	magnifi
+centric	4	LLUN	con	ec	o
+cents	5	-	LLUN	ac	adoles	inno
+cept	6	'	ac	con	ex	inter	pre
+cepted	3	ac	in	inter
+cepting	3	ac	ex	in
+ception	5	contra	e	ex	n	per
+ceptions	4	con	e	ex	per
+ceptive	4	contra	e	noci	per
+ceptor	3	barore	in	inter
+cepts	4	ac	con	inter	pre
+cer's	4	gro	mer	n	offi
+cerated	3	incar	la	ul
+cers	6	a	gro	n	offi	r	u
+cers'	3	dan	offi	produ
+certain	3	LLUN	as	n
+certainty	3	LLUN	self-	un
+cery	3	chan	gro	sor
+cess	6	c	ex	prin	pro	re	su
+cesses	4	abs	c	ex	pro
+cession	5	LLUN	con	e	pro	suc
+cessor	3	prede	pro	suc
+cessors	3	prede	pro	suc
+cest	3	fier	i	in
+cester	3	glo	glou	wor
+ch's	8	a	crou	hirs	muni	t	te	ur	wel
+chairs	3	LLUN	arm	side
+change	3	LLUN	ex	inter
+changeable	3	LLUN	inter	un
+changed	3	LLUN	ex	un
+changes	3	LLUN	ex	inter
+changing	4	-	LLUN	ex	un
+channel	4	-	LLUN	co	multi
+chant	3	LLUN	en	mer
+chard	4	n	or	ri	ry
+charged	4	LLUN	dis	super-	un
+chasing	3	LLUN	chimera-	pur
+check	3	LLUN	pay	re
+checked	3	LLUN	triple-	un
+ched	9	a	enri	l	n	ou	poo	r	scree	t
+chell	3	mit	va	win
+chemical	3	-	LLUN	o
+chen	4	LLUN	i	t	ubermens
+cher	10	a	bou	e	mel	n	o	pins	r	ri	t
+chers	5	ea	ran	resear	t	vou
+chery	3	ar	but	debau
+ches	10	LLUN	a	ee	i	n	ou	psy	r	stadtis	t
+chess	3	LLUN	du	dut
+chest	4	LLUN	ice-	n	ri
+chester	5	LLUN	n	or	ro	west
+chet	3	cro	hat	montra
+chewing	3	LLUN	es	gum-
+chic	3	LLUN	anar	psy
+chief	5	LLUN	commander-in-	ker	mis	tall
+chiefs	3	LLUN	handker	sub-
+child	4	LLUN	fair	parent-	step
+children	3	LLUN	grand	school
+chilling	3	-	LLUN	s
+chin	3	LLUN	dan	kit
+chin'	3	crou	dry-gul	mar
+china	3	LLUN	indo	indo-
+ching	10	LLUN	a	enri	l	n	ou	r	scree	smoo	t
+chings	4	laun	sear	tea	wat
+chka	3	kokos	petru	yuro
+chloride	4	LLUN	dowex-2-	hydro	tetra
+chman	4	coa	en	fleis	t
+chmen	4	chur	coa	en	wat
+chment	3	a	enri	par
+christian	3	-	LLUN	un
+cial	7	a	commer	cru	i	n	so	spe
+cialism	3	commer	provin	so
+cialization	3	commer	so	spe
+cially	7	commer	cru	fi	finan	ra	so	spe
+cian	4	gre	i	pin	u
+ciate	4	appre	asso	enun	offi
+ciated	5	appre	ema	nun	offi	sso
+ciating	4	appre	asso	excru	offi
+ciation	3	nun	pre	sso
+ciations	3	appre	asso	enun
+cible	3	invin	u	unenfor
+cide	3	coin	e	i
+cides	3	coin	de	i
+cidity	3	a	lu	ran
+cient	3	an	fi	omnis
+cier	3	an	gla	r
+cies	5	a	e	idio	n	poli
+cific	3	fibrocal	pa	spe
+cification	3	cal	self-pa	spe
+cified	3	cal	cru	spe
+cile	6	do	fa	i	imbe	mar	recon
+cinating	4	fas	hallu	ratio	vac
+cine	4	mede	medi	ra	vac
+cing	6	a	du	i	n	r	s
+cion	3	coer	s	suspi
+cious	5	a	e	i	o	s
+ciously	4	a	cons	i	o
+ciousness	3	cons	spa	vi
+circle	3	LLUN	en	semi-
+cise	4	ex	n	pre	r
+cism	3	fas	i	ostra
+cist	3	fas	i	pharma
+cists	3	fas	i	ra
+cite	5	LLUN	ex	in	mono	re
+cited	5	LLUN	ex	in	li	re
+cities	4	LLUN	capa	i	o
+citing	5	LLUN	ex	in	re	soli
+city	7	-	LLUN	a	i	o	pau	scar
+cius	4	fabri	mar	men	u
+civil	3	-	LLUN	un
+ck's	6	a	e	i	o	u	verplan
+ck-up	3	i	sha	stu
+cked	5	a	e	i	o	u
+cken	4	fu	i	men	ra
+cker	5	a	e	i	o	u
+ckers	4	a	i	ro	u
+ckery	3	mo	qua	vi
+cket	6	a	be	i	o	spy	u
+cketed	3	ja	o	pi
+ckets	4	a	bu	i	o
+ckett	3	be	ha	o
+ckey	3	i	ma	o
+ckin'	3	bushwha	che	ro
+cking	6	a	e	i	o	pr	u
+ckish	3	bra	pu	si
+ckle	5	a	bro	i	u	un
+ckled	4	a	e	i	u
+ckles	4	a	e	pi	u
+ckley	4	ble	bu	hin	sewi
+ckling	3	bu	cra	tri
+ckman	4	a	bu	e	i
+ckup	3	che	lo	pi
+claim	5	LLUN	ac	ex	pro	re
+claimed	7	LLUN	ac	dis	e	ex	pro	un
+claiming	3	LLUN	ex	pro
+claims	4	LLUN	ac	ex	pro
+clamation	3	ac	ex	pro
+class	4	-	LLUN	inter	out
+clean	5	LLUN	ma	peri	sopho	un
+clear	3	LLUN	nu	un
+cled	5	bespecta	chroni	cir	cy	mus
+cles	8	a	cir	cy	i	mus	o	sie	un
+cliffe	3	rat	sur	wy
+cline	3	de	in	tetracy
+clock	3	LLUN	o'	round-the-
+closed	5	LLUN	dis	fore	half-	n
+closes	3	LLUN	dis	en
+closing	4	LLUN	en	fast-	fore
+closure	3	LLUN	dis	en
+cloth	5	LLUN	cheese	loin	oil	terry-
+clothes	4	LLUN	plain	under	winding-
+club	3	LLUN	glee-	night
+clude	3	e	ex	n
+cluded	4	e	ex	n	oc
+clusion	4	ex	n	oc	se
+clusive	3	ex	n	oc
+co's	4	bar	francis	glim	i
+coach	3	LLUN	night-	stage
+coast	3	LLUN	coast-to-	sea
+coat	6	LLUN	ed	over	t	top	x-tru-
+coated	4	LLUN	great	heavy-	pink-petti
+coats	5	LLUN	ed	over	rain	top
+cock	7	LLUN	bab	d	game	han	hitch	pea
+cola	4	-	apalachi	pensa	so
+colo	3	LLUN	i	nic
+color	4	-	LLUN	i	water
+colored	6	-	LLUN	dis	i	taffy	un
+colors	3	LLUN	dis	water
+come	6	LLUN	be	in	out	over	wel
+comes	6	LLUN	be	in	out	over	wel
+comic	3	LLUN	tragi	tragi-
+coming	8	-	LLUN	e	forth	n	over	up	wel
+comings	4	LLUN	home	home-	short
+commissioned	3	LLUN	non	non-
+company	3	LLUN	ac	intra-
+comparable	4	LLUN	im	in	non-
+compass	3	LLUN	en	gyro
+complete	3	LLUN	im	in
+concave	3	LLUN	bi	plano
+conceived	3	LLUN	ill-	pre
+conceptions	3	LLUN	mis	pre
+concert	3	LLUN	dis	en-
+conditioned	4	LLUN	air-	pre	un
+conditioning	3	LLUN	air-	re
+conditions	3	LLUN	pre	pre-
+cone	5	-	LLUN	mc	mos	sili
+confident	3	LLUN	over	self-
+conformists	3	LLUN	non	non-
+connected	5	-	LLUN	dis	inter	un
+conscious	5	-	LLUN	pre	sub	un
+consciously	4	LLUN	self-	sub	un
+consciousness	3	-	LLUN	unself
+consistent	3	LLUN	in	self-
+constructed	3	LLUN	grade-	re
+construction	3	LLUN	mis	re
+content	3	LLUN	dis	self-
+continent	3	LLUN	mid-	sub
+control	3	-	LLUN	birth
+controlled	3	-	LLUN	un
+cooked	3	LLUN	over	pre
+cooled	3	-	LLUN	over
+coon	3	co	rac	ty
+copied	3	LLUN	much-	re
+cord	6	LLUN	ac	col	con	dis	re
+corded	3	LLUN	ac	re
+cords	3	LLUN	ac	re
+core	5	LLUN	alba	foamed-	s	travan
+cores	3	LLUN	en	s
+corn	4	LLUN	al	capri	s
+corporate	3	LLUN	dis	in
+cortical	3	LLUN	hypothalamic-	paleo
+cott	5	LLUN	boy	l	lippin	s
+count	4	LLUN	ac	is	re
+counted	5	LLUN	ac	dis	re	un
+counter	3	LLUN	en	over-the-
+counting	5	LLUN	ac	dis	photon-	re
+counts	4	LLUN	ac	dis	re
+courage	3	LLUN	dis	en
+course	5	LLUN	a	dis	inter	re
+court	3	LLUN	betan	har
+cover	5	LLUN	dis	re	un	under
+covered	5	-	LLUN	dis	re	un
+covering	3	LLUN	dis	re
+covers	3	LLUN	dis	re
+crackers	3	LLUN	fire	fire-
+craft	4	LLUN	air	kahler-	space
+cratic	3	bureau	idiosyn	o
+crats	3	bureau	dixie	o
+crease	3	LLUN	de	in
+creased	3	LLUN	de	in
+creases	3	LLUN	de	in
+created	3	-	LLUN	re
+creates	3	LLUN	re	re-
+creating	3	LLUN	form-	re
+creation	4	LLUN	pro	re	re-
+credited	3	LLUN	ac	dis
+crest	3	LLUN	hill	maple
+cretion	4	ac	dis	ex	se
+crimination	3	dis	re	self-
+crisis	3	LLUN	crisis-to-	inter
+critical	5	LLUN	hypo	self-	super	un
+cross	3	LLUN	a	criss-
+crossed	3	-	LLUN	criss
+ctable	4	e	intra	predi	u
+ctant	3	expe	relu	surfa
+cted	5	a	conco	e	i	u
+ctedly	3	distra	e	unrestri
+cters	3	chara	do	spe
+ctible	3	colle	inta	u
+ctic	3	a	ar	e
+cting	4	a	e	i	u
+ction	6	a	e	i	infar	n	u
+ctional	5	e	fra	fun	i	nstru
+ctionary	3	di	fun	rea
+ctions	5	a	e	i	n	u
+ctive	5	a	e	i	n	u
+ctively	4	a	constru	e	stin
+ctivity	3	a	du	e
+ctly	4	a	e	in	stri
+ctor	5	a	e	i	o	u
+ctor's	5	a	do	e	u	vi
+ctories	3	fa	refe	vi
+ctorily	3	contradi	perfun	satisfa
+ctors	5	a	e	i	o	u
+ctory	5	a	e	i	introdu	perfun
+ctual	3	a	e	instin
+ctuality	3	a	intelle	pun
+ctually	3	a	intelle	pun
+cture	5	a	e	n	pi	stru
+ctured	5	a	e	pi	pun	stru
+ctures	5	a	e	i	jun	stru
+cturing	5	le	manufa	pi	pun	stru
+cuff	3	LLUN	off-the-	s
+cular	6	a	cir	e	i	o	s
+cularly	4	i	intramus	jo	specta
+culate	5	cal	cir	i	imma	spe
+culated	7	cal	cir	eja	emas	floc	i	spe
+culating	4	cal	cir	gesti	spe
+culation	7	arti	cal	cir	emas	floc	ino	spe
+culations	4	cal	i	ino	spe
+cule	4	her	minis	mole	ridi
+cultural	4	LLUN	agri	cross-	trans
+cund	3	fe	jo	rubi
+cure	5	LLUN	epi	obs	pro	se
+cured	4	LLUN	obs	pro	se
+curred	3	n	oc	re
+currence	3	con	oc	re
+current	5	-	LLUN	con	re	under
+currently	3	LLUN	con	re
+curring	3	in	oc	re
+cuse	4	ac	ex	s	syra
+cused	3	ac	ex	fo
+cuses	4	ac	cau	ex	fo
+cusing	3	ac	cau	fo
+cussion	3	con	dis	per
+cute	3	LLUN	a	e
+cuts	3	LLUN	hair	short
+d-filled	3	bloo	flui	gol
+d-glass	3	liqui	n	staine
+d-looking	3	goo	gran	squashe
+d-on	3	ad	agree	hea
+d-out	4	down-an	e	sol	sprea
+d-type	4	be	househol	old-gra	poems-in-drawing-an
+d-up	3	buil	dual-roa	e
+da's	4	a	flori	jor	n
+dable	3	i	n	rea
+dably	3	i	lau	understan
+dage	3	a	n	yar
+dale	7	LLUN	chali	e	er	n	roch	s
+dall	3	bar	ran	u
+dame	3	LLUN	a	notre-
+dance	7	-	LLUN	cor	i	n	rid	tap
+daniel	3	LLUN	mc	tamiris-
+dant	3	confi	n	r
+date	7	LLUN	accommo	i	man	se	up	up-to-
+dated	7	LLUN	accommo	i	n	out	out-	up
+dates	3	LLUN	accommo	candi
+dating	4	LLUN	accommo	i	inun
+dation	5	accommo	degra	i	n	retar
+dations	5	depre	gra	liqui	mo	n
+daughter	3	LLUN	grand	grand-
+day's	6	LLUN	fri	n	r	s	to
+days	7	LLUN	i	n	nowa	satur	school	wednes
+dboard	3	ar	hea	mol
+dded	5	a	e	o	ski	u
+dden	4	a	i	o	su
+dder	5	a	i	o	re	u
+ddies	5	bi	bu	e	pa	so
+dding	5	a	e	i	o	u
+ddings	3	gi	pu	we
+ddish	3	ka	re	yi
+ddle	5	a	e	i	mollyco	u
+ddled	5	a	co	pe	ri	u
+ddles	3	i	sa	u
+ddling	4	i	me	stra	u
+de's	5	au	da	hy	i	n
+deal	3	LLUN	i	or
+deceiving	3	-	LLUN	eye-un
+declared	3	LLUN	re-	un
+decorated	3	LLUN	re	un
+decoration	3	LLUN	pre-	re
+dedly	4	cold-bloo	conce	i	n
+dedness	3	guar	light-hea	n
+defined	4	LLUN	re	un	well-
+degree	3	-	LLUN	milli
+degrees	3	-	LLUN	milli
+dell	7	LLUN	bar	farmer-in-the-	muska	o	wad	wen
+demic	3	aca	epi	pan
+democratic	3	-	LLUN	un
+den's	3	ad	hol	swe
+dence	5	ca	i	n	prece	u
+dened	5	a	d	embol	r	wi
+dening	3	broa	gar	mad
+dens	4	LLUN	broa	i	r
+dent	8	LLUN	ar	deca	ece	i	n	o	u
+dent's	3	n	presi	stu
+dental	3	LLUN	ci	transcen
+dently	3	i	indepen	u
+dents	5	ece	i	n	ro	stu
+departmental	3	LLUN	inter	intra
+dependence	3	LLUN	in	inter
+dependent	4	LLUN	in	inter	species-
+der's	5	ea	l	n	ri	sny
+derate	3	confe	consi	mo
+deration	3	consi	fe	mo
+derations	3	confe	cons	consi
+dere	4	LLUN	belve	belvi	conten
+dered	6	i	l	n	pow	r	shud
+dering	5	consi	l	n	r	shud
+derly	3	el	or	ten
+ders	9	a	d	do-goo	i	l	n	ow	r	u
+ders'	3	buil	rai	tra
+dery	3	i	pow	shud
+deserved	3	LLUN	un	well-
+dest	8	broa	har	i	l	mo	n	shrew	u
+determined	4	LLUN	pre	pre-	un
+deus	4	LLUN	mastoi	menuhin-ama	thad
+developed	4	-	LLUN	er	un
+dge's	3	do	i	ju
+dged	4	bri	e	o	u
+dger	3	le	o	sti
+dges	5	ba	e	i	o	u
+dges'	3	cooli	ho	ju
+dget	3	bri	bu	ga
+dging	3	e	o	u
+dgment	4	abri	acknowle	ju	lo
+dhead	3	go	re	roun
+dheads	3	dea	floo	re
+dhouse	3	a	guar	roun
+di's	3	brumi	garibal	ver
+dia's	4	cambo	clau	in	laguar
+dial	6	LLUN	custo	gerun	r	ra	reme
+dian	7	a	custo	freu	guar	i	me	n
+dian's	3	LLUN	cana	in
+dians	5	cana	e	flori	guar	in
+diaries	3	LLUN	incen	subsi
+diary	3	LLUN	interme	subsi
+diate	3	me	ra	repu
+diating	3	me	ra	repu
+dical	4	me	o	ra	ri
+dically	3	me	o	ra
+dicate	4	adju	era	n	rede
+dication	4	adju	e	era	n
+dice	6	LLUN	bo	cowar	eury	preju	three-
+dick	3	LLUN	bene	fos
+dict	4	ad	contra	pre	ver
+dicted	4	ad	contra	in	pre
+diction	5	LLUN	ad	contra	e	juris
+dictions	3	contra	juris	pre
+dicts	3	ad	contra	pre
+died	8	LLUN	bir	mud	o	prov	stea	stu	ti
+dier	5	a	bouvar	han	sol	su
+dies	10	LLUN	a	bir	d	e	n	o	ol	stu	subsi
+dieu	3	LLUN	a	prie-
+differentiated	3	LLUN	de	un
+dified	3	dehumi	e	o
+digested	4	LLUN	half-	pre	un
+dily	5	dan	ea	ee	o	tar
+dimensional	3	-	LLUN	multi
+diments	3	con	embo	se
+din'	3	an	her	l
+dine	6	LLUN	ar	geral	i	na	o
+diness	4	d	ea	tar	ti
+ding	10	a	crow	d	e	i	l	n	o	r	u
+dingly	3	accor	excee	n
+dings	7	a	d	ee	l	n	r	ti
+dini	3	conta	guar	hou
+dious	4	i	o	stu	te
+diously	3	insi	stu	te
+direct	4	-	LLUN	in	re
+directional	3	LLUN	uni	uni-
+discovery	3	LLUN	re	self-
+discriminatory	3	LLUN	anti-	non
+dish	7	LLUN	chil	d	mo	n	ra	swe
+dism	4	i	metho	nu	sa
+dison	3	ad	e	ma
+disposed	3	LLUN	in	pre
+disposition	3	LLUN	in	pre
+dist	6	LLUN	gan	harpsichor	metho	nu	sa
+dite	3	aphro	eru	recon
+dities	5	absur	commo	cru	od	stupi
+dition	5	ad	e	n	tra	u
+ditional	3	ad	con	tra
+ditionally	3	ad	tra	uncon
+ditions	5	ad	au	e	n	tra
+dits	3	au	cre	n
+dity	6	absur	commo	here	i	u	un
+dium	6	a	e	myocar	n	o	ri
+dland	3	hea	newfoun	woo
+dled	6	cra	d	ee	hur	i	n
+dler	5	a	fie	i	n	ped
+dlers	3	d	han	i
+dles	5	a	d	hur	n	nee
+dless	8	ar	chil	clou	ee	hea	li	n	o
+dlessly	3	en	nee	wor
+dley	6	bra	du	gri	han	lo	me
+dlike	3	bir	chil	go
+dliness	3	dea	go	n
+dling	4	d	i	n	r
+dman	5	frie	ma	n	o	wei
+dment	3	bombar	n	unfol
+dn't	3	di	ha	oul
+dness	7	a	ar	e	goo	l	n	vivi
+dney	3	i	ro	sy
+do's	3	colora	fu	quasimo
+dock	3	LLUN	ad	dry-
+does	4	LLUN	a	innuen	torpe
+doing	4	LLUN	over	un	wrong
+dominated	3	-	LLUN	pre
+doms	3	chief	free	king
+don's	3	gor	lou	n
+done	4	LLUN	l-5-vinyl-2-thio-oxazoli	over	un
+donnell	3	LLUN	mc	o'
+dons	3	masto	par	ten
+door	5	-	LLUN	in	out	trap
+doors	5	LLUN	in	out	out-of-	trap
+dora	4	LLUN	fe	flora	n
+dore	4	a	mullen	o	steve
+dors	4	ambassa	corri	o	ven
+dour	3	LLUN	can	pompa
+dowed	3	en	sha	wi
+down	9	-	LLUN	bear	k	ow	rub	t	touch	un
+downs	4	LLUN	break	shut	touch
+dows	3	a	n	wi
+dramatic	3	LLUN	less-	melo
+drawn	3	LLUN	e-	with
+dreamed	3	LLUN	day	un
+dress	5	LLUN	ad	full-	night	re
+dressed	5	-	LLUN	ad	re	un
+dressing	3	LLUN	ad	un
+drew	4	LLUN	an	out	with
+drift	3	LLUN	a	beach-
+driver	5	LLUN	cab	non	race-	truck
+driving	3	-	LLUN	over
+dron	3	octahe	rhododen	squa
+droom	3	a	be	war
+drop	3	LLUN	back	tear
+drops	4	LLUN	air	dew	rain
+drums	3	LLUN	dol	ear
+drying	4	-	LLUN	non	semi
+dside	3	be	roa	woo
+dson	5	davi	donal	gran	richar	u
+dson's	3	davi	hu	richar
+dstone	3	fiel	grin	re
+dual	3	LLUN	gra	i
+duce	4	ad	e	in	ro
+duced	3	e	in	ro
+ducer	3	e	pro	trans
+duces	4	LLUN	in	re	ro
+ducing	3	e	in	ro
+duct	4	LLUN	con	de	pro
+duction	4	ab	e	n	ro
+ductions	3	e	in	ro
+ducts	4	LLUN	aque	con	pro
+dville	3	leopol	raymon	ree
+dwell	3	LLUN	cal	trea
+dwick	3	cha	har	lu
+dwin	3	bal	e	o
+dwood	5	bir	dea	mi	re	wel
+dwork	3	fiel	groun	woo
+dy's	6	an	bo	d	har	kenne	la
+dyard	3	le	ru	woo
+dying	6	LLUN	embo	rea	stu	ti	un
+dyke	3	LLUN	ko	nor
+dynamic	3	LLUN	bio-	o
+e'll	4	h	someon	ther	w
+e're	3	w	wher	y
+e-building	3	hom	hous	thre
+e-day	4	fiv	futur	on	thre
+e-deep	3	ankl	bon	kne
+e-drawn	3	fin	lac	mul
+e-eyed	3	blu	goggl	wid
+e-foot	4	00-squar	fiv	singl	thre
+e-haired	3	blond	spik	wir
+e-happy	3	applaus	fortun	pressur
+e-in	4	clos	driv	fad	ti
+e-like	7	cav	interferenc	lif	scroog	snak	travelogu	vultur
+e-looking	4	fin	nic	sever	sid
+e-night	3	home-for-th	on	thre
+e-out	3	freez	hid	stak
+e-school	3	middl	pr	privat
+e-step	4	carriag	l	on	sid
+e-time	3	on	spac	ur
+e-up	4	ak	clos	di	shap
+e-way	3	on	out-of-th	thre
+e-year	5	2-scor	n	rookie-of-th	thre	v
+ea's	3	ar	h	s
+eable	9	c	e	g	mall	rat	s	siz	unnam	unshak
+eably	3	agre	notic	unmanag
+each	5	LLUN	b	p	r	t
+eachers	3	bl	pr	t
+eaches	5	b	l	p	r	t
+eaching	4	b	bl	r	t
+eaded	4	b	h	l	r
+eader	3	h	l	r
+eaders	3	homest	l	r
+eading	3	h	l	r
+eadings	3	h	l	r
+eads	5	b	h	l	r	st
+eadsman	3	b	h	l
+eady	4	b	h	r	st
+eage	3	acr	lin	mil
+eager	3	LLUN	m	over
+eaked	5	l	p	r	sn	squ
+eaker	5	b	br	sn	sp	w
+eakers	4	b	br	sn	sp
+eaking	4	r	sn	sp	squ
+eaks	5	l	p	r	sn	st
+eaky	4	l	p	sn	squ
+eale	3	b	l	p
+ealed	7	conc	cong	h	p	rev	s	squ
+ealer	4	d	h	r	st
+ealing	8	app	conc	d	h	rev	s	squ	st
+eals	9	cer	conc	d	m	p	rev	s	squ	st
+ealth	3	h	st	w
+eamed	3	gl	r	t
+eaming	4	b	gl	r	t
+eams	4	b	r	s	t
+eaning	3	l	m	w
+eans	9	a	b	d	europ	j	l	m	oc	or
+eant	3	g	m	miscr
+eaped	3	h	l	r
+eard	3	b	h	y
+eare	3	f	h	shakesp
+eared	11	LLUN	cl	dog-	drought-s	end	f	g	n	p	r	sm
+earer	6	b	boot-w	cl	d	h	n
+earest	3	d	h	n
+earing	12	app	b	cl	end	f	g	h	n	r	s	t	w
+early	6	LLUN	cl	d	n	p	y
+earn	4	LLUN	h	l	y
+earned	5	LLUN	hard-	l	un	y
+earning	4	LLUN	l	wage-	y
+earnings	3	LLUN	price-	y
+earns	3	LLUN	l	st
+ears	13	LLUN	arr	b	cl	f	g	h	m	p	s	t	w	y
+earth	5	LLUN	d	down-to-	h	un
+eary	4	dr	g	l	w
+easant	4	malf	p	ph	pl
+ease	9	LLUN	app	c	dis	l	r	t	th	un
+eased	7	LLUN	app	c	dis	l	r	t
+eases	5	c	dis	l	prot	r
+easing	6	LLUN	app	c	cr	l	t
+easingly	3	incr	pl	unc
+eason	3	gl	r	s
+east	8	-	LLUN	b	br	f	l	th	y
+eastern	3	-	LLUN	th
+easts	4	b	br	f	y
+easure	3	l	m	tr
+easures	3	m	pl	tr
+easy	4	LLUN	gr	n	speak-
+eated	9	def	delin	h	l	perm	r	rep	s	sw
+eaten	4	LLUN	b	moth-	thr
+eater	5	ant	gr	h	rep	sw
+eaters	4	LLUN	h	sw	two-s
+eath	4	d	n	r	sh
+eather	5	br	f	h	l	w
+eathers	3	f	l	w
+eating	11	LLUN	b	bl	def	delin	frog-	h	r	rep	s	sw
+eaton	3	LLUN	s	wh
+eats	10	LLUN	b	f	l	m	r	rep	s	t	y
+eaty	3	m	sw	tr
+eau's	3	ram	rouss	thor
+eave	5	LLUN	h	l	rec	w
+eaves	3	h	l	w
+eaving	3	h	l	w
+eback	4	com	cuddl	hors	lin
+eball	3	bas	ey	knuckl
+ebook	4	blu	cas	guid	not
+ecca	3	d	m	reb
+ecedent	3	ant	d	pr
+ecked	6	-n	ch	d	fl	p	wr
+ecker	3	ch	ma	woodp
+ecking	4	ch	d	n	wr
+ecks	5	ch	d	n	p	steinb
+economic	4	-	LLUN	socio	un
+economical	3	LLUN	social-political-	un
+ectable	3	det	p	uninj
+ectation	3	aff	del	exp
+ected	7	conn	f	j	l	p	r	t
+ectic	3	eut	h	l
+ecting	8	conn	f	inters	j	l	p	r	t
+ection	9	conn	conv	f	j	l	r	s	sp	t
+ections	7	conn	f	insp	j	l	r	s
+ective	7	conn	dir	f	j	l	sp	t
+ectively	5	bj	eff	l	prot	resp
+ectives	5	det	dir	el	j	persp
+ectivity	3	bj	dir	sel
+ectly	4	abj	circumsp	perf	r
+ector	8	det	h	j	l	r	s	sp	v
+ector's	4	coll	h	insp	r
+ectorate	3	dir	el	prot
+ectors	6	det	dir	l	obj	s	v
+ects	8	conn	f	j	l	p	r	s	t
+ecture	4	archit	conj	l	pref
+ectures	4	archit	conj	l	pref
+ed's	4	e	j	oerst	r
+ed-in	3	black	box	paint
+ed-out	4	ash	burn	dri	play
+ed-up	7	beef	damm	dri	hunch	p	roll	stor
+edal	3	cre	m	p
+edded	3	b	shr	w
+edding	5	b	r	sh	sl	w
+eddy	3	LLUN	fr	t
+eded	4	c	e	mp	supers
+eden	4	LLUN	p	sw	tiv
+edes	3	archim	c	sw
+edge	6	-	LLUN	h	kittr	l	w
+edged	5	-	LLUN	h	l	w
+edges	3	LLUN	h	l
+ediction	3	ben	mal	pr
+edient	3	exp	ingr	ob
+edies	3	m	subs	trag
+edition	3	LLUN	exp	s
+editors	3	LLUN	co	cr
+edly	11	d	g	i	k	n	r	s	shamefac	t	unasham	unreserv
+edness	6	d	k	r	ragg	t	wretch
+edom	3	bor	fre	hors
+educated	4	-	LLUN	un	under
+educed	3	d	r	s
+eduction	3	d	r	s
+ee's	8	b	d	employ	g	l	milwauk	t	tenness
+eech	4	b	bes	scr	sp
+eeded	6	c	h	n	single-s	sp	w
+eeding	7	bl	br	c	f	n	sp	unh
+eedings	3	bl	f	proc
+eedless	3	h	n	s
+eeds	9	c	d	f	l	n	r	s	sp	w
+eedy	4	n	r	sp	tw
+eeing	4	fl	g	r	s
+eeker	3	bl	m	s
+eeking	3	p	r	s
+eeks	4	ch	r	s	w
+eeled	5	h	kn	p	r	st
+eelers	3	f	h	st
+eeling	5	f	kn	p	r	wh
+eels	6	f	h	kn	p	r	st
+eely	4	fr	g	mcf	st
+eemed	3	d	est	s
+eeming	3	d	s	t
+een's	3	eil	gr	qu
+eens	3	qu	r	t
+eeper	5	cr	d	k	sl	st
+eepers	4	cr	j	k	sl
+eeping	6	cr	k	p	s	sl	w
+eeps	5	b	cr	d	k	l
+eepy	3	cr	p	sl
+eer's	3	ion	mahz	meyerb
+eered	8	command	g	h	l	n	p	t	v
+eering	7	ch	command	l	n	p	t	v
+eers	10	b	car	ch	j	n	ol	p	s	t	v
+ees'	3	tr	trust	yank
+eese	3	ch	g	r
+eeting	4	fl	gr	m	sh
+eets	7	b	fl	m	parak	sh	str	sw
+eezed	4	sn	squ	tw	wh
+eezing	4	fr	sn	squ	wh
+efer	4	bri	d	ha	r
+effer	4	bonho	h	ki	scha
+efficient	4	LLUN	co	in	ultra-
+efore	3	b	be	her
+eful	12	c	car	ey	gle	hop	l	n	s	sham	t	wak	wo
+efully	8	c	car	gle	hop	ru	s	t	wo
+efulness	6	car	rc	ru	tun	us	wak
+egan	3	b	e	finn
+egate	3	del	gr	n
+egated	3	el	gr	vari
+egation	3	gr	l	n
+eger	3	hartw	int	l
+egers	3	besi	int	l
+egged	4	LLUN	b	l	p
+egger	3	bootl	heid	ri
+egging	3	b	bootl	p
+egon	3	LLUN	musk	or
+egory	3	all	cat	gr
+eground	3	abov	battl	r
+ehead	4	bridg	for	whit	win
+eholder	3	fre	hous	shar
+eholders	4	fre	hous	offic	shar
+ehouse	3	r	sluic	smok
+eigh	3	inv	l	w
+eight	6	LLUN	fr	h	sl	ty-	w
+eights	3	fr	h	w
+eigned	3	d	f	r
+eine	5	LLUN	h	k	madel	r
+eing	5	b	e	o	tak	y
+eins	3	prot	r	v
+eiss	3	r	w	z
+eist	4	g	kee-r	kl	panth
+ejection	3	LLUN	d	r
+ek's	4	cap	jellin	kai-sh	we
+eked	3	LLUN	e	shri
+eking	3	e	p	shri
+el's	14	a	b	drex	g	hot	i	jo	kunk	marc	n	rach	romm	ste	v
+el-like	4	chap	past	rav	spani
+elan	3	LLUN	h	venezu
+eland	9	cop	g	hom	i	ic	l	r	v	wast
+elated	3	LLUN	b	r
+elation	3	LLUN	r	rev
+elch	3	b	qu	w
+elder	4	LLUN	batch	f	i
+elding	3	g	i	w
+eldon	3	LLUN	sh	w
+elect	3	-	LLUN	s
+elected	4	LLUN	re	re-	s
+election	4	LLUN	re	re-	s
+electric	3	LLUN	hydro-	o
+eled	12	c	e	fu	jew	lab	mm	mod	n	parall	r	s	v
+elena	3	LLUN	h	s
+eler	5	bey	e	f	jew	trav
+elers	3	e	gosp	trav
+eless	13	ag	c	guil	lif	m	n	p	r	s	t	th	v	valu
+elessly	4	hop	r	s	tun
+elessness	3	car	hop	us
+eley	3	berk	e	whit
+elia	3	c	d	tarhe
+elian	3	aristot	heg	schnab
+elic	3	ang	middle-ga	r
+elier	6	berth	chand	liv	lon	montp	somm
+elies	3	lov	m	r
+elight	4	candl	d	fir	lim
+elike	7	c	gnom	grov	if	n	s	tre
+eline	6	bas	f	jacqu	pip	shor	sid
+eliness	3	lon	tim	v
+eling	12	canc	couns	e	enam	lab	od	pan	parall	quarr	u	v	w
+elings	3	fe	hir	sniv
+ell's	6	bu	durr	h	n	russ	w
+ella	10	LLUN	b	d	f	r	ros	roz	st	trichin	viy
+ellar	3	c	mck	st
+elle	7	b	d	i	mic	nouv	s	z
+elled	9	b	canc	f	m	p	sh	v	w	y
+ellen	3	LLUN	for	tab
+eller	9	d	dw	f	prop	rosenmu	s	t	trav	y
+ellers	5	dw	f	s	t	v
+elles	5	b	bagat	brux	chap	mic
+elli	5	machiav	n	ponchi	r	t
+elling	13	canc	f	p	qu	reb	s	sch	sm	sn	t	v	w	y
+ello	8	'	c	campob	cap	fior	h	pirand	termini
+ellow	4	b	f	m	y
+ellowed	3	b	m	y
+ells	10	b	c	d	farr	h	s	sm	sp	t	w
+ellum	3	b	k	v
+ellwood	3	LLUN	b	d
+elly	7	b	cru	g	grapp	j	k	onn
+elman	3	LLUN	per	sp
+elon	5	d	ech	f	m	v
+elong	3	b	lif	sid
+elson	6	ab	fog	ke	mich	micha	n
+elting	3	b	m	p
+elts	5	b	k	p	sm	w
+em's	3	harl	syst	th
+emaking	3	peac	phras	r
+eman	10	b	e	heid	l	lin	ni	polic	r	s	t
+eman's	5	for	fre	polic	rifl	warehous
+emark	3	r	styl	trad
+ematic	4	bl	cin	h	syst
+ember	4	dec	m	nov	sept
+emble	3	k	s	tr
+emen	8	cav	committe	ic	l	minut	r	s	sid
+emen's	3	longshor	polic	rifl
+ement	12	agre	c	denou	g	h	l	n	r	s	t	v	z
+emented	3	c	d	pl
+ements	9	agre	c	g	l	n	r	s	t	v
+emerged	3	LLUN	re	re-
+emes	3	extr	h	phon
+emia	5	accad	enterotox	leuk	n	r
+emic	6	d	hyper	morph	n	pol	t
+emics	3	d	phon	pol
+emies	3	acad	blasph	en
+eming	3	e	fl	sch
+emise	3	ch	d	pr
+emphasized	3	LLUN	over	over-
+empirical	3	LLUN	semi	super-
+employed	3	LLUN	self-	un
+employment	4	LLUN	pre	pre-	un
+empt	3	ex	t	unk
+emption	3	ex	pre-	red
+emus	3	h	nicod	r
+en's	13	b	citiz	cott	d	e	giff	h	l	m	ox	r	s	v
+enable	5	LLUN	am	nali	t	v
+enal	4	ars	p	phenom	r
+enance	3	p	prov	t
+enary	3	cent	merc	pl
+enas	6	bu	m	r	subp	subpo	verb
+enate	3	ali	homog	s
+enberg	6	ch	gre	lapp	ros	son	watt
+ence	14	c	d	f	g	h	i	l	m	n	r	recomp	s	t	u
+ence's	3	provid	r	sci
+enced	7	comm	evid	experi	f	sent	sil	u
+ences	11	comm	f	i	id	indulg	l	r	reminisc	s	sent	u
+ench	5	b	cl	qu	r	st
+enchant	3	LLUN	p	tr
+enched	4	b	cl	r	unqu
+enches	3	b	cl	r
+encies	8	curr	dec	fici	g	inconsist	malevol	tend	u
+encing	7	comm	evid	experi	f	influ	sent	sil
+ency	11	absorb	c	clem	d	excell	g	i	r	solv	t	u
+enda	3	ag	l	t
+endant	4	def	p	sc	t
+endants	3	def	desc	t
+ended	9	LLUN	bl	f	m	open-	p	preh	sc	t
+endent	4	dep	respl	superint	transc
+endents	3	dep	desc	superint
+ender	6	f	g	lav	r	sl	t
+endered	3	eng	r	t
+enders	5	f	g	r	s	sp
+ending	12	LLUN	b	compreh	f	l	m	p	s	sc	t	un	v
+endo	4	boy-furi	cresc	innu	z
+ends	15	-	LLUN	b	comm	def	divid	fri	l	leg	p	s	sc	t	tr	week
+ene's	3	arl	eug	styr
+ened	9	d	f	h	k	p	re	s	t	v
+enemy	3	-	LLUN	arch
+ener	5	d	op	scriv	t	weg
+eners	5	gard	list	north	thick	wi
+enes	5	g	polybut	sc	styr	v
+eness	12	c	iv	l	lik	n	r	rud	s	sam	strang	t	u
+enetic	3	fr	g	spl
+enge	3	chall	stoneh	v
+enger	4	chall	pitt	scav	ss
+enheim	4	bl	bod	g	opp
+enia	3	eug	gard	x
+enial	3	d	g	m
+enic	6	ars	g	hell	neurasth	phr	sc
+ening	10	d	e	ength	k	kro	p	s	stiff	t	v
+enings	4	ev	fast	p	scre
+enish	6	gre	h	hoyd	kitt	repl	tok
+enium	3	h	mill	s
+enly	7	braz	dd	e	k	op	sull	v
+enna	4	ant	i	mck	p
+enness	5	braz	drunk	giv	gre	sudd
+ennial	3	bi	r	t
+ennis	3	LLUN	d	t
+enny	7	LLUN	b	d	j	k	l	p
+enny's	3	d	j	p
+enon	4	parth	phenom	phenon	x
+enor	3	grosv	s	t
+enous	3	g	num	rav
+ens'	5	citiz	clem	dick	h	que
+ensation	3	cond	p	s
+ense	7	c	d	f	imm	p	s	t
+ensed	5	c	cond	disp	s	t
+enses	6	exp	f	l	lic	s	t
+ensible	5	def	indisp	ost	preh	s
+ensing	5	cond	disp	lic	s	t
+ension	6	condesc	dim	diss	p	preh	t
+ensions	5	appreh	dim	diss	p	t
+ensities	3	d	imm	int
+ensity	3	d	imm	int
+ensive	4	compreh	f	p	t
+ensively	3	off	preh	t
+enson	3	b	steph	stev
+ensor	3	ext	s	susp
+enstein	4	licht	volk	wall	wild
+ent's	7	adolesc	d	g	i	m	oppon	par
+ental	5	contin	d	m	ori	r
+entally	3	cid	contin	m
+entals	3	incid	m	r
+entation	3	m	ori	pres
+entations	4	ind	m	ori	pres
+ente	4	clem	det	pres	val
+ented	10	c	d	frequ	l	m	ori	r	s	t	v
+enter	6	LLUN	c	carp	experim	re-	s
+entered	3	LLUN	c	re
+enters	5	LLUN	c	carp	diss	m
+enth	3	ev	t	te
+ential	8	d	ess	experi	expon	fer	t	tang	u
+entially	5	d	ess	experi	pot	prefer
+entials	3	cred	ess	pot
+entine	4	av	r	rp	val
+enting	9	acc	d	m	ori	r	s	t	unrel	v
+ention	3	m	t	v
+entional	3	conv	int	three-dim
+entions	3	m	nv	t
+entists	3	adv	d	sci
+entive	3	inc	t	v
+ently	12	c	d	ferv	g	i	l	n	r	s	t	u	vehem
+enton	3	d	r	st
+entry	6	LLUN	carp	cov	g	right-of-	s
+ents	14	al	c	d	g	i	incumb	m	n	r	s	serp	t	u	v
+ents'	3	cli	d	r
+entures	3	d	deb	v
+enty	3	pl	sev	tw
+enunciation	3	LLUN	d	r
+enus	4	ali	g	m	v
+enville	3	bi	gre	r
+enza	4	cad	gig	influ	vic
+enzo	3	LLUN	dor	k
+eological	5	archa	g	h	id	tel
+eology	6	archa	g	id	phras	tel	th
+eon's	3	carr	napol	th
+eous	8	aqu	cretac	g	hid	n	nectar	s	t
+eously	5	court	curvac	g	hid	n
+epiece	3	ey	mantl	tim
+eport	5	bridg	d	fre	r	shrev
+eptic	3	dysp	l	s
+equivalent	3	LLUN	grade-	non
+er's	22	b	c	d	e	f	g	h	hoij	i	k	l	m	n	p	r	s	t	tz	u	v	w	y
+er-like	3	feath	glaci	rubb
+era's	3	LLUN	cam	op
+erable	12	answ	d	indeciph	innum	mis	n	p	pref	recov	tol	unalt	unconqu
+erably	5	consid	insup	mis	pref	unutt
+eral	8	fed	lib	m	n	periph	sev	t	visc
+eral's	3	canav	gen	lib
+erald	3	em	g	h
+eralism	3	fed	lib	lit
+erally	5	gen	lib	periph	sev	t
+erals	4	fed	lib	n	num
+eran	3	h	she	t
+erance	6	prepond	temp	tol	ub	utt	v
+erant	3	exub	itin	tol
+erary	3	itin	lit	tipp
+eras	5	LLUN	cam	d	op	t
+erate	11	a	agglom	commis	d	exagg	l	lac	lib	n	p	t
+erated	10	a	b	c	enum	g	l	n	p	prolif	t
+erately	3	d	delib	p
+erates	5	a	d	gen	op	reit
+erating	7	d	exagg	gen	it	l	lib	p
+eration	10	a	b	d	g	l	m	n	p	prolif	t
+erations	8	accel	alt	b	c	d	exagg	gen	op
+erative	3	allit	p	remun
+erator	6	a	accel	mod	n	op	refrig
+erators	4	accel	gen	op	refrig
+erby	4	d	g	k	pass
+erce	3	co	i	m
+ereal	3	c	eth	ven
+ered	18	b	d	e	f	g	h	holl	k	lay	mm	n	offic	p	qu	t	ti	v	w
+erely	4	aust	m	sev	sinc
+erence	4	bellig	f	h	rev
+erent	4	bellig	f	h	rev
+erently	4	bellig	diff	h	rev
+erer	6	d	discov	plast	que	sch	suff
+erer's	3	cat	klemp	murd
+erers	3	d	suff	t
+eres	6	confr	h	i	interf	mend	persev
+erest	5	ev	m	que	sinc	t
+erful	5	che	mast	pow	pray	wond
+erfully	5	che	mast	pow	pray	wond
+erfulness	3	che	pow	wond
+erge	5	aub	conci	m	s	v
+ergent	3	det	div	em
+erger	4	b	duv	m	ramsp
+erhead	3	lett	ov	show
+eria	4	g	ib	stor	t
+erial	5	a	imp	manag	s	t
+erialism	3	imp	mat	post-s
+erian	7	alg	faulkn	hanov	presbyt	sib	spenc	spengl
+eric	6	LLUN	atmosph	cl	fred	m	t
+erical	4	cl	hyst	num	sph
+erick	3	fred	lim	mav
+erie	8	LLUN	camarad	e	g	gauch	t	v	val
+eries	12	c	discov	drap	embroid	forg	gall	h	n	qu	robb	s	t
+erin	5	coup	glyc	gu	hemosid	mull
+ering	19	b	conqu	corn	d	e	f	g	geys	go	holl	k	lay	mm	p	soldi	t	th	v	w
+eringly	4	d	stagg	t	unwav
+erings	8	cov	d	ff	fing	gath	jabb	smatt	whisp
+erior	3	inf	sup	t
+erious	3	imp	myst	s
+eriously	3	imp	myst	s
+erish	5	ch	fev	hunk	p	yell
+erished	3	ch	impov	p
+erity	6	cel	prosp	sinc	t	tem	v
+erized	4	charact	mesm	pulv	rubb
+erland	5	ov	switz	th	umb	wond
+erlands	4	bord	hint	neth	timb
+erle	3	b	m	p
+erless	4	d	hamm	pe	pow
+erly	10	ack	b	d	form	g	prop	soldi	t	th	v
+erman	7	ald	b	g	h	p	t	zimm
+erman's	3	b	g	h
+ermann	3	feu	hub	pet
+ermen	4	ald	h	lett	newspap
+erment	4	bewild	dismemb	f	t
+ermost	3	inn	upp	utt
+erne	3	b	t	v
+erned	3	c	gov	t
+erner	6	l	m	th	v	w	west
+erness	5	bitt	d	eag	togeth	v
+erns	5	conc	f	mod	t	v
+ero's	3	cic	h	mont
+erological	3	met	num	s
+eron	4	am	chap	h	hysteron-prot
+eror	3	conqu	emp	transf
+erors	3	conqu	emp	transf
+eros	5	LLUN	bert	cumbanch	rhinoc	z
+erous	9	cadav	d	dang	gen	num	prosp	t	treach	vocif
+erously	3	dang	gen	vocif
+erra	4	b	s	si	t
+erre	3	anglet	lagu	pi
+erred	3	LLUN	f	int
+errick	3	d	h	m
+erries	3	b	ch	f
+erring	3	f	h	un
+erry	10	b	f	g	h	j	k	londond	m	p	t
+erry's	3	b	h	j
+ers'	19	c	compos	d	engine	g	grow	h	k	l	m	masqu	mb	n	newspap	r	soldi	t	v	y
+erse	3	p	t	v
+ersed	3	imm	sp	v
+ersey	3	h	j	off
+ership	4	lead	memb	n	speak
+erships	3	deal	memb	own
+erside	3	riv	und	wat
+ersion	3	disp	imm	v
+erson	8	em	h	jeff	nd	p	pi	ry	t
+erson's	5	and	em	jeff	mcph	p
+ertain	3	c	ent	p
+ertained	3	asc	ent	p
+erted	5	al	conc	ex	s	v
+ertime	4	dinn	ov	summ	wint
+erting	5	al	ass	disconc	ex	v
+ertly	3	al	exp	ov
+erto	4	b	conc	hith	pu
+erton	6	b	brem	chest	dunn-ath	eg	v
+erts	7	al	b	conc	conv	ex	p	s
+erty	5	b	doch	mccaff	pov	prop
+erve	4	n	s	sw	v
+erved	3	s	sw	taut-n
+erving	3	s	sw	unn
+erweight	3	feath	ov	pap
+ery's	4	art	gall	garg	montgom
+es's	4	forb	jon	l	m
+esce	4	acqui	coal	efflor	p
+escence	4	acqui	fluor	l	lumin
+escent	6	d	l	lumin	pub	qui	r
+esco	3	fr	franc	land
+esday	3	dom	tu	wedn
+eshed	3	m	r	well-fl
+eship	5	c	comrad	discipl	judg	truste
+esia	5	anaesth	framb	indon	rhod	sil
+eside	3	b	ingl	r
+esis	4	electrophor	gen	h	m
+esley	3	pr	w	well
+esman	4	ri	sal	spok	stat
+esmanship	3	lan	sal	stat
+esmen	6	plain-cloth	sal	spok	stat	trad	trib
+esome	6	aw	gru	l	lon	r	thre
+eson	4	burl	ferg	h	jam
+esque	5	arab	burl	grot	persian	r
+esse	5	LLUN	j	larg	nobl	princ
+essed	8	bl	c	f	gu	m	n	r	s
+esser	3	l	lo	r
+esses	10	burg	c	f	gu	host	m	n	r	s	steward
+essie	3	b	j	t
+essing	8	f	gu	l	m	n	proc	r	ss
+ession	4	c	f	r	s
+essional	3	congr	f	proc
+essions	4	c	f	r	s
+essive	3	c	r	s
+essor	4	c	f	r	ss
+essors	4	ass	c	pr	prof
+essy	3	dr	j	m
+est's	3	b	pri	w
+esta	3	i	m	zend-av
+establish	3	LLUN	re	re-
+ested	10	b	big-ch	f	g	n	r	requ	t	unmol	v
+ester	9	b	c	h	harv	l	m	n	p	poly
+ester's	3	l	manch	sem
+esters	3	LLUN	poly	requ
+estes	3	LLUN	b	or
+esthetic	3	LLUN	a	n
+esthetics	3	LLUN	a	an
+estial	3	b	cel	terr
+estine	3	cland	int	pal
+esting	9	g	j	manif	mol	n	r	requ	t	v
+estive	3	f	g	r
+estly	4	manif	mod	n	pri
+eston	4	charl	r	v	w
+estor	3	anc	inv	n
+estre	3	ball	c	orch
+estry	3	anc	for	tap
+ests	9	ch	n	p	pri	r	sugg	t	u	v
+esty	4	hon	maj	mod	trav
+esville	3	charlott	n	r
+et's	14	biz	e	g	gourm	herber	i	ju	k	l	n	po	pupp	s	th
+etable	4	interpr	mark	tim	veg
+etail	4	d	dov	r	whit
+etal	4	che	m	skel	soci
+etary	5	budg	com	di	n	secr
+etch	4	f	l	r	sk
+etched	4	LLUN	farf	r	sk
+etching	3	f	r	sk
+eted	12	budg	clos	compl	cov	e	f	k	m	p	qui	r	ricoch
+eter	8	cath	d	e	i	interpr	m	p	t
+eters	6	di	m	misinterpr	neust	p	stre
+etes	7	LLUN	aesth	comp	diab	enqu	f	l
+etest	3	d	e	pr
+ether	6	LLUN	meriw	n	poly	tog	wh
+ethers	4	LLUN	bellw	poly	t
+ethyl	3	LLUN	diethylamino	m
+etic	11	ab	athl	c	d	diet	g	h	m	n	po	r
+etical	4	alphab	arithm	th	theor
+etically	6	g	h	magn	mim	po	theor
+etics	6	athl	cosm	her	phon	po	th
+eties	5	i	nic	nin	saf	subtl
+etime	4	lif	on	peac	som
+eting	10	budg	cov	disqui	e	interpr	k	l	p	plumm	rabb
+etings	4	banqu	buff	e	mark
+etized	5	alphab	anesth	arithm	magn	pall
+etly	4	e	qui	secr	w
+etness	3	qui	swe	w
+eton	4	br	l	princ	s
+etown	4	cap	georg	middl	provinc
+etry	3	gadg	m	po
+ett's	3	ck	gann	mm
+etta	4	conc	i	ol	r
+ette	10	burk	francois	gaz	l	m	n	r	u	v	y
+etted	6	ab	n	p	r	silhou	wh
+etter	5	b	hardwicke-	l	s	w
+ettes	8	cigar	gaz	n	rock	ros	servi	silhou	suffrag
+etti	5	allegr	gh	giacom	n	oliv
+etting	9	b	fr	g	j	l	n	p	s	w
+ettle	4	k	m	s	sho
+etto	4	cerv	gh	r	stil
+etty	4	b	h	p	pr
+eurs	6	at	cour	entrepren	messi	s	voyag
+eval	3	i	kerch	prim
+evaluation	4	LLUN	r	re	re-
+evel	3	b	l	r
+eveled	4	b	dish	l	r
+eveling	3	b	l	r
+evels	3	b	l	r
+even	5	LLUN	break-	el	s	un
+ever	14	LLUN	d	f	how	howsom	i	l	n	o	r	s	what	where	which
+evere	3	r	s	trast
+evered	3	f	r	s
+everly	3	b	cl	s
+evers	3	i	l	s
+every	3	LLUN	d	r
+eviation	3	abbr	all	d
+eville	6	ash	bell	gr	lawrenc	milledg	vaud
+evin	3	h	l	thi
+evised	3	d	r	tel
+evity	3	br	l	long
+evsky	3	dosto	kabal	n
+ew's	3	l	lo	r
+eward	4	hom	r	s	st
+ewards	3	hom	r	st
+ewater	3	dg	tid	wast
+eway	5	c	driv	e	gat	passag
+eways	4	fre	gat	sid	v
+ewed	7	h	m	r	ren	s	st	vi
+ewel	3	cr	j	n
+ewer	5	f	n	s	sk	vi
+ewers	3	br	s	vi
+ewing	6	br	ch	ren	s	sp	vi
+ewise	4	edg	lik	piec	sid
+ework	4	bridg	fram	grill	s
+examination	3	-	LLUN	re
+examine	3	LLUN	re	re-
+examined	3	LLUN	re-	un
+exes	4	ind	l	s	v
+exing	3	ind	perpl	v
+existence	3	-	LLUN	co
+existent	4	-	LLUN	co	non
+expensive	3	LLUN	in	too-
+ey's	8	hersh	ick	l	n	r	ram	s	v
+eyed	8	-	LLUN	curts	g	k	n	ob	v
+eyes	3	-	LLUN	r
+eyev	3	korn	mois	tolub
+eyeva	3	alex	korn	mois
+eying	5	LLUN	jock	ob	r	v
+face	6	-	LLUN	boni	e	out	r
+faced	4	-	LLUN	e	r
+faces	3	LLUN	ef	r
+facing	3	LLUN	de	ef
+fair	6	LLUN	af	may	pick	pre-	un
+fall	7	LLUN	be	er	n	snow	t	wind
+falls	4	LLUN	fountain-	t	water
+familiar	3	LLUN	long-	un
+famous	3	-	LLUN	in
+fare	5	LLUN	fan	thorough	war	wel
+fashion	3	LLUN	re	rider-
+fast	4	-	LLUN	bed	break
+fathers	3	LLUN	fore	grand
+fect	4	de	f	in	per
+fected	3	f	in	per
+fection	4	af	de	in	per
+fections	3	af	imper	in
+fective	3	anti-in	de	ef
+feeling	3	-	LLUN	fellow
+feet	4	LLUN	acre-	black	fore
+feld	4	herz	kauf	luechte	zieg
+felt	3	LLUN	heart	un
+fence	3	LLUN	de	snow-
+fender	3	LLUN	de	of
+fenders	3	LLUN	de	of
+fer's	4	luci	roo	sha	shae
+fered	3	f	inter	trans
+ference	6	circum	dif	e	inter	n	trans
+ferences	3	dif	n	re
+ferential	3	dif	in	pre
+fering	3	f	inter	pil
+ferred	3	e	n	trans
+ferring	3	con	e	trans
+fers	5	con	f	gol	re	trans
+fertilized	3	LLUN	cross-	un
+fess	3	'	con	pro
+fest	4	brie	in	mani	sa
+ff's	6	i	o	prokofie	sta	u	wol
+ffed	4	i	sco	sta	u
+ffer	4	e	i	o	u
+ffered	3	di	o	u
+ffering	3	di	o	su
+ffers	3	di	o	u
+ffin	3	ba	co	gri
+ffing	4	a	o	sni	u
+ffle	3	ba	i	u
+fford	4	a	cli	cly	spo
+ficial	4	bene	i	of	super
+ficially	3	arti	of	super
+ficiency	3	de	f	pro
+ficient	3	e	f	pro
+fiction	3	-	LLUN	non
+fide	3	LLUN	con	sul
+fied	4	af	de	i	satis
+field	13	LLUN	a	bloom	brook	e	h	med	n	oil-	r	s	spring	t
+field's	4	LLUN	brom	med	spring
+fields	5	LLUN	air	ball	hay	le
+fighter	3	LLUN	ex-	gun
+fighting	3	-	LLUN	in
+figure	3	LLUN	double-	multi
+file	3	-	LLUN	pro
+fill	4	LLUN	ful	over	re
+filled	4	-	LLUN	ful	re
+filling	3	LLUN	eye-	ful
+fine	5	LLUN	con	e	glazer-	hyper
+fined	3	LLUN	con	e
+fines	3	LLUN	con	de
+fing	6	LLUN	a	brie	f	l	roo
+finite	3	LLUN	de	in
+finity	3	af	in	inde
+fire	9	-	LLUN	a	brush	camp	cook	grass	hell	n
+fired	4	LLUN	gas-	mis	un
+fires	3	LLUN	bon	rim-
+firm	3	LLUN	af	n
+firms	3	LLUN	af	con
+fish	7	LLUN	blow	blue	cat	d	raf	sel
+fits	3	LLUN	e	pro
+fitting	4	-	LLUN	be	un
+fixed	3	LLUN	af	un
+flakes	3	LLUN	glob-	snow
+flame	4	LLUN	a	in	open-
+fled	3	LLUN	f	i
+flesh	3	LLUN	horse	pound-of-
+flight	3	-	LLUN	pre
+fling	4	LLUN	f	i	rie
+flow	5	LLUN	blood-	in	out	r
+flower	4	LLUN	bout	cauli	may
+fluent	3	LLUN	f	n
+fold	7	-	LLUN	mani	n	scaf	three	two
+folded	5	LLUN	blind	blind-	re	un
+folding	3	LLUN	scaf	un
+folk	5	-	LLUN	home	men	nor
+food	4	-	LLUN	non	sea
+foot	6	-	LLUN	a	bare	light	nder
+force	3	LLUN	n	per
+ford	17	LLUN	an	aw	brails	bua	d	f	here	k	l	ly	m	ng	ox	r	roch	t
+ford's	5	her	ly	ox	san	strat
+fore	4	'	LLUN	e	hereto
+fores	3	here	pina	why
+fork	3	LLUN	pitch	rock
+form	8	-	LLUN	i	n	per	plat	re	trans
+formal	3	LLUN	in	material-
+formation	4	LLUN	e	n	trans
+formations	3	LLUN	con	mal
+formed	9	-	LLUN	mal	n	per	re	thermo	trans	uni
+former	4	LLUN	per	re	trans
+formers	3	per	re	trans
+forming	6	LLUN	in	per	re	thermo	trans
+formity	3	con	de	uni
+forms	7	LLUN	n	per	plat	re	trans	uni
+fort	4	LLUN	com	ef	frank
+forts	3	LLUN	com	ef
+fought	3	LLUN	hard-	out
+found	4	LLUN	new	new-	pro
+fraction	4	LLUN	dif	in	re
+frame	3	LLUN	air	r-
+fred	3	LLUN	l	man
+free	4	-	LLUN	care	innes
+fresh	3	LLUN	a	re
+friend	3	LLUN	exboy	girl-
+front	7	-	LLUN	af	con	e	r	shirt
+fronted	4	-	LLUN	af	con
+fronting	3	LLUN	af	con
+frozen	3	-	LLUN	un
+ft's	3	aircra	bancro	swi
+fted	4	he	i	pff	ra
+fter	3	a	so	tab-li
+fters	3	cro	i	ra
+ftness	3	de	so	swi
+fulfilled	3	LLUN	threes-	un
+full	3	LLUN	belly	chock
+fully	14	LLUN	aw	dread	e	help	i	joy	l	meaning	n	r	ss	t	th
+fulness	10	aw	e	er	help	meaning	sin	skill	t	thank	truth
+fuls	3	hand	hope	spoon
+fund	3	LLUN	matching-	re
+fuse	5	LLUN	con	f	pro	re
+fused	4	LLUN	con	f	re
+fuses	4	LLUN	con	dif	re
+fusing	4	LLUN	con	dif	re
+fusion	5	LLUN	dif	n	per	pro
+fying	3	e	i	satis
+gage	4	LLUN	en	g	mort
+gages	3	LLUN	en	mort
+gain	5	LLUN	a	bar	high-	re
+gaining	3	LLUN	bar	re
+gains	4	LLUN	bar	capital-	re
+gallant	3	LLUN	top	un
+gally	4	le	pen	prodi	u
+game	4	-	LLUN	end	in
+gan's	4	dee	ho	mor	mulli
+ganism	3	hooli	or	pa
+gans	5	a	katan	or	shenani	slo
+gant	4	arro	ele	extrava	liti
+gard	4	hag	re	scotch	ti
+garet	3	ci	mar	no
+gars	3	beg	ci	han
+gary	3	LLUN	beg	hun
+gate	8	LLUN	bishops	e	i	ju	l	propa	ro
+gated	7	abro	e	elon	i	promul	propa	u
+gates	5	LLUN	a	conju	dele	ti
+gating	5	conju	e	i	non-propa	promul
+gation	7	e	i	lon	propa	pur	ro	u
+gations	3	corru	e	i
+gative	3	investi	ne	prero
+gator	3	LLUN	i	interro
+ge's	7	bei	colle	d	geor	ho	lagran	littlepa
+geable	4	chan	char	knowled	unmana
+gel's	3	he	n	wei
+gely	3	lar	sava	stran
+gement	4	a	d	enlar	n
+gements	4	a	enlar	jud	n
+gence	4	birefrin	i	indul	r
+gencies	4	a	contin	exi	r
+gency	4	a	n	r	re
+gene	3	LLUN	eu	phos
+generation	3	LLUN	e	steam-
+genes	3	LLUN	aero	indi
+gens	3	o	oxy	volkswa
+gent	7	a	i	indul	n	nu	r	vice-re
+gently	5	LLUN	co	li	n	ur
+gents	5	a	intransi	n	r	re
+geon	4	blud	dun	pi	ur
+ger's	9	ber	heideg	kro	lue	mana	n	pod	ru	ti
+gering	3	ag	bad	n
+german	3	LLUN	dag	franco-
+gers	8	a	d	e	g	n	r	ro	ti
+gers'	5	jag	kro	n	rod	teen-a
+gery	3	a	drud	r
+gest	5	alma	di	g	lar	n
+gested	3	di	n	sug
+gestion	3	indi	n	sug
+gestive	3	con	di	sug
+get's	3	brid	fa	tar
+gets	3	LLUN	d	tar
+gged	5	a	e	i	o	u
+ggedly	3	do	ja	ru
+gger	5	a	e	i	lo	slu
+ggers	4	bootle	i	ja	u
+gging	5	a	e	i	o	u
+ggle	3	a	i	u
+ggled	4	a	bo	i	u
+ggles	3	gi	go	stru
+ggling	3	a	i	u
+gh's	3	hi	hou	lindber
+gham	3	in	ke	lad
+gher	3	bur	hi	ou
+ghetti	3	bri	ferlen	spa
+ghty	3	au	gera	i
+gian	5	bel	geor	n	norwe	o
+gians	4	bel	colle	geor	theolo
+gical	3	ma	o	ur
+gically	4	a	lo	nostal	strate
+gies	5	ele	g	o	prodi	r
+gin'	3	char	n	peg
+ginal	3	mar	ori	va
+gine	3	abori	en	ima
+gines	3	abori	en	ima
+ging	8	a	d	e	g	n	r	u	ul
+gingly	3	a	grud	obli
+gings	4	g	lod	n	ur
+gins	5	LLUN	be	g	mar	ori
+gion	3	conta	e	reli
+girl	4	-	LLUN	sales	school
+given	3	LLUN	for	god-
+giving	3	LLUN	for	thanks
+glamorous	3	LLUN	pseudo-	un
+gland	3	LLUN	monkey-	n
+glas	3	dou	fiber	plexi
+glass	3	-	LLUN	dou
+gled	4	g	n	o	spread-ea
+gler	3	bu	pe	wran
+gles	3	ea	g	n
+gley	3	ba	be	wri
+gling	3	fled	g	n
+gmatic	3	do	i	pra
+gment	5	au	d	fra	i	se
+gmented	3	au	fra	pi
+gments	4	d	fra	pi	se
+gnant	4	i	pre	repu	sta
+gnate	3	co	desi	ma
+go's	4	chica	e	hu	n
+goer	3	movie-	theater	theatre
+goers	3	church	opera	r
+going	7	-	LLUN	easy	er	fore	h	out
+gold	3	-	LLUN	korn
+gone	8	LLUN	a	by	by-	dog	e	i	r
+good	4	LLUN	hap	lovin	o-
+gotten	3	LLUN	be	for
+governed	3	LLUN	law-	un
+governmental	3	LLUN	inter	quasi-
+gracious	3	LLUN	a-	un
+grad	3	LLUN	lenin	vari
+grade	7	-	LLUN	centi	de	down	retro	up
+graded	4	LLUN	de	down	up
+grading	3	LLUN	de	up
+graduate	4	-	LLUN	post	under
+grain	3	40-	LLUN	imitation-wood
+gram	5	LLUN	a	milli	o	tele
+grams	5	LLUN	dia	i	pro	tele
+grant	3	LLUN	a	mi
+graph	5	LLUN	epi	o	para	tele
+graphed	3	LLUN	o	tele
+graphers	3	calli	o	tele
+graphic	3	LLUN	o	tele
+graphing	3	para	photo	tele
+graphs	3	LLUN	o	para
+graphy	3	calli	o	tele
+gras	3	LLUN	ni	pip
+grate	3	LLUN	inte	mi
+grated	3	LLUN	inte	mi
+grating	3	LLUN	inte	mi
+gration	3	confla	inte	mi
+gree	3	a	de	i
+greed	3	LLUN	a	i
+greek	3	LLUN	fenu	non-
+green	3	-	LLUN	ever
+gregate	3	ag	con	se
+gregation	3	ag	con	se
+gress	3	con	i	o
+gression	4	ag	pro	re	trans
+gressions	3	ag	di	pro
+grin	4	LLUN	a	idiot-	montene
+grip	4	-	LLUN	out	wide
+ground	9	-	LLUN	back	bed	below	camp	e	play	under
+grounds	3	LLUN	back	camp
+group	3	-	LLUN	inter
+groups	3	LLUN	n-	sub
+grown	3	-	LLUN	over
+growth	3	LLUN	out	under
+guard	8	-	LLUN	body	dow	mud	rear	safe	van
+gued	5	a	ar	catalo	i	n
+gues	5	ar	i	lea	o	ton
+guided	3	LLUN	mis	un
+guing	3	ar	haran	intri
+gulation	3	anticoa	re	stran
+guns	3	LLUN	hand	shot
+gust	3	LLUN	au	dis
+hable	3	LLUN	c	is
+hack	4	LLUN	s	w	wild
+hacked	3	LLUN	s	w
+hail	3	LLUN	macp	mik
+hair	4	LLUN	c	horse	long-
+haired	3	-	dark	white
+half	3	-	LLUN	be
+haling	4	ex	in	mars	w
+hall	6	-	LLUN	pasc	rock	s	white
+ham's	5	burn	cunning	d	gor	havis
+hams	3	LLUN	ging	s
+hand	10	-	LLUN	cow	e	long	marc	off	over	second	t
+handed	3	-	LLUN	under
+hang	3	LLUN	over	sc
+hanging	3	LLUN	c	cliff
+hank	3	LLUN	s	t
+hann	3	-aminomet	jo	s
+hans	4	LLUN	afg	elizabet	orp
+hant	3	c	p	t
+happiness	3	LLUN	pseudo-	un
+happy	3	-	LLUN	un
+hard	6	LLUN	c	die	ger	leather-	n
+hards	3	c	die	s
+hardt	3	burck	burg	n
+hare	3	LLUN	o'	s
+hart	6	LLUN	bo	c	er	igle	wis
+haul	3	LLUN	long-	over
+have	3	LLUN	be	s
+having	3	LLUN	be	s
+hboard	3	as	hig	switc
+he's	4	LLUN	c	s	t
+head	14	-	LLUN	a	arrow	beach	d	e	egg	flat	hollings	in	k	r	rail
+headed	5	-	LLUN	cool	muddle	red
+header	4	LLUN	double	double-	red
+heads	6	LLUN	arrow	bulk	d	fore	kraut
+heard	3	LLUN	over	un
+heare	3	LLUN	t	w
+hearing	4	LLUN	over	re	s
+hearn	3	LLUN	at	s
+heart	3	LLUN	strong	sweet
+hearted	4	-	half	light	warm
+heat	4	LLUN	c	over	w
+heated	4	LLUN	c	over	un
+heating	5	LLUN	c	cooling-	oil	over
+heelers	3	LLUN	freew	ward-
+heer	3	c	myn	s
+hees	3	bans	t	voor
+heim	3	durk	en	louch
+held	5	-	LLUN	be	up	with
+hell	4	LLUN	c	s	whichever-the-
+helm	3	LLUN	overw	wil
+heme	3	bo	sc	t
+hen's	3	LLUN	patc	step
+hence	3	LLUN	t	w
+hened	3	engt	roug	s
+hens	4	LLUN	kitc	step	t
+her's	4	c	fleis	t	telegrap
+here	6	LLUN	ad	co	sp	t	w
+here's	4	LLUN	hemisp	t	w
+hereabouts	3	LLUN	t	w
+hereby	3	LLUN	t	w
+hered	5	ad	butc	encip	t	us
+herein	3	LLUN	t	w
+herent	3	ad	co	in
+heres	4	ad	in	somew	sp
+herewith	3	LLUN	t	w
+herman	3	LLUN	leat	s
+herry	3	LLUN	c	s
+hers	6	LLUN	c	p	pittsburg	s	t
+hers'	3	c	christop	ot
+hery	4	c	eat	perip	s
+hest	4	c	g	pos	t
+hews	3	cas	esc	nep
+hful	3	s	t	watc
+hibit	3	ex	in	pro
+hibited	3	ex	in	pro
+hibiting	3	ex	in	pro
+hibition	3	ex	in	pro
+hibits	3	ex	in	pro
+hical	3	c	et	p
+hically	3	p	psyc	t
+hick	3	LLUN	c	t
+hide	5	LLUN	bull	c	p	w
+hies	4	hierarc	p	s	sympat
+high	3	-	LLUN	t
+hili	3	c	pamp	swa
+hill	9	LLUN	backwoods-and-sand-	c	ca	down	foot	haver	p	s
+hills	4	LLUN	c	s	t
+hin'	3	c	pus	t
+hine	6	mac	p	r	s	t	w
+hines	3	c	phosp	s
+hing	5	c	g	p	s	t
+hingly	4	laug	s	searc	t
+hings	3	c	s	t
+hipped	3	c	s	w
+hipping	3	c	s	w
+hips	4	LLUN	c	s	w
+historic	3	-	LLUN	pre
+hive	3	LLUN	bee	c
+hize	3	catec	fetis	sympat
+hley	3	as	burg	sc
+hlight	3	flas	hig	searc
+hman	5	c	gut	le	s	tilg
+hmen	3	c	eart	s
+hmer	3	boe	k	kretc
+hness	4	g	ric	s	t
+hock	3	fro	holly	s
+hocks	3	c	holly	s
+hoes	3	LLUN	ec	s
+hold	7	LLUN	e	h	hand	strong	thres	up
+holder	4	LLUN	e	stock	title-
+holders	5	LLUN	e	e-	stock	up
+holding	4	-	LLUN	up	with
+holds	4	LLUN	ader	e	up
+hole	10	72-	LLUN	arm	c	loop	pigeon	pot	sink	w	y
+holes	6	LLUN	fox	loop	n	rat-	w
+hological	3	morp	psyc	t
+hology	3	morp	psyc	t
+hone	5	LLUN	ma	p	s	sc
+honor	3	LLUN	dis	rodney-
+honored	3	LLUN	dis	time-
+hood	9	LLUN	child	e	eli	n	r	t	widow	y
+hoods	3	LLUN	false	neighbor
+hook	5	LLUN	pumblec	red	s	un
+hoots	3	LLUN	ca	overs
+hopped	3	LLUN	bed-	c
+hopper	4	LLUN	c	leaf	s
+hoppers	3	clod	grass	w
+hopping	4	LLUN	c	s	w
+hops	4	LLUN	bell	c	s
+hore	3	c	s	w
+hores	3	c	s	w
+horn	3	LLUN	long	t
+horne	3	LLUN	hawt	lang
+horns	3	LLUN	long	t
+hors	4	LLUN	anc	aut	p
+horse	4	-	LLUN	clothes	sea
+hose	5	LLUN	c	metamorp	t	w
+hounds	3	LLUN	blood	fox-
+hour	3	-	LLUN	kil
+hours	3	-	LLUN	man
+house	14	-	LLUN	club	d	e	en	er	g	k	l	m	play	t	tea
+houses	8	LLUN	boarding	farm	green	play	re	t	tea
+housing	3	LLUN	rough-	ware
+hout	3	s	t	throug
+hower	4	danne	eisen	eisenh	s
+hroom	3	bat	lunc	mus
+hubby	3	LLUN	c	producer-
+human	5	-	LLUN	in	sc	super
+hump	3	LLUN	c	t
+hunk	3	LLUN	c	t
+hurried	3	LLUN	less-	un
+ia's	8	d	georg	l	n	ph	russ	v	victor
+iability	5	different	l	soc	v	var
+iable	9	am	c	irremed	l	r	t	tif	unden	v
+iably	6	apprec	env	invar	justif	rel	unden
+ialism	4	c	colon	existent	r
+ialist	4	c	colon	existent	r
+ialists	4	controvers	existent	r	spec
+iality	4	c	congen	t	v
+ially	5	ax	c	n	r	t
+ials	6	c	d	n	polynom	r	t
+ian's	6	d	domit	ic	lill	r	viv
+iana	6	christ	d	glor	gu	louis	sicil
+iance	8	alleg	amb	dev	f	insouc	l	r	rad
+iane	3	d	louis	vient
+ianism	4	confuc	p	r	socin
+ians	14	antinom	b	d	g	h	ic	l	n	p	r	ruff	s	scandinav	t
+ians'	3	christ	ind	russ
+iant	7	def	dev	g	l	negoc	r	rad
+iants	3	dev	g	negoc
+iaries	3	auxil	d	ic
+iary	5	auxil	av	d	ic	t
+iate	7	c	colleg	d	ev	l	r	t
+iated	7	c	calumn	d	ev	l	r	t
+iates	6	appropr	c	d	il	op	t
+iating	7	c	d	ev	exp	l	r	t
+iation	7	c	d	exp	l	r	t	v
+iations	6	affil	c	ev	negot	r	rad
+iative	3	apprec	init	pall
+iator	4	ad	concil	init	v
+iber	4	f	kle	l	t
+iberia	3	LLUN	l	s
+ibers	3	cal	f	r
+ibes	4	g	j	r	v
+ibility	7	cred	flex	g	gull	reproduc	s	t
+ible	10	b	c	d	discern	flex	g	l	rr	s	t
+ibles	5	b	extend	fo	intang	t
+ibly	7	c	d	l	rr	s	t	tang
+ic's	5	crit	electr	mechan	publ	v
+icable	4	am	inextr	pl	pract
+ical	13	d	g	h	l	m	n	p	pontif	quizz	r	s	t	x
+icalism	3	anti-cler	evangel	rad
+icality	3	mus	t	typ
+ically	14	algebra	d	g	h	hero	if	l	m	n	p	paradox	r	s	t
+icals	4	d	m	s	theatr
+ican	7	jama	l	mex	n	pemm	r	vat
+icans	4	alb	l	mex	r
+icant	3	appl	lubr	signif
+icate	6	certif	commun	d	l	r	t
+icated	6	br	commun	d	intox	pl	t
+icates	4	d	sil	sophist	tif
+icating	5	commun	fabr	ind	intox	pl
+ication	6	br	commun	d	f	l	t
+ications	5	authent	commun	if	ind	l
+icator	4	appl	commun	d	t
+ice's	4	fel	off	t	vo
+iced	9	LLUN	l	o	prejud	r	sacrif	slu	sp	t
+ices	9	d	f	l	o	r	sp	t	u	v
+iche	3	cl	f	n
+iches	4	b	cl	r	sandw
+ician	5	mag	patr	s	t	techn
+icians	5	mag	rhetor	s	t	techn
+icide	3	hom	insect	su
+icides	3	fung	su	t
+icing	8	LLUN	l	pr	rejo	sacrif	serv	slu	t
+icious	7	jud	l	off	pern	r	usp	v
+iciously	3	jud	l	usp
+icism	7	cathol	cyn	goth	neo-class	r	sto	t
+icist	4	eth	genet	lyr	s
+icists	5	ecumen	eth	lyr	publ	s
+icity	6	l	period	r	specif	syllab	t
+ick's	4	d	n	orl	r
+icked	8	k	l	n	p	r	t	traff	w
+icken	3	h	qu	str
+ickened	3	qu	s	th
+ickening	3	qu	s	th
+icker	9	br	l	p	place-k	qu	s	t	th	w
+ickers	4	p	picn	sl	v
+icket	5	cr	p	t	th	w
+ickets	5	cr	p	t	th	w
+ickey's	3	d	m	r
+icking	4	k	l	p	t
+ickle	3	f	p	tr
+ickly	4	pr	qu	s	th
+ickness	3	qu	s	th
+icks	7	d	h	k	l	p	r	t
+icky	5	col	n	st	tr	v
+icle	5	chron	ic	t	veh	ventr
+icles	5	art	chron	fasc	r	veh
+icon	4	lex	orth	p	sil
+icted	5	d	dep	fl	str	v
+icting	5	conv	dep	nfl	pred	str
+iction	6	conv	d	dep	f	l	r
+ictional	3	f	fr	jurisd
+ictions	4	affl	conv	d	r
+ictive	3	d	f	restr
+icts	4	conv	d	l	str
+icular	6	curr	foll	perpend	t	veh	ves
+icum	4	caps	colch	mod	vinn
+id's	4	dav	eucl	k	ma
+idal	7	LLUN	br	homic	o	pyram	t	v
+idate	3	cand	intim	l
+idated	5	dilap	eluc	intim	l	liqu
+idation	5	eluc	intim	l	liqu	ox
+idden	3	b	h	r
+idding	3	b	k	r
+iddle	5	b	d	f	m	r
+iddles	3	f	m	r
+iddling	4	d	f	p	r
+iddy	3	g	pr	sk
+ide's	3	gu	r	s
+ided	9	a	avo	c	ch	conf	gu	l	s	v
+iden	3	le	ma	w
+idence	4	f	inc	res	v
+idences	4	coinc	conf	ev	res
+ident	4	c	conf	ev	s
+idential	3	conf	res	v
+ider	7	c	div	r	s	sp	w	we
+iders	4	gl	r	ra	s
+ides	13	a	ab	brom	c	eurip	gu	h	l	ox	r	s	t	v
+idge	4	cool	j	m	r
+iding	11	a	ab	avo	c	conf	gu	h	r	s	sl	v
+idious	3	fast	ins	perf
+idity	8	ar	av	c	l	m	p	rig	u
+idle	3	LLUN	br	s
+idled	3	LLUN	s	unbr
+idly	7	LLUN	l	nd	p	rig	tim	v
+ie's	11	b	c	d	jack	kat	l	magg	n	r	s	z
+iedly	3	frenz	rr	unqualif
+iefs	3	br	ch	el
+ield	4	f	sh	w	y
+ielded	4	f	sh	w	y
+ielding	4	f	scimitar-w	sh	y
+ields	3	f	sh	y
+ience	9	conven	d	exper	incip	pat	resil	sc	subserv	trans
+iences	4	conven	d	exper	sc
+iency	3	exped	fic	incip
+ient	9	c	cip	d	en	l	r	subserv	t	trans
+iently	4	c	clairaud	conven	pat
+ients	7	c	cl	d	nutr	pat	recip	trans
+ier's	4	d	r	t	xav
+ierce	3	b	f	p
+iere	4	brass	l	m	r
+ieres	3	arment	jonqu	prem
+iers	8	cuirass	glac	if	l	p	r	sold	t
+ies'	4	grizzl	lad	r	sixt
+iest	11	d	happ	heav	juic	l	leaf	n	r	s	t	th
+ieties	4	anx	ar	ga	soc
+iety	7	anx	d	ga	p	r	sat	soc
+ieux	4	d	mim	s	v
+ieve	5	ach	el	genev	r	s
+ieved	3	ach	el	r
+ievers	3	ach	bel	s
+ieving	3	el	gr	h
+ife's	3	kn	l	w
+ifer	3	jenn	l	luc
+iff's	3	plaint	sher	sk
+iffs	4	cl	sher	sk	t
+ific	4	c	prol	t	terr
+ification	9	c	de	l	n	od	r	ram	s	t
+ifications	7	class	mod	qual	ram	spec	t	un
+ifice	3	art	ed	sacr
+ified	10	c	d	l	mumm	n	r	s	t	typ	viv
+ifier	5	ampl	intens	mod	pac	rect
+ifiers	3	l	mod	s
+ifies	6	c	d	l	n	r	t
+iform	3	fus	ov	un
+ifted	5	dr	g	l	s	sh
+ifting	4	dr	l	s	sh
+ifts	4	dr	g	l	sh
+ifty	3	f	sh	thr
+ifying	8	c	d	l	n	r	s	t	typ
+igate	3	irr	nav	t
+igating	3	irr	nav	t
+igation	5	ind	irr	nav	obl	t
+igator	3	all	nav	st
+igen	3	ant	or	p
+iger	4	ge	n	sta	t
+igger	6	b	d	f	j	n	r
+iggered	3	f	sn	tr
+iggers	3	ch	n	r
+iggling	3	g	j	w
+ighs	3	h	s	we
+ight	10	dw	e	f	l	m	n	r	s	stra	t
+ight's	4	dayl	fre	n	r
+ighted	4	l	n	s	we
+ighten	5	enl	fr	he	stra	t
+ightened	5	he	l	r	stra	t
+ightening	5	enl	fr	he	stra	t
+ightens	3	br	l	stra
+ighter	5	br	f	fre	l	t
+ighters	4	f	fre	l	n
+ightest	3	br	l	t
+ighting	4	f	l	s	we
+ightly	5	l	n	r	t	uns
+ights	6	e	f	l	n	r	s
+igma	3	en	s	st
+igned	4	a	al	e	s
+igners	3	campa	fore	s
+igning	4	a	al	e	s
+igns	3	campa	re	s
+igue	3	fat	intr	s
+ike's	3	LLUN	m	p
+iked	3	h	l	sp
+ikes	4	h	l	p	str
+iking	3	h	l	str
+il's	6	counc	dev	mijb	ph	s	sna
+ilage	3	cart	muc	spo
+ilant	3	assa	b	vig
+ilate	4	annih	assim	d	p
+ilated	3	assim	d	t
+ilateral	3	b	mult	un
+ilation	6	annih	comp	d	jub	m	t
+ilde	3	ch	f	w
+ilder	3	bu	m	w
+ile's	3	em	miss	text
+iled	12	a	begu	c	ex	f	imper	o	p	rev	sm	t	ve
+iler	3	a	comp	o
+iles	12	automob	biblioph	ex	f	fo	g	m	miss	p	reconc	t	w
+iless	3	merc	penn	pit
+ilia	5	angloph	c	memorab	mon	virg
+ilian	5	braz	civ	l	maxim	sic
+iliated	3	aff	c	hum
+iliation	3	aff	hum	reconc
+iling	9	a	begu	e	ex	f	o	p	reconc	sm
+ilitated	3	deb	fac	m
+ilities	3	b	fac	t
+ility	9	ag	b	civ	fac	hum	proto-sen	r	t	tranqu
+ilization	4	b	civ	ster	t
+ilize	3	b	ster	ut
+ilized	6	b	civ	foss	lyoph	ster	t
+ilizers	3	fert	stab	tranqu
+ilizing	4	b	civ	ster	ut
+ill's	5	b	carg	church	d	kn
+illa	7	arc	flot	m	r	v	van	w
+illary	3	anc	ap	h
+ille	7	LLUN	bra	f	luc	m	r	v
+illed	8	b	ch	f	k	r	sp	t	w
+iller	5	f	k	m	sp	t
+illers	3	dist	k	thr
+illes	5	ach	f	marse	past	versa
+illet	3	b	sk	t
+illie	4	b	m	t	w
+illies	3	f	ph	ram
+illing	9	b	ch	f	k	m	r	sp	t	w
+illings	4	b	f	sh	w
+illion	4	b	m	r	t
+illness	3	LLUN	shr	st
+illo	4	armad	cast	parr	truj
+illows	3	b	p	w
+ills	10	LLUN	b	f	h	k	m	p	r	st	w
+illy	12	b	ba	chant	f	h	l	n	piccad	r	re	s	w
+ilman	5	counc	g	he	m	ma
+ilted	4	j	qu	t	w
+im's	4	j	max	r	t
+image	3	LLUN	pilgr	self-
+images	3	-	LLUN	pilgr
+imal	6	dec	infinites	n	pr	t	x
+imate	5	an	l	pr	prox	t
+imated	4	an	approx	coll	t
+imates	3	cl	est	pr
+imation	3	an	approx	est
+imed	5	a	l	pantom	r	t
+imen	4	p	reg	spec	t
+iment	6	compl	d	n	r	reg	sent
+imentation	3	exper	reg	sed
+imented	4	compl	exper	ped	reg
+iments	6	compl	d	exper	n	reg	sent
+imer	4	discla	he	lar	t
+imers	3	d	pr	t
+imes	6	ch	cl	d	r	reg	t
+imeter	3	cent	mill	r
+iming	3	a	pr	t
+imism	3	an	opt	pess
+imize	3	max	min	vict
+imized	3	max	n	t
+imizing	3	max	min	opt
+imly	3	d	r	sl
+immed	3	r	sk	und
+immer	4	l	r	s	sh
+imming	4	sh	sk	sw	tr
+immy	3	j	sh	t
+imony	4	al	atr	pars	test
+imply	3	LLUN	l	s
+important	3	LLUN	all-	un
+imposed	3	-	LLUN	super
+imposing	3	LLUN	super	un
+imum	3	max	min	opt
+in's	14	a	chop	darw	f	jannequ	k	l	n	newbigg	r	s	ste	t	v
+ina's	3	carol	ch	czar
+inable	5	a	comb	def	term	unimag
+inal	8	botul	d	f	g	m	medic	r	t
+inality	3	crim	f	g
+inally	4	doctr	f	g	nom
+inals	6	card	f	m	mat	orig	ur
+inance	3	dom	f	ord
+inary	5	discipl	imag	m	ord	r
+inas	5	aqu	carol	pat	r	sab
+inate	5	d	fasc	m	orig	st
+inated	6	assass	d	fasc	g	m	r
+inates	5	fasc	g	m	ord	turb
+inating	6	agglut	c	d	m	orig	r
+ination	10	assass	c	comb	d	div	g	incl	m	r	t
+inations	5	cl	comb	halluc	imag	m
+ince	5	m	pr	qu	s	v
+inced	3	m	v	w
+inch	6	-	LLUN	bullf	c	cl	p
+inched	3	LLUN	cl	p
+inches	5	LLUN	c	cl	two-	w
+incing	3	conv	m	w
+ind's	3	k	m	whirlw
+inded	4	bl	m	resc	w
+inder	11	b	c	cyl	f	jo	k	knife-gr	rem	rema	t	w
+inders	8	b	c	cyl	f	gr	h	rem	w
+inding	6	b	bl	f	gr	m	w
+indle	4	b	br	dw	sp
+inds	7	b	bl	f	gr	k	m	w
+ine's	14	a	airl	anto	delph	div	eng	fok	magaz	max	nad	r	rac	t	w
+ined	14	a	comb	d	dest	e	f	imag	l	m	o	ru	spav	tw	wh
+ineering	3	dom	eng	mounta
+inely	5	div	f	genu	rout	sup
+iner	7	a	f	jo	l	m	mar	te
+iners	7	a	forty-n	jo	l	m	ste	submar
+ines	18	a	b	d	equ	f	g	h	iodothyron	l	m	magaz	medic	p	r	s	t	v	w
+iness	12	chumm	d	dizz	ear	h	happ	heav	k	l	s	stag	t
+inet	4	bass	cab	clar	kupc
+infield	3	LLUN	pla	w
+ing's	8	k	keat	l	ld	n	s	shear	th
+ing-room	3	din	draw	liv
+inge	10	b	be	by	comm	effect	h	imp	r	tw	will
+inged	5	-ceil	h	r	s	w
+inger	7	f	g	l	r	s	wapp	y
+ingers	4	f	l	r	s
+ingham	5	birm	burl	froth	g	nn
+inging	6	l	p	r	s	st	w
+ingled	3	j	m	s
+ingles	4	b	m	s	sh
+ingling	4	j	m	s	t
+ingly	18	b	convinc	d	g	h	intrigu	k	know	l	m	n	ov	p	r	s	t	y	z
+ingo	3	LLUN	d	l
+ings	18	ac	b	be	d	g	h	k	l	m	n	o	p	r	s	say	t	v	w
+ington	10	cov	d	hunt	k	l	lex	m	n	rr	wash
+ington's	4	ask	burl	harr	wash
+ingy	4	d	st	str	sw
+ini's	5	borrom	costagg	l	n	pucc
+inian	4	einste	just	ukra	virg
+inians	4	abyss	carol	ukra	virg
+ining	12	a	comb	d	div	f	h	imag	jo	l	m	ru	ve
+inis	4	abdom	bik	l	mart
+inist	5	calv	fem	l	mach	marxist-len
+inity	8	consangu	div	f	femin	mascul	tr	vic	virg
+inkable	3	undr	uns	unth
+inked	3	ch	l	w
+inkers	4	bl	dr	t	th
+inking	6	l	r	s	st	th	w
+inkle	3	h	r	tw
+inkling	4	LLUN	spr	t	tw
+inks	6	LLUN	l	m	p	r	th
+inland	3	LLUN	f	ma
+inless	5	a	ch	s	sk	w
+inly	3	a	th	uncous
+inned	6	dark-sk	f	gr	p	s	th
+inner	7	LLUN	beg	d	s	sk	th	w
+inners	4	beg	d	s	w
+inney	3	f	mck	mcwh
+inning	9	-	LLUN	g	gr	h	p	s	t	w
+innings	4	LLUN	beg	p	w
+inns	3	LLUN	f	m
+inny	3	j	sk	wh
+ino's	3	cas	guard	h
+inos	4	constant	filip	rh	w
+inous	5	a	glut	m	ru	titud
+ins'	6	blev	coll	cous	hutch	k	w
+insky	7	kam	kand	mary	nij	pep	strav	zeml
+inson	4	hutch	k	rob	v
+intable	3	pr	t	unpa
+inted	7	a	gl	h	o	pr	squ	t
+inter	7	LLUN	m	pa	po	pr	spl	w
+intered	3	s	spl	w
+interest	3	-	LLUN	dis
+interested	3	LLUN	dis	un
+interpret	3	LLUN	mis	re
+interpreted	3	LLUN	mis	re
+inters	4	pa	po	spl	w
+inting	6	h	l	pa	po	pr	squ
+into	3	LLUN	jac	p
+inton	4	badm	cl	h	s
+ints	6	a	h	o	pepperm	pr	t
+inum	3	alum	botul	plat
+inus	4	a	l	m	s
+io's	5	brogl	fum	horat	ontar	vesuv
+iography	4	b	bibl	histor	rad
+iological	5	ax	b	epidem	phys	soc
+iologically	3	b	phys	soc
+iologist	3	b	phys	soc
+iology	4	assyr	b	phys	soc
+ion's	5	l	n	reg	s	t
+ionable	4	compan	consc	fash	t
+ionaire	3	concess	mill	quest
+ional	3	reg	s	t
+ionalism	3	profess	reg	t
+ionally	3	reg	s	t
+ionate	3	pass	prop	t
+ioned	4	fash	pin	s	t
+ioners	3	commiss	parish	t
+ionic	4	LLUN	n	rad	vibr
+ioning	3	s	sh	t
+ionism	3	press	t	z
+ionists	4	ess	relig	t	z
+ionized	3	LLUN	l	revolut
+ions	9	LLUN	c	champ	g	l	n	s	sh	t
+ionship	3	champ	compan	relat
+iors	3	behav	n	r
+iotic	3	antib	id	patr
+ious	12	b	c	d	g	l	n	obsequ	p	r	t	v	x
+iously	10	anx	c	d	g	n	p	r	rebell	t	v
+iousness	4	c	obv	relig	ser
+ip's	3	h	p	phil
+iped	5	goss	p	str	w	worsh
+ipes	3	p	r	rec
+iping	6	goss	p	pe	sn	w	worsh
+iple	3	c	mult	tr
+ipped	10	d	equ	h	l	n	r	s	sk	t	z
+ipper	5	d	h	l	sk	z
+ippers	5	l	s	sh	sk	str
+ipping	8	d	h	l	qu	r	s	sk	t
+ipple	3	r	t	wh
+ique	9	com	l	n	p	r	s	scientif	sympath	t
+iques	6	ant	chim	demograph	electr	l	n
+ir's	3	a	cho	the
+ire's	3	f	squ	volta
+ired	9	a	adm	f	h	p	qu	s	t	w
+ires	9	a	adm	des	f	h	p	t	u	w
+iring	9	a	adm	des	f	h	qu	sp	t	w
+irling	3	st	w	wh
+iron	5	-	LLUN	d	flat	scrap
+irted	4	fl	sk	squ	white-sh
+irth	3	b	g	m
+is's	3	lew	r	u
+isation	3	atom	fratern	improv
+isco	3	fr	franc	nab
+iscount	3	d	m	v
+ised	14	c	desp	disenfranch	m	n	oxid	po	pr	ra	synthes	t	u	v	w
+isement	4	adv	disenfranch	self-aggrand	t
+iser	6	a	advert	cru	e	v	w
+isers	5	a	adv	advert	cru	e
+ises	12	a	advert	desp	exerc	franch	l	m	o	r	sakellariad	u	v
+ish-born	3	brit	engl	span
+ishable	3	distingu	per	pun
+ished	9	d	l	lav	m	n	r	refurb	u	w
+isher	5	brit	f	fin	fle	publ
+ishers	4	f	publ	skirm	well-w
+ishes	10	d	derv	distingu	f	l	m	macle	n	r	w
+ishing	10	brand	f	furb	l	lav	n	r	skirm	u	w
+ishly	9	child	fever	l	lav	lf	rak	slugg	snobb	wasp
+ishment	3	l	n	nour
+ishness	7	clann	d	fool	jew	r	self	squeam
+ising	10	desp	exerc	merchand	prom	r	ra	ru	t	v	ze
+ision	4	c	coll	der	v
+isions	3	coll	dec	v
+isking	3	d	r	wh
+isle	3	LLUN	a	l
+isms	5	al	n	r	t	tic
+isocyanate	3	LLUN	di	poly
+isolated	3	LLUN	pre	semi-
+ison	7	b	d	l	lia	n	po	r
+ison's	3	d	harr	ll
+isons	4	lia	po	prov	r
+issa	4	absc	l	m	or
+isse	4	mat	memin	ne	u
+issed	3	h	k	m
+isses	3	k	m	mat
+issing	3	h	k	m
+issue	4	LLUN	back-	re	t
+ist's	7	lyric	m	n	novel	r	t	therap
+isted	9	-wa	ex	f	he	l	m	o	s	tw
+istened	3	chr	l	mo
+istening	3	chr	l	mo
+ister	7	e	l	m	n	reg	s	w
+istered	3	bl	min	reg
+isters	5	bl	clo	n	reg	s
+istic	11	d	g	l	lingu	m	n	pacif	r	t	the	v
+istical	3	famil	log	stat
+istically	5	anachron	character	real	t	u
+istics	5	ball	character	lingu	log	stat
+isting	4	ex	l	s	tw
+iston	4	ann	gr	l	p
+istries	3	chem	min	reg
+istry	4	chem	min	reg	t
+ists	21	a	athe	buddh	c	cub	d	essay	ex	f	g	l	lingu	m	n	o	p	r	s	t	tiv	tw
+ists'	5	capital	n	r	solo	t
+isty	3	chr	m	tw
+it's	3	LLUN	dece	detro
+itability	5	exc	inev	irr	prof	su
+itable	8	b	cred	hosp	indom	inev	prof	r	u
+itably	4	inev	prof	r	u
+ital	7	congen	dig	mar	p	rb	rec	v
+itals	3	p	rec	v
+itan	3	pol	pur	t
+itance	3	capac	hes	inher
+itant	4	exorb	hes	irr	mil
+itarian	3	author	l	n
+itarianism	3	al	author	un
+itary	4	hered	l	pitu	san
+itate	6	ag	facil	im	med	precip	s
+itated	8	ag	il	im	incapac	irr	med	precip	s
+itates	4	facil	im	irr	s
+itating	7	ag	il	im	irr	med	precip	s
+itation	11	ag	c	ed	explo	im	inhab	irr	rehabil	s	san	v
+itations	7	c	im	inv	irr	med	rehabil	vis
+itative	6	author	im	med	qual	quant	rec
+itatively	3	author	qual	quant
+itch	11	LLUN	b	d	f	h	m	p	str	t	v	w
+itched	4	h	p	st	w
+itches	6	LLUN	br	d	p	st	w
+itching	5	LLUN	backst	h	p	w
+ite's	3	gran	su	wh
+ited	13	a	b	c	d	e	explo	f	inv	m	n	r	s	u
+itely	4	exquis	fin	pol	wh
+iteness	4	exquis	indefin	pol	wh
+iter	10	a	b	c	gaule	jup	l	m	recru	t	wr
+iters	5	a	explo	l	t	wr
+ites	13	anti-sem	b	bo	c	d	inv	l	n	r	s	su	t	wh
+itful	4	dece	f	forg	fru
+ith's	4	griff	ke	m	mered
+ither	4	e	ga	h	w
+itian	3	ha	metropol	t
+itiate	3	in	nov	prop
+itic	4	anti-sem	paras	pol	r
+ities	12	c	complex	d	de	l	m	n	nt	r	s	u	v
+iting	12	b	c	d	explo	inv	m	r	recru	un	vis	wa	wh
+ition	8	b	d	l	n	r	s	t	u
+itional	3	d	nutr	s
+itioned	3	cond	pet	s
+itions	6	b	d	intu	n	s	t
+itious	5	amb	ed	nutr	prop	t
+itiously	3	amb	exped	surrept
+itis	5	hepat	l	r	rhinotrache	s
+itism	3	anti-sem	or	transvest
+itive	9	add	fug	intu	n	nutr	pet	prim	prohib	s
+itively	3	compet	intu	s
+itives	3	add	fug	sens
+itless	3	fru	h	lim
+itness	4	adro	explic	f	w
+itor	8	c	compet	d	inhib	is	n	su	tra
+itories	3	dorm	repos	terr
+itors	10	capac	compet	d	hib	inher	n	s	serv	su	tra
+itory	5	dorm	inhib	pos	premon	terr
+itous	3	calam	lic	u
+itre	4	go	m	ma	t
+itry	3	circu	pund	summ
+itted	5	acqu	f	half-w	kn	m
+itten	4	b	k	r	sm
+itter	8	b	h	l	r	s	t	transm	w
+ittered	3	emb	l	tw
+itters	7	b	h	j	l	r	s	t
+itting	9	f	h	kn	l	m	qu	s	sp	unw
+ittle	3	br	l	sp
+itty	4	d	gr	k	w
+itude	5	l	lic	long	n	t
+itudes	5	long	magn	sol	t	viciss
+iture	5	divest	expend	furn	portra	vo
+itus	6	emer	heracl	s	t	tac	v
+ity's	5	author	c	commun	municipal	univers
+itzer	3	pul	schwe	sw
+iums	4	equilibr	m	med	proscen
+ivable	3	conce	l	unforg
+ival	4	carn	r	t	v
+ivalent	4	amb	equ	mult	un
+ivals	3	fest	r	v
+ivan	3	LLUN	d	sull
+ivate	3	pr	sal	t
+ived	6	ce	d	l	r	v	wa
+ively	4	l	na	s	t
+iven	3	g	n	r
+iveness	3	forg	s	t
+iver	8	d	g	l	mc	n	r	rece	sh
+ivered	3	del	qu	sh
+ivering	4	del	qu	sh	unwa
+ivers	6	d	g	l	qu	r	rece
+iversity	3	d	mult	un
+ives	12	ce	ch	d	f	g	kn	l	r	s	surv	t	w
+iving	7	ce	d	g	j	l	r	v
+ivity	3	decl	s	t
+izable	3	diagonal	recogn	s
+ization	6	demytholog	l	m	n	r	t
+izations	3	l	organ	r
+ized	12	archa	c	d	e	g	h	l	m	n	r	s	t
+izers	3	eulog	l	n
+izes	7	energ	l	m	n	r	s	t
+izing	11	ard	e	g	h	ic	l	m	n	r	s	t
+izzled	3	f	r	s
+jack	4	LLUN	apple	black	skip
+ject	4	b	e	in	ro
+jected	5	b	e	in	inter	ro
+jecting	4	in	ob	pro	re
+jection	4	b	e	in	pro
+jections	3	ob	pro	re
+jective	3	ad	b	pro
+jects	3	b	re	ro
+join	3	LLUN	en	re
+joined	3	LLUN	ad	n
+joining	3	LLUN	ad	re
+judged	4	LLUN	ad	mis	pre
+judging	3	LLUN	ad	self-
+jury	3	LLUN	in	per
+just	3	LLUN	ad	n
+justice	3	LLUN	ex-	in
+justified	3	LLUN	left-	un
+k-up	3	c	mar	wal
+kable	3	a	in	r
+kage	3	c	ea	in
+ke's	6	bolingbro	i	loc	qua	r	u
+kedly	3	mar	na	wic
+keep	3	LLUN	bar	up
+keeper	4	LLUN	door	house	saloon
+keepers	3	motel-	shop	store
+keeping	4	-	LLUN	book	e
+kees	3	chero	sar	yan
+kened	4	a	c	dar	li
+kening	3	a	c	dar
+kenly	3	bro	drun	mista
+kens	4	a	billi	ic	to
+ker's	6	c	hoo	mee	r	spea	wes
+kered	3	c	n	whis
+kers	9	a	c	haw	n	o	r	see	wal	whis
+kers'	4	mas	steelma	wac	wor
+kest	5	c	dar	mee	ran	wea
+keted	3	blan	c	mar
+kets	4	c	mar	n	s
+keys	4	LLUN	lac	mon	tur
+khead	4	ban	bir	buc	bul
+khouse	3	bloc	drin	par
+kies	4	jun	o	oc	s
+kill	6	LLUN	batten	fish	quick-	s	schuyl
+kily	4	hus	luc	sha	sul
+kin'	6	a	al	as	c	see	wor
+kin's	4	bucks	lar	potem	ran
+king	14	-	LLUN	a	ball-haw	c	e	grok	i	l	ly	n	o	r	s
+kingly	5	c	painsta	see	stri	unblin
+kings	6	LLUN	a	boo	r	stoc	vi
+kins	9	cat	haw	jen	mani	p	pic	r	s	tom
+kinson	3	at	dic	wil
+kirk	3	LLUN	dun	sel
+kish	6	a	boo	c	maw	mon	r
+kland	3	oa	r	stric
+kled	3	c	in	spar
+kles	3	c	n	spar
+klike	3	fol	par	roc
+kling	3	ar	c	in
+kness	5	bris	c	dar	fran	wea
+knowing	3	-	LLUN	un
+knowledge	3	LLUN	ac	fore
+known	5	-	LLUN	fore	un	well
+koff	4	arshin	brea	c	chai
+kout	4	blac	loo	wal	wor
+kson	3	c	eri	gil
+kwood	3	a	kir	pac
+ky's	3	koussevitz	s	sul
+l-like	3	a	bul	e
+l-rich	3	cholestero	hydroxy	minera
+l-type	3	channe	conventiona	nul
+la's	5	car	l	pame	u	vio
+lable	5	calcu	i	invio	l	sa
+lace	8	LLUN	e	neck	p	pa	popu	so	wal
+laced	6	LLUN	inter	p	so	strait-	un
+laces	5	LLUN	neck	p	pa	shoe
+lacing	3	inter	p	un
+lack	4	LLUN	b	combel	s
+lacking	3	LLUN	b	s
+lacks	3	LLUN	b	s
+ladder	3	LLUN	al-	gallb
+lade	4	acco	b	laval	marma
+lades	5	acco	b	cyc	everg	fusil
+lads	3	LLUN	bal	sa
+lady	4	LLUN	boy-	ma	sales
+lage	6	assemb	f	fuse	hau	i	l
+laid	5	LLUN	in	over	p	way
+lain	6	LLUN	a	chamber	p	porce	vil
+lains	3	chilb	p	vil
+lair	3	b	c	f
+laire	3	baude	c	popu
+lake	4	-	LLUN	b	f
+lame	3	LLUN	b	f
+lan's	3	mcclel	p	whee
+lance	9	LLUN	ba	free-	g	par	semb	surveil	u	vigi
+lanced	3	LLUN	ba	g
+lances	4	LLUN	ambu	ba	g
+land	19	-	LLUN	b	d	e	farm	g	h	i	k	l	n	o	p	r	s	t	y	zea
+land's	7	LLUN	eng	ire	is	mary	po	t
+lander	3	LLUN	eng	hol
+landers	6	f	g	lubber	mary	out	s
+lands	11	LLUN	ad	e	er	farm	g	h	low	s	up	wet
+lands'	3	ire	is	row
+lane	5	-	LLUN	p	saltis-mcer	tu
+lang	3	LLUN	c	s
+lange	3	LLUN	f	me
+language	3	-	LLUN	para
+lank	3	b	f	p
+lanking	3	c	f	p
+lant	7	coo	i	l	noncha	p	s	u
+lants	5	assai	gal	p	s	stimu
+lapped	5	LLUN	c	f	over	s
+lapping	5	LLUN	c	f	over	s
+laps	4	LLUN	c	over	s
+lapse	3	LLUN	col	e
+lapsed	3	LLUN	col	e
+lapses	3	LLUN	col	e
+lard	4	LLUN	ab	l	mo
+lare	4	c	f	g	vo
+lared	5	b	dec	f	g	l
+large	3	-	LLUN	en
+laries	3	corol	sa	vocabu
+laring	4	b	dec	f	g
+larities	3	irregu	po	simi
+larity	4	c	i	po	u
+lark	3	LLUN	c	sky
+larly	3	scho	simi	u
+lars	5	LLUN	burg	l	o	u
+lary	4	burg	l	sa	vocabu
+lash	6	LLUN	back	c	f	p	s
+lashed	6	LLUN	c	f	s	sp	un
+lashes	6	LLUN	c	eye	f	p	s
+lashing	4	LLUN	f	s	sp
+lass	4	LLUN	c	cut	g
+lasses	4	LLUN	c	g	mo
+last	5	LLUN	b	bal	next-to-	radioc
+lastic	3	e	p	scho
+lasting	3	LLUN	b	ever
+lasts	3	LLUN	b	pa
+late	10	LLUN	a	i	inf	methacry	o	p	re	s	u
+lated	9	ab	e	f	i	l	o	p	s	u
+lates	7	i	o	p	pa	re	trans	u
+lating	7	contemp	i	il	o	re	trans	u
+lation	11	a	ab	contemp	e	hydroxy	i	inf	l	o	s	u
+lations	6	compi	e	l	o	trans	u
+lative	5	contemp	legis	re	super	u
+lator	5	oscil	perco	s	u	venti
+latory	3	episto	reve	u
+latter	4	LLUN	c	f	p
+lattered	3	c	f	sp
+lature	3	legis	muscu	nomenc
+laws	5	-	LLUN	c	f	out
+lay's	3	macau	mil	p
+layed	3	e	p	par
+layer	3	LLUN	inter	p
+layers	3	LLUN	brick	p
+laying	5	LLUN	brick	e	p	s
+lays	5	LLUN	c	de	out	p
+laze	3	LLUN	b	g
+lcott	3	wa	wo	wool
+ld's	5	chi	fie	macdona	o	wor
+lded	4	a	e	gi	o
+lden	3	a	o	se
+lder	5	ca	e	i	o	ou
+ldered	3	bewi	o	shou
+lders	5	e	i	o	ou	wor
+ldest	3	e	o	wi
+lding	5	a	bui	e	o	ou
+ldings	4	bui	ge	gou	o
+ldly	3	i	o	wor
+ldness	3	ba	o	wi
+le's	13	a	arbuck	b	c	co	e	g	i	il	p	rif	t	y
+lead	3	LLUN	balm-of-gi	p
+leading	3	LLUN	mis	p
+leads	3	LLUN	mis	p
+leaf	4	-	LLUN	green	white
+league	3	-	LLUN	col
+lean	5	LLUN	ashmo	c	g	u
+leaned	3	LLUN	c	g
+leans	3	LLUN	c	or
+leas	3	aza	f	p
+lease	4	LLUN	p	re	sub
+leased	3	LLUN	p	re
+leases	3	LLUN	p	re
+leasing	3	LLUN	p	re
+leck	3	a	f	hal
+lect	5	dia	e	l	neg	ref
+lected	4	col	e	f	neg
+lecting	4	col	e	f	neg
+lection	4	col	comp	e	f
+lections	4	col	e	f	predi
+lective	4	col	ref	se	see-
+lector	3	col	e	ref
+lectors	3	col	e	ref
+lects	5	col	dia	neg	ref	se
+ledge	3	LLUN	know	p
+ledged	3	acknow	full-f	p
+ledges	3	LLUN	acknow	p
+leen	3	ei	kath	sp
+lees	6	LLUN	enrol	f	g	k	paro
+leet	3	LLUN	f	s
+legal	3	LLUN	extra	il
+legations	3	LLUN	al	de
+lely	3	i	pa	so
+leman	6	b	co	esh	gent	rif	temp
+lemen	3	musc	rif	t
+lement	6	c	e	entang	p	sett	zz
+lements	4	c	e	p	tt
+lena	3	LLUN	a	e
+lence	5	excel	o	si	u	va
+lences	3	condo	excel	si
+lenda	3	ca	de	g
+lene	5	abi	ar	he	magda	y
+leness	7	a	agreeab	gent	id	sing	supp	who
+length	3	-	LLUN	wave
+lent	6	LLUN	a	el	i	o	u
+lently	3	excel	o	si
+ler's	10	chrys	cobb	d	dea	e	g	l	mah	schuy	t
+lers	16	a	b	baff	chronic	d	e	eh	gg	hur	i	l	oo	p	prow	ru	t
+lers'	5	dea	hand	ru	sel	smugg
+lery	3	ce	l	va
+les'	6	ange	bead	char	orio	peop	wa
+lesome	3	ett	troub	who
+less	18	LLUN	b	build-better-for-	d	e	g	h	i	k	lass	m	n	p	r	recoil	self	t	w
+lessly	10	d	e	fear	i	m	p	pain	reck	t	th
+lessness	7	e	h	help	job	reck	self	t
+lest	10	LLUN	a	b	crue	fou	frai	l	litt	o	simp
+lete	3	ath	obso	p
+leton	5	car	lytt	p	pend	ske
+leton's	3	car	litt	pend
+lets	14	LLUN	book	eye	i	in	l	leaf	p	pamph	ring	tab	u	ut	vio
+lett	3	bart	l	shif
+lette	4	pa	pride-star	ro	rou
+letter	3	LLUN	four-	news
+ley's	8	ai	brad	hux	l	n	r	s	sheck
+leys	4	bent	doo	l	pau
+lf's	3	go	se	u
+lful	3	il	ski	sou
+lfully	3	i	il	sou
+li's	4	barto	e	l	lauch
+liable	4	LLUN	ava	p	re
+lian	6	a	e	i	ju	l	metropo
+liance	3	l	p	re
+liant	4	bril	p	self-re	va
+liar	3	LLUN	fami	pecu
+liberal	3	-	LLUN	neo
+lica	3	ange	rep	si
+lical	4	bib	bo	cyc	evange
+lically	4	b	bo	epicyc	hydrau
+licate	3	de	p	si
+lice	6	LLUN	a	fe	p	po	s
+liced	3	po	s	sp
+licit	4	e	il	p	so
+licity	3	fe	p	pub
+lick	7	LLUN	c	f	oo	or	pub	s
+licked	3	LLUN	c	f
+licking	5	LLUN	c	f	fro	rol
+lics	4	hydrau	ita	o	repub
+lide	3	g	nuc	s
+lides	3	g	ha	s
+lids	4	LLUN	eye	inva	so
+lie's	3	ce	char	il
+lied	5	LLUN	e	l	nibelungen	p
+lient	3	c	ebul	sa
+lier	10	cheva	chil	cornell-dubi	cost	e	ear	f	friend	supp	ug
+lies	11	LLUN	a	assemb	der	e	f	i	l	o	p	week
+liest	5	dead	e	ear	low	sil
+lieu	3	LLUN	beau	mi
+life	3	-	LLUN	wild
+liffe	4	c	cond	jol	mcau
+lified	3	l	mp	qua
+lift	5	LLUN	air	fork	fork-	up
+lify	3	l	mp	qua
+lifying	3	amp	qua	vi
+ligence	3	di	intel	neg
+ligent	3	di	intel	neg
+light	16	-	LLUN	a	b	basebal	e	f	flood	h	n	p	s	star	t	twi	y
+lighted	4	-	LLUN	b	de
+lighting	3	LLUN	de	high
+lightly	3	LLUN	once-over-	s
+lights	8	LLUN	d	de	f	h	s	spot	y
+ligible	3	e	intel	neg
+like	16	-	LLUN	a	brush	c	d	dis	e	k	lady	m	n	pimp	t	tomb	war
+limit	3	-	LLUN	de
+limited	3	LLUN	entry-	un
+lin'	6	dar	i	l	stea	trave	ust
+lin's	8	cough	doo	k	krem	lub	r	sta	tai
+lina	3	ange	caro	ga
+linda	3	LLUN	ca	john-and-
+line	17	-	LLUN	a	ani	c	clothes	crystal	e	ead	gag	ip	k	o	r	t	u	y
+linear	3	LLUN	i	non-
+lined	9	-	LLUN	c	date	discip	out	stream	un	under
+liners	3	LLUN	ber	jet
+lines	9	LLUN	air	clothes	dec	discip	e	ead	out	story
+liness	7	d	e	ho	n	r	t	ug
+ling	19	a	b	c	d	e	f	g	i	k	l	o	p	r	s	sty	t	u	w	zz
+ling's	4	ar	dow	kip	u
+linger	4	LLUN	il	s	sa
+lingly	4	i	l	start	twir
+lings	13	c	dea	e	fledg	i	l	ramb	raw	ru	s	seed	star	wrest
+linguistic	3	LLUN	non	para
+lini	3	ander	el	musso
+lining	6	LLUN	discip	ec	er	head	out
+linked	4	LLUN	b	c	un
+linking	3	LLUN	b	p
+lins	5	l	raw	sta	u	vio
+lint	4	LLUN	c	f	g
+lion	5	LLUN	batta	e	i	l
+lion's	3	LLUN	he	stal
+lions	4	LLUN	batta	l	pavi
+lipped	4	c	f	s	thin-
+lips	8	LLUN	b	c	f	hare	phil	s	tu
+lish	12	accomp	b	crum	devi	eng	gir	l	mc	o	re	sa	sty
+lished	4	accomp	b	embel	o
+lishes	4	accomp	b	po	re
+lishing	4	accomp	b	po	re
+lisle	3	LLUN	car	semple-
+lism	4	a	e	i	o
+lison	3	a	al	g
+list	9	LLUN	a	cel	check	cyc	e	en	nihi	sty
+listic	6	a	bal	i	monopo	simp	sty
+lists	6	LLUN	a	book	e	en	o
+lite	4	e	l	o	p'
+liter	3	-	LLUN	milli
+literary	4	-	LLUN	n	sub
+literate	5	-	LLUN	il	ob	pre
+lites	4	austra	e	l	metabo
+lities	4	a	i	po	possib
+litter	3	LLUN	g	s
+littered	3	LLUN	g	refuse-
+litude	3	amp	simi	so
+lity	6	a	credu	fide	i	l	o
+litz	3	LLUN	b	ber
+lium	3	he	i	l
+live	5	LLUN	a	c	o	re
+lived	3	-	LLUN	out
+liver	3	LLUN	de	o
+livery	3	LLUN	de	s
+lives	3	LLUN	o	re
+living	3	-	LLUN	re
+lization	6	a	crystal	i	o	pane	sty
+lize	4	a	crystal	i	o
+lized	6	a	crystal	e	i	o	sty
+lizes	3	a	i	symbo
+lizing	4	a	crystal	i	symbo
+lked	3	a	bi	u
+ll's	3	a	e	i
+lla's	3	este	fa	siby
+llable	5	ca	ki	sy	uncontro	unte
+llan	3	a	e	i
+llar	3	e	o	pi
+llars	3	ce	o	pi
+llas	3	a	e	i
+llation	4	co	e	i	insta
+lled	5	a	e	i	o	u
+llen	4	a	e	o	u
+ller	5	a	e	i	o	u
+ller's	5	contro	e	footba	mi	mu
+llers	5	ca	e	i	mccu	ro
+lles	5	co	da	du	e	i
+llet	3	a	i	u
+llets	4	ba	bi	bu	pe
+lley	4	a	o	she	u
+lley's	3	e	to	va
+llie	3	e	i	o
+llies	5	a	e	i	o	u
+llin'	3	ca	e	ki
+lling	5	a	e	i	o	u
+llings	4	e	i	pu	sta
+llion	3	i	rebe	sta
+llions	3	i	meda	rebe
+llis	4	cornwa	e	i	phy
+llman	4	e	hi	u	wo
+llment	3	enro	fulfi	insta
+llness	3	i	sma	u
+llo's	3	apo	sanga	truji
+llow	4	a	e	i	o
+llowed	4	a	bi	e	fo
+llowing	3	a	e	fo
+llows	4	a	e	i	o
+llusion	3	a	co	i
+lly's	3	a	li	o
+llying	3	a	jo	u
+lman	5	e	i	l	o	per
+lman's	3	hote	l	o
+lmans	3	co	heuve	pul
+lmed	3	a	fi	overwhe
+lment	3	ai	concea	l
+lments	3	ai	insta	l
+lmer	3	a	co	e
+lming	3	ca	fi	overwhe
+lness	4	a	coo	fu	l
+load	7	LLUN	arm	boat	floating-	plane	r	un
+loaded	5	-	LLUN	over	re	un
+loading	3	LLUN	car	un
+loads	4	LLUN	boat	car	un
+loan	3	LLUN	s	student-
+loated	3	b	f	g
+located	3	LLUN	al	dis
+location	5	LLUN	al	dis	plant-	re
+locations	3	LLUN	al	dis
+loch	3	b	bul	mo
+lock	11	LLUN	b	c	d	f	pol	r	shy	slide-	un	whee
+lock's	3	f	pol	whee
+locked	7	-	LLUN	b	c	f	pad	un
+locking	7	LLUN	b	c	f	inter	self-	un
+locks	6	LLUN	b	c	f	hem	un
+loes	3	a	f	peccadil
+logged	3	LLUN	c	f
+logical	4	LLUN	il	minera	o
+logue	5	a	epi	mono	primitive-ec	trave
+logy	3	a	o	tri
+lois	3	LLUN	b	va
+lone	4	LLUN	a	o	si
+long	8	-	LLUN	a	bud	e	ob	pro	shil
+longed	3	LLUN	be	pro
+longing	3	LLUN	be	pro
+longs	4	LLUN	be	fur	pro
+lons	3	a	al	e
+look	4	LLUN	out	over	second-
+looking	3	-	LLUN	over
+loom	3	LLUN	b	g
+loon	4	LLUN	bal	doub	sa
+loop	3	LLUN	s	ver
+lope	3	LLUN	e	s
+loped	4	LLUN	al	e	uns
+loping	3	al	s	ve
+lopped	4	LLUN	f	p	s
+lops	3	deve	f	scal
+lord	3	LLUN	land	mi
+lords	3	LLUN	land	over
+lore	4	LLUN	folk	folk-	p
+lored	3	o	p	tai
+lors	6	a	co	e	par	sai	tay
+lory	3	f	g	mal
+lose	3	LLUN	c	cellu
+loses	3	LLUN	c	cellu
+lots	6	LLUN	b	bal	p	pi	s
+lotte	4	LLUN	char	f	lo
+lotte's	3	char	f	lo
+lotted	5	al	b	c	p	s
+lotting	3	al	b	p
+loud	4	LLUN	a	c	over
+lough	4	barac	fur	mccul	s
+lous	6	a	cal	e	frivo	ri	u
+louse	3	LLUN	b	tou
+loused	3	LLUN	cal	de
+lously	5	cal	ea	marve	peri	u
+love	3	LLUN	c	g
+loved	3	LLUN	be	g
+lover	4	LLUN	c	g	pul
+loves	3	LLUN	c	g
+low's	3	el	part	wins
+lowed	5	f	g	l	p	s
+lower	6	LLUN	b	f	l	s	upper-
+lowered	3	LLUN	f	g
+lowering	3	LLUN	f	g
+lowers	4	LLUN	b	f	fol
+lowing	6	b	f	g	l	p	s
+lown	4	LLUN	b	c	f
+lows	6	LLUN	b	f	g	l	p
+lson	5	car	cou	e	i	o
+lt's	3	chennau	o	rooseve
+lted	5	a	e	i	o	u
+lter	3	a	e	fi
+ltered	3	a	fi	she
+ltering	3	a	fi	swe
+lters	3	a	fi	she
+lties	4	a	cu	mi	nove
+lting	5	a	e	i	o	u
+lton	6	a	e	i	kimbo	know	u
+lton's	3	da	know	mi
+luck	4	LLUN	c	chuck-a-	p
+lucked	3	LLUN	c	p
+lude	4	c	ca	e	inter
+luded	3	al	c	e
+ludes	4	al	c	e	inter
+luding	3	al	c	e
+lues	3	b	c	va
+lugged	3	LLUN	p	s
+lumber	3	LLUN	p	s
+lume	3	b	p	vo
+lump	4	LLUN	c	p	s
+lumped	3	LLUN	p	s
+lums	3	curricu	hood	s
+lung	6	LLUN	aqua-	bremsstrah	c	f	s
+lure	3	LLUN	al	fai
+lush	4	LLUN	b	f	p
+lusion	4	c	de	l	pro
+lusions	3	c	l	pro
+lusive	3	c	e	il
+lusiveness	3	al	c	e
+lust	3	LLUN	blood	blood-
+luster	3	LLUN	b	c
+lustered	3	b	c	f
+lute	5	LLUN	di	f	sa	so
+luted	6	convo	di	e	f	pol	sa
+lution	4	di	e	o	pol
+lver	3	cu	revo	si
+lves	3	a	e	o
+lving	3	ca	de	o
+lway	3	ga	hal	rai
+lways	3	a	hal	rai
+ly's	4	gee	i	ita	l
+lying	8	LLUN	er	f	l	low-	out	p	re
+lynn	3	LLUN	f	mcg
+ma's	5	em	grand	ma	phou	thel
+mable	3	flam	irredee	unfatho
+machine	4	LLUN	eye-	sub	super
+mack	5	LLUN	merri	r	s	sto
+macy	4	diplo	i	phar	supre
+made	5	-	LLUN	hand	home	man
+mage	5	da	de	ho	i	scrim
+maging	3	da	i	rum
+magnet	3	LLUN	electro	para
+magnetic	4	LLUN	electro-	ferro	para
+maids	3	LLUN	brides	chamber
+mail	3	LLUN	air	black
+main	4	-	LLUN	do	re
+mains	3	LLUN	do	re
+make	3	-	LLUN	re
+maker	6	-	LLUN	atch	e	l	wig
+makers	5	LLUN	cabinet	e	law	policy-
+making	7	-	LLUN	e	law	match	print	y
+male	3	LLUN	fe	ta
+mally	3	dis	i	r
+mals	3	i	mam	nor
+man's	15	LLUN	di	e	h	hang	l	od	r	s	t	u	w	wo	work	y
+managed	3	LLUN	mis	un
+manded	3	com	e	repri
+mander	3	com	de	sala
+mane	3	balleto	ger	hu
+mania	5	LLUN	ger	megalo	ru	tas
+manic	3	LLUN	ger	talis
+manly	4	LLUN	gentle	hu	wo
+mann	12	LLUN	boltz	bult	ck	e	h	kauff	lipp	marc	neu	nord	r
+mann's	7	LLUN	bult	erd	fuhr	h	rie	schu
+mans	8	LLUN	alaba	hu	l	loh	r	ro	wange
+manship	7	chair	horse	k	oneup	s	sea	show
+mant	3	ada	clai	or
+mantic	3	LLUN	ro	se
+manuel	3	LLUN	e	em
+many	3	LLUN	ger	tam
+mara	3	cu	mar	mcna
+marine	4	LLUN	ex-	sub	ultra
+marital	4	LLUN	extra	pre	pre-
+mark	8	-	LLUN	bis	den	e	hall	land	post
+marked	5	LLUN	ear	re	un	worst-
+market	3	-	LLUN	super
+marks	6	LLUN	bench	e	hall	hoof	land
+married	4	-	LLUN	re	un
+mary	6	LLUN	custo	infir	pri	rose	sum
+master	9	LLUN	head	home	pay	quarter	school	station	t	task
+master's	4	LLUN	burgo	post	school
+masters	3	-	LLUN	post
+masu	3	LLUN	gosai	pa
+mata	4	ar	sche	stig	ya
+matched	3	LLUN	out	un
+mate	13	LLUN	auto	bunk	class	e	fer	i	in	m	p	play	school	team-
+mated	7	LLUN	amalga	auto	consum	e	i	un
+mates	9	LLUN	bunk	class	i	in	m	play	school	ship
+matic	9	bernz-o-	dra	e	enzy	epigram	g	o	super	u
+matical	3	dra	e	gram
+matically	5	auto	dog	dra	e	gram
+matics	4	chro	dra	mathe	rheu
+mation	5	a	auto	i	m	r
+mations	4	cla	exhu	i	r
+matory	3	a	inflam	refor
+mats	3	LLUN	diplo	for
+mature	3	LLUN	im	pre
+mbed	3	li	o	u
+mber	5	a	e	i	o	u
+mbered	4	a	me	ti	u
+mbering	3	cla	reme	u
+mbers	5	bo	cha	me	nu	ti
+mbing	3	cli	o	u
+mble	4	a	e	i	u
+mbled	3	a	e	u
+mbler	3	a	ni	tu
+mbles	3	a	e	u
+mbling	3	a	e	u
+mbly	3	asse	ni	u
+mbre	3	cha	so	ti
+me's	4	a	hu	o	ti
+meal	5	-	LLUN	corn	oat	piece
+megaton	3	0-	LLUN	multi
+mely	4	na	o	re	ti
+member	3	-	LLUN	re
+men's	7	LLUN	e	earth	lay	pi	sports	wo
+mend	4	LLUN	a	co	com
+mended	3	LLUN	a	com
+mending	4	LLUN	a	com	slowly-
+mens	4	a	cle	hy	speci
+ment	18	a	com	d	e	embank	endow	g	h	i	l	mo	n	p	r	s	t	u	y
+ment's	6	amend	depart	govern	manage	mo	regi
+mental	9	LLUN	depart	develop	e	funda	i	n	seg	u
+mentality	3	LLUN	monu	senti
+mentally	5	LLUN	experi	funda	govern	u
+mentary	7	com	docu	frag	i	le	mo	parlia
+mentation	6	a	fer	frag	i	imple	u
+mentations	3	experi	fer	la
+mented	7	a	com	docu	e	g	i	r
+menting	5	aug	com	i	ple	r
+mentioned	3	-	LLUN	afore
+mento	3	i	me	sacra
+ments	17	a	assess	com	e	endow	g	h	i	l	mo	n	nd	p	r	t	u	y
+mer's	7	ar	consu	kra	l	latti	o	um
+meral	3	bica	ephe	nu
+mere	3	LLUN	cash	hewlett-wood
+merged	3	LLUN	e	sub
+merging	3	LLUN	e	sub
+mers	7	consu	i	l	m	o	poly	r
+mers'	4	custo	embal	far	swim
+mery	3	crea	montgo	perfu
+mes'	3	hol	ja	ti
+meteorite	3	LLUN	micro	stony-
+meter	5	LLUN	a	i	o	volt
+meters	4	LLUN	a	centi	o
+metic	4	arith	cos	her	mi
+metric	5	a	i	o	sym	volu
+metrical	3	LLUN	geo	sym
+metrically	5	LLUN	dia	geo	sym	volu
+mets	4	LLUN	co	gour	hel
+mful	3	ar	bri	roo
+mian	4	alaba	bohe	per	yardu
+mical	7	cos	dyna	e	ini	o	phar	rhyth
+mically	4	a	e	o	rhyth
+mick	3	LLUN	mccor	wem
+mics	3	a	e	o
+mies	4	ar	e	econo	m
+mighty	4	LLUN	al	gawda	torrid-
+migrant	3	LLUN	e	im
+migrants	3	-	LLUN	im
+migration	3	LLUN	e	im
+mile	5	-	LLUN	e	s	si
+military	3	-	LLUN	para
+mill	5	LLUN	d	gin	grist	saw
+millionaire	3	LLUN	multi	multi-
+min'	3	co	ram	redee
+mina	3	do	sta	wilhel
+minal	4	cri	er	o	se
+minate	7	a	effe	er	i	illu	o	ul
+minated	7	a	cul	disse	eli	illu	o	ter
+minates	4	cul	do	eli	ter
+minating	7	a	disse	i	illu	o	ter	ul
+mination	7	a	cul	i	illu	o	se	ter
+minations	5	deno	deter	exa	i	illu
+mind	3	-	LLUN	re
+minded	3	-	LLUN	re
+mine	5	LLUN	a	illu	r	run-of-the-
+mined	4	LLUN	er	exa	illu
+minence	3	e	im	pro
+minent	3	e	im	pro
+mines	4	LLUN	a	deter	illu
+ming	9	a	e	i	l	m	o	r	rhy	u
+mingly	3	ar	overwhel	see
+mings	4	co	eye-bea	fle	trim
+mington	5	far	lea	re	wil	y
+mini	3	borro	i	ter
+mining	4	LLUN	clay-	er	exa
+mire	3	ad	prox	quag
+mise	3	e	pro	sur
+mises	4	LLUN	pre	pro	sur
+mish	3	le	r	squea
+mism	3	euphe	i	refor
+miss	4	-	LLUN	a	dis
+misses	3	LLUN	dis	near-
+missible	3	ad	per	trans
+mission	9	LLUN	ad	e	er	manu	o	om	sub	trans
+missions	7	LLUN	ad	com	inter	o	re	sub
+missive	3	LLUN	per	sub
+mist	4	LLUN	econo	psal	r
+mistic	3	aristotelean-tho	i	mediu
+mists	5	LLUN	confor	e	econo	pessi
+mite	4	LLUN	a	dream-sweet	se
+mities	4	cala	defor	en	extre
+mits	7	ad	com	li	o	per	sub	trans
+mitted	8	ad	com	e	manu	o	per	sub	trans
+mitting	7	ad	com	e	o	per	sub	trans
+mity	6	a	anony	en	extre	i	r
+mium	4	cad	chro	os	pre
+mixed	3	LLUN	ad	un
+mization	3	i	rando	te
+mized	3	epito	i	ite
+mizing	3	econo	i	ite
+mless	4	botto	ea	har	i
+mlessly	3	ai	drea	har
+mley	3	bro	cru	ghor
+mmate	3	roo	su	tea
+mmed	5	a	e	glo	i	u
+mmel	3	ru	si	tra
+mmer	3	a	i	u
+mmers	3	so	swi	u
+mmes	3	LLUN	e	progra
+mming	4	a	he	i	u
+mmit	3	co	da	su
+mmons	4	co	ha	si	su
+mned	3	conde	da	white-colu
+mness	3	cal	fir	gri
+mobile	4	-	LLUN	auto	olds
+modern	3	LLUN	ultra	ultra-
+modified	3	LLUN	motional-	un
+molecular	4	LLUN	bi	inter	macro
+mon's	3	de	si	solo
+mond	7	al	ar	des	dia	ham	ray	rich
+monds	3	al	dia	sy
+mone	3	cul	disi	hor
+monies	3	LLUN	cere	har
+mons	3	e	m	ser
+mont	8	LLUN	k	l	pied	r	ray	u	vouille
+monthly	3	LLUN	bi	bi-
+mony	3	e	har	i
+moon	3	LLUN	full-of-the-	honey
+moral	3	LLUN	a	im
+morality	3	LLUN	a	im
+more	11	LLUN	any	balti	d	e	er	l	ns	rush	sopho	t
+mored	3	ar	cla	ru
+mores	3	LLUN	barry	sopho
+morning	3	LLUN	early-	mid
+morrow	3	LLUN	to	to-
+mory	3	a	ar	e
+most	9	'	LLUN	al	er	fore	hind	northern	top	ut
+mother	3	LLUN	grand	step
+mothers	3	LLUN	grand	step
+motion	5	LLUN	com	e	pro	time-&-
+motional	3	LLUN	e	pro
+motivated	3	LLUN	profit-	un
+mount	4	LLUN	a	flying-	r
+mounted	5	LLUN	a	altitude-azimuth-	dis	sur
+mounting	5	LLUN	a	dis	ever	re
+mour	4	ar	gla	hu	sey
+mous	7	a	blasphe	enor	no	nony	posthu	unani
+mouth	8	-	LLUN	dart	fal	on	ports	ver	y
+movable	3	LLUN	im	re
+moved	3	LLUN	re	un
+moves	3	LLUN	counter-	re
+moving	4	-	LLUN	earth	re
+mped	4	a	li	o	u
+mper	4	a	e	u	whi
+mpers	3	a	bu	te
+mping	4	a	i	o	u
+mple	3	a	si	te
+mpled	3	a	pi	ru
+mples	3	a	i	te
+mplified	3	a	exe	si
+mplify	3	a	exe	si
+mply	3	a	co	i
+mpson	3	o	sa	si
+mpton	3	ha	ki	ply
+mson	3	ada	i	tho
+much	3	LLUN	inas	many-
+mulate	4	cu	e	for	i
+mulated	4	accu	e	for	i
+mulating	3	accu	for	sti
+mulation	3	accu	for	i
+mund	3	ed	sig	sige
+mural	3	LLUN	intra	intra-
+muted	3	LLUN	com	trans
+my's	4	ar	bella	e	om
+n-down	3	broke	butto	ru
+n-like	3	a	gelati	melo
+n-out	3	draw	plai	r
+n-type	3	guttma	shotgu	tio
+n-up	4	chi	clea	ow	ru
+na's	5	a	i	leeso	n	pasade
+nable	5	discer	e	i	o	u
+nace	3	fur	me	reconnaissa
+nack	4	har	k	macki	s
+nacle	3	mo	pin	taber
+nade	6	colon	e	espla	lemo	mari	whips
+naded	3	collo	colon	sere
+nado	3	ga	o	tor
+nagan	3	fla	flan	mo
+nage	4	a	i	o	tee
+nail	3	LLUN	s	thumb
+nails	3	LLUN	finger	s
+naire	3	i	io	question
+naked	3	-	LLUN	s
+nalist	3	fi	jour	tio
+nalists	3	fi	jour	tio
+nality	3	car	i	o
+nalized	3	inter	o	pe
+nally	4	con	er	i	o
+nals	7	an	ca	i	jour	o	sig	tribu
+name	4	-	LLUN	nick	sur
+named	6	LLUN	last-	mis	nick	re	un
+names	3	LLUN	nick	place-
+nance	5	e	i	ord	repug	so
+nancy	3	LLUN	g	te
+nant	6	e	g	i	o	pen	rem
+nants	6	conso	e	mi	misdemea	pen	rem
+napped	3	LLUN	kid	s
+napping	3	LLUN	kid	s
+nard	6	cu	may	n	o	ox	r
+nari	3	fu	giubbo	i
+naries	3	merce	mi	o
+nary	6	LLUN	e	gra	i	lu	o
+nastic	3	dy	gym	mo
+nate	9	LLUN	e	fortu	g	i	in	isocya	o	r
+nated	6	e	ema	g	i	o	r
+nately	4	i	io	ortu	r
+nates	6	alie	g	i	o	polyisocya	unfortu
+nating	5	alter	desig	ema	i	o
+nation	10	LLUN	a	e	fourteen-	g	i	lu	m	o	r
+national	5	LLUN	denomi	ex-	inter	supra
+nationally	3	LLUN	denomi	inter
+nations	5	LLUN	a	esig	i	o
+native	3	LLUN	alter	i
+nato	3	LLUN	o	osti
+natory	3	condem	discrimi	expla
+natural	3	LLUN	super	un
+nature	3	LLUN	artist-	sig
+nberg	3	e	i	scho
+nburg	3	e	gatli	r
+nce's	3	a	e	pri
+nced	5	a	e	ensco	i	ou
+ncement	3	adva	comme	nou
+ncements	3	adva	comme	nou
+ncer	3	a	annou	spe
+nces	4	a	e	i	ou
+nched	5	a	e	i	ly	u
+ncher	3	cli	ra	u
+nches	4	e	i	ra	u
+nching	4	a	e	i	u
+ncing	4	a	e	i	ou
+nction	3	sa	ti	u
+nctions	3	disti	sa	u
+nd's	4	a	frie	i	u
+nd-level	3	grou	ha	seco
+nda's	3	anaco	li	mira
+ndant	3	comma	e	u
+ndary	3	bou	lege	seco
+nded	6	a	commaw	e	i	o	u
+ndel	3	aru	bra	fro
+nder	5	a	e	i	o	u
+ndered	5	a	e	hi	o	u
+ndering	5	a	hi	o	re	u
+nderings	3	re	u	wa
+nderous	3	po	sla	thu
+nders	6	a	e	i	saw	u	wo
+ndid	3	ca	sple	u
+ndies	3	burgu	ca	i
+nding	5	a	e	i	o	u
+ndings	4	a	e	i	surrou
+ndle	3	a	i	u
+ndled	3	bu	ha	i
+ndless	4	e	ha	i	ou
+ndling	3	ha	i	u
+ndly	5	a	frie	i	o	ou
+ndness	4	bla	fo	i	ou
+ndon	4	a	e	lo	ly
+ndra	3	dicho	matsye	sa
+ndre	3	a	dequi	double-ente
+ndry	3	he	husba	u
+nds'	3	a	frie	pou
+ndum	3	memora	refere	u
+ne's	9	a	ay	dufres	e	i	n	o	r	tribu
+near	3	LLUN	li	mc
+necessary	3	LLUN	sometimes-	un
+neck	7	-	LLUN	d	leather	mamaro	rough	tle
+nedly	3	determi	resig	unconcer
+needed	3	-	LLUN	un
+neer	4	i	io	s	ve
+neering	4	i	pio	s	sloga
+neers	3	engi	pio	s
+nell	6	LLUN	brow	bush	mey	n	r
+nelli	3	marti	rima	simo
+nels	5	colo	ker	n	pa	senti
+nely	4	a	i	lo	sere
+nement	4	fi	gouver	o	te
+nent	3	i	ma	po
+neous	5	a	erro	ig	oge	sangui
+neously	4	consangui	erro	homoge	ta
+ner's	9	g	gard	k	liste	mey	n	o	ow	r
+neral	3	fu	ge	mi
+nerals	3	fu	ge	mi
+neration	3	e	exo	remu
+nered	3	cor	man	part
+ners	10	clea	dejeu	e	i	ig	n	o	ow	part	r
+ners'	4	begin	ow	priso	wie
+nery	6	can	chica	i	r	sce	statio
+nese	8	a	ag	canto	commu	far	i	se	vien
+nesi	3	be	messi	pira
+ness	20	d	e	expressiv	f	h	i	ing	k	l	lax	m	n	numb	o	ow	p	r	s	t	y
+nesses	7	abstruse	i	k	kind	l	lio	t
+nest	6	LLUN	a	ee	i	o	r
+netic	4	e	ki	mag	pho
+nets	6	LLUN	a	bayo	cabi	e	on
+nette	3	antoi	kitche	vig
+news	4	-	LLUN	re	si
+ney's	6	a	fin	mo	qui	r	sid
+neyed	3	hack	jour	mo
+neys	5	chim	kid	mo	r	swee
+nfield	4	ba	cor	e	i
+nformed	3	co	i	u
+nful	3	i	r	spoo
+ng's	4	ga	i	so	you
+nged	5	a	challe	i	o	u
+ngel	3	a	ri	ste
+ngency	3	i	pu	ta
+ngent	3	i	pu	ta
+nger	5	a	e	i	o	u
+ngering	3	enda	i	warmo
+ngers	4	a	fishmo	i	sse
+nges	6	a	challe	i	spo	stocky	u
+ngest	4	o	roari	stra	you
+nging	5	a	e	i	o	u
+ngish	3	ba	lo	you
+ngle	3	a	i	ju
+ngled	3	a	bu	i
+ngles	3	a	i	ju
+nham	3	bo	bur	e
+ni's	4	i	jen	o	ria
+nial	4	e	en	fi	o
+nian	6	a	e	i	o	peren	ter-arutu
+nians	5	a	califor	e	i	o
+nica	3	ar	britan	o
+nical	7	a	cli	cy	ecume	iro	tech	tyran
+nically	5	a	cli	cy	o	tech
+nice	4	LLUN	ja	spice-	ve
+nick	4	LLUN	har	rol	s
+nicked	3	LLUN	pa	pic
+nics	6	cli	cy	e	mecha	o	pic
+nied	3	accompa	de	whin
+nier	4	fun	gre	rai	ver
+nies	5	a	e	n	o	ti
+niest	3	cor	fun	ti
+nification	4	mag	orga	perso	u
+nified	3	g	perso	u
+nifies	3	g	perso	u
+nifying	4	mag	mi	perso	u
+night	7	-	LLUN	d	fort	k	over	to
+nin'	4	i	liste	mea	n
+nine	6	LLUN	ca	i	strych	thyro	ty-
+ning	11	a	e	i	ig	light	m	n	o	r	u	w
+ning's	4	an	brow	eve	mor
+ningly	6	ar	frow	i	questio	te	un
+nings	7	e	imagi	mea	n	r	recko	w
+nini	4	a	anto	ber	cen
+nion	4	a	i	o	u
+nions	4	a	o	opi	u
+nips	3	LLUN	s	tur
+nique	4	i	philharmo	tech	u
+nised	3	a	antago	recog
+nish	7	a	brow	e	i	n	pu	r
+nished	7	a	i	o	pu	pun	r	reple
+nishes	4	a	i	pu	r
+nishing	5	a	fur	i	o	pu
+nishment	4	asto	ba	pu	reple
+nism	5	a	i	moder	o	u
+nisms	3	a	o	souther
+nist	8	a	colum	commu	e	i	misogy	o	zen
+nist's	3	inter	pia	receptio
+nistic	5	a	determi	moder	o	u
+nists	7	a	colum	commu	ecume	i	moder	o
+nita	3	a	be	l'u
+nitarian	3	huma	tri	u
+nite	7	a	fi	ig	k	menno	te	u
+nites	3	o	suburba	u
+nities	6	a	frater	i	indig	obsce	u
+nition	4	ammu	defi	g	mo
+nitions	3	defi	mo	mu
+nitive	3	cog	fi	pu
+nity	7	a	dig	e	em	er	i	u
+nium	4	a	e	en	mo
+nization	6	a	harmo	homoge	hyali	immu	moder
+nize	7	a	commu	er	homoge	o	recog	tyran
+nized	5	a	er	o	recog	scruti
+nizes	3	ago	orga	recog
+nizing	5	a	moder	o	recog	scruti
+nker	4	a	i	too	u
+nkers	4	a	i	u	yo
+nking	3	a	i	u
+nland	3	i	ree	vacatio
+nless	3	i	io	u
+nley	3	a	i	tow
+nley's	3	a	he	i
+nlike	4	a	i	moo	u
+nman	3	i	pe	u
+nment	5	ai	enlighte	ig	o	r
+nments	4	gover	ig	o	tai
+nn's	4	a	bo	du	fly
+nnard	3	ke	sta	tu
+nned	5	a	i	o	pe	u
+nnel	4	a	e	o	u
+nner	5	a	bre	i	o	u
+nners	3	a	i	u
+nnes	3	ceza	cheye	thy
+nness	5	a	commo	e	stubbor	thi
+nnett	3	e	ga	mi
+nnie	5	a	e	joh	mi	o
+nning	5	a	i	ke	o	u
+no's	4	i	musman	sukar	u
+nock	4	char	gree	k	pen
+nodes	3	LLUN	a	dy
+noff	5	mila	mile	rachmani	ru	tur
+nography	3	electro	ocea	ste
+nological	3	chro	phenome	tech
+nology	3	o	tech	termi
+nometer	3	acti	diag	ma
+non's	3	agamem	an	ver
+nora	3	se	sig	so
+nore	3	elsi	ig	o
+noring	3	ho	ig	s
+normal	5	LLUN	b	beyond-	para	super
+nors	5	gover	ma	mi	o	te
+nose	4	LLUN	brass	diag	mealy
+nosed	3	-	diag	mealy
+notch	3	LLUN	top	top-
+note	5	LLUN	con	de	foot	key
+noted	3	LLUN	above-	de
+notes	5	LLUN	con	de	foot	key
+nounce	3	an	de	pro
+nounced	3	an	de	pro
+nouncing	3	an	e	pro
+nourished	3	LLUN	mal	un
+nous	6	caver	diapha	e	i	o	polygy
+novich	3	a	lati	salomo
+ns's	4	bur	jenki	mea	stephe
+nscription	3	co	i	tra
+nsee	3	lice	u	wa
+nsen	4	a	e	jan	por
+nses	3	e	hawki	respo
+nset	3	i	o	su
+nship	5	a	citize	io	ki	tow
+nships	3	chairma	io	tow
+nside	4	bur	i	o	ocea
+nsing	3	clea	e	ri
+nsive	3	e	expa	respo
+nsively	3	e	expa	respo
+nsiveness	3	defe	expa	respo
+nsome	3	burde	sa	wi
+nson	4	a	e	i	joh
+nson's	4	e	i	joh	simo
+nsor	3	e	spo	wi
+nspired	3	co	i	tra
+nstance	3	co	happe	i
+nstein	3	ber	e	ei
+nster	4	fe	mo	pu	westmi
+nston	5	a	joh	u	wi	wy
+nsure	3	e	i	u
+nsville	3	colli	eva	simmo
+nt's	5	a	au	e	o	qui
+ntable	5	a	i	ou	prese	tur
+ntage	4	e	o	va	vi
+ntain	4	co	mai	ou	pla
+ntains	3	co	mai	ou
+ntal	3	consona	e	o
+ntant	3	accou	menilmo	repe
+ntation	3	a	confro	e
+ntations	3	confro	e	pla
+nted	5	a	e	fro	i	u
+ntee	3	abse	appoi	guara
+ntees	3	appoi	guara	pate
+nter	4	a	e	i	u
+nter's	3	e	hu	i
+ntered	4	a	cou	e	i
+ntering	3	ba	e	wi
+nters	4	e	i	pla	u
+nthood	3	pare	peasa	sai
+nths	3	e	hyaci	mo
+ntial	3	e	i	substa
+ntian	3	cou	e	serba
+ntic	3	a	authe	orthodo
+ntier	3	carpe	cha	fro
+nties	4	a	cou	e	uncertai
+nting	5	a	e	fro	i	u
+ntings	3	mou	pai	pla
+ntive	3	e	plai	substa
+ntless	3	i	rele	u
+ntly	4	a	blu	e	i
+ntment	3	e	encha	oi
+ntness	3	blu	pleasa	prese
+nton	6	a	boo	e	i	stau	thor
+ntry	4	a	cou	e	wi
+nual	3	an	conti	ma
+nually	3	an	conti	ma
+nuclear	3	LLUN	bi	o
+numbered	3	LLUN	out	un
+nure	3	i	ma	te
+nuts	5	LLUN	chest	coco	l	pea
+nville	4	a	e	li	o
+nward	4	dow	heave	i	o
+nway	3	fe	o	ru
+ny's	4	a	n	o	pli
+nyon	3	ca	ke	ru
+oach	3	c	p	r
+oaches	3	c	p	r
+oactive	3	hyp	psych	radi
+oals	4	c	f	g	sh
+oaned	3	gr	l	m
+oans	3	chicag	l	m
+oast	4	b	c	r	t
+oasted	4	b	c	r	t
+oasts	4	b	c	milquet	r
+oat's	3	b	g	thr
+oated	3	c	l	sweet-thr
+oating	3	b	c	fl
+oats	6	LLUN	b	c	l	scapeg	thr
+ob's	3	b	m	r
+obbed	3	b	r	s
+obbing	4	b	h	r	s
+obbins	3	b	d	r
+obbled	3	g	h	w
+obby	4	b	h	l	r
+obin	4	hemogl	r	t	to
+oble	3	c	d	n
+ocal	5	f	l	recipr	s	v
+ocally	3	f	l	v
+ocate	3	adv	l	recipr
+ocated	3	adv	l	suff
+ocating	3	adv	l	suff
+ocation	3	l	suff	v
+occupied	4	LLUN	over-	pre	un
+occurrence	3	LLUN	lightning-	non
+ocentric	3	eg	ge	heli
+ochemical	3	i	physic	t
+ochemistry	3	ge	r	t
+ocity	3	fer	prec	vel
+ock's	4	h	l	st	woodc
+ocked	9	c	d	kn	l	m	r	s	sh	well-st
+ocker	4	knickerb	l	r	sh
+ocket	3	p	r	s
+ocketed	3	cr	d	p
+ockets	3	p	r	s
+ocking	6	h	kn	l	m	r	st
+ocks	9	d	h	humm	kn	l	peac	r	s	t
+ocky	4	bl	c	r	st
+ocracy	3	arist	dem	the
+ocus	3	demod	f	l
+od's	3	g	o	r
+odded	3	n	pl	pr
+odding	3	n	pl	r
+oded	5	c	er	expl	m	o
+oder	4	LLUN	autoc	do-go	neisse-
+odes	8	antip	b	c	epis	expl	h	m	n
+odge	3	d	l	p
+odgers	3	d	p	r
+odic	3	mel	peri	pros
+odically	3	mel	meth	peri
+odies	5	b	go	mel	par	pros
+oding	5	c	corr	expl	foreb	o
+odor	3	LLUN	fy	the
+off's	3	brush-	lopatnik	wyc
+offing	3	LLUN	d	sc
+offs	4	-	lay	pick	take
+ogamous	4	end	ex	heter	mon
+ogamy	3	end	ex	mon
+ogged	4	b	d	f	l
+oggy	3	f	gr	s
+ogram	4	chromat	electrocardi	pr	son
+ograph	6	electrocardi	lith	on	photomicr	seism	t
+ographer	4	bi	chore	phot	porn
+ographers	4	bi	crystall	e	phot
+ographic	8	autobi	dem	e	l	n	orth	p	t
+ographs	4	lith	on	phot	seism
+ography	10	crystall	dem	e	electromy	i	n	orth	p	photomicr	t
+ogue	5	ag	l	p	r	v
+ogues	3	ag	l	r
+oice	3	ch	rej	v
+oices	3	ch	rej	v
+oidal	3	coll	r	sinus
+oids	6	hemorrh	l	r	s	t	v
+oiled	8	LLUN	b	br	c	f	s	sp	t
+oilers	3	LLUN	b	desp
+oiling	4	b	c	r	sp
+oils	5	LLUN	b	c	s	sp
+oine	3	ant	assinib	her
+oined	3	c	j	purl
+oing	5	d	ech	fresc	g	o
+oins	3	c	j	l
+oire	4	l	m	n	t
+oise	6	el	m	n	p	tort	turqu
+oises	3	n	p	tort
+oism	3	r	shint	ta
+oist	5	h	m	ob	sol	ta
+oked	8	ch	j	o	p	sm	st	str	v
+oken	4	br	bro	sp	t
+oker	4	br	o	p	st
+okers	4	br	j	o	sm
+okes	7	bl	c	j	p	sm	str	v
+oking	7	ch	j	o	p	sm	str	v
+ol's	4	gog	o	pagn	vectr
+oland	4	b	p	r	t
+olar	6	alve	i	m	p	s	sch
+olate	4	choc	extrap	s	vi
+olated	4	is	p	vacu	vi
+olation	3	p	s	vi
+olations	3	des	p	vi
+old's	3	arn	hammarskj	leop
+olde	4	LLUN	c	is	w
+olden	3	LLUN	g	h
+older	6	LLUN	b	c	f	h	s
+olders	3	f	h	sm
+oldest	3	LLUN	b	c
+olding	4	f	h	m	sc
+olds	7	2-year-	c	f	h	m	reyn	sz
+oled	4	d	h	o	s
+olence	5	ev	ind	ins	somn	vi
+olent	5	ev	ind	ins	somn	vi
+olently	3	ind	ins	vi
+oles	6	c	h	i	p	r	s
+olet	4	b	chevr	flage	vi
+oleum	3	lin	maus	petr
+olia	3	magn	mong	pod
+olic	6	apost	b	c	fr	h	vitri
+oline	3	capit	car	gas
+oling	3	cons	o	p
+olish	3	ab	fo	p
+olished	3	ab	dem	p
+olite	3	ens	metab	p
+olition	3	ab	dem	v
+olize	3	id	monop	symb
+olized	4	aeros	b	glycer	id
+olled	3	p	r	t
+olley	5	d	h	t	tr	v
+ollie	3	c	m	r
+olling	3	l	p	r
+olls	4	d	p	r	t
+olly	9	d	f	g	j	l	m	o	s	wh
+olman	4	c	h	patr	sk
+ologic	3	h	i	phon
+ological	11	anthrop	c	e	h	i	m	method	n	ont	phil	r
+ologically	4	i	n	ont	psych
+ologies	5	LLUN	ap	ide	myth	terat
+ologist	10	e	entom	gynec	h	herpet	i	mon	neur	p	zo
+ologists	8	anthrop	c	cosm	e	herpet	i	phil	psych
+ology	15	amphib	djang	e	h	i	m	method	myc	n	numer	p	paris	phil	t	zo
+olting	3	b	j	rev
+olts	3	b	c	v
+olves	3	s	v	w
+olysis	3	cyt	prote	r
+om's	5	freed	m	ro	t	th
+oman	5	LLUN	kl	ott	r	w
+omas	5	aden	ar	c	t	th
+omatic	5	dipl	i	r	s	t
+ombed	3	b	c	ent
+ombs	4	b	c	co	t
+omed	7	bloss	chr	d	enven	o	t	welc
+omely	3	c	h	hands
+omen	5	LLUN	abd	agn	radi	w
+omer	5	c	cust	h	hands	n
+omers	5	c	cust	h	mon	s
+omes	6	c	d	h	n	r	t
+ometer	9	i	kil	launder-	n	r	speed	t	therm	visc
+ometers	3	kil	r	therm
+ometric	4	ge	r	spectrophot	therm
+ometry	3	densit	ge	therm
+omic	4	at	c	chr	n
+omically	3	anat	c	on
+oming	4	c	h	o	wy
+omma	3	c	ins	m
+omped	3	cl	r	st
+on's	15	byr	carnarv	curz	d	e	g	i	m	n	nix	o	oth	runy	s	t
+onable	3	i	pard	s
+onage	4	espi	gall	patr	rs
+onal	6	antiph	g	i	neur	s	t
+onally	4	diag	i	s	t
+onan	3	c	h	mo
+onary	3	cor	i	pulm
+onate	4	alkylarysulf	bicarb	d	i
+onated	4	d	det	i	impers
+onates	4	alkylbenzenesulf	carb	d	s
+onation	5	cor	d	fracti	impers	t
+once	3	LLUN	n	p
+onded	3	b	gru	resp
+onder	4	f	p	w	y
+ondo	3	h	r	red
+onds	5	b	f	m	p	sec
+one's	6	LLUN	cap	mcc	some	st	y
+oned	13	b	burge	d	eck	i	o	ph	postp	r	s	summ	t	z
+onel	3	col	li	m
+oneness	3	LLUN	al	pr
+oner	8	comm	cor	i	lond	o	pris	t	unic
+oners	6	comm	honeymo	i	l	pris	twister-c
+ones	9	LLUN	b	c	horm	j	ph	r	t	z
+oney	4	c	h	m	ro
+onged	4	l	sings	sp	wr
+ongs	4	l	s	t	wr
+onia	3	catat	koin	m
+onial	3	bar	col	m
+onian	4	cicer	l	s	t
+onians	4	babyl	g	jeffers	t
+onic	12	aniseik	c	cl	embry	i	m	napole	ph	r	s	sard	t
+onica	4	m	plat	sinf	ver
+onics	3	electr	i	t
+onies	8	ag	balc	col	m	p	pe	ph	r
+oning	11	aband	burge	c	eck	i	ir	o	ph	postp	s	z
+onism	6	antag	hed	i	n	plat	r
+onist	7	can	carto	i	oph	plat	tag	tromb
+onistic	3	antag	hed	i
+onists	5	antag	carto	col	gort	i
+onized	5	ag	can	col	i	r
+onizing	3	ag	i	r
+onment	5	aband	cant	envir	i	impris
+onna	3	col	d	g
+onne	3	b	g	patr
+onnel	3	pers	r	traditi
+onnie	3	b	c	r
+onomy	3	astr	aut	ec
+onous	3	monot	s	synchr
+ons'	3	falc	i	simm
+ontal	3	fr	horiz	perid
+onte	3	ac	belaf	m
+onus	3	LLUN	b	col
+ony's	4	col	h	harm	p
+ood's	3	fl	h	w
+oods	7	br	f	g	h	l	m	w
+oody	4	bl	br	g	m
+ooed	3	m	tatt	w
+ooey	3	ballyh	g	z
+ook's	3	b	c	pumblech
+ooke	3	br	c	t
+ooked	5	b	c	h	l	r
+ooker	3	b	onl	pressure-c
+ookies	3	b	c	r
+ooking	4	b	c	h	l
+ooks	7	b	c	h	k	l	n	r
+ooled	4	c	f	p	sch
+ooling	5	c	f	p	sch	t
+ools	5	c	f	p	sch	t
+oomed	5	b	d	gr	l	z
+ooming	4	b	l	r	z
+ooms	4	d	l	r	z
+oon's	3	aftern	m	s
+ooned	5	drag	honeym	r	rec	sp
+ooner	3	actor-cr	s	sch
+ooning	4	ball	cr	honeym	k
+oons	8	aftern	buff	c	l	lag	m	sp	t
+ooped	5	c	dr	l	st	sw
+ooper	3	c	h	tr
+ooping	6	dr	sc	sn	st	sw	wh
+oops	6	LLUN	c	h	l	sw	tr
+oors	4	b	d	fl	m
+oose	4	ch	g	l	n
+ooted	6	b	f	h	l	r	sc
+ooters	3	freeb	motorsc	sh
+ooth	3	b	sm	t
+ooting	5	f	h	l	r	sc
+oots	3	b	h	r
+op's	3	feathert	sh	verlo
+ope's	4	eur	h	p	sl
+oped	6	d	h	l	o	r	sc
+open	3	LLUN	re	wide-
+opened	3	LLUN	re	un
+opening	3	LLUN	fast-	re
+oper	3	l	o	pr
+operate	3	LLUN	co	o-
+operated	3	LLUN	co	co-
+operates	3	LLUN	co	co-
+operating	3	LLUN	co	co-
+operation	3	LLUN	co	co-
+operative	3	-	LLUN	co
+opers	3	devel	o	r
+opes	6	c	h	l	p	r	sn
+ophilic	4	bas	eosin	hydr	ole
+ophobia	3	angl	r	xen
+opia	4	cornuc	my	t	tik
+opic	4	my	r	sc	t
+opical	3	microsc	t	tr
+oping	5	c	gr	h	l	o
+opped	6	h	l	m	p	r	t
+opper	4	c	h	name-dr	st
+opping	7	h	m	p	r	s	sl	t
+oppy	3	ch	l	p
+opsy	3	bi	necr	t
+or's	11	ambassad	ayl	b	er	juni	may	n	po	s	t	th
+orable	6	ad	depl	fav	hon	inex	mem
+orably	4	depl	fav	hon	inex
+orage	3	anch	f	st
+oral	9	LLUN	behavi	c	ch	fl	m	may	p	t
+orally	4	LLUN	behavi	m	temp
+orate	8	LLUN	b	commem	ct	dec	deteri	p	pr
+orated	6	b	commem	dec	deteri	p	perf
+orates	4	b	commem	deteri	incorp
+orating	6	commem	corrob	dec	deteri	incorp	invig
+oration	8	LLUN	dec	i	invig	l	lab	p	rest
+orations	5	LLUN	corp	dec	expl	perf
+orative	3	dec	evap	rest
+orator	3	LLUN	collab	dec
+orators	3	LLUN	collab	dec
+oratory	3	LLUN	expl	lab
+ord's	3	colc	f	l
+orde	5	conc	h	l	stratf	sw
+orded	3	aff	c	w
+order	6	-	LLUN	b	c	dis	re
+ordered	4	LLUN	b	dis	text-
+orders	3	LLUN	b	dis
+ordinary	3	LLUN	extra	more-than-
+ordinate	3	co	co-	sub
+ordinated	3	co	co-	sub
+ordinates	4	LLUN	co	co-	sub
+ordination	3	co	co-	insub
+ordinator	3	co	co-	sub
+ording	3	aff	c	w
+ordo	3	LLUN	alamog	pax-
+ordon	3	c	g	j
+ords	6	c	ch	f	fj	l	w
+ore's	3	g	m	mo
+ored	14	ad	anch	av	b	l	m	maj	mirr	mo	n	p	s	sc	t
+orer	4	b	expl	fav	po
+orers	3	expl	lab	rest
+ores	12	LLUN	ad	b	c	f	h	ign	l	m	p	s	st
+orest	3	f	po	s
+organization	4	LLUN	anti-	dis	re
+organized	4	LLUN	dis	re	well-
+orge	4	f	g	ge	j
+oria	4	d	euph	gl	t
+orial	3	cens	mem	t
+oric	6	alleg	cal	d	euph	mete	t
+orical	3	eg	metaph	t
+oriented	4	-	LLUN	dis	re
+ories	6	access	categ	l	mem	t	the
+oring	12	av	b	ch	clam	l	n	o	p	s	sc	ski-j	t
+orious	3	gl	lab	t
+oriously	3	gl	lab	t
+oris	5	b	corp	d	del	sart
+orist	3	am	l	mot
+orists	5	hum	mot	terr	the	watercol
+orite	3	anch	fav	mete
+orities	5	auth	maj	n	pri	sor
+ority	5	auth	i	maj	n	sor
+orization	3	auth	mem	vap
+orize	5	auth	categ	m	temp	the
+orized	4	auth	categ	mem	terr
+orizing	5	auth	categ	mem	terr	the
+orked	3	c	f	w
+orkers	3	c	w	y
+orks	3	c	f	w
+orly	3	LLUN	po	sail
+orman	3	do	k	n
+orms	4	f	n	st	w
+orne	3	b	c	h
+orned	3	ad	h	sc
+orns	3	ad	c	h
+orous	6	c	ig	m	p	son	trait
+orrow	3	b	m	s
+ors'	6	auth	juni	neighb	s	surviv	t
+orse	4	end	h	m	w
+orship	5	auth	may	s	t	w
+orso	3	LLUN	c	t
+ortable	3	comf	dist	p
+orted	7	cav	comf	esc	p	s	sn	t
+orth	3	f	n	w
+orting	6	cav	comf	esc	exh	p	s
+ortion	3	ab	p	t
+ortions	3	ab	dist	p
+orton	4	g	h	m	n
+orts	5	esc	f	h	p	s
+orum	3	dec	f	vas
+ory's	3	arm	greg	mall
+oscope	3	kaleid	r	steth
+osed	6	cl	d	metamorph	n	p	thromb
+osely	4	cl	lo	mor	purp
+osen	3	ch	lo	r
+oses	8	cho	d	h	l	m	n	p	r
+osing	4	cho	l	n	p
+osis	11	LLUN	apothe	b	c	coccidi	ket	l	m	metamorph	n	r
+osity	7	anim	c	i	lumin	r	scrupul	virtu
+osive	3	corr	expl	purp
+osphere	3	atm	ion	strat
+ossed	4	b	gl	r	t
+osses	5	b	cr	h	l	t
+ost's	3	fr	h	p
+osted	5	acc	bo	fr	gh	p
+oster	4	f	o	p	r
+osters	3	f	p	ro
+osting	3	bo	c	fr
+ostly	3	c	gh	m
+osts	5	bo	c	fr	h	p
+ot's	3	cab	idi	pil
+otal	3	anecd	piv	t
+otation	3	n	qu	r
+otations	3	conn	qu	r
+oted	9	all	big	m	n	o	qu	ri	v	wainsc
+oter	4	badge-t	m	o	v
+oters	4	o	prom	ri	v
+otes	6	anecd	coy	n	prom	qu	v
+othe	3	cl	lab	so
+othed	3	betr	cl	o
+other	7	LLUN	all-something-or-the-	b	br	m	n	smo
+other's	4	LLUN	an	br	m
+others	4	LLUN	b	br	m
+others'	3	LLUN	br	m
+othing	4	cl	fr	n	o
+oths	4	bo	m	tablecl	visig
+otian	3	boe	la	sc
+otic	10	asympt	cha	dromozo	i	m	n	narc	psych	r	x
+otically	4	asympt	er	hypn	idi
+oting	9	d	n	o	parr	pil	prom	qu	ri	v
+otion	4	dev	l	m	n
+otions	5	dev	l	m	n	p
+otis	3	LLUN	pany	stephan
+otism	4	desp	eg	patri	rob
+ott's	3	c	royl	talb
+otted	8	boyc	d	j	kn	l	p	t	tr
+otten	3	c	g	r
+otter	5	LLUN	c	h	p	tr
+otting	5	d	j	l	p	r
+ottled	3	b	m	thr
+otty	3	c	kn	sp
+ouch	5	c	cr	p	sl	t
+ouched	3	c	cr	t
+ouches	4	c	p	sl	t
+ouching	3	cr	t	v
+ough	9	b	c	d	h	l	m	n	r	t
+oughed	3	c	furl	r
+oughs	3	b	r	t
+ought	7	LLUN	b	dreadn	f	r	s	th
+ould	6	LLUN	c	g	m	sh	w
+ouldn't	3	c	sh	w
+ounce	4	6-	LLUN	b	n
+ounced	3	b	fl	n
+ound	9	ast	b	f	h	m	p	r	s	w
+ounded	8	ast	b	f	m	p	r	s	w
+ounder	5	158-p	f	fl	gr	s
+ounding	7	ast	b	f	p	r	s	w
+oundly	3	prof	r	s
+ounds	8	b	h	m	p	r	s	w	z
+oupe	3	c	cantal	tr
+oured	6	dev	hon	l	p	sc	t
+ouring	4	dishon	p	sc	t
+ourly	3	d	h	s
+ourn	3	b	m	soj
+ours	14	LLUN	endeav	f	h	m	neighb	p	s	sc	t	terr	touj	vel	y
+ouse	7	LLUN	h	l	lobsc	m	r	sp
+oused	5	d	esp	h	l	r
+ouses	4	ar	bl	h	sp
+ousing	3	esp	h	r
+ously	15	amorph	analog	e	gratuit	i	in	joy	l	m	nerv	pomp	r	rauc	tremend	u
+ousness	8	e	i	l	nerv	pomp	r	sinu	t
+oust	3	LLUN	j	pr
+outed	5	fl	p	r	sc	sh
+outh	4	dr	m	s	y
+ouths	3	m	s	y
+outing	7	LLUN	fl	sc	sh	sk	sp	spr
+outs	10	-	LLUN	b	cut	drop	hang	sc	sh	turn	work
+oval	3	LLUN	appr	rem
+oved	5	gro	l	m	r	sh
+ovel	3	gr	h	n
+oven	5	LLUN	bake-	beeth	pr	w
+over	15	-	LLUN	c	carry	cross	d	e	h	hang	ho	l	n	r	stop	walk
+overing	3	c	h	l
+overs	10	c	carry	h	hang	hold	l	m	r	stop	stop-
+overt	3	LLUN	c	extr
+oves	7	c	d	l	m	o	r	st
+oving	4	l	m	r	sh
+ovingly	3	l	m	pr
+ovsky	3	l	malin	tchaik
+ow's	5	c	h	l	n	rr
+oward	3	c	h	t
+owder	3	ch	cr	p
+owe's	3	h	l	st
+owed	10	LLUN	b	d	l	m	n	r	sh	t	v
+owel	3	d	t	v
+owell	3	h	l	p
+owels	3	b	t	v
+ower	7	b	d	h	l	p	r	t
+ower's	4	eisenh	fl	p	t
+owered	5	l	p	s	sh	vine-emb
+owering	5	c	l	p	sh	t
+owers	6	b	l	p	r	sh	t
+owin'	3	foll	sh	thr
+owing	9	LLUN	b	l	n	r	s	sh	shad	v
+owled	4	h	loose-j	r	sc
+owling	3	c	h	r
+owls	4	LLUN	b	h	j
+owman	3	b	c	sh
+own's	3	br	cl	t
+owne	3	LLUN	br	t
+owned	7	-	LLUN	d	dis	g	r	ren
+owners	4	-	LLUN	d	home
+owning	4	LLUN	cl	d	r
+owns	7	LLUN	cl	d	g	r	t	unkn
+owski	3	ank	lit	pold
+oxide	3	LLUN	di	per
+oy's	5	b	lovej	mccl	r	tolst
+oyant	3	bu	clairv	flamb
+oyce	3	b	j	r
+oyed	5	ann	bu	destr	enj	l
+oyer	4	b	destr	empl	f
+oyes	3	empl	n	tr
+oying	5	ann	destr	enj	l	t
+ozen	3	c	d	fr
+pack	3	LLUN	back	un
+packing	3	-	LLUN	un
+page	5	-	LLUN	e	m	p
+paid	5	-	LLUN	er	re	un
+pain	3	LLUN	feeding-	s
+paint	3	LLUN	finger-	house
+pair	4	LLUN	des	im	re
+paired	4	LLUN	im	re	un
+pairs	3	LLUN	line-	re
+pant	4	flip	occu	partici	ram
+pants	4	LLUN	iron	occu	partici
+paper	5	-	LLUN	news	sand	wall
+papers	3	LLUN	news	wall
+parable	3	LLUN	com	e
+pare	4	LLUN	com	pre	s
+pared	3	com	pre	s
+parent	3	LLUN	ap	trans
+parents	3	LLUN	alter-	grand
+pares	3	com	pre	s
+paring	3	com	pre	s
+park	3	LLUN	air	s
+part	6	-	LLUN	a	counter	e	m
+parted	3	LLUN	de	im
+partisan	4	LLUN	bi	n	non-
+partment	3	a	com	de
+partments	3	a	com	de
+parts	5	LLUN	counter	de	im	sub
+pass	5	-	LLUN	by	com	sur
+passed	6	LLUN	by	encom	sur	tres	y-
+passes	4	LLUN	by-	encom	tres
+passionate	3	LLUN	com	dis
+passionately	3	LLUN	com	dis
+paste	3	LLUN	tooth	tooth-
+pate	3	LLUN	ci	s
+pated	3	extir	i	pu
+path	6	LLUN	anapra	foot	kill	o	rid
+pathetic	3	LLUN	a	sym
+pathy	4	a	anti	m	tele
+patient	3	LLUN	im	out
+paul	3	LLUN	de	jean-
+paying	3	LLUN	tax	tax-
+payment	4	LLUN	n	over	re
+pe's	5	esca	ni	o	shar	wol
+peal	3	LLUN	ap	re
+pear	3	LLUN	ap	s
+pecked	3	LLUN	blood-s	hen
+ped-up	3	hy	step	um
+pees	3	esca	ru	te
+pelled	5	ex	m	pro	re	s
+pelling	4	ex	m	pro	s
+pels	5	LLUN	a	com	gos	re
+pend	3	de	ex	s
+pended	4	ap	de	ex	sus
+pending	4	LLUN	de	im	s
+pened	6	dam	dee	hap	o	ri	shar
+pening	6	dam	dee	hap	o	ri	shar
+pens	4	LLUN	hap	o	pig
+pense	3	ex	recom	s
+pent	3	re	s	ser
+people	3	LLUN	cow-	inter
+per's	7	coo	har	pa	pau	slee	sni	trap
+perate	3	o	s	tem
+perating	3	exas	o	recu
+perceived	3	LLUN	self-	un
+pered	4	a	m	p	s
+perfect	3	LLUN	im	not-quite-
+pering	3	a	m	s
+pers	9	a	ee	i	l	m	o	p	r	s
+personal	4	LLUN	im	inter	supra-
+personalized	3	LLUN	de	im
+pert	4	LLUN	al	ex	rup
+pest	5	LLUN	buda	ee	shar	tem
+petition	3	LLUN	com	re
+pets	4	LLUN	car	p	para
+pful	3	cu	hel	worshi
+pher	3	ci	gra	o
+phers	3	ci	gra	philoso
+phic	4	del	gra	o	or
+phin	3	dau	dol	thyrotro
+phine	4	dau	del	mor	triphenylphos
+phis	3	LLUN	mem	thamno
+phone	4	LLUN	gold-	o	tele
+phoned	3	LLUN	si	tele
+phones	4	LLUN	ear	o	tele
+phonic	3	LLUN	o	sym
+phony	3	LLUN	caco	sym
+phosphate	4	LLUN	meta	o	poly
+phosphates	3	LLUN	ortho	poly
+phrase	3	LLUN	cue-	para
+phus	3	adol	jose	ty
+physical	4	LLUN	bio	meta	un
+physics	3	LLUN	astro	meta
+pian	3	ap	olym	to
+pians	3	ip	o	thes
+pics	3	e	o	olym
+piece	8	-	LLUN	a	e	master	mouth	show	work
+pieces	3	LLUN	master	mouth
+pier	4	LLUN	crou	hap	ra
+pies	7	LLUN	mag	o	occu	pop	s	thera
+pike	3	LLUN	s	turn
+pile	3	LLUN	com	thermo
+piling	3	LLUN	com	stock
+pine	6	LLUN	philip	reser	s	su	vul
+pines	3	LLUN	philip	porcu
+ping	11	a	ee	el	grou	i	m	o	p	r	s	ty
+pings	5	co	grou	p	scra	swee
+pinning	3	LLUN	s	under
+pious	3	LLUN	co	im
+pire	3	ex	m	s
+pired	3	con	ex	s
+pires	3	ex	m	s
+pish	4	fop	lum	po	was
+pital	3	ca	hos	occi
+pits	4	LLUN	arm	cock	pul
+pkins	3	ho	na	sim
+place	9	-	LLUN	any	birth	common	dis	e	la	market
+placed	3	LLUN	is	re
+placement	3	LLUN	dis	re
+places	4	LLUN	common	dis	re
+placing	3	LLUN	is	re
+plagued	3	LLUN	mosquito-	un
+plain	4	LLUN	cha	ex	m
+plains	4	LLUN	cha	com	ex
+plane	4	LLUN	air	bi	one-
+planes	3	LLUN	air	facet-
+plant	5	-	LLUN	im	sup	trans
+planted	5	LLUN	im	re	sup	trans
+planting	3	LLUN	sup	trans
+plate	3	-a-	LLUN	tem
+plated	4	LLUN	chromium-	contem	tin
+play	6	-	LLUN	dis	horse	inter	n
+played	6	LLUN	er	out	role	s	well-
+player	3	LLUN	ball	most-valuable-
+playing	4	-	LLUN	dis	role
+plays	3	LLUN	dis	stage-
+ple's	4	cou	peo	poe	whip
+pleased	3	LLUN	dis	un
+pled	6	m	p	peo	tri	u	unsta
+pler	4	cou	ke	m	p
+ples	7	a	ci	cou	m	p	peo	stee
+pless	3	ha	hel	slee
+plex	4	adapta	du	m	per
+pley	3	co	shi	ta
+plicable	3	ap	du	ex
+plication	5	ap	du	i	m	re
+plied	5	LLUN	m	multi	p	re
+plies	4	im	multi	p	re
+pling	6	a	am	ki	p	pur	u
+plore	3	de	ex	im
+plored	3	de	ex	im
+plowed	3	LLUN	newly-	un
+plus	3	-	LLUN	sur
+plying	4	m	multi	p	re
+pman	3	cha	lip	shi
+pmate	3	cam	hel	shi
+pment	3	develo	encam	i
+pness	3	cris	m	shar
+pods	3	LLUN	seed-	tri
+point	8	-	LLUN	ap	counter	d	high	pin	view
+pointing	4	LLUN	ap	counter	pin
+points	6	LLUN	ap	e-	end	pin	view
+pole	3	LLUN	di	wal
+poles	4	LLUN	di	flag	tad
+polis	3	LLUN	a	o
+political	4	-	LLUN	geo	non
+pology	3	a	anthro	ty
+pond	4	LLUN	fish	mill-	res
+ponent	3	com	op	pro
+ponents	4	com	ex	op	pro
+pons	4	LLUN	cou	pom	wea
+pont	3	LLUN	du	pier
+pool	3	LLUN	liver	whirl
+popular	3	LLUN	once-	un
+port	15	LLUN	daven	e	ex	facsi	galveston-	m	new	newbury	p	r	rapo	rock	s	west
+ported	6	ex	m	pur	re	sup	trans
+porter	3	LLUN	re	sup
+porters	4	LLUN	ex	re	sup
+porting	6	ex	pur	re	s	sup	textile-im
+portion	3	LLUN	ap	pro
+ports	8	LLUN	ex	im	r	re	s	sea	sup
+pose	8	LLUN	dis	e	ex	m	p	pro	pur
+posed	10	LLUN	e	ex	juxta	m	mal	p	pro	r	s
+poses	6	LLUN	ex	m	p	pro	pur
+posing	6	LLUN	ex	inter	m	p	pro
+position	10	LLUN	e	er	ex	juxta	m	organization-	p	pro	s
+positions	7	LLUN	com	de	dis	ex	pro	sup
+post	6	-	LLUN	bed	com	n	out
+posts	5	LLUN	corner-	guide	out	sign
+potent	4	LLUN	equi	im	nil
+pots	4	LLUN	crack	de	s
+pound	3	-	LLUN	com
+pounded	3	LLUN	com	ex
+pounding	3	LLUN	com	ex
+power	5	-	LLUN	e	em	man
+powered	4	-	LLUN	em	over
+pped	5	a	i	o	ste	u
+pper	5	a	i	o	pe	u
+ppers	4	a	i	o	su
+ppery	3	co	pe	sli
+ppet	3	pu	ta	whi
+pping	4	a	e	i	o
+ppings	3	cli	o	tra
+pple	3	a	i	to
+ppled	3	a	o	ri
+pples	3	a	ho	i
+ppling	3	gra	ri	to
+practical	3	LLUN	im	not-strictly-
+praised	3	LLUN	ap	u
+predictable	3	LLUN	never-	un
+prepared	4	LLUN	ll-	pre	un
+present	3	-	LLUN	re
+press	6	LLUN	cy	e	ex	m	sup
+pressed	5	LLUN	e	ex	m	p
+presses	4	LLUN	de	ex	m
+pressing	4	LLUN	de	ex	m
+pression	4	e	ex	m	p
+pressions	3	e	ex	im
+pressive	4	e	ex	m	op
+pressure	3	LLUN	over	vapor-
+priced	3	-	LLUN	over
+print	4	LLUN	blue	finger	im
+printed	4	LLUN	im	re	s
+printing	3	LLUN	finger	pre
+prints	4	LLUN	colour-	e	finger
+prising	3	com	r	u
+produce	3	LLUN	over-	re
+produced	3	LLUN	radiation-	re
+producing	3	LLUN	re	textile-
+product	3	-	LLUN	by
+production	3	LLUN	mass-	re
+productive	4	LLUN	non-	re	un
+products	3	LLUN	by	by-
+professional	3	LLUN	non-	un
+profit	3	LLUN	non	non-
+promising	3	LLUN	com	un
+proof	8	-	LLUN	bomb	fool	r	re	rust	sound
+protection	3	LLUN	over	self-
+protein	3	-	LLUN	iodo
+prove	4	LLUN	ap	dis	im
+proved	4	LLUN	ap	im	un
+proves	3	LLUN	ap	im
+proving	4	LLUN	ap	dis	im
+psed	3	ecli	glim	la
+pses	4	a	cor	glim	li
+pson	4	li	m	ste	u
+psychology	3	LLUN	para	shell-
+ptation	4	ada	co-o	se	tem
+pted	7	ada	ce	conscri	m	o	ru	scul
+pter	4	a	corru	helico	m
+ptible	3	ce	contem	corru
+ptic	3	e	ecli	y
+ptical	3	e	elli	o
+pting	5	ada	ce	em	o	ru
+ption	6	ce	m	o	ru	scri	sor
+ptions	7	a	absor	ce	m	o	ru	scri
+ptive	6	a	absor	ce	disru	escri	m
+ptly	5	a	abru	ine	nondescri	prom
+ptness	3	a	abru	ine
+pton	3	li	m	u
+pture	4	a	ru	scri	scul
+ptured	3	a	ru	scul
+ptures	3	a	scri	scul
+public	4	-	LLUN	re	semi
+pulmonary	3	-	LLUN	intra
+pulsion	4	com	ex	pro	re
+pulsions	3	com	pro	re
+purpose	3	-	LLUN	multi
+pute	3	dis	m	re
+puted	3	dis	m	re
+pying	3	co	occu	s
+quake	3	LLUN	earth	sea
+qualified	3	LLUN	dis	un
+quality	3	-	LLUN	e
+quarter	3	-	LLUN	head
+quarters	3	LLUN	d	three-
+quent	3	delin	e	lo
+quer	4	con	exche	lac	tor
+ques	4	a	i	jac	s
+quest	3	LLUN	e	n
+quet	6	ar	ban	bou	bri	ma	rac
+quette	3	co	eti	mar
+quiet	3	LLUN	dis	un
+quire	4	ac	in	re	s
+quired	3	ac	n	re
+quires	3	ac	re	s
+quiring	3	ac	in	re
+quisition	5	a	ac	dis	in	re
+r-like	3	bea	commutato	e
+r-type	3	a	e	o
+r-year	3	fou	pe	prio
+ra's	6	ber	e	my	ndo	orchest	sa
+rability	4	desi	du	e	resto
+rable	6	a	e	i	o	t	u
+rably	6	a	admi	demonst	e	o	u
+rabs	3	a	c	g
+race	8	LLUN	b	g	ho	libe	master-	t	ter
+raced	5	LLUN	b	g	t	ter
+races	5	LLUN	b	g	t	ter
+racial	3	LLUN	bi	non
+racies	3	c	conspi	inaccu
+racing	3	LLUN	b	t
+rack	6	LLUN	ar	c	side-	t	w
+racked	4	LLUN	c	t	w
+racking	4	LLUN	c	t	w
+racks	4	LLUN	bar	c	t
+racted	3	counte	ref	t
+raction	3	f	inte	t
+ractions	3	f	inte	t
+ractive	3	ove	ref	t
+racy	5	LLUN	accu	c	confede	pi
+rade	5	com	g	masque	pa	t
+raded	3	g	pa	t
+rades	6	com	g	masque	pa	t	ti
+radiation	4	LLUN	ir	lar-	pre
+rading	4	g	masque	pa	t
+rady	3	b	g	mcc
+raft	5	LLUN	c	d	g	k
+rafts	3	LLUN	c	d
+rage	9	LLUN	bar	e	en	ga	o	ou	out	suff
+raged	6	LLUN	ave	cou	en	ga	out
+rages	6	LLUN	encou	fo	ga	out	ve
+ragged	3	LLUN	b	d
+ragging	3	LLUN	b	d
+raging	4	LLUN	ave	cou	fo
+ragon	3	ar	d	pa
+rail	5	LLUN	f	g	snake-	t
+rails	3	LLUN	de	t
+rain	9	LLUN	b	d	g	lo	r	ref	suze	t
+rained	7	-g	LLUN	b	d	ref	sp	t
+raining	4	LLUN	d	g	t
+rains	7	LLUN	b	d	g	sp	t	ter
+raising	3	-	LLUN	p
+rake	3	LLUN	b	d
+rale	3	cent	gene	o
+ralism	3	e	neut	u
+ralist	4	e	mo	natu	neut
+rality	3	e	mo	t
+ralization	3	demo	ne	t
+ralize	3	demo	e	neut
+ralized	4	demo	natu	ne	t
+ralizing	3	cent	libe	mo
+rally	5	LLUN	e	o	t	u
+rals	6	admi	cathed	e	integ	o	refer
+rama	3	d	e	o
+rammed	3	LLUN	c	g
+ramp	3	LLUN	c	t
+rams	3	ab	g	p
+rance	8	e	ea	f	frag	igno	rememb	t	u
+rances	8	appea	assu	f	frag	hind	mb	t	utte
+rand	8	LLUN	b	er	fo	g	ope	t	talley
+randa	3	mi	o	ve
+rands	4	b	g	ope	st
+rang	4	LLUN	boome	sp	st
+range	5	-	LLUN	ar	o	st
+ranged	4	LLUN	ar	de	est
+rangement	3	ar	de	est
+rangers	4	LLUN	ar	riflemen-	st
+ranges	3	LLUN	ar	o
+ranging	4	-	LLUN	ar	est
+rank	6	LLUN	c	d	f	p	sh
+ranks	3	LLUN	f	p
+ranny	3	f	g	ty
+rans	3	bathy	f	te
+rant	9	aspi	e	g	o	r	restau	t	ty	vib
+ranted	3	LLUN	g	war
+rants	7	aspi	celeb	g	r	regist	restau	ty
+rape	3	LLUN	g	sc
+raped	3	LLUN	d	sc
+rapes	4	LLUN	d	g	sc
+rapped	4	LLUN	sc	t	w
+rapping	3	LLUN	t	w
+raps	3	sc	t	w
+rary	4	e	lib	o	t
+rash	5	LLUN	b	c	t	th
+rass	5	b	c	g	ha	mo
+rassed	3	embar	g	ha
+rata	4	LLUN	a	g	st
+rate	14	-	LLUN	buty	c	carbohyd	e	eb	g	i	o	pa	t	u	under
+rated	11	LLUN	a	b	desec	e	g	hyd	o	r	t	u
+rately	4	accu	e	elabo	sepa
+rates	10	LLUN	c	e	eb	g	o	pi	sepa	t	wage-
+ratic	4	c	er	ope	quad
+ratification	3	LLUN	g	st
+ratified	3	LLUN	g	st
+ratify	3	LLUN	g	st
+rating	9	LLUN	a	b	e	g	inaugu	o	t	transpi
+ration	13	LLUN	a	b	dehyd	e	g	gy	i	o	r	sec	t	u
+ration's	3	administ	corpo	gene
+rational	5	LLUN	inspi	ir	matu	ope
+rationally	3	LLUN	ir	ope
+rations	10	LLUN	a	aber	b	e	gy	o	spi	t	u
+rative	8	a	e	integ	luc	nar	o	st	u
+ratives	3	coope	demonst	nar
+rator	6	LLUN	cu	e	nar	o	t
+rators	5	e	o	sepa	spi	st
+ratory	4	mig	o	prepa	respi
+rave	3	b	c	g
+raved	4	b	c	dep	eng
+ravel	3	g	t	un
+raving	4	LLUN	b	c	eng
+rawl	4	b	c	d	sp
+rawled	3	c	d	sp
+rawling	3	c	d	sp
+rayed	5	ar	f	g	p	t
+rayer	3	bet	g	p
+raying	4	b	g	p	t
+rays	6	LLUN	fo	hur	sp	t	x-
+razing	3	LLUN	c	g
+rbed	4	a	feathe	so	tu
+rber	4	abso	ba	fe	u
+rces	3	fa	fo	sou
+rched	5	a	besmi	lu	pe	sco
+rcher	3	resea	sco	zu
+rches	5	a	bi	chu	o	reche
+rching	3	a	besmi	lu
+rd's	5	a	bi	by	o	shephe
+rded	3	a	he	o
+rden	3	a	bo	bu
+rdens	3	a	bo	bu
+rder	3	a	mu	o
+rders	3	gi	mu	o
+rding	4	a	he	o	undergi
+rdly	4	a	absu	i	lo
+rdom	3	junke	marty	sta
+rdon	3	a	o	vi
+re's	8	a	bjer	chamb	e	fav	i	o	tu
+reach	6	LLUN	b	easy-to-	out	over	p
+reached	4	LLUN	half-	over	p
+reaches	3	LLUN	over	p
+reaching	4	-	LLUN	b	p
+reaction	3	LLUN	ab	chain-
+read	8	LLUN	b	d	re	sp	t	th	well-
+reading	5	LLUN	mis-	sp	t	th
+reads	3	LLUN	sp	th
+ready	5	LLUN	al	mac	make-	un
+reak	5	b	c	f	st	w
+reaks	4	b	c	f	st
+real	5	LLUN	e	mont	o	un
+realism	4	LLUN	photo	sur	un
+reality	4	LLUN	contrary-to-	corpo	un
+ream	3	c	d	st
+reamed	3	c	d	st
+reamer	3	c	d	st
+reaming	3	d	sc	st
+reams	4	LLUN	c	d	st
+rean	3	epicu	o	shakespea
+reason	3	LLUN	t	un
+reasonable	3	LLUN	t	un
+reat	4	g	ove	t	th
+reate	3	c	g	lau
+reating	3	c	ove	t
+reau	3	bu	tho	ver
+rect	3	cor	di	e
+rected	3	di	e	r
+recting	3	di	e	r
+rection	3	di	e	r
+redding	3	LLUN	sh	t
+redly	4	assu	bewilde	good-humo	ti
+redness	3	prepa	sac	ti
+redo	4	LLUN	alf	c	la
+reds	4	LLUN	colo	hund	sh
+reed	5	LLUN	b	c	f	g
+reeing	3	ag	dec	f
+reek	3	LLUN	c	g
+reel	3	LLUN	news	one-
+reen	3	g	mau	sc
+reening	4	ca	g	p	sc
+reens	3	g	sc	smithe
+reer	4	ca	car	f	g
+rees	9	LLUN	confe	corrobo	dec	f	g	soi	t	th
+reet	3	disc	g	st
+reference	3	LLUN	inte	p
+rehouses	3	fi	sto	wa
+reign	3	LLUN	fo	sove
+related	4	LLUN	mis	r	un
+relation	3	LLUN	inter-	r
+relationship	3	LLUN	inter	step
+relationships	3	LLUN	inter	inter-
+released	3	LLUN	anxiety-	un
+reless	4	ca	featu	sco	ti
+rell	3	no	r	ve
+rella	3	a	sicu	umb
+rels	5	ar	lau	minst	nd	tumb
+rely	6	LLUN	a	e	enti	so	u
+rement	3	dec	i	u
+remia	3	hype	tula	u
+rena	4	a	adios-	and	o
+rence	7	cla	e	flo	lau	law	p	r
+renched	3	d	ent	w
+rend	4	LLUN	rev'	reve	t
+rene	4	a	i	se	sty
+rens	3	ah	do	si
+rent	4	LLUN	e	pa	r
+rently	3	appa	cur	e
+rents	4	LLUN	e	pa	r
+reon	3	c	car	he
+representation	3	LLUN	mis	non-
+rers	5	a	admi	e	o	tu
+reside	3	LLUN	fi	p
+resident	3	LLUN	non	p
+residential	3	LLUN	non	p
+residents	3	LLUN	non-	p
+resolution	3	LLUN	high-	ir
+respect	3	LLUN	dis	self-
+responsibility	3	LLUN	ir	state's-
+ress	8	ca	d	du	g	hei	p	quake	t
+ressed	5	ca	d	g	p	t
+resses	5	ca	d	g	p	t
+ressing	5	ca	d	p	prog	st
+rest	11	LLUN	a	b	c	e	fai	o	pu	r	un	w
+rested	4	LLUN	ar	c	inte
+resting	3	LLUN	ar	inte
+rests	5	LLUN	ar	c	fo	inte
+retch	3	LLUN	st	w
+reted	3	fer	interp	sec
+rets	5	a	eg	interp	sec	tur
+rett	3	ar	b	eve
+revealing	3	LLUN	truth-	un
+review	3	LLUN	book-	p
+rews	3	and	c	heb
+rey's	4	aub	g	hi	palf
+rface	3	inte	sca	su
+rfeit	3	counte	fo	su
+rfield	3	ai	e	wa
+rford	3	bu	ha	he
+rful	3	colo	e	fea
+rged	4	a	e	fo	u
+rgent	3	a	e	u
+rger	4	a	bu	e	karl-bi
+rgery	3	fo	ga	su
+rges	4	a	e	o	u
+rgies	3	e	letha	o
+rging	4	a	e	o	u
+rhood	3	neighbo	neighbou	othe
+ri's	5	a	grigo	hen	missou	paglie
+rial	5	a	e	o	t	u
+rialist	3	edito	impe	indust
+rialized	3	indust	mate	memo
+rially	4	actua	indust	mate	to
+rials	3	e	o	t
+rian	8	a	b	cyp	d	e	st	sy	to
+rians	5	a	altai	pedest	sy	to
+riate	4	approp	exco	infu	secreta
+riated	3	infu	prop	tho
+riation	3	approp	infu	va
+riations	3	approp	cross-st	va
+ribe	3	b	sc	t
+ribes	4	LLUN	b	sc	t
+ribs	3	LLUN	c	cont
+rical	6	cylind	e	i	ly	o	t
+rically	4	i	nume	o	t
+rican	3	LLUN	af	ame
+ricans	3	LLUN	af	ame
+rice	7	LLUN	at	ava	b	mau	p	th
+rich	8	-	LLUN	d	diet	e	en	sko	u
+ricious	3	ava	cap	meret
+ricism	4	empi	geocent	histo	ly
+rick	8	b	e	f	ham	p	r	t	yoo
+ricks	5	b	hend	mave	p	t
+rico	4	LLUN	en	fede	fred
+rics	3	eccent	fab	ly
+ridden	4	-	LLUN	bed	over
+ride	8	LLUN	b	hyd	joy	o	over	p	st
+rides	6	LLUN	b	chlo	hyd	p	st
+ridge	6	LLUN	ald	b	cart	cole	r
+ridges	3	LLUN	b	cart
+riding	3	LLUN	over	st
+ried	10	a	bu	c	d	e	f	o	r	schmalz	t
+rien	3	ad	b	ne
+rient	3	nut	o	pru
+rier	7	chab	d	hai	hung	pe	r	u
+ries	10	a	c	d	e	i	l	o	r	t	u
+riest	3	ang	p	r
+riety	4	noto	prop	sob	va
+rification	5	cla	elect	glo	pu	ve
+rified	6	a	glo	pet	pu	r	ve
+rifies	3	cla	glo	ter
+rift	3	LLUN	d	th
+rify	4	a	glo	pu	ve
+rifying	4	cla	elect	pu	r
+riggs	3	LLUN	b	g
+right	9	LLUN	b	f	federal-	n	out	rth	up	w
+right's	3	b	en	w
+rightly	4	LLUN	b	forth	sp
+rightness	3	LLUN	b	forth
+rights	4	LLUN	civil-	copy	playw
+rigid	3	LLUN	f	semi-
+rile	3	e	feb	vi
+rill	5	d	er	g	h	t
+rilla	3	e	guer	sarsapa
+rilled	5	d	g	h	impe	t
+rills	3	d	f	th
+rilly	3	LLUN	f	sh
+rils	3	myofib	nost	pe
+rily	6	a	ai	ang	cto	ee	mer
+rime	3	LLUN	c	p
+riment	3	det	expe	mer
+rimmed	4	-	LLUN	b	t
+rims	4	LLUN	k	pilg	t
+rin'	5	a	colo	du	e	refer
+rina	3	a	balle	i
+rinated	4	fluo	glyce	indoct	ma
+rine	7	a	e	ed	o	sh	t	u
+rine's	3	a	athe	poit
+rines	5	cho	doct	figu	ma	sh
+ring	12	LLUN	a	b	diff	e	i	o	r	sp	st	u	w
+ringe	3	a	f	sy
+ringed	4	LLUN	c	f	st
+ringing	5	LLUN	b	c	sp	st
+ringly	5	e	gla	i	r	u
+rings	9	LLUN	a	b	e	flavo	r	sp	st	w
+rini	3	cab	pelleg	pet
+rink	4	LLUN	b	d	sh
+rion	4	crite	di	gu	ma
+rior	3	e	p	war
+riot	3	LLUN	cha	pat
+rious	6	a	e	o	salub	u	ust
+riously	5	a	e	indust	o	u
+ripe	3	LLUN	t	un
+ripped	4	LLUN	d	g	t
+ripping	4	LLUN	d	g	t
+rips	3	d	g	t
+ris'	4	o	pa	r	tami
+rise	7	LLUN	a	arm-	ce	f	p	sun
+rises	4	LLUN	a	c	p
+rish	5	a	e	i	oo	u
+rishes	3	ou	pa	pe
+rising	3	LLUN	a	p
+rism	3	a	e	pu
+rison	3	compa	p	r
+rist	11	a	ch	e	f	g	k	o	sati	t	u	w
+rist's	4	ch	flo	milita	tou
+ristic	3	characte	particula	pat
+rists	6	home	o	psychiat	secula	u	w
+ritable	3	cha	ir	ve
+rite	7	LLUN	e	hypoc	o	sp	t	w
+rites	5	LLUN	foste	hypoc	o	w
+rities	5	a	celeb	medioc	o	u
+rito	3	f	marga	spi
+rits	5	culp	e	g	spi	w
+rity	8	a	c	celeb	e	har	integ	o	u
+ritz	4	LLUN	f	lau	mo
+rium	5	a	agrobacte	b	deli	to
+rius	3	a	demet	grego
+rive	6	ar	d	de	dep	t	th
+rived	5	ar	cont	de	dep	th
+riven	3	LLUN	d	st
+river	4	LLUN	d	sh	up
+rivers	3	LLUN	d	pitt-
+rives	5	ar	d	de	st	th
+riving	6	ar	d	de	dep	t	th
+rization	4	a	e	o	pasteu
+rize	4	a	o	p	te
+rized	4	a	e	o	p
+rizes	5	autho	characte	p	sati	summa
+rizing	3	a	e	o
+rk's	4	a	cle	o	selki
+rked	5	a	je	lu	o	smi
+rkers	3	ma	o	selki
+rkin	3	dream-to	du	la
+rking	5	a	e	i	lu	wo
+rkings	3	je	ma	wo
+rland	3	a	bo	e
+rled	3	i	na	u
+rless	4	a	ai	colo	e
+rley	4	a	mo	shi	u
+rley's	4	ha	mcso	shi	stu
+rlie	3	cha	gi	unde
+rling	4	a	e	i	u
+rman	4	chai	e	o	u
+rman's	3	ai	bu	e
+rmann	3	e	fuh	her
+rmed	4	a	i	o	te
+rmen	4	ai	ca	doo	e
+rment	4	a	e	impai	to
+rmer	3	a	fi	o
+rming	4	a	fi	o	te
+rmly	3	fi	unifo	wa
+rmon	3	a	mo	se
+rn's	3	mcgove	o	raybu
+rnal	3	ca	e	u
+rnate	3	e	inca	o
+rned	4	a	e	o	u
+rner	4	a	co	e	u
+rners	4	co	e	lea	u
+rnery	3	fe	o	tu
+rnes	4	ba	bu	by	saute
+rness	3	a	e	fai
+rnet	3	a	be	bu
+rney	3	a	jou	o
+rning	4	a	e	o	u
+rnings	3	a	mo	u
+ro's	3	e	neg	t
+roach	4	LLUN	b	enc	p
+roached	3	app	b	enc
+road	5	-	LLUN	b	high	rail
+roads	5	LLUN	by-	cross	in	rail
+robe	5	LLUN	bath	dis	p	ward
+rock	3	LLUN	f	sham
+rode	3	LLUN	r	t
+roes	3	he	neg	th
+roid	6	eryth	neg	pola	sang-f	ste	thy
+role	3	LLUN	pa	social-
+roll	7	LLUN	car	en	pay	rock'n'	rock-and-	st
+rolled	3	LLUN	n	t
+rolling	4	LLUN	en	sucker-	t
+rological	3	e	meteo	neu
+romantic	4	LLUN	nec	non-	un
+rome	4	LLUN	ch	d	e
+rometer	4	e	mic	py	spect
+rometers	3	e	mic	py
+rone	7	c	d	e	p	peco	th	ver
+rong	3	st	th	w
+ronic	4	by	ch	elect	i
+ronically	3	ch	elect	i
+rons	8	ap	ba	e	i	meu	mic	squad	t
+rony	3	ba	i	synch
+roof	3	LLUN	p	thatched-
+room	13	-	LLUN	b	ck	class	d	e	g	h	l	play	rt	show
+room's	3	LLUN	bed	brideg
+rooming	3	LLUN	g	mush
+rooms	8	LLUN	bed	class	cloak	club	g	h	ing-
+root	4	LLUN	blood	g	woven-
+roots	3	LLUN	grass	grass-
+rope	5	LLUN	eu	g	heliot	misanth
+ropped	4	c	d	p	st
+ropping	4	c	d	p	st
+rops	3	c	d	p
+rors	3	e	ju	r
+rose	6	LLUN	a	amb	mo	p	pen
+rosis	5	fib	nec	neu	osteopo	scle
+rosity	3	gene	monst	po
+ross	5	LLUN	c	d	g	ja
+rossed	3	c	eng	p
+rosy	3	LLUN	lep	ring-around-a-
+roth	4	b	f	g	rex
+rotic	3	e	nec	neu
+rough	4	LLUN	o	t	th
+roughs	3	bo	breakth	t
+rought	3	b	d	w
+round	6	'	-	LLUN	a	g	sur
+rounded	4	LLUN	g	sur	well-
+rounding	3	LLUN	g	sur
+rous	10	adventu	b	barba	chival	d	desi	e	ludic	o	t
+rously	3	d	e	igo
+rove	6	LLUN	d	g	p	sh	st
+rover	3	LLUN	g	land-
+roves	3	d	g	p
+rowed	4	LLUN	c	r	th
+rower	3	g	r	th
+rowing	4	c	g	r	th
+rown	6	b	c	d	f	g	th
+rowned	4	c	d	f	sun-b
+rowning	4	b	c	d	f
+rowns	3	c	d	f
+rows	6	LLUN	b	c	g	r	th
+rped	3	chi	u	wa
+rport	3	ai	ca	pu
+rque	3	a	steinke	to
+rr's	3	bu	ke	ma
+rrant	3	a	cu	e
+rred	5	a	abho	e	sti	u
+rrel	3	a	so	squi
+rrell	3	a	fe	wo
+rrence	3	cu	dete	to
+rrent	3	cu	dete	o
+rried	4	a	fe	u	wo
+rries	4	a	e	slu	wo
+rrin	3	mu	pe	sti
+rring	4	a	e	i	u
+rris	3	a	fe	o
+rror	3	e	ho	mi
+rrors	3	e	ho	mi
+rrow	3	a	o	u
+rrowed	3	a	bo	u
+rrowing	3	a	bo	bu
+rrows	3	a	o	u
+rrying	3	a	hu	wo
+rsed	4	e	ndo	rehea	u
+rsely	3	a	e	ho
+rsement	3	bu	dispe	endo
+rses	3	ho	u	ve
+rship	3	a	e	o
+rships	3	a	e	proprieto
+rsing	4	e	endo	rehea	u
+rsion	3	cu	e	to
+rsome	3	e	fea	fou
+rsted	3	oe	thi	wo
+rt's	5	a	e	o	outski	u
+rtation	3	fli	impa	po
+rted	5	a	e	i	o	u
+rter	4	a	frankfu	he	o
+rters	3	a	frankfu	po
+rther	3	fa	fu	we
+rths	3	bi	no	three-fou
+rtie	3	a	be	so
+rties	4	e	fo	pa	thi
+rtiest	3	hea	pu	spo
+rtin	3	cu	fo	ma
+rting	5	a	e	i	o	u
+rtive	3	asse	fu	o
+rtle	3	my	sta	tu
+rtled	3	cho	hu	sta
+rtling	3	cho	hu	sta
+rtly	4	a	e	o	u
+rtness	3	ale	cu	sho
+rton	4	a	bu	e	o
+rton's	4	ba	bu	e	o
+rture	4	depa	e	nu	to
+rtures	3	depa	ove	to
+ruce	3	b	sp	t
+rude	3	LLUN	c	t
+rugged	3	LLUN	d	sh
+rugs	3	LLUN	d	sh
+ruing	3	acc	const	imb
+rumble	3	LLUN	c	g
+rumbled	3	LLUN	c	g
+rumbling	3	LLUN	c	g
+rumming	3	d	st	th
+rump	3	LLUN	c	t
+rums	3	d	fo	tant
+rung	4	LLUN	gotterdamme	sp	st
+runk	3	d	sch	t
+runner	3	-	LLUN	fore
+runners	3	LLUN	beer-	fore
+runt	3	LLUN	b	g
+rupt	5	ab	bank	dis	e	r
+rupted	3	dis	e	r
+rupting	3	cor	dis	e
+ruption	3	dis	e	r
+rupts	3	cor	dis	e
+rush	5	LLUN	b	c	h	on
+rushed	3	LLUN	b	c
+rushing	4	LLUN	b	c	on
+rust	4	LLUN	c	t	th
+rusted	3	LLUN	c	t
+rusting	3	LLUN	t	th
+rved	3	a	cu	e
+rves	3	cu	e	wha
+rville	4	e	ker	mu	o
+rvin	3	e	i	ma
+rving	4	a	cu	e	i
+rvis	4	ja	je	o	pu
+rway	3	ai	e	o
+rways	3	ai	doo	wate
+rwin	3	da	e	i
+rwood	3	ca	du	e
+ry's	7	a	e	hen	o	r	t	u
+rying	8	a	c	d	glo	p	que	r	t
+rymen	3	caval	nt	quar
+s-on	3	adio	hanger	odd
+sable	7	LLUN	diagno	i	indispen	pas	u	unappea
+sack	3	LLUN	cos	ran
+safe	3	LLUN	fail-	un
+sage	7	LLUN	cor	do	pre	s	u	vi
+sages	5	LLUN	do	envi	s	u
+said	3	LLUN	afore	un
+sake	5	LLUN	chris	christ	for	name
+sally	4	LLUN	cau	hanover-	ver
+sals	4	ca	i	propo	r
+sam's	3	LLUN	how	piep
+sance	3	i	nais	plea
+sant	5	complai	conver	ea	recu	s
+saries	3	ro	s	ver
+sary	3	dispen	s	ver
+sation	6	accu	ces	conver	en	i	pul
+sations	5	accu	conver	en	improvi	pul
+satisfaction	3	-	LLUN	dis
+saturated	3	-	LLUN	un
+sberg	3	anni	koenig	mos
+sburg	8	e	er	finn	getty	hab	ick	ro	william
+sbury	4	e	pill	saint	sali
+scan	4	LLUN	athaba	etru	franci
+scapes	3	city	e	land
+scar	3	LLUN	a	o
+scend	3	a	de	tran
+scended	3	a	de	tran
+scending	3	a	de	tran
+scene	3	LLUN	ob	on-the-
+scent	5	LLUN	a	e	remini	translu
+sche	3	deut	i	nietz
+school	4	-	LLUN	high	pre
+science	3	LLUN	con	inter
+scientific	3	-	LLUN	un
+scope	3	LLUN	e	o
+scopes	4	LLUN	peri	ro	tele
+scoring	3	LLUN	out	run-
+scotch	3	LLUN	abbe-	hop
+screen	3	LLUN	phosphor-	smoke
+screw	3	LLUN	cork	un
+scribe	6	LLUN	a	e	pro	sub	tran
+scribed	6	a	circum	e	n	pro	sub
+scribing	4	LLUN	circum	de	sub
+script	5	LLUN	e	manu	n	post
+scription	4	e	n	pro	sub
+scriptions	3	circum	e	n
+scripts	3	manu	sub	tran
+sdale	3	hill	n	scar
+sday	3	doom	e	thur
+se's	7	ca	el	hou	pos	r	ro	tah
+sealed	3	LLUN	re	un
+searching	3	LLUN	re	soul-
+seated	3	LLUN	deep-	nau
+secret	3	LLUN	semi	super-
+secretary	3	LLUN	sweetheart-	under
+sect	4	LLUN	dis	in	inter
+section	5	-	LLUN	dis	inter	sub
+sections	3	LLUN	inter	sub
+sedly	4	advi	amu	profes	suppo
+seed	5	LLUN	cotton	flax	oil	poppy
+seeing	4	LLUN	fore	sight	sight-
+seen	4	LLUN	fore	un	unfor
+sees	3	LLUN	addres	ely
+seful	3	purpo	remor	u
+segregated	3	LLUN	de	non
+seless	6	a	en	noi	purpo	remor	u
+selessly	3	cea	sen	u
+self	9	LLUN	hick-	him	his	it	my	one	own	r
+sell	4	LLUN	hard-	kin	rus
+selle	3	LLUN	hart	i
+seller	4	LLUN	best	best-	book
+selling	3	-	LLUN	best
+sels	3	chi	mor	s
+selves	3	LLUN	em	our
+sely	5	en	fu	i	o	r
+seman	3	ba	hor	pos
+semble	3	as	en	re
+sement	4	a	amu	i	r
+sements	4	a	adverti	amu	bur
+sen's	3	frelinghuy	n	peder
+sence	3	ab	e	es
+sences	3	ab	es	pre
+send	4	LLUN	god	grave	town
+sened	3	les	loo	r
+seness	3	conci	o	oar
+sens	4	LLUN	les	loo	wor
+sense	3	-	LLUN	non
+sensitive	4	LLUN	in	photo	super
+sent	5	LLUN	ab	con	re	s
+sented	4	ab	con	re	s
+senting	3	con	dis	pre
+sently	3	ab	consi	pre
+septic	3	LLUN	a	anti
+ser's	4	compo	i	purcha	s
+series	3	LLUN	mi	patis
+sers	8	a	dispen	gey	i	mooncur	o	s	u
+sert	3	de	in	s
+serted	3	as	de	in
+sertion	3	as	de	in
+serts	3	de	in	s
+servant	3	LLUN	man	ob
+servation	3	con	ob	re
+serve	5	LLUN	con	e	ob	self-
+served	4	LLUN	e	ob	self-
+servers	3	life-pre	ob	time-
+serves	4	LLUN	con	e	ob
+service	4	-	LLUN	dis	tri
+serving	4	LLUN	con	e	ob
+session	3	LLUN	ob	pos
+sessions	4	LLUN	bull-	ob	pos
+sest	4	cras	den	o	wi
+sets	7	LLUN	be	clo	n	r-	s	up
+setting	5	LLUN	e	e-	off	up
+settled	3	LLUN	long-	un
+settling	4	LLUN	dust-	re	un
+seum	3	coli	colos	mu
+seur	3	dan	po	s
+sey's	3	ca	jer	lind
+sh's	4	bli	mar	swade	wal
+shall	5	LLUN	fredrik	mar	mes	ru
+sham	4	LLUN	fever	gre	i
+shaped	3	-	LLUN	re
+share	3	LLUN	ko	productivity-
+shaven	3	LLUN	clean-	un
+shaw	3	LLUN	ba	rick
+shed	9	LLUN	a	e	i	ood	slo	u	un	water
+sheet	3	24-	LLUN	work
+shell	7	LLUN	bu	clam	egg	hard	nut	soft-
+sher	6	a	har	i	ko	refre	u
+shers	3	dishwa	i	u
+shes	4	a	i	mar	u
+shield	3	LLUN	sun	wind
+shift	3	LLUN	make	third-
+shin	3	LLUN	gor	ilyu
+shing	5	a	i	per	re	u
+shiny	3	LLUN	sun	too-
+ship	9	LLUN	court	d	e	fellow	m	n	r	troop
+ships	7	LLUN	d	fellow	n	r	trainee	troop
+shire	8	che	devon	hamp	lanca	stafford	warwick	wil	worcester
+shirt	3	LLUN	r	t
+shly	3	fre	har	i
+shman	4	a	cu	fre	i
+shness	4	bra	fre	har	i
+shod	3	LLUN	iron-	rough
+shoe	3	LLUN	soft-	wa
+shooter	3	-	LLUN	trouble
+shop	5	LLUN	bi	pawn	t-	work
+shops	3	LLUN	bi	work
+shore	5	LLUN	a	in	off	off-
+shot	7	-	LLUN	blood	buck	ng	over	up
+show	4	LLUN	floor	road-	side
+shrouded	3	LLUN	fog-en	monsoon-
+sial	3	ambro	controver	mu
+sian	9	a	brahm	diony	e	i	n	per	s	theodo
+sians	5	a	ephe	per	s	venu
+sibility	5	fea	n	rever	s	vi
+sible	7	collap	fea	n	plau	rever	s	vi
+sibly	6	LLUN	implau	irrever	n	s	vi
+sical	6	clas	lackadai	mu	nonsen	phy	whim
+sically	5	ba	clas	intrin	mu	phy
+sick	3	LLUN	home	shit-
+sics	4	ba	clas	kine	phy
+side	15	-	LLUN	a	b	ck	d	e	hill	n	ng	out	r	stream	up	y
+side's	4	LLUN	burn	ingle	river
+sided	4	-	LLUN	re	sub
+siders	3	n	out	ring
+sides	4	LLUN	e	glyco	n
+sied	3	autop	bu	prophe
+sier	5	bu	des	ea	hoo	oi
+sies	9	a	controver	embas	flim	i	jealou	p	pan	prophe
+siest	3	bu	clas	ea
+sification	3	diver	inten	s
+sified	4	clas	diver	emul	inten
+sify	3	fal	inten	s
+sifying	3	clas	fal	inten
+sight	6	-	LLUN	e	hind	in	over
+sighted	4	LLUN	far-	near	short
+sign	5	LLUN	as	dollar-	e	n
+signed	4	LLUN	as	e	n
+signers	3	LLUN	co-	de
+signing	3	LLUN	as	e
+signs	3	LLUN	as	e
+sily	7	bu	clum	co	drow	ea	fus	noi
+sin'	4	kis	plea	s'po	u
+sin's	3	cou	pous	wiscon
+sine	5	LLUN	cui	limou	triphenylar	tyro
+sines	3	ar	iodotyro	limou
+sing	12	LLUN	a	i	l	n	o	p	r	row	s	sud	u
+singer	4	-	LLUN	meister	schle
+singly	5	LLUN	ea	i	s	u
+sings	5	LLUN	mu	phra	s	upri
+sins	5	LLUN	cou	mocca	re	s
+sion	9	a	e	i	n	o	r	s	u	ul
+sion's	3	commis	divi	man
+sional	4	en	es	i	occa
+sionally	3	dimen	occa	profes
+sionary	3	diver	illu	mis
+sioned	4	disillu	occa	s	vi
+sionist	3	es	expan	revi
+sions	7	a	i	n	r	s	u	ul
+sist	6	as	fanta	n	per	re	sub
+sisted	4	as	n	per	re
+sistence	3	n	per	sub
+sistent	3	n	per	sub
+sisting	4	as	n	per	re
+sists	4	as	n	per	re
+site	7	LLUN	cas	l'univer	on-	para	po	qui
+sites	5	LLUN	camp	compo	para	requi
+sities	3	en	iver	neces
+sition	3	po	qui	tran
+sitions	3	acqui	po	tran
+sitive	3	inqui	po	sen
+sits	3	LLUN	depo	vi
+sity	6	en	fal	neces	o	obe	ver
+sium	3	gymna	potas	sympo
+sius	3	carau	cas	theodo
+sive	9	a	he	i	n	o	r	s	u	ul
+sively	8	a	cohe	i	n	o	s	u	ul
+siveness	6	ci	cohe	discur	n	s	u
+sives	5	adhe	compul	explo	offen	subver
+size	5	-	LLUN	e	empha	er
+sized	6	-	LLUN	empha	er	out	the
+sizes	3	LLUN	empha	synthe
+skilled	3	LLUN	semi-	un
+skin	5	LLUN	buck	calf	pig	sheep
+skins	4	LLUN	buck	deer	ha
+sky's	5	LLUN	mir	mussorg	stravin	v
+slam	3	LLUN	grand-	i
+slate	3	LLUN	legi	tran
+slated	3	LLUN	legi	tran
+slavery	3	LLUN	anti	anti-
+sler	5	ba	bo	chry	ei	wech
+sley	9	bo	e	hawk	king	n	pa	par	tow	well
+slinging	3	LLUN	gun-	mud
+smal	3	aby	i	mia
+sman	11	corp	d	e	helm	mark	new	s	t	town	u	wi
+sman's	7	bond	congres	craft	mark	sale	u	wi
+smanship	3	e	mark	t
+smen	7	e	frontier	groom	new	s	t	town
+smic	4	catacly	co	i	protopla
+smith	3	LLUN	black	gold
+sn't	4	a	doe	i	mu
+so's	3	LLUN	o	picas
+social	4	LLUN	a	anti	non-
+sodium	3	LLUN	tetra	tri
+sohn	3	LLUN	lewi	mendels
+soil	3	LLUN	sub	top
+solation	3	con	de	i
+solder	3	LLUN	tack-	un
+sols	3	aero	para	plasti
+soluble	3	-	LLUN	in
+solution	4	LLUN	ab	dis	re
+solutions	3	LLUN	dis	re
+solve	3	LLUN	dis	re
+solved	4	LLUN	dis	re	un
+solving	4	LLUN	dis	problem-	re
+somatic	3	LLUN	autonomic-	psycho
+some	10	LLUN	e	hand	irk	l	loath	n	r	ri	two
+soms	3	blos	bo	tran
+son's	14	LLUN	a	ache	d	fergu	i	k	l	mp	n	r	s	wat	william
+sonance	3	as	con	re
+sonant	3	con	non-dis	re
+song	3	LLUN	even	sing-
+sonian	5	garri	jack	jeffer	smith	wil
+sonic	3	LLUN	a	super
+soning	3	crim	ea	poi
+sons	9	LLUN	a	chan	d	i	jack	les	r	t
+sor's	3	es	spon	supervi
+sorbed	3	LLUN	ab	ad
+sorption	3	LLUN	ab	sorption-de
+sors	3	i	n	s
+sort	3	LLUN	con	re
+sorted	4	LLUN	as	con	re
+sorting	3	LLUN	con	re
+sory	6	acces	compul	cur	illu	sen	vi
+sounding	3	-	LLUN	re
+space	5	LLUN	aero	crawl	sub	summer
+speak	3	LLUN	be	say-
+species	4	LLUN	inter	inter-	sub
+specific	3	LLUN	host-	non
+spect	6	a	circum	in	re	ro	su
+spected	3	in	re	su
+specting	3	in	re	su
+spection	3	circum	in	intro
+spective	3	per	re	ro
+spects	4	a	pro	re	su
+speed	3	-	LLUN	air
+sper	3	ja	pro	whi
+sphere	4	LLUN	cone-	hemi	o
+spiration	4	a	n	per	re
+spire	3	LLUN	a	n
+spired	3	a	n	per
+spires	3	LLUN	a	n
+spiring	3	a	n	per
+spoken	4	-	LLUN	out	un
+sponsored	3	-	LLUN	co
+spoon	4	LLUN	table	tea	wither
+spoonful	3	LLUN	table	tea
+sport	3	LLUN	pas	tran
+spot	4	-	LLUN	de	n
+spots	3	LLUN	blood	de
+spread	4	LLUN	bed	out	wide
+spring	3	LLUN	off	watch-
+springs	3	LLUN	bed	well-
+spun	3	LLUN	chrom	finely-
+sque	4	e	i	ma	mo
+ssal	3	colo	dismi	va
+ssant	3	discu	ince	pui
+ssary	3	glo	mi	nece
+ssed	5	a	cu	e	i	o
+ssels	3	ta	u	ve
+sser	3	a	e	ro
+sses	5	a	e	i	o	u
+sset	4	a	be	ru	weybo
+sseur	3	connoi	ma	profe
+ssians	3	colo	he	ru
+ssibility	3	e	permi	po
+ssible	3	e	mi	po
+ssing	5	a	e	i	o	u
+ssings	4	cro	e	ga	ki
+ssion	4	cu	e	i	pa
+ssions	4	cu	e	mi	pa
+ssive	4	a	e	mi	percu
+ssman	4	e	o	undercla	wei
+sson	7	a	e	fergu	nil	o	petter	zachri
+st's	6	analy	e	fau	hear	i	o
+stable	4	LLUN	adju	n	te
+staff	4	LLUN	fal	hack	research-
+stag	3	LLUN	bunde	reich
+stage	8	-	LLUN	back	ho	inter	multi	off	wa
+stain	3	LLUN	ab	su
+stained	5	-	LLUN	blood	su	un
+staining	3	LLUN	ab	su
+stains	3	LLUN	blood	su
+stairs	4	LLUN	back	down	up
+stakes	3	LLUN	mi	sweep
+stal	5	coa	cry	di	o	pede
+stall	3	LLUN	fore	n
+stan	4	LLUN	augu	cap	i
+stance	5	LLUN	circum	i	n	sub
+stances	5	LLUN	circum	i	in	sub
+stand	5	LLUN	d	news	under	with
+standing	6	LLUN	long	notwith	out	under	up
+stands	4	LLUN	d	under	with
+stant	3	i	n	prote
+stants	3	con	si	te
+star	3	-	LLUN	morning
+stat	3	LLUN	appe	o
+state	8	-	LLUN	deva	e	inter	out	pro	up
+stated	5	LLUN	deva	rein	thermo	under
+statement	3	LLUN	re	under
+states	6	LLUN	all	apo	e	nation-	under
+static	3	LLUN	ec	ro
+stating	3	LLUN	deva	re
+station	4	LLUN	deva	e	sub-
+stead	6	'	LLUN	hemp	home	in	vol
+steady	3	LLUN	rock-	un
+sted	6	a	e	i	o	r	u
+stein	7	LLUN	blau	l	n	p	rut	thor
+stellar	3	LLUN	inter	intra-
+stem	3	LLUN	sy	two-
+sten	4	a	car	i	tung
+step	7	-	LLUN	door	e	foot	mis	quick
+steps	3	LLUN	foot	side
+ster	14	a	b	ck	e	hip	i	n	ng	o	ol	oy	road	team	u
+ster's	10	a	cu	e	for	huck	i	o	pockman	web	young
+stered	5	a	fo	i	ol	u
+sterilization	3	LLUN	radio	sub
+stering	6	a	e	fo	i	ol	u
+stern	4	LLUN	a	ci	we
+sters	11	a	e	i	mob	mon	ng	o	old	oy	team	u
+stery	5	a	bapti	blu	my	uphol
+stes	3	a	e	industriali
+stful	3	re	u	wi
+stfully	3	boa	tru	wi
+stible	3	dige	exhau	irresi
+stic	6	a	diagno	e	i	my	u
+stical	4	acou	ecclesia	i	my
+stically	4	a	acou	e	i
+stice	3	armi	ju	sol
+stick	5	-	LLUN	candle	p	yard
+stics	5	a	acou	agno	i	my
+stified	3	ju	my	te
+stigation	3	ca	in	inve
+still	3	LLUN	stand	stone-
+stily	3	ha	lu	te
+stine	4	amethy	e	i	u
+sting	7	LLUN	a	bur	e	i	o	u
+stingly	3	everla	intere	u
+stings	4	LLUN	a	li	te
+stion	3	ba	e	u
+stitch	3	LLUN	back	bo
+stitute	4	de	n	pro	sub
+stitutes	3	n	pro	sub
+stitution	4	n	pro	re	sub
+stive	4	co	e	exhau	resi
+stle	5	ca	e	i	o	u
+stled	3	i	ne	u
+stles	4	apo	ca	i	re
+stling	3	e	i	u
+stly	4	a	e	ju	o
+stman	4	ea	hor	po	wu
+stment	3	adju	enli	inve
+stness	3	earne	pa	u
+ston	10	bo	boyl	e	folk	ga	i	ing	mar	n	u
+ston's	3	anni	bo	cre
+stone	11	LLUN	black	corner	d	e	foundation-	key	ll	pudding	tomb	touch
+stones	7	LLUN	ad	e	gall	holy	tomb	touch
+stood	3	LLUN	under	with
+stop	4	LLUN	non	non-	short
+stor	3	a	e	i
+store	3	LLUN	drug	re
+stories	3	LLUN	hi	seven-
+storm	5	LLUN	hail	rain	snow	wind
+stors	3	e	pa	si
+story	3	-	LLUN	hi
+stown	6	bras	e	graham	hackett	king	norri
+strain	3	LLUN	eye-	re
+strained	3	LLUN	con	re
+straining	4	LLUN	con	over	re
+strate	5	emon	magi	pro	sub	u
+strates	4	demon	illu	magi	sub
+stration	4	e	i	n	u
+strations	4	demon	i	orche	u
+strators	3	admini	demon	illu
+straw	3	LLUN	bed	rake
+stream	4	LLUN	d	n	p
+stressed	3	LLUN	di	un
+strewn	3	LLUN	rock	rock-
+strial	3	indu	mi	terre
+strict	3	LLUN	di	re
+stricting	3	con	re	redi
+stries	3	i	indu	tape
+string	4	LLUN	bow	shoe	shoe-
+strips	3	LLUN	air	film
+strom	3	beck	mael	nord
+strous	3	disa	lu	mon
+structure	4	LLUN	er	sentence-	sub
+structured	3	LLUN	re	un
+stry	4	e	i	indu	pa
+sts'	3	gue	guidepo	i
+study	3	LLUN	re	work-
+sture	4	ge	moi	pa	po
+stures	3	ge	pa	po
+sual	4	ca	sen	u	vi
+sually	3	ca	u	vi
+submarine	3	LLUN	anti	anti-
+subscribed	3	LLUN	over	over-
+sued	4	LLUN	en	is	pur
+sues	4	LLUN	en	is	pur
+sufficient	3	LLUN	in	self-
+suing	4	LLUN	en	is	pur
+suit	6	LLUN	e	law	pur	sun-	swim
+suited	3	LLUN	un	white-
+suits	5	LLUN	e	law	pur	sweat-
+sume	3	as	con	re
+sumed	4	as	con	re	sub
+sumes	3	as	con	pre
+suming	3	as	con	re
+summer	3	LLUN	late-	mid
+sumption	3	as	con	re
+supported	3	-	LLUN	un
+sure	7	-	LLUN	ea	lei	n	o	s
+sured	3	ea	n	s
+sures	4	ea	n	o	s
+surface	3	-	LLUN	sub
+suring	3	as	mea	n
+sville	7	chancellor	e	jarrod	ll	loui	n	out
+swell	4	LLUN	ground-	ro	row
+swing	3	LLUN	neo-	up
+sworth	6	ain	ell	hawk	mole	ng	word
+syllable	3	LLUN	four-	mono
+symmetric	3	LLUN	a	pseudo-
+sympathetic	4	LLUN	par	para	un
+system	3	-	LLUN	sub
+systematic	3	LLUN	non	non-
+t-colored	3	e	ho	ligh
+t-down	4	cu	le	shoo	si
+t-hand	4	firs	lef	near-a	righ
+t-like	6	bi	ca	ne	nu	o	s
+t-looking	4	bes	brigh	importan	sof
+t-run	3	i	s	shor
+t-type	3	communis	convenien	flashligh
+ta's	6	an	et	juani	o	s	vol
+tability	8	a	accep	accoun	c	i	inscru	marke	s
+table	14	-	LLUN	a	c	e	i	n	no	or	p	s	t	u	work
+tables	5	LLUN	e	ea	no	s
+tably	7	comfor	i	indispu	no	predic	regret	unaccoun
+tached	3	at	de	mus
+tack	4	LLUN	at	hard	s
+tacked	3	LLUN	at	s
+tacking	3	LLUN	at	s
+tacle	4	obs	recep	spec	ten
+tacles	3	obs	spec	ten
+tage	8	decolle	heri	n	o	or	s	t	vol
+tages	6	cot	heri	n	s	shor	vol
+tail	7	-	LLUN	cock	e	en	r	rat
+tailed	3	-	cur	de
+tails	5	LLUN	coat	cock	de	en
+tain	9	at	bri	cap	chief	e	n	ob	r	s
+tainable	3	ascer	ob	unat
+tained	6	at	e	n	ob	r	s
+tainers	3	con	enter	re
+taining	6	at	er	n	ob	re	s
+tainment	3	at	con	enter
+tains	8	at	cap	chief	n	pu	r	re	s
+take	6	LLUN	give-and-	in	r	s	up
+taken	3	LLUN	er	mis
+taker	3	care	r	whit
+takes	3	LLUN	r	s
+taking	5	-	LLUN	breath	r	s
+tale	3	-	LLUN	s
+talists	3	capi	en	fa
+talities	3	bru	fa	men
+tality	6	bru	fa	i	men	mor	to
+talized	3	bru	hospi	immor
+talking	3	LLUN	down	s
+tall	4	LLUN	a-	nut	s
+tally	9	LLUN	dis	fa	mor	n	noncommit	to	u	vi
+tals	6	crys	e	en	i	mor	to
+tance	7	accep	admit	c	i	impor	n	s
+tancy	4	bla	expec	hesi	ns
+tang	3	LLUN	mus	top-
+tangle	3	LLUN	disen	rec
+tani	3	cae	kaku	pakis
+tans	4	charla	i	s	sul
+tant	8	a	c	ex	i	n	por	s	sul
+tante	3	concer	debu	dilet
+tantly	5	c	exul	i	impor	s
+tants	7	ac	accoun	comba	habi	mu	s	sul
+tarian	4	i	liber	sec	vege
+tarians	5	liber	ni	parliamen	ro	trac
+taries	4	digni	men	nec	secre
+tars	3	i	mor	s
+tary	6	e	i	n	ro	salu	tar
+tate	6	LLUN	ace	c	i	ro	s
+tated	5	ampu	dic	i	ro	s
+tates	4	dic	i	ro	s
+tating	4	c	i	ro	s
+tation	12	a	e	ec	i	l	n	o	p	r	rep'	s	u
+tational	3	presen	u	vi
+tations	10	exhor	expec	i	interpre	l	n	o	p	s	u
+tative	4	consul	en	i	interpre
+tator	4	c	commen	gi	s
+tators	3	c	commen	i
+tch's	3	kru	le	magwi
+tched	5	a	clu	e	i	o
+tchen	3	gre	ki	pa
+tcher	4	bu	ca	e	i
+tchers	3	a	oys	pi
+tches	5	a	e	i	o	u
+tching	5	a	clu	e	i	no
+tchman	3	du	night-wa	sco
+te's	7	a	an	ar	e	i	t	u
+teacher	3	LLUN	ex-school	parent-
+team	3	-	LLUN	s
+tease	3	LLUN	pro	strip
+tect	3	archi	de	pro
+tedly	11	a	admit	c	devo	exci	n	nearsigh	r	repu	undoub	uninterrup
+tedness	4	c	rela	shortsigh	soft-hear
+teen	7	LLUN	eigh	fif	n	nine	r	six
+teen-year-old	5	eigh	four	nine	seven	six
+teenth	6	eigh	fif	nine	r	seven	six
+teenth-century	5	eigh	fif	nine	seven	thir
+teer	3	racke	s	volun
+teering	3	junke	s	volun
+teers	3	racke	s	volun
+tees	8	commit	depor	devo	draf	induc	invi	n	trus
+tell	3	LLUN	birdwhis	re
+telli	3	LLUN	campi	ro
+tels	6	boa	car	chat	o	pas	yach
+tely	5	a	e	i	remo	u
+tempt	3	LLUN	at	con
+tence	5	e	inadver	is	po	sen
+tency	3	compe	consis	po
+tend	5	LLUN	at	ex	n	pre
+tended	7	LLUN	at	ex	n	por	pre	sub
+tender	4	LLUN	bar	con	pre
+tending	5	LLUN	at	ex	n	pre
+tends	6	LLUN	at	ex	n	pre	sub
+tened	8	flat	igh	s	shor	sof	streng	threa	whi
+teness	5	a	comple	i	remo	u
+tening	7	at	igh	r	s	sof	threa	whi
+tennis	3	LLUN	s	table-
+tens	7	LLUN	igh	s	sof	t	threa	whi
+tense	3	LLUN	in	pre
+tension	4	-	LLUN	dis	ex
+tensions	3	LLUN	ex	pre
+tent	9	LLUN	a	compe	ex	inadver	intermit	is	n	po
+tenting	3	LLUN	con	pa
+tention	4	abs	at	e	n
+tently	5	compe	in	inadver	intermit	sis
+tents	5	LLUN	con	incompe	pa	por
+teous	4	beau	cour	pi	righ
+ter's	11	a	al	chap	daugh	dex	n	pe	r	s	t	wri
+terated	3	adul	deu	i
+tered	9	a	ar	e	l	n	raf	s	slaugh	t
+teria	4	bac	cafe	cri	s
+terial	4	ar	bac	ma	s
+teries	3	ar	bat	s
+tering	8	a	e	l	n	rechar	s	slaugh	t
+terior	3	ex	n	pos
+terly	3	quar	s	t
+terman	4	a	al	coun	let
+terminate	3	LLUN	de	ex
+termination	3	LLUN	de	ex
+tern	5	at	ex	n	s	subal
+ternal	5	e	ex	in	ma	s
+ternally	3	ex	in	pa
+terns	3	n	pat	s
+ters	16	LLUN	a	ap	c	e	f	h	i	l	n	o	r	s	t	thax	u
+ters'	4	cut	n	sis	wri
+terson	3	at	pa	pe
+tery	7	adul	ar	ceme	n	s	t	wa
+tes'	3	a	athle	cervan
+test	12	LLUN	a	cu	e	f	fas	igh	n	o	shor	stric	t
+tested	6	LLUN	at	combat-	con	de	pro
+testing	3	LLUN	at	pro
+tests	4	LLUN	con	pro	sub-
+text	3	LLUN	con	pre
+texts	3	LLUN	con	pre
+tfall	3	foo	nigh	pi
+tfield	7	ha	ken	lef	ou	righ	wes	whi
+tful	8	ar	c	doub	e	gh	i	resen	s
+tfully	8	ar	doub	even	gh	i	regre	respec	s
+tfulness	4	ar	forge	frui	though
+th's	6	i	killpa	mon	o	r	u
+th-century	7	18	19	20	fif	four	teen	twentie
+thal	5	betro	blumen	le	neander	wi
+tham	4	ben	cha	o	wal
+thampton	3	nor	s	sou
+than	3	LLUN	e	na
+thea	4	LLUN	al	an	arima
+thed	5	a	mou	o	r	wri
+then	3	LLUN	eng	hea
+ther	9	LLUN	a	e	es	i	n	o	r	u
+ther's	3	fa	lu	o
+thered	5	a	fur	o	te	wi
+thering	4	a	fur	o	wi
+therly	3	fa	nor	o
+thermal	3	LLUN	iso	non-
+thers	6	a	carru	e	nor	o	pan
+thes	3	a	clo	i
+theses	3	LLUN	hypo	paren
+thesis	5	LLUN	anti	dia	hypo	syn
+thet	3	LLUN	epi	pa
+thetic	3	es	pa	syn
+thetically	3	nes	paren	sympa
+they	4	LLUN	dil	man	sou
+thfield	3	nor	smi	sou
+thful	5	fai	heal	slo	u	wra
+thic	6	anor	e	go	monoli	my	psychopa
+thically	3	e	monoli	telepa
+thin	5	LLUN	any	no	some	wi
+thing	7	LLUN	a	e	o	u	wri	y
+things	3	LLUN	no	swa
+thinking	3	-	LLUN	un
+thirties	3	'	LLUN	mid-
+thless	3	a	r	ru
+thly	4	dea	ear	mon	smoo
+thology	3	an	my	pa
+thon	3	mara	o	py
+thouse	4	cour	ho	ou	pen
+through	3	-	LLUN	break
+thward	3	dea	nor	sou
+tiable	3	differen	insa	pi
+tial	6	es	i	n	pre-nup	r	spa
+tiality	3	en	impar	spa
+tially	4	ini	n	par	spa
+tian	10	a	egyp	i	n	o	r	roosevel	s	u	vene
+tians	6	a	chris	egyp	gen	lao	mar
+tiate	4	i	n	nego	sa
+tiated	3	differen	i	nego
+tiating	4	differen	ingra	ini	nego
+tiation	3	ini	n	nego
+tibility	4	c	incompa	p	sugges
+tible	5	c	compa	p	s	ver
+tibles	3	combus	deduc	incompa
+tica	6	antarc	at	atlan	ero	scholas	scia
+tical	10	a	analy	c	e	i	iden	p	r	s	u
+tically	10	a	analy	c	e	i	n	o	p	r	s
+ticated	3	authen	decor	sophis
+tice	6	appren	lat	no	poul	prac	s
+ticed	3	appren	no	prac
+tices	5	appren	no	poul	prac	s
+ticians	4	i	mor	s	theore
+ticing	3	en	no	prac
+ticism	7	cri	e	ep	fana	hypoadrenocor	roman	s
+ticity	3	analy	authen	s
+tick	4	LLUN	aroma	roman	s
+ticking	3	LLUN	poli	s
+ticle	3	ar	can	s
+tico	3	comico-roman	poli	por
+tics	9	a	c	e	i	n	o	p	s	u
+tide	5	LLUN	aris	be	nucleo	pep
+tides	3	LLUN	carya	pep
+tied	6	LLUN	emp	pi	re	tongue-	un
+tier	9	emp	gal	gau	me	n	naugh	r	s	t
+tiers	3	LLUN	fron	r
+ties	14	LLUN	e	eigh	emp	fif	i	l	n	r	s	six	t	trea	u
+tiest	4	migh	nas	pret	r
+tieth	4	fif	nine	thir	twen
+tification	6	a	iden	no	objec	r	s
+tifications	3	for	iden	jus
+tified	6	iden	no	r	ra	s	sanc
+tifies	3	cer	iden	tes
+tiful	3	beau	pi	plen
+tify	6	beau	iden	no	r	ra	s
+tifying	7	beau	cer	gra	iden	jus	no	stul
+tile	9	LLUN	a	c	fer	fu	hos	n	red-	tex
+tiles	5	LLUN	gen	projec	s	tex
+tility	5	fer	gen	hos	u	versa
+tilization	3	cross-fer	u	vola
+till	3	'	LLUN	s
+tillion	5	co	oc	quin	sep	sex
+tily	5	dain	gh	hear	pret	s
+timate	4	es	in	legi	ul
+timately	3	in	legi	ul
+time	14	-	LLUN	as	bed	e	half	l	lunch	mari	n	ng	night	r	y
+times	5	-	LLUN	often	pas	some
+timing	3	-	LLUN	two
+tin'	11	'cep	a	drif	figh	hifalu	mee	n	r	shoo	t	us
+tin's	4	aus	journal-bulle	mar	zamia
+tina	4	argen	concer	pa	re
+tine	6	benedic	hassel	liber	n	rou	s
+tinence	3	abs	con	per
+tines	4	LLUN	liber	rou	s
+tiness	5	emp	et	guil	haugh	mus
+ting	15	a	c	doub	e	f	h	i	l	n	o	p	r	s	t	u
+tingly	9	a	affec	disconcer	doub	hal	n	s	temp	wit
+tings	10	a	ar	e	n	promp	rou	s	shoo	t	wri
+tinted	3	LLUN	green-	vari
+tiny	3	LLUN	des	u
+tion	10	a	c	e	i	n	o	p	r	s	u
+tional	8	a	c	en	i	itu	o	p	propor
+tionalism	4	a	emo	func	tradi
+tionality	5	a	conven	direc	emo	propor
+tionalized	5	a	conven	institu	sec	tradi
+tionally	7	a	c	di	emo	en	excep	propor
+tionary	4	c	discre	sta	u
+tioned	8	a	appor	c	cau	en	i	mo	ques
+tioner	3	execu	i	ques
+tioners	3	i	ques	vaca
+tioning	6	a	di	func	men	mo	ques
+tionist	4	a	aboli	obstruc	recep
+tionists	3	aboli	c	evolu
+tions	10	a	c	e	en	es	i	o	p	r	u
+tious	7	a	c	cau	en	face	i	p
+tiously	3	cau	face	i
+tips	3	-	LLUN	finger
+tique	4	an	cri	democra	s
+tire	5	LLUN	at	en	re	sa
+tired	3	LLUN	at	re
+tires	3	LLUN	re	sa
+tish	6	bri	e	gea	ju	ol	scot
+tism	7	a	au	bap	e	i	n	o
+tissue	3	LLUN	body-	intra
+tist	10	a	ar	bap	cul	ego	lef	n	quie	righ	u
+tist's	5	ar	bap	ego	flau	n
+tistic	4	ar	au	concre	lexicosta
+tists	5	a	ar	bap	libret	n
+tite	4	'iden	pe	ripar	tek
+titia	3	jus	le	no
+tition	3	par	pe	supers
+titions	3	par	pe	supers
+titious	5	adven	fic	repe	supers	surrep
+titled	3	LLUN	en	sub
+titude	6	a	ap	at	for	l	rec
+titudes	5	a	ap	at	cer	mul
+tity	3	chas	n	sanc
+tius	4	e	n	proper	serva
+tivate	3	ac	cul	mo
+tivated	4	ac	cap	cul	mo
+tivating	4	ac	cap	cul	mo
+tivation	3	ac	cul	mo
+tive	9	a	c	i	n	o	p	r	s	u
+tively	7	a	c	decep	fur	i	n	s
+tiveness	7	a	acquisi	asser	ec	reten	skin-percep	talk-abou
+tives	7	a	c	execu	i	incen	mo	p
+tivism	3	a	ac	i
+tivist	3	posi	rela	subjec
+tivities	3	ac	fes	sensi
+tivity	4	a	c	cap	sensi
+tized	6	bap	depu	e	hypno	i	ma
+tizing	4	e	ma	pep	prosely
+tland	5	eas	fla	mai	por	sco
+tle's	3	man	o	t
+tled	6	disgrun	r	s	t	ti	tootley-toot-too
+tler	7	bu	hi	n	s	sub	t	ta
+tlers	4	bu	hi	rus	t
+tles	6	bee	can	s	t	ti	tur
+tless	10	doub	ha	i	l	n	o	r	s	shif	though
+tlessly	5	effor	frui	relen	s	though
+tlessness	4	relen	res	tac	weigh
+tley	3	har	mo	n
+tling	5	bee	r	s	t	wa
+tman	6	a	he	o	r	s	whi
+tmen	3	boa	pos	selec
+tment	9	allo	c	commit	hu	i	n	r	s	trea
+tments	9	allo	c	commi	n	par	reve	s	trea	u
+tmore	3	pa	sheraton-bil	wes
+tner	4	kes	lau	par	vin
+tness	10	a	c	e	f	i	igh	n	p	r	s
+tney	3	chu	cour	whi
+to's	4	a	er	mulat	yoshimo
+toes	6	LLUN	a	grot	huito	men	mosqui
+together	3	-	LLUN	al
+tographic	3	chroma	cryp	pho
+told	4	LLUN	re	un	wi
+tole	3	LLUN	ana	s
+tolerant	3	LLUN	in	sickly-
+tomb	3	LLUN	heca	womb-to-
+toms	4	a	bot	cus	symp
+tomy	3	ana	dicho	hysterec
+ton's	13	a	clay	hamp	ing	l	le	new	r	s	sax	t	traf	ugh
+tone	7	LLUN	a	ace	an	bari	mono	s
+toned	4	but	in	s	warm-
+tones	3	LLUN	over	s
+tonian	4	bos	carle	hamil	new
+tonic	7	LLUN	a	architec	hair	iso	mil	teu
+tons	10	LLUN	bri	car	hunting	mega	moul	pis	pro	skele	ut
+tony	4	LLUN	an	mono	s
+took	3	LLUN	mis	r
+topped	3	-	LLUN	s
+tops	5	LLUN	hill	roof	s	tree
+tor's	7	a	c	distribu	i	pas	real	sculp
+tore	4	LLUN	et	s	va
+tored	4	alliga	doc	moni	s
+torial	5	a	i	involu	pic	repor
+tories	6	LLUN	c	i	inven	labora	s
+toring	4	mo	moni	s	tu
+torious	3	meri	no	vic
+tors	10	a	c	i	inven	mo	p	proprie	real	s	u
+tors'	4	c	jani	mo	pas
+torship	5	dicta	direc	distribu	edi	proprie
+torted	3	con	dis	re
+tory	12	LLUN	a	c	desul	ex-	i	inven	peremp	proprie	reper	s	u
+touched	3	LLUN	autumn-	un
+touching	3	LLUN	earth-	re
+tours	3	LLUN	con	de
+tous	4	en	i	ma	rio
+tout	4	LLUN	pu	s	sur
+town	14	-	LLUN	boom	dog	e	levit	n	new	nigger	s	smith	tarey	up	york
+track	3	LLUN	moon	race
+tract	7	LLUN	at	con	de	ex	s	sub
+tracted	7	at	con	ex	pro	re	s	sub
+tracting	5	at	con	ex	s	sub
+traction	6	at	con	ex	re	s	sub
+tractor	4	LLUN	con	de	ex
+tractors	5	LLUN	abs	con	de	ex
+tracts	5	LLUN	abs	at	con	ex
+train	4	LLUN	char	qua	s
+trained	4	-	LLUN	s	un
+training	4	LLUN	re	s	spring-
+trait	3	LLUN	por	s
+traits	3	LLUN	por	s
+tral	5	cen	mi	neu	s	spec
+tralization	3	cen	indus	neu
+trance	3	LLUN	en	semi
+trant	3	en	recalci	regis
+trap	4	-	LLUN	man	s
+tras	3	ex	orches	ta
+trate	4	concen	i	pene	s
+trated	5	concen	e	i	infil	s
+trates	4	concen	interpene	ni	s
+trating	4	concen	infil	pene	s
+tration	5	concen	e	i	infil	s
+tray	4	LLUN	be	por	s
+trayed	3	be	por	s
+trays	5	LLUN	ash	be	por	s
+treat	4	LLUN	en	mal	re
+treated	3	LLUN	n	re
+tree	5	LLUN	apple-	green	l'as	roof
+trend	3	LLUN	down	up
+tres	3	char	mai	thea
+tress	4	c	for	s	wai
+tresses	5	ac	for	s	t	wai
+trial	3	LLUN	pre	s
+tribute	4	LLUN	at	con	dis
+tributed	3	at	con	dis
+tributes	4	LLUN	at	con	dis
+tributing	3	at	con	dis
+tribution	3	con	dis	re
+tric	4	cen	elec	ia	me
+trical	3	elec	me	thea
+trically	3	elec	me	thea
+trick	3	LLUN	but	pa
+tries	3	LLUN	n	s
+trigger	3	LLUN	hair-	ou
+trition	3	at	con	nu
+trol	5	analy	con	diethylstilbes	pa	vec
+trolled	3	con	pa	s
+trolling	3	con	pa	s
+tron	5	a	ci	elec	neu	tex
+trophic	3	a	catas	thyro
+trophy	5	LLUN	a	dys	hyper	philan
+truck	3	-	LLUN	s
+trude	3	ger	in	pro
+truded	3	ex	in	pro
+truding	3	ex	in	pro
+true	4	LLUN	cons	too-simple-to-be-	un
+trum	3	ros	spec	tan
+trust	5	LLUN	anti	anti-	en	is
+trusted	3	LLUN	en	is
+try's	3	indus	n	poe
+tsch	3	deu	jani	troel
+tsman	4	col	craf	spor	yach
+tsmen	4	boa	craf	spor	yach
+tson	4	a	ber	ste	tillo
+tt's	4	a	e	leavi	o
+ttal	3	glo	i	rebu
+tted	5	a	e	i	o	u
+tten	3	a	i	o
+tter	5	a	e	i	o	u
+tter's	3	a	co	i
+ttered	4	a	e	i	u
+ttering	5	a	e	i	to	u
+tters	5	a	i	le	po	u
+ttery	4	a	ji	o	u
+ttes	3	e	gavo	ha
+ttest	3	a	fi	ho
+ttie	3	a	he	lo
+tties	3	be	di	pa
+tting	5	a	e	i	o	u
+ttings	3	cu	i	se
+ttle	5	a	e	i	o	tu
+ttled	4	a	e	o	u
+ttler	3	ki	ra	se
+ttles	3	a	bo	se
+ttling	5	a	beli	o	se	u
+tton	4	a	co	my	u
+tty's	3	e	ki	sco
+tual	8	c	cep	en	i	mu	perpe	tex	vir
+tuality	5	c	concep	even	mu	spiri
+tually	7	c	concep	even	i	mu	perpe	vir
+tuate	3	c	en	perpe
+tuated	4	accen	c	perpe	si
+tuation	4	infa	perpe	punc	si
+tubs	3	LLUN	bath	s
+tuck	3	LLUN	pawca	s
+tucket	3	nan	paw	woonasqua
+tulate	3	congra	pos	recapi
+tulated	3	capi	congra	pos
+tumble	3	LLUN	rough-and-	s
+tune	4	LLUN	a	nep	or
+tung	3	LLUN	s	shan
+tuous	6	fa	impe	inces	p	r	tumul
+tural	5	c	cul	gut	na	p
+turally	3	cul	na	struc
+ture	11	a	c	clo	en	fu	i	p	r	s	ul	x
+tured	8	a	c	cul	ges	p	tex	tor	ven
+tures	9	a	c	cul	en	expendi	p	r	s	x
+turing	5	a	adven	c	cap	ges
+turn	6	-	LLUN	down	re	sa	up
+turned	5	LLUN	half-	over	re	up
+turning	3	LLUN	over	re
+tute	3	as	sta	sti
+twell	3	har	sho	si
+twined	3	LLUN	en	inter
+twork	3	duc	foo	ne
+twurst	3	blu	bra	met
+ty's	9	coun	doa	geragh	i	majes	r	socie	t	u
+ty-eight	4	en	nine	r	six
+ty-eighth	3	six	thir	twen
+ty-fifth	4	eigh	en	fif	for
+ty-five	6	eigh	en	fif	nine	r	six
+ty-four	4	eigh	en	fif	r
+ty-nine	6	eigh	fif	nine	r	six	twen
+ty-one	5	eigh	fif	six	thir	twen
+ty-seven	4	fif	r	six	twen
+ty-six	3	en	nine	r
+ty-three	4	eigh	fif	r	twen
+ty-two	4	en	fif	r	six
+ty-year	3	fif	r	twen
+tying	4	-	LLUN	emp	self-pi
+type	7	-	LLUN	arch	o	sub	tele	tin
+types	4	LLUN	stereo	sub	tele
+typical	3	LLUN	a	proto
+tz's	3	bla	ge	lasswi
+ualities	3	d	q	t
+uality	6	individ	q	riti	sens	sex	t
+ualization	3	concept	eq	vis
+ualized	4	individ	rit	sex	vis
+ually	7	d	eq	n	s	sex	t	trans-ling
+uals	6	cas	eq	homosex	individ	man	t
+uant	3	piq	purs	tr
+uard	3	ed	el	g
+uary	3	febr	jan	t
+uary's	3	febr	jan	sanct
+uate	6	eq	evac	exten	grad	l	t
+uated	6	evac	eval	grad	insin	q	t
+uates	4	el	grad	insin	t
+uating	5	eq	eval	grad	n	t
+uation	7	d	eq	evac	in	menstr	t	val
+uations	4	eq	insin	t	val
+ubbed	5	d	l	r	sn	st
+ubbing	3	r	s	sn
+ubble	3	b	r	st
+ubby	3	gr	h	st
+uble	3	ba	o	ol
+ucer	3	b	cha	d
+uck's	3	b	m	tr
+ucked	6	b	d	l	s	t	tr
+ucker	4	m	seers	t	tr
+ucking	7	b	d	l	m	s	t	tr
+uckle	4	b	ch	honeys	kn
+uckled	3	b	ch	kn
+uckles	3	b	ch	kn
+ucks	6	b	d	f	l	sh	tr
+ucky	3	b	kent	l
+uction	4	a	d	s	str
+udding	3	b	sc	th
+uddling	3	bef	h	m
+uddy	3	b	m	r
+uded	6	appla	den	ex	l	o	tr
+udent	3	imp	pr	st
+uder	3	la	o	r
+uders	3	intr	mara	sho
+udes	4	l	n	t	tr
+udge	5	b	gr	j	n	sl
+udged	4	j	n	sm	tr
+uding	3	appla	l	tr
+ue's	4	ag	cimab	purd	q
+uels	4	d	f	parimut	sam
+uence	3	congr	fl	q
+uency	3	constit	fl	q
+uent	4	congr	constit	fl	q
+uents	3	constit	delinq	l
+uers	4	leag	purs	reven	torq
+uest	3	g	q	tr
+uette	5	d'artag	l	o	q	stat
+uffed	4	p	reb	sn	st
+uffer	4	b	d	s	sn
+uffing	4	bl	ch	p	st
+uffle	3	sc	sh	so
+uffled	3	m	r	sh
+uffs	6	b	bl	c	ear-m	foodst	p
+uffy	4	d	fl	p	st
+ugal	3	conj	f	port
+uged	4	centrif	del	ga	go
+ugged	5	b	h	l	r	t
+uggers	3	b	m	sl
+ugging	5	b	dr	h	l	t
+uggled	3	sm	sn	str
+uggling	3	j	sm	str
+ugly	3	LLUN	plug	sn
+uing	7	bl	contin	g	r	resc	s	subd
+uise	4	g	l	o	r
+uish	3	bl	ng	relinq
+uited	3	r	s	unreq
+uities	4	ambig	contin	incongr	iq
+uitous	3	circ	grat	iq
+uits	4	c	q	r	s
+uity	5	ambig	assid	incongr	n	q
+ular	10	b	c	cell	cons	d	g	glomer	gran	pop	tit
+ularity	6	c	cell	g	ins	lob	pop
+ularly	3	c	g	pop
+ulars	3	c	reg	scap
+ulate	7	c	m	ns	p	reg	t	tab
+ulated	8	ab	c	d	ins	m	p	reg	t
+ulates	3	m	post	stip
+ulating	6	c	g	ins	m	manip	und
+ulation	8	b	c	d	g	ins	m	p	t
+ulations	7	ab	c	congrat	m	mod	p	reg
+ulative	3	cum	reg	spec
+ulator	3	ins	reg	spec
+ulators	3	c	ins	manip
+ulatory	5	amb	c	congrat	reg	stim
+uled	5	fo	ha	r	ridic	sched
+ulence	5	corp	flat	truc	turb	vir
+ulent	4	op	truc	turb	vir
+ules	8	b	c	caps	d	gran	j	m	r
+ulets	3	am	epa	riv
+ulging	3	b	div	ind
+ulin	3	glob	ins	tarpa
+uling	5	a	fo	r	ridic	sched
+ulks	3	b	h	s
+ulle	3	bo	ga	t
+ulled	5	d	g	l	p	thick-sk
+ullen	3	m	p	s
+uller	4	d	f	gr	m
+ulling	3	g	m	p
+ulls	6	b	d	l	p	seag	sk
+ully	6	b	d	f	fo	g	l
+ulous	6	b	c	d	edent	p	r
+ulously	5	c	ed	quer	scrup	trem
+ulsion	3	em	p	rev
+ulted	3	a	catap	s
+ulting	3	a	catap	s
+ults	5	a	ad	c	catap	s
+ulus	3	m	pa	reg
+um's	3	medi	sar	sloc
+umbed	3	pl	succ	th
+umber	3	LLUN	l	n
+umbered	3	enc	l	n
+umbing	4	n	pl	succ	th
+umble	6	f	h	j	m	r	t
+umbled	6	f	h	j	m	r	t
+umbling	4	f	m	r	t
+umed	5	cost	f	l	s	vacu
+umen	3	ac	l	r
+ument	4	arg	doc	instr	mon
+umentation	3	arg	doc	instr
+uments	4	arg	doc	instr	mon
+umes	4	cost	f	s	vol
+uming	3	f	s	vacu
+uminous	3	l	leg	n
+ummed	3	dr	h	s
+ummer	3	dr	pl	s
+umming	5	b	g	h	r	s
+ummy	3	d	g	r
+umor	3	h	r	t
+umped	7	b	d	h	j	l	p	st
+umping	6	b	d	j	p	st	th
+umps	7	b	d	j	l	p	st	tr
+umpy	3	j	l	st
+un's	4	calho	g	inj	s
+unch	7	a	b	cr	h	l	m	p
+unched	6	b	cr	h	la	m	p
+unches	4	a	br	h	p
+unching	3	la	m	p
+unction	3	LLUN	f	j
+under	7	LLUN	l	o	over/	s	th	there
+undered	4	bl	flo	la	th
+undering	4	la	o	pl	th
+unders	3	bl	o	sa
+understood	3	-	LLUN	mis
+undity	4	fec	prof	profo	rot
+undry	3	fo	la	s
+undy	3	b	burg	l
+unes	6	comm	d	je	n	r	t
+unge	3	exp	l	lo
+unger	3	h	m	yo
+unging	3	exp	o	pl
+union	7	LLUN	comm	dis	l'	liberty-and-	re	so
+united	3	LLUN	dis	re
+unities	3	LLUN	comm	port
+unity	5	LLUN	dis	imp	mm	opport
+unken	3	r	s	telef
+unks	6	b	ch	j	p	r	sk
+unned	3	machine-g	sh	st
+unning	6	c	g	r	s	sh	st
+unny	4	b	f	g	s
+unsaturated	3	-	LLUN	poly
+unted	6	a	bl	gr	h	o	p
+unter	4	b	bl	co	h
+unters	3	b	co	h
+unting	5	a	gr	growth-st	h	o
+unts	5	a	bl	h	o	st
+uous	8	ard	c	ig	incongr	n	sens	superfl	t
+uously	4	conspic	contempt	n	unambig
+upon	4	-	LLUN	co	here
+upper	3	LLUN	cr	s
+ur's	3	arth	chauffe	ho
+urable	3	c	d	meas
+ural	8	a	e	flex	g	m	proced	r	t
+urance	3	end	la	s
+urate	3	acc	barbit	commens
+uration	3	d	g	t
+urban	3	LLUN	sub	t
+urch	4	b	ch	l	st
+ured	12	c	chauffe	end	fig	in	l	murm	nj	o	s	sulph	t
+urely	4	c	p	premat	s
+urement	3	all	meas	proc
+uren	4	b	d	kristallstrukt	la
+urer	4	ct	d	proc	treas
+ures	9	broch	c	conj	d	fail	fig	rotograv	s	t
+urge	5	LLUN	p	s	sco	spl
+urged	3	LLUN	p	s
+urging	3	LLUN	p	s
+urier	3	co	cout	ma
+uries	7	b	cent	f	j	lala	lux	treas
+urine	3	LLUN	ma	tambo
+uring	9	c	d	fig	inj	l	murm	o	s	t
+urious	7	c	f	inj	lux	pen	sp	us
+urist	3	caricat	j	to
+urists	3	j	p	to
+urities	3	c	imp	mat
+urity	3	c	mat	p
+urled	4	c	f	h	p
+urley	3	b	h	st
+urling	3	c	h	p
+urly	4	b	c	o	s
+urman	3	b	cl	th
+urnal	3	di	jo	noct
+urne	3	b	melbo	t
+urned	5	b	ch	o	sp	t
+urner	3	-b	sojo	t
+urning	4	b	ch	o	t
+urns	6	LLUN	adjo	b	ch	sp	t
+urred	4	bl	c	dem	sp
+urried	3	fl	h	sc
+urrow	3	b	f	m
+urry	3	c	h	l
+urse	5	c	co	n	p	reimb
+ursed	3	b	c	p
+urses	5	c	co	n	p	reimb
+ursing	3	c	co	n
+urst	3	b	god-c	w
+usal	4	ca	o	per	ref
+used	10	LLUN	a	ab	c	chor	f	m	o	re-	un
+user	3	LLUN	o	tannhae
+users	3	LLUN	diff	tro
+uses	15	LLUN	a	b	c	camp	cens	f	geni	l	m	o	r	serie	sin	stat
+ushed	6	amb	g	h	l	p	r
+usher	4	LLUN	cr	g	pencil-p
+ushes	4	b	l	p	r
+ushing	3	l	p	r
+using	7	LLUN	a	c	f	m	o	per
+usion	3	f	l	tr
+usions	4	cont	f	intr	l
+usive	4	ab	eff	l	tr
+usses	3	b	disc	tr
+usted	7	adj	b	d	disg	exha	o	r
+uster	6	b	c	knuckle-d	l	m	o
+usting	6	adj	d	disg	exha	o	r
+ustle	3	b	h	r
+ustling	3	b	h	r
+uston	3	h	ho	thr
+usts	8	adj	b	d	exha	g	l	m	r
+usty	5	d	f	g	l	r
+ut's	3	connectic	o	vonneg
+utable	4	attrib	imm	inscr	p
+utation	3	m	p	sal
+utch	3	cl	d	r
+uted	8	ec	f	l	m	o	p	stit	trib
+utely	4	ac	m	min	sol
+uter	4	comm	comp	ne	o
+utes	8	absol	comm	min	p	parach	ro	t	trib
+uth's	3	kornbl	o	r
+uther	3	dr	l	re
+uties	3	bea	d	dep
+utility	3	LLUN	electric-	f
+uting	7	b	comm	comp	ec	l	o	stit
+ution	6	c	ca	dimin	l	stit	trib
+ution's	3	instit	prosec	revol
+utionary	3	evol	preca	substit
+utions	5	ca	ec	ol	stit	trib
+utive	3	dimin	distrib	ec
+utor	3	c	t	trib
+utors	3	ec	t	trib
+utory	3	contrib	persec	stat
+utte	3	b	go	l
+utted	5	b	g	gl	p	r
+utter	8	LLUN	b	c	fl	g	m	p	sh
+uttered	7	LLUN	g	l	m	sh	sp	un
+uttering	4	LLUN	fl	m	p
+utters	4	c	g	m	sh
+utting	6	b	c	j	p	sh	str
+utton	4	b	d	h	m
+uzzle	3	g	m	p
+uzzled	3	g	n	p
+vable	5	i	ie	irresol	o	obser
+vade	3	LLUN	e	in
+vaded	3	e	in	per
+vades	3	e	in	per
+vading	3	e	in	per
+vail	3	LLUN	a	pre
+vailing	3	a	counter	pre
+vals	3	i	inter	o
+valuable	3	LLUN	in	most-
+vance	4	ad	conni	e	obser
+vances	4	ad	contri	grie	obser
+vans	3	cara	di	e
+vant	3	a	rele	ser
+vary	3	LLUN	cal	sali
+vate	3	aggra	i	inno
+vated	4	ele	ra	reno	ti
+vates	3	aggra	ele	ti
+vating	3	ener	sol	ti
+vation	6	ele	exca	i	o	r	sal
+vations	4	exca	i	inno	ser
+ve's	3	a	i	lo
+veled	5	e	mar	sho	shri	tra
+veling	3	e	gro	tra
+velled	3	le	mar	tra
+velocity	3	-	LLUN	hyper
+vels	5	a	e	mar	o	swi
+vely	3	i	lo	ra
+vement	5	a	achie	invol	mou	o
+vements	4	a	achie	invol	o
+vened	4	con	enli	er	lea
+vening	4	con	e	inter	lea
+venly	3	e	hea	slo
+vens	3	a	e	o
+vent	7	LLUN	ad	co	e	fer	n	sol
+vented	3	LLUN	in	pre
+vention	3	inter	n	pre
+vents	3	LLUN	e	sol
+venture	3	LLUN	ad	bona
+ver's	4	den	i	o	obser
+verage	3	a	e	o
+verb	3	LLUN	ad	pro
+verbal	3	LLUN	non	non-
+verbs	3	LLUN	ad	pro
+vered	5	a	e	i	maneu	o
+vering	5	i	maneu	o	qua	se
+vern	3	LLUN	a	go
+verness	3	cle	florican-in	go
+vers	7	a	e	i	l	o	ser	u
+verse	9	LLUN	ad	i	n	ob	per	re	tra	trans
+versed	3	LLUN	re	tra
+versely	4	ad	n	per	trans
+versing	3	con	re	tra
+version	5	LLUN	a	di	n	sub
+versions	3	LLUN	con	di
+vert	5	a	di	n	o	re
+verted	7	a	di	intro	n	per	re	sub
+verting	4	a	con	di	sub
+very	6	LLUN	a	co	e	i	sil
+vest	5	LLUN	di	har	in	ra
+vested	3	LLUN	har	in
+vests	3	LLUN	har	in
+vian	4	a	jo	peru	vi
+vice	5	LLUN	ad	e	no	ser
+vices	3	LLUN	e	ser
+vied	3	LLUN	en	le
+vier	4	a	bou	gar	vi
+vies	4	LLUN	i	le	mo
+view	5	LLUN	long-	plain	r	re
+viewed	3	LLUN	inter	re
+viewer	3	LLUN	inter	re
+viewers	3	LLUN	inter	re
+viewing	3	LLUN	inter	re
+views	3	LLUN	inter	re
+vile	3	LLUN	gre	ser
+ville	14	barnum	d	deau	e	h	kelsey	knox	l	n	r	rock	s	seago	t
+vin'	3	ever-lo	gi	lea
+vince	3	LLUN	con	pro
+vine	5	LLUN	bo	di	grape	ra
+vines	4	LLUN	bo	grape	ra
+ving	6	a	i	ie	l	o	r
+vings	3	a	i	r
+violent	3	LLUN	non	non-
+violet	3	LLUN	ultra	ultra-
+vious	5	e	en	i	imper	ob
+viously	3	en	ob	pre
+vise	6	LLUN	ad	al	e	impro	super
+vised	4	ad	e	impro	super
+vises	3	ad	impro	super
+visible	3	LLUN	di	in
+vising	4	ad	e	impro	super
+vision	7	LLUN	di	e	en	re-	ro	super
+visions	5	LLUN	di	en	pro	re
+vistic	3	ata	bolshe	relati
+vitation	3	gra	in	le
+vity	3	a	e	i
+vive	3	LLUN	re	sur
+vocation	5	LLUN	a	e	n	pro
+void	3	LLUN	a	de
+voke	3	e	in	pro
+voked	3	e	in	pro
+voking	3	e	image-pro	in
+vors	3	a	fer	survi
+voting	3	LLUN	de	pi
+vous	4	LLUN	ie	ner	rendez
+wage	3	-	LLUN	se
+wagon	3	-	LLUN	d
+waiting	3	LLUN	a	growing-
+walk	3	LLUN	cross	side
+wall	4	-	LLUN	corn	dry
+ward	13	LLUN	a	ay	d	e	greens	k	n	o	r	t	th	up
+ward's	4	LLUN	ed	o	se
+warded	3	a	for	re
+warding	3	a	for	re
+wardly	4	awk	co	in	out
+wards	10	LLUN	a	after	back	d	e	on	to	up	west
+ware	7	LLUN	a	dinner	e	en	hard	hollow
+warm	3	LLUN	luke	s
+warmed	3	LLUN	s	sun-
+warming	3	LLUN	heart-	s
+wart	5	LLUN	s	stal	ste	th
+washed	3	-	LLUN	white
+washing	3	LLUN	brain	window-
+watch	3	-	LLUN	wrist
+water	8	-	LLUN	dish	e	gold	k	lull	r
+waters	3	LLUN	break	head
+watt	5	LLUN	kilo	lumen/	mega	watson-
+wave	5	LLUN	ground	micro	shock	sky
+way's	4	LLUN	broad	hemen	heming
+ways	15	-	LLUN	a	e	h	half	l	r	road	run	ss	sub	thru	walk	y
+wear	4	LLUN	foot	s	under
+weed	3	LLUN	sea	t
+week	4	-	LLUN	mid	news
+weight	6	-	LLUN	body	dead	er	light
+well	12	-	LLUN	black	crom	d	e	max	o	r	s	still	t
+well's	7	LLUN	black	cald	crom	max	o	or
+welled	3	LLUN	je	s
+welling	3	LLUN	d	s
+wells	7	LLUN	at	black	d	ne	s	stair
+wers	4	ans	dra	e	o
+west	6	-	LLUN	lo	mid	ne	th
+western	4	-	LLUN	mid	th
+wheat	4	LLUN	buck	whole	whole-
+where	4	LLUN	e	no	y
+while	5	LLUN	a	mean	worth	worth-
+white	3	-	LLUN	non
+wick	9	LLUN	candle	d	east	fen	las	lodo	sedg	war
+wide	6	-	LLUN	nation	state	world	y
+width	3	LLUN	band	match-
+wife	4	-	LLUN	house	mid
+will	3	-	LLUN	good
+willing	3	LLUN	pseudo-	un
+wind	5	LLUN	down	solar-	whirl	wood
+wine	3	LLUN	brandy	s
+wing	6	-	LLUN	a	e	o	s
+wings	6	LLUN	bat	dra	s	sho	spe
+wins	3	LLUN	gersh	t
+wire	3	-	LLUN	un
+wise	10	-	LLUN	clock	cross	e	other	step	t	th	un
+wish	4	LLUN	death-	e	o
+witch	4	LLUN	mag	s	t
+witched	3	be	s	t
+witching	3	be	s	t
+wless	3	la	vie	windo
+wman	3	la	ne	o
+wmen	3	cre	la	sho
+woman	5	LLUN	all-	congress	council	e
+wood	13	-	LLUN	box	d	dash	g	green	k	l	lake	r	t	y
+woods	3	LLUN	back	d
+word	4	-	LLUN	by	s
+words	3	LLUN	catch	s
+work	10	-	LLUN	ck	d	e	h	handi	l	t	team
+workers	5	LLUN	case	co	co-	wool
+working	4	-	LLUN	d	metal
+works	4	LLUN	fire	t	wax
+world	3	-	LLUN	under
+worm	3	LLUN	earth	hook
+worn	7	LLUN	e	l-	out	s	shop	un
+worth	8	LLUN	beck	ho	il	n	peb	s	went
+worthy	4	LLUN	note	trust	un
+woven	3	LLUN	hand-	inter
+write	3	LLUN	re	under
+writer	5	LLUN	copy	sports	type	under
+writers	5	LLUN	gag	non-	type	under
+writing	6	-	LLUN	e	hand	play	under
+written	5	-	LLUN	e	mis	over
+xing	3	a	e	i
+xton	3	a	bu	se
+y'll	3	somebod	the	toda
+y-day	3	day-b	ever	sixt
+y-eyed	4	dew	dr	sleep	t
+y-faced	3	heav	man	wr
+y-free	3	fanc	frenz	royalt
+y-haired	4	brown	gra	gre	wav
+y-making	3	mone	polic	treat
+y-oriented	3	creativit	l	polic
+y-wide	3	compan	industr	t
+yard	8	-	LLUN	back	church	court	d	e	n
+yards	7	LLUN	back	barn	e	savo	ship	t
+yday	3	ever	he	pa
+year	3	-	LLUN	yester
+years	3	LLUN	light	wander-
+yer's	5	a	bu	e	sal	w
+yers	7	a	bu	fl	m	me	o	w
+yers'	5	a	bu	con	emplo	law
+yin'	5	a	bu	den	l	r
+ying	13	a	bu	d	e	f	fanc	l	n	o	p	r	t	v
+ylene	4	polyeth	polyisobut	polyprop	tol
+yline	3	b	sk	stor
+ylon	4	bab	ce	dip	n
+yman	7	a	clerg	d	l	ntr	prett	w
+ymen	6	boge	clerg	h	hand	la	r
+yness	4	bus	co	dr	sl
+yron	3	b	m	st
+yson	5	a	br	compe	t	tenn
+ythe	3	ed	fors	sm
+yway	3	an	hanover-ce	sk
+yways	3	alle	an	fl
+ywood	3	ha	he	l
+zard	3	bliz	ha	i
+zards	3	bliz	ha	li
+zers	3	free	i	schweit
+zing	8	LLUN	a	analy	do	ee	i	plee-	z
+zone	3	LLUN	ev	o
+zzle	5	da	embe	i	no	u
+zzled	3	a	i	u
+zzlement	3	beda	embe	pu
+zzles	3	da	no	u
+zzling	4	da	embe	i	pu

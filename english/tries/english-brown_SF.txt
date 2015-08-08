@@ -1,0 +1,7442 @@
+000-	5	a-year	foot	man	per-year	ton
+100-	5	200	brick	m	ton	yard
+12-1	3	/2	4	7
+14-1	3	/2	5	NULL
+1800	3	's	-square-foot	NULL
+1890	3	's	NULL	s
+1920	3	's	NULL	s
+1930	3	's	NULL	s
+1940	3	's	NULL	s
+1950	4	's	-1953	NULL	s
+1957	3	-1958	NULL	b
+1960	4	's	-	NULL	s
+1961	3	's	-62	NULL
+200-	3	degrees	m	odd
+400-	4	401	kc	lb	pound
+5-to-	3	1	2	3
+600-	3	degrees	mile	yard
+abandon	4	NULL	ed	ing	ment
+abbe	4	-	NULL	rations	y
+abel	4	's	NULL	l	son
+aber	3	NULL	nathy	ra
+abject	3	NULL	ion	ly
+abla	3	rd	t	ze
+abnormal	3	NULL	ities	ly
+abound	4	NULL	ed	ing	s
+above	3	-	NULL	ground
+above-	4	ground	mentioned	noted	water
+abra	4	NULL	ham	ms	sion-resistant
+abrupt	3	NULL	ly	ness
+absent	6	-minded	NULL	e	ia	ly	mindedly
+absolute	4	NULL	ly	ness	s
+absorb	4	NULL	e	ing	s
+absorbe	3	d	ncy	r
+abst	4	ain	ention	inence	r
+abstract	6	NULL	ed	i	ly	ors	s
+abstracti	3	ng	on	ve
+abstraction	3	NULL	is	s
+absurd	3	NULL	it	ly
+abuse	3	NULL	d	s
+academ	3	eh	i	y
+academic	4	NULL	ally	ianship	s
+acca	3	cia	demia	rdo
+acce	5	de	ler	nt	pt	ss
+accelerat	3	e	i	or
+accent	5	NULL	ed	ing	s	ua
+accentuate	3	NULL	d	s
+accept	5	NULL	a	ed	ing	s
+access	4	NULL	es	i	or
+accident	3	NULL	al	s
+accidental	3	-war	NULL	ly
+acclaim	3	NULL	ed	s
+acco	5	lade	m	rd	st	u
+accom	3	modat	odations	p
+accommodate	3	NULL	d	s
+accompani	3	e	ment	st
+accomplish	4	NULL	e	ing	ment
+accord	5	NULL	ance	ed	i	s
+account	5	NULL	a	ed	ing	s
+accu	4	lturat	mulat	ra	s
+accumulate	3	NULL	d	s
+accus	4	ation	e	ing	tomed
+accuse	3	NULL	d	s
+ache	3	NULL	d	s
+achi	3	ev	lles	ng
+achieve	4	NULL	d	ment	s
+acid	5	-fast	NULL	ity	s	ulous
+acknowledg	3	e	ing	ment
+acknowledge	4	NULL	d	ment	s
+acoustic	3	NULL	al	s
+acquaint	3	NULL	ance	ed
+acqui	4	es	r	siti	tt
+acquiesce	3	NULL	d	nce
+acquire	3	NULL	d	s
+acre	4	-feet	NULL	age	s
+acro	3	ba	polis	ss
+acti	3	n	on	v
+action	3	-	NULL	s
+activ	3	at	e	i
+active	3	NULL	ly	s
+actor	4	's	-crooner	NULL	s
+actua	3	l	rial	te
+actual	3	NULL	it	ly
+adam	6	's	NULL	ant	e	o	s
+adams	3	'	NULL	on
+adapt	4	NULL	a	e	ing
+adapta	3	ble	plex	tion
+addi	4	ct	ng	son	ti
+addict	4	NULL	ed	ion	s
+addition	3	NULL	al	s
+address	3	NULL	e	ing
+addresse	3	d	es	s
+adel	3	e	ia	os
+adhere	4	NULL	d	n	s
+adios-	4	direct	on	rena	trustful
+adjoin	3	ed	ing	s
+adjourn	4	ed	ing	ment	s
+adju	3	d	nct	st
+adjust	6	NULL	able	ed	ing	ment	s
+admi	5	n	r	ssi	t	xed
+administer	4	NULL	ed	ing	s
+admir	3	a	e	ing
+admira	3	bl	l	tion
+admire	4	NULL	d	r	s
+admit	3	NULL	s	t
+admitt	3	ance	ed	ing
+admonish	3	ed	ing	ments
+adol	3	escen	f	phus
+adolescent	3	's	NULL	s
+adopt	4	NULL	ed	i	s
+ador	3	able	e	n
+adore	3	NULL	d	s
+adorn	3	NULL	ed	s
+adri	3	a	en	ft
+adult	4	NULL	er	hood	s
+adulter	4	ated	ers	ous	y
+advance	4	NULL	d	ment	s
+advantage	3	NULL	ous	s
+advent	3	NULL	i	ur
+adventur	3	e	ing	ous
+adventure	3	NULL	rs	s
+adver	3	b	s	tis
+adverb	3	NULL	ial	s
+advers	3	ar	e	ity
+advertise	5	NULL	d	ment	r	s
+advis	4	ab	e	ing	or
+advise	5	NULL	d	ment	r	s
+advisor	3	NULL	s	y
+advocate	3	NULL	d	s
+aerat	3	e	ion	or
+aerate	3	NULL	d	s
+aero	5	b	dynamic	genes	nautic	s
+aerosol	3	NULL	ized	s
+affair	3	NULL	e	s
+affect	5	NULL	ation	ed	i	s
+affection	3	NULL	ate	s
+affi	7	anced	davits	ed	liat	nit	rm	x
+affirm	5	NULL	ati	ed	ing	s
+afford	4	NULL	ed	ing	s
+affront	3	NULL	ed	ing
+afore	3	mentioned	said	thought
+afri	3	ca	ka	que
+after	5	-	NULL	math	noon	ward
+after-	4	duty	effects	hours	school
+afternoon	3	's	NULL	s
+agen	3	c	da	t
+agent	3	's	NULL	s
+aggr	3	avate	e	ieved
+aggravate	3	NULL	d	s
+aggressive	3	NULL	ly	ness
+agitat	3	e	i	or
+agon	4	ale	e	i	y
+agree	6	NULL	abl	d	ing	ment	s
+aide	4	-de-camp	NULL	d	s
+air-	4	c	drifts	frame	to-surface
+airf	3	ield	low	rame
+airl	3	ess	i	ock
+airline	3	's	NULL	s
+airp	3	ark	lane	ort
+airs	3	NULL	peed	trip
+alabama	3	NULL	ns	s
+alarm	4	NULL	ed	i	s
+alas	3	NULL	ka	tor
+alba	3	NULL	core	n
+albright	3	's	NULL	s'
+album	3	NULL	in	s
+alco	4	hol	rn	tt's	ves
+alcohol	3	NULL	i	s
+alec	3	's	NULL	k
+alert	6	NULL	ed	ing	ly	ness	s
+alex	5	's	NULL	and	e	is
+alfred	3	's	NULL	o
+alia	3	NULL	h	s
+alien	4	NULL	at	s	us
+alienate	3	NULL	d	s
+align	4	NULL	ed	ing	ment
+alkali	3	NULL	ne	s
+all-	15	a	co	female	i	knowing	lesbian	married	n	o	p	round	s	t	victorious	w
+all-co	3	llege	nsuming	unty
+all-p	3	ervading	owerful	urpose
+all-w	3	eather	hite	oman
+alla	4	NULL	h	n	y
+alle	6	g	mands	n	rg	viat	y
+alleg	6	ations	e	hen	i	or	r
+alley	3	NULL	s	ways
+alli	5	ance	e	gator	son	terati
+alliance	3	's	NULL	s
+allo	5	ca	ns	t	w	y
+allot	4	NULL	ed	ment	t
+allow	5	NULL	a	ed	ing	s
+allstates	3	'	-zenith	NULL
+allu	3	d	r	si
+alma	4	NULL	den	gest	nac
+alpha	4	-beta-gammas	NULL	bet	retta
+alter	9	-	NULL	ation	cation	ed	ing	man	nat	s
+alternate	3	NULL	d	ly
+alternati	3	ng	on	ve
+alternative	3	NULL	ly	s
+alth	3	aus	ea	o
+alto	3	NULL	gether	n
+alum	3	NULL	inum	n
+alveol	3	ar	i	us
+amateur	3	NULL	ish	s
+amaz	3	e	ing	on
+amaze	3	NULL	d	ment
+ambassador	4	's	-	NULL	s
+ambi	5	ance	dextrous	gu	tio	valen
+amen	4	NULL	able	d	itskii
+amend	4	NULL	ed	ing	ment
+amendment	3	's	NULL	s
+america	4	's	NULL	n	s
+american	5	's	-	NULL	a	s
+american-	3	jewish	negro	trained
+amid	3	NULL	e	st
+amor	6	al	ist	ous	phous	tiz	y
+amount	4	NULL	ed	ing	s
+ampl	3	e	i	y
+amuse	3	NULL	d	ment
+anaconda	3	's	NULL	s
+anal	3	eptic	og	y
+analog	4	ies	ous	ue	y
+analy	3	s	t	z
+analys	3	e	is	t
+analyst	3	's	NULL	s
+analytic	3	NULL	al	ity
+analyz	3	able	e	ing
+analyze	4	NULL	d	r	s
+anatomical	3	NULL	ly	s
+anchor	5	NULL	age	ed	i	s
+anci	3	ent	llary	strodon
+ancient	3	NULL	ly	s
+anders	3	NULL	en	on
+andr	3	e	o	us
+andre	6	NULL	a	i	na	s	w
+anesthetic	3	NULL	ally	s
+angel	7	's	NULL	es	i	l	o	s
+angeles	3	'	-pasadena	NULL
+angelic	3	NULL	a	o
+angl	3	e	i	o
+angle	3	NULL	s	terre
+angli	3	a	can	ng
+anglican	3	NULL	ism	s
+anglo-	4	american	jewish	protestant	saxon
+anim	3	a	i	osity
+animal	4	's	-like	NULL	s
+anion	3	NULL	ic	s
+ankle	3	-deep	NULL	s
+anna	4	NULL	ls	morena	polis
+anne	4	's	NULL	e	x
+anni	4	e	hilat	s	versar
+announce	5	NULL	d	ment	r	s
+announcer	3	's	NULL	s
+annoy	5	NULL	ance	ed	ing	s
+annu	3	al	m	nciated
+anomal	3	ies	ous	y
+answer	5	NULL	able	ed	ing	s
+anta	3	NULL	goni	r
+antagonis	3	ed	m	t
+antagonist	3	NULL	ic	s
+ante	7	-bellum	NULL	ater	cedent	lope	nna	rior
+antenna	3	NULL	e	s
+anth	3	e	o	ropo
+anti	15	-	NULL	b	c	dote	etam	fundamentalist	g	historical	nomians	p	qu	redeposition	s	t
+anti-	16	a	b	c	d	fre	human	in	kennedy	liquor	m	n	organization	p	r	s	trust
+anti-a	5	NULL	ircraft	merican	ssignment	uthoritarian
+anti-c	4	a	hristian	lericalism	o
+anti-p	3	arty	ersonality	olio
+anti-s	4	e	lavery	oviet	ubmarine
+antic	5	NULL	ipat	oagulation	s	us
+anticipat	3	e	i	ory
+anticipate	3	NULL	d	s
+antip	3	athy	honal	odes
+antiqu	3	a	e	it
+antis	4	e	lavery	ocial	ubmarine
+antoine	3	's	NULL	tte
+anton	4	NULL	e	i	y
+apart	3	NULL	heid	ment
+apartment	3	-building	NULL	s
+apollo	3	's	NULL	nian
+apolog	3	etic	i	y
+apologi	4	a	e	st	ze
+apost	3	ates	le	olic
+appa	3	l	nage	r
+appal	3	achian	l	oosas
+appar	3	atus	e	ition
+appe	5	a	llant	nd	stat	ti
+appea	3	l	r	s
+appeal	4	NULL	ed	ing	s
+appear	5	NULL	ance	ed	in	s
+appease	3	NULL	d	ment
+append	3	ages	ed	ix
+appl	4	au	e	i	y
+applaud	3	NULL	ed	ing
+apple	6	-tree	NULL	by	jack	s	ton
+appli	4	ance	ca	e	ques
+applica	3	b	nt	t
+appoint	5	NULL	e	ing	ment	s
+apportion	3	NULL	ed	ment
+appr	3	ais	e	o
+apprais	3	al	e	ing
+appraise	3	NULL	d	rs
+appre	3	cia	hen	ntice
+appreciate	3	NULL	d	s
+appreciati	3	ng	on	ve
+apprentice	3	NULL	d	s
+appro	4	ach	priat	v	ximat
+approach	4	NULL	able	e	ing
+appropriate	5	NULL	d	ly	ness	s
+approv	3	al	e	ing
+approve	3	NULL	d	s
+approximate	3	NULL	d	ly
+aqua	3	-lung	cutie	m
+aqui	3	dneck	nas	sition
+arab	6	NULL	esque	i	le	s	y
+arabian	3	-american	NULL	s
+arcade	3	NULL	d	s
+arch	10	-	NULL	a	bishop	diocese	e	fool	i	type	uleta
+arch-	3	enemy	heretic	opponent
+archa	3	eolog	i	ngel
+archai	3	c	sm	zed
+arche	5	d	nemy	ological	ry	s
+archi	5	medes	ng	pelago	tect	ves
+architect	5	's	NULL	onic	s	ur
+area	5	's	-wide	NULL	s	ways
+aren	3	't	a	ula
+argo	3	n	s	t
+argu	3	e	ing	ment
+argue	3	NULL	d	s
+argument	3	NULL	ation	s
+aris	3	e	ing	t
+arise	3	NULL	n	s
+arlen	3	's	NULL	e
+arm-	3	elevation	levitation	rise
+arma	4	d	geddon	ment	ta
+armi	3	de	es	st
+armo	4	ire	nd	r	ur
+armor	3	NULL	ed	y
+arms	3	-making	NULL	trong
+arnold	3	's	-foster	NULL
+aroma	3	NULL	s	tic
+arous	3	al	e	ing
+arouse	3	NULL	d	s
+arra	5	ck	gon	ign	ng	y
+arrange	5	NULL	d	ment	rs	s
+arrest	4	NULL	ed	ing	s
+arriv	3	al	e	ing
+arrive	3	NULL	d	s
+arro	3	ga	w	yo
+arrow	4	NULL	ed	head	s
+art-	3	filled	historian	shop
+arte	4	's	NULL	mis	r
+arteri	3	al	es	o
+arteriol	3	ar	es	osclerosis
+artery	3	's	-pulmonary	NULL
+artful	3	NULL	ly	ness
+arti	5	c	e	f	ller	s
+artificial	3	NULL	ity	ly
+artist	6	's	-	NULL	ic	ry	s
+asce	3	n	rtain	tic
+ascend	4	NULL	ancy	ed	ing
+ascertain	3	NULL	able	ed
+ascribe	3	NULL	d	s
+ashe	4	n	r	s	ville
+asia	3	NULL	n	tic
+aspir	3	a	e	in
+aspire	3	NULL	d	s
+assa	5	i	m	ssin	ult	y
+assail	4	NULL	ant	ed	ing
+assassin	3	NULL	at	s
+assault	4	NULL	ed	ing	s
+assay	3	NULL	ed	ing
+asse	5	mbl	nt	r	s	t
+assembl	4	age	e	i	y
+assert	4	NULL	ed	i	s
+asserti	3	ng	on	ve
+asses	3	NULL	ment	s
+assess	5	NULL	ed	ing	ment	or
+assessor	3	's	NULL	s
+assi	5	duity	gn	milat	niboi	st
+assign	5	NULL	ed	ing	ment	s
+assist	5	NULL	an	ed	ing	s
+asso	3	ciat	nance	rt
+associate	3	NULL	d	s
+associati	3	ng	on	vely
+association	3	's	NULL	s
+assu	3	aged	m	r
+assum	3	e	ing	ption
+assume	3	NULL	d	s
+assur	3	ance	e	ing
+assure	3	NULL	d	s
+aster	3	i	oid	s
+asto	3	nish	r	und
+astonish	3	ed	ing	ment
+astound	3	NULL	ed	ing
+astr	3	a	i	o
+astra	3	NULL	l	y
+astronom	3	er	ical	y
+athe	4	arn	ist	n	romatous
+athen	3	a	ian	s
+athlete	3	's	NULL	s
+athletic	3	NULL	ism	s
+atlant	3	a	es	i
+atom	5	's	-like	NULL	i	s
+atta	4	NULL	c	in	kapas
+attac	3	h	k	tive
+attach	4	NULL	e	ing	ment
+attack	4	NULL	e	ing	s
+attacker	3	's	NULL	s
+attain	5	NULL	ed	ing	ment	s
+atte	3	mpt	n	st
+attempt	4	NULL	ed	ing	s
+attend	5	NULL	an	ed	ing	s
+attest	3	NULL	ed	ing
+atti	5	c	lio	re	s	tude
+attorney	3	's	NULL	s
+attract	4	NULL	ed	i	s
+attracti	3	ng	on	ve
+attribut	3	able	e	ing
+attribute	3	NULL	d	s
+audi	5	bl	ence	o	t	vi
+audit	5	NULL	ed	i	or	s
+audition	3	NULL	ing	s
+auditor	3	NULL	ium	s
+augment	3	NULL	ed	ing
+august	4	NULL	a	in	us
+augusta	3	's	NULL	n
+aunt	4	's	NULL	ie	s
+aust	3	er	in	r
+authentic	3	NULL	a	ity
+authenticat	3	e	ion	or
+author	4	's	NULL	i	s
+authorit	3	a	ies	y
+authoriz	3	ation	e	ing
+authorize	3	NULL	d	s
+authors	3	'	NULL	hip
+auto	11	-	NULL	biograph	c	fluorescence	graph	loader	m	n	ps	s
+automat	3	e	i	on
+autumn	3	-touched	NULL	al
+avail	4	NULL	ab	ed	ing
+aven	3	g	tin	ue
+aver	5	ag	ell	sion	t	y
+average	3	NULL	d	s
+avert	3	NULL	ed	ing
+avid	3	NULL	ity	ly
+avoid	5	NULL	ance	ed	ing	s
+await	4	NULL	ed	ing	s
+awaken	4	NULL	ed	ing	s
+award	4	NULL	ed	ing	s
+awful	3	NULL	ly	ness
+awkward	3	NULL	ly	ness
+axiom	3	NULL	atic	s
+babe	3	NULL	l	s
+baby	5	's	-	NULL	hood	lon
+bachelor	3	-type	NULL	s
+back	12	-	NULL	b	drop	e	ground	ing	l	pack	s	w	yard
+back-	3	issue	lighted	yard
+backs	3	NULL	ide	t
+badge	4	-toter	NULL	ring	s
+baffle	3	NULL	d	rs
+bagg	3	age	ed	y
+bail	4	NULL	e	i	ly
+bake	5	-o	NULL	d	r	s
+baker	3	NULL	sfield	y
+bala	3	frej	guer	nc
+balance	4	-	NULL	d	s
+bald	6	NULL	ing	ness	rige	win	y
+bale	4	NULL	ful	nciaga	s
+balk	4	an	ed	in	s
+balkan	3	NULL	iz	s
+ball	13	's	-	NULL	a	e	fields	gowns	i	o	player	room	s	yhoo
+balla	3	d	rd	st
+balle	4	d	rina	stre	t
+ballet	3	NULL	omane	s
+balloon	3	NULL	ing	s
+baltimore	3	's	NULL	an
+band	7	NULL	ag	ed	i	o	s	w
+bandage	3	NULL	d	s
+bandi	3	ng	sh	t
+bandit	3	NULL	os	s
+bang	7	-	NULL	ed	i	kok	les	s
+banish	4	NULL	e	ing	ment
+bank	6	NULL	e	head	ing	rupt	s
+banker	3	-editor	NULL	s
+bann	3	e	ing	nnnng
+banquet	3	NULL	ings	s
+banter	3	NULL	ed	ing
+baptism	3	NULL	al	s
+baptist	4	's	NULL	e	s
+barb	6	ar	e	it	our	s	udos
+barbar	3	a	i	ous
+barbe	4	cue	d	ll	r
+barbecue	3	NULL	d	s
+bard	4	NULL	all	ell	s
+bare	5	-	NULL	foot	ly	st
+barg	3	ain	e	ing
+bargain	4	-priced	NULL	ing	s
+barge	3	NULL	n	s
+bari	5	's	NULL	nger	tone	um
+bark	3	NULL	e	ing
+barn	7	-burner's	NULL	a	e	s	umville	yard
+barne	3	s	t	y
+barns	3	NULL	ful	tormer
+baro	4	metric	n	que	receptor
+baron	5	NULL	ess	ial	s	y
+barr	6	NULL	a	e	i	ow	y
+barre	6	-montpelier	NULL	d	l	n	tt
+barrel	3	-	NULL	s
+barri	3	cade	er	ng
+bars	3	NULL	acs	tow
+bart	4	ender	h	le	o
+barth	3	NULL	a	olf
+barto	3	k	l	n
+base	8	-	NULL	ball	d	l	m	r	s
+baseball	4	's	NULL	ight	s
+basel	3	NULL	ess	ine
+bash	4	aw	ful	ir	o's
+basi	5	c	e	l	n	s
+basic	3	NULL	ally	s
+basil	3	's	NULL	eis
+basket	3	NULL	ball	s
+bass	4	NULL	es	i	o
+bassi	3	NULL	net	s
+bast	3	NULL	ard	i
+bastard	3	's	NULL	s
+basti	3	anini	ng	on
+bath	9	NULL	ar-on-walli	e	ing	os	ro	s	tub	yran
+bathe	3	NULL	d	rs
+batt	4	alion	e	ing	l
+batte	3	d	n	r
+batten	3	NULL	kill	s
+batter	6	's	NULL	ed	i	s	y
+battle	6	-	NULL	f	ground	ments	s
+battle-	3	ax	cry	shattered
+baye	3	d	rische	zit
+bayl	3	eefe	or	y
+beach	5	-	NULL	es	head	ing
+bead	5	NULL	ed	le	s	y
+beam	4	NULL	e	ing	s
+bear	7	's	-like	NULL	d	er	i	s
+beard	5	NULL	e	less	own	s
+beast	3	NULL	ies	s
+beat	7	-up	NULL	en	i	nik	rice	s
+beati	4	e	fic	ng	tudes
+beau	7	NULL	c	jolais	lieu	mont	t	x-arts
+beaut	3	eous	i	y
+beauty	3	's	-idiom	NULL
+beca	3	lmed	me	use
+beck	6	NULL	et	man	on	strom	worth
+beckon	4	NULL	ed	ing	s
+become	3	NULL	s	th
+bedr	3	aggled	idden	oom
+bedroom	3	's	NULL	s
+beds	4	NULL	ide	pr	traw
+beef	7	's	-	NULL	ed	ore	steak	y
+beer	3	-	NULL	s
+beet	3	hoven	l	s
+befo	4	gged	h	re	uled
+begg	3	ar	ed	ing
+beggar	4	's	NULL	s	y
+begin	3	NULL	n	s
+beginner	3	's	NULL	s
+beha	4	hn	lf	n	v
+behave	3	NULL	d	s
+behavior	3	NULL	al	s
+bein	3	'	NULL	g
+being	3	NULL	e	s
+bela	6	NULL	boring	fonte	nger	sco	ted
+belch	3	NULL	ed	ing
+belie	3	d	f	v
+believ	3	abl	e	ing
+believe	5	NULL	d	r	s	th
+bell	11	NULL	a	boy	e	hops	i	man	ow	s	w	y
+belle	4	NULL	s	tch	ville
+belli	4	cosity	es	geren	ni
+bellow	5	's	NULL	ed	ing	s
+belo	3	ng	ved	w
+belong	4	NULL	ed	ing	s
+belt	6	-driven	NULL	ed	ing	on	s
+bench	3	NULL	e	marks
+bend	3	NULL	ing	s
+bene	7	ath	dic	f	lux	si	t	volen
+benefit	3	NULL	ed	s
+benet	3	's	NULL	s
+beni	3	g	ngton	ta
+benn	3	ett	ington	y
+bent	4	-arm	NULL	ham	ley
+benze	3	drine	ll	ne
+berg	4	's	amaschi	er	s
+berk	3	el	man	shires
+berli	3	n	oz	tz
+berlin	4	's	-west	NULL	ers
+bern	8	NULL	a	e	hard	i	oulli	stein	z-o-matic
+bernard	3	NULL	ine	o
+berr	4	a	ellez	ies	y
+bert	5	NULL	eros	h	o	rand
+berth	3	NULL	a	elier
+berto	5	's	NULL	ia	n	relli
+beset	3	NULL	s	ting
+besiege	3	NULL	d	rs
+besmirch	3	NULL	ed	ing
+bess	4	NULL	arabia	et	ie
+best	8	's	-	NULL	e	i	ow	sell	ubbled
+best-	8	educated	gaited	hearted	known	looking	preserved	sell	tempered
+beste	3	d	r	s
+bestow	3	NULL	al	ed
+beth	4	NULL	el	lehem	ought
+betray	5	NULL	al	e	ing	s
+bets	3	NULL	ey	y
+bett	3	er	i	y
+better	4	-	NULL	ing	ment
+bevel	4	NULL	ed	ing	s
+bewilder	4	ed	ingly	ment	s
+bible	3	-	NULL	s
+bicycle	3	-auto	NULL	s
+bidd	3	er	i	le
+bien	3	NULL	ni	ville
+big-	7	b	chested	daddy	game	l	s	t
+bigot	3	ed	ry	s
+bill	8	's	NULL	board	e	i	ow	s	y
+billi	5	ard	e	ken	ng	on
+bind	5	NULL	er	ing	le	s
+bing	3	NULL	e	les
+bio-	4	NULL	assay	dynamic	medic
+biograph	3	er	ical	y
+birch	3	-paneled	NULL	es
+bird	8	's	-brain	NULL	bath	ie	like	s	w
+birdie	3	NULL	d	s
+birth	8	-	NULL	control	day	ed	place	right	s
+bishop	3	NULL	ry	s
+bishops	3	'	NULL	gate
+bite	3	NULL	r	s
+bitter	5	NULL	est	ly	ness	s
+black	13	's	-	NULL	b	e	feet	ing	jack	m	ness	out	s	well
+black-	7	and-	b	c	eyed	haired	market	tipped
+black-b	3	alled	earded	ody
+blackb	3	erry	irds	oard
+blacke	3	d	n	st
+blacks	3	NULL	mith	tone
+blackwell	3	's	NULL	s
+blan	4	c	d	k	ton
+blanch	3	ard	e	ing
+blanche	3	's	NULL	d
+bland	3	NULL	ly	ness
+blank	3	NULL	et	s
+blanket	3	NULL	ed	s
+blas	3	ingame	phem	t
+blasphem	4	ed	ies	ous	y
+blast	5	NULL	down	ed	ing	s
+blaz	3	e	ing	on
+blaze	3	NULL	d	r
+blea	4	ch	k	ry	t
+bleat	3	NULL	ing	s
+blee	3	d	ker	ps
+blend	4	NULL	ed	ing	s
+bless	3	NULL	ed	ing
+blind	8	-folded	NULL	ed	folded	ing	ly	ness	s
+blink	3	NULL	e	ing
+blis	3	h's	s	ter
+blister	3	NULL	ed	s
+bloc	3	NULL	h	k
+block	8	-buster	NULL	a	ed	house	ing	s	y
+blonde	4	's	-h	NULL	s
+bloo	3	d	m	ps
+blood	9	-	NULL	ed	hounds	iest	l	root	s	y
+blood-	7	bought	chilling	f	kinship	lust	s	thirsty
+blood-s	3	oaked	pecked	tained
+bloods	4	NULL	h	pots	t
+bloom	5	NULL	ed	field	ing	s
+blossom	3	NULL	ed	s
+blot	4	-	NULL	s	t
+blow	7	NULL	er	fish	ing	n	s	up
+blue	6	-	NULL	b	fish	print	s
+blue-	6	black	collar	draped	eye	green	uniformed
+blueb	4	err	ird	o	ush
+bluff	3	NULL	ing	s
+blum	3	NULL	berg	e
+blunder	4	NULL	ed	ings	s
+blunt	5	NULL	e	ly	ness	s
+blur	3	NULL	r	ted
+blush	3	NULL	e	ing
+bluster	3	NULL	ed	y
+board	5	's	NULL	e	ing	s
+boarding	3	-home	NULL	houses
+boast	5	NULL	ed	fully	ing	s
+boat	10	's	-yard	NULL	e	houses	ing	load	m	s	yards
+boats	3	NULL	men	wain
+bobb	5	ed	i	les	sey	y
+bobbin	3	-to-cone	g	s
+bodi	4	ce	e	ly	n
+body	6	's	-	NULL	build	guard	weight
+bogey	5	-symbol	NULL	ed	men	s
+bogg	3	ed	led	s
+boil	4	NULL	e	ing	s
+boiler	3	-burner	NULL	s
+bois	5	NULL	briant	massif	soneault	terous
+bold	4	NULL	e	ly	ness
+boli	3	ngbroke	ou	v
+bolo	3	NULL	gna	vens
+bolster	3	NULL	ed	ing
+bolt	6	-action	NULL	ed	ing	s	zmann
+bomb	8	-proof	NULL	a	e	ing	proof	s	us
+bomba	3	rd	stic	y
+bomber	3	's	NULL	s
+bona	4	NULL	nza	parte	venture
+bond	5	NULL	age	ed	i	s
+bone	4	-	NULL	nfant	s
+bonh	3	am	eur	o
+bonn	5	's	NULL	e	ie	or
+bonne	3	NULL	r	t
+boob	3	ify	oo	y
+book	10	's	-	NULL	case	e	i	keeping	l	s	walter
+book-	4	burning	lined	review	selection
+booki	3	es	ng	sh
+books	3	NULL	eller	hel
+boom	5	-boom-boom	NULL	e	ing	town
+boon	3	NULL	e	ton
+boost	4	NULL	e	ing	s
+boot	7	-wearer	NULL	ed	h	le	s	y
+booth	3	NULL	by	s
+bootle	3	's	NULL	gg
+bora	3	k	tes	x
+borde	4	au	l	n	r
+border	5	NULL	ed	ing	l	s
+bore	4	NULL	d	r	s
+born	3	NULL	e	holm
+borrow	4	NULL	e	ing	s
+boss	4	's	NULL	e	man
+boston	3	's	NULL	ian
+bother	4	NULL	ed	ing	s
+bott	4	ega	ineau	l	om
+bottle	4	NULL	d	neck	s
+bottom	4	-living	NULL	less	s
+bough	3	NULL	s	t
+boul	3	der	e	le
+boun	4	NULL	c	d	ty
+bounc	3	e	ing	y
+bound	6	NULL	ar	ed	ing	less	s
+bour	4	bon	cier	g	n
+bout	5	-de-souffle	NULL	flower	on	s
+bowe	4	d	ls	r	s
+boxe	4	d	ll	r	s
+boy-	4	furiendo	lady	m	name
+brac	4	e	hii	ing	k
+brace	5	's	NULL	d	let	s
+brad	7	NULL	bury's	dock-against-the-indiansjj	en	ford	ley	y
+bragg	4	NULL	adocio	ed	ing
+brahm	3	's	aputra	s
+brai	3	d	l	n
+braid	3	ed	ing	s
+brain	7	's	-wracking	NULL	ards	s	washing	y
+bran	5	NULL	ch	d	non	um
+branch	4	NULL	e	ing	ville
+brand	8	-new	NULL	e	i	on	s	t	y
+brande	4	d	is	l	nburg
+braque	3	's	NULL	s
+brass	7	-bound	NULL	bound's	i	nose	town	y
+brav	5	ado	e	ing	o	ura
+brave	5	NULL	d	ly	r	s
+braves	3	'	NULL	t
+braz	3	en	i	os
+brazen	3	NULL	ly	ness
+brea	5	ch	d	k	st	th
+break	12	-	NULL	a	down	er	fast	in	off	s	through	up	water
+break-	4	away	even	neck	through
+breaka	3	bles	ge	way
+breakfast	4	-table	NULL	ed	s
+breast	4	NULL	ed	s	works
+breath	8	-taking	NULL	e	ing	less	s	taking	y
+breathe	4	NULL	d	r	s
+bree	3	ches	d	z
+breed	4	's	NULL	ing	s
+brest	3	-silevniov	NULL	owe
+bret	3	hren	on	t
+brev	3	ard	e	ity
+brew	3	NULL	e	ing
+brewer	3	's	s	y
+bribe	4	NULL	d	rs	s
+bric	3	-a-brac	e	k
+brick	5	NULL	er	lay	s	top
+brid	4	al	e	ge	le
+bride	6	's	-gift	NULL	groom	s	well
+bridge	7	NULL	d-t	head	port	s	t	w
+brief	7	NULL	case	e	f	ing	ly	s
+briefe	3	d	r	st
+brig	4	NULL	a	gs	h
+brigad	3	e	ier	oon
+bright	6	's	-	NULL	e	ly	ness
+bright-	3	eyed	green	looking
+brighte	3	n	r	st
+brim	3	NULL	ful	med
+brin	4	d	g	k	sley
+bring	3	NULL	ing	s
+brink	3	NULL	ley	manship
+bris	3	bane	k	t
+brisk	4	NULL	er	ly	ness
+bristle	3	NULL	d	s
+brit	5	a	ches	ish	on	t
+british	3	-	NULL	er
+britt	3	any	en	le
+broad	7	-	NULL	cast	e	ly	side	way
+broad-	3	brimmed	nibbed	scale
+broadcast	4	NULL	ers	ing	s
+broade	3	n	r	st
+broaden	4	NULL	ed	ing	s
+broc	4	ade	coli	hure	kl
+brod	3	NULL	beck	ie
+broke	3	NULL	n	r
+broken	3	-	NULL	ly
+broken-	3	backed	down	nosed
+broker	3	NULL	age	s
+brom	4	field's	ides	ley	phenol
+bron	4	c	islaw	x	z
+bronc	4	NULL	h	os	s
+bronchi	3	NULL	al	ol
+bronchiol	3	ar	e	itis
+broo	3	d	k	m
+brood	4	NULL	ing	s	y
+brook	6	NULL	e	field	lyn	m	s
+brooke	3	NULL	d	n
+brother	6	's	-in-law	NULL	hood	ly	s
+brow	4	NULL	beaten	n	s
+brown	8	's	-	NULL	apopolus	e	i	low	y
+brown-	3	black	edged	paper
+browning	3	's	NULL	s
+bruise	3	NULL	d	s
+brumidi	3	's	-costaggini	NULL
+brun	4	ches	ettes	o	t
+brus	3	h	quely	sels
+brush	9	-off	NULL	cut	e	fire	ing	like	work	y
+brutal	3	NULL	i	ly
+bryan	3	's	NULL	t
+bubbl	3	e	ing	y
+bubble	3	NULL	d	s
+buch	3	a	enwald	heister
+buck	13	's	NULL	aroos	board	e	h	ing	l	man	ra	s	wheat	y
+bucke	3	d	nham	t
+bucket	3	-shop	NULL	s
+buckh	3	annon	ead	orn's
+buckle	5	-on	NULL	d	s	y
+bucks	3	NULL	hot	kin
+buckskin	3	's	NULL	s
+budd	5	NULL	ed	h	i	y
+budget	6	-	NULL	ary	ed	ing	s
+budget-	3	altering	making	wise
+buff	5	NULL	alo	e	oon	s
+buffet	4	NULL	ed	ings	s
+bugg	3	e	i	y
+build	6	-	NULL	er	in	s	up
+builder	5	's	-dealer	/active	NULL	s
+building	3	's	NULL	s
+built	3	-	NULL	in
+built-	3	detergent	in	soap
+bulb	3	NULL	a	s
+bulg	3	aria	e	ing
+bulk	5	NULL	ed	head	s	y
+bull	12	's-eye	-	NULL	doze	et	finch	hide	i	och	s	whackers	y
+bull-	4	like	necked	roaring	sessions
+bullet	4	-riddled	NULL	in	s
+bulletin	3	'd	NULL	s
+bully	3	NULL	boys	ing
+bump	5	NULL	e	in	s	tious
+bunch	3	NULL	a	ed
+bund	3	estag	le	y
+bundle	3	NULL	d	s
+bunk	4	NULL	er	mate	s
+buoy	3	an	ed	s
+burden	3	NULL	ed	s
+bureau	3	NULL	cra	s
+bureaucrat	3	NULL	i	s
+burg	5	e	h	lar	omaster's	und
+burge	3	on	r	ss
+burgh	3	ardt	er	ley
+burglar	4	NULL	proof	s	y
+buri	3	NULL	al	e
+burke	5	's	-rostagno	NULL	s	tte
+burl	4	NULL	e	ing	y
+burle	3	NULL	s	y
+burling	3	ame	ham	ton
+burman	3	's	NULL	s
+burn	6	NULL	e	ham	i	s	t
+burne	5	NULL	d	rs	s	t
+burns	3	's	NULL	ide
+burnside	3	's	NULL	s
+burr	5	's	-headed	NULL	o	s
+burrow	4	NULL	ed	ing	s
+burst	3	NULL	ing	s
+bush	4	NULL	e	nell	whack
+bushel	3	NULL	l	s
+busi	3	e	ly	ness
+busie	3	d	r	st
+business	4	-	NULL	es	m
+bust	6	NULL	ard	e	in'	l	s
+busy	3	-work	NULL	ness
+butcher	3	NULL	ed	y
+butt	6	NULL	e	ing	o	r	s
+butte	3	NULL	d	r
+butter	5	NULL	f	nut	wyn	y
+button	6	's	-down	NULL	ed	holes	s
+buyer	3	's	NULL	s
+buzz	5	's	-buzz-buzz	NULL	e	ing
+by-pass	3	NULL	e	ing
+byron	3	's	NULL	i
+cabin	3	NULL	et	s
+cabinet	3	NULL	makers	s
+cable	3	NULL	d	s
+cade	3	n	si	t
+cafe	3	NULL	s	teria
+cage	4	NULL	d	s	y
+cake	3	NULL	d	s
+calamit	3	ies	ous	y
+calculat	3	e	i	ors
+calf	3	's-foot	NULL	skin
+cali	8	b	c	f	gula	mala	nda	p	sthenics
+california	3	's	NULL	ns
+call	8	-backs	NULL	a	e	i	ous	s	uses
+calla	3	ble	n	s
+callous	4	NULL	ed	ly	ness
+calm	5	NULL	e	ing	ly	ness
+calme	3	d	r	st
+calori	3	c	e	met
+calorie	3	-heavy	NULL	s
+calv	3	ary	es	in
+calvin	3	NULL	g	ist
+came	4	NULL	l	o	r
+camel	4	NULL	lias	ot	s
+cameo	3	-like	NULL	s
+camera	4	's	NULL	men	s
+camp	13	's	-made	NULL	a	bell	e	fire	ground	i	mate	o	s	us
+campaign	5	's	NULL	e	ing	s
+campaigne	3	NULL	d	rs
+cana	4	d	l	ndaigua	veral's
+canadian	3	's	NULL	s
+cancel	5	NULL	ed	ing	l	s
+cancell	3	ation	ed	ing
+cancer	3	-ridden	NULL	s
+cand	4	i	le	o	y
+candid	4	NULL	a	e	ly
+candidate	3	-picking	NULL	s
+candle	4	NULL	light	s	wick
+cane	4	's	NULL	li	strani
+cann	4	e	i	o	y
+cannibal	3	NULL	istic	s
+cano	3	e	n	py
+canon	3	NULL	i	s
+cant	6	NULL	aloupe	e	i	les	o
+cante	4	d	en	loube	r
+canter	3	NULL	bury	ed
+canti	3	cle	levers	ng
+canto	3	NULL	n	r
+canvas	3	NULL	es	s
+canvass	3	NULL	e	ing
+capacit	4	ance	ies	or	y
+cape	6	NULL	k's	ll	r	s	t
+caper	4	NULL	cailzie	ing	s
+capi	3	llary	strano	t
+capit	3	a	ol	ulat
+capital	5	's	-gains	NULL	i	s
+capitalist	4	-democratic	NULL	ic	s
+capo	3	NULL	ne	te
+caps	4	NULL	icum	tan	ule
+capt	5	NULL	ain	i	ors	ur
+captain	4	's	NULL	cy	s
+captiv	3	at	e	ity
+capture	3	NULL	d	s
+cara	6	bao	cas	mel	usius	va	way
+caravan	3	's	NULL	s
+carbo	5	hydrate	loy	n	rundum	xy
+carbon	7	-	NULL	ates	dale	es	s	yl
+card	5	NULL	amom	board	i	s
+cardi	3	ac	nal	o
+care	10	-free	NULL	d	e	f	less	s	taker	worn	y
+career	4	-bound	NULL	ism	s
+careful	3	NULL	ly	ness
+careless	3	NULL	ly	ness
+caress	3	NULL	e	ing
+cari	3	bbean	catur	ng
+carl	8	's	NULL	a	eton	isle	o	son	yle's
+carleton	3	's	NULL	ian
+carload	3	NULL	ing	s
+carm	4	ack	e	i	ody
+carn	4	a	e	ival	ochan
+carne	4	NULL	g	igie	y
+caro	4	b	l	n	using
+carol	4	NULL	i	s	yn
+carolin	4	a	e	gian	ians
+carolina	3	's	NULL	s
+carp	4	athians	e	ing	ort
+carpent	3	er	ier	ry
+carpenter	3	's	NULL	s
+carpet	4	NULL	ed	ing	s
+carr	7	NULL	a	e	i	o	uthers	y
+carre	4	NULL	er	l	on
+carriage	3	-step	NULL	s
+carrie	4	NULL	d	r	s
+carrier	3	-	NULL	s
+carro	3	ll	t	zza
+carry	3	NULL	ing	over
+cars	3	NULL	on	ten
+cart	9	NULL	e	hag	ilage	o	ridge	s	wheels	y
+carte	5	NULL	d	ls	r	sian
+cartoon	3	NULL	ist	s
+carv	3	alho	e	ing
+carve	5	NULL	d	n	r	y
+casa	3	ls	nova	ssa
+cascade	3	NULL	d	s
+case	9	's	-	NULL	book	d	in	s	work	y
+case-	3	by-case	h	to-case
+cash	3	NULL	e	mere
+cask	3	NULL	ets	s
+cassi	3	opeia	te	us
+cast	9	-iron	NULL	ane	e	i	le	or	ro	s
+casti	3	gat	llo	ng
+castro	5	's	-held	NULL	ism	s
+casual	4	NULL	ly	s	t
+cata	5	clysmic	l	pult	stroph	tonia
+catalog	3	NULL	s	ue
+catalogue	3	NULL	d	s
+catapult	3	ed	ing	s
+catch	6	NULL	e	ing	up	words	y
+catche	3	e	r	s
+catcher	3	's	NULL	s
+cate	4	's	ch	gor	r
+categori	3	cal	es	z
+cater	4	NULL	e	ing	pillar
+cath	4	arsis	e	o	y
+cathe	3	dral	r	ter
+catholic	3	NULL	ism	s
+cats	3	NULL	kill	up
+catt	3	NULL	aloe	le
+cattle	3	-car	NULL	men
+caucus	3	NULL	es	ing
+caus	3	a	e	ing
+cause	4	-and-effect	NULL	d	s
+caution	3	NULL	ed	s
+caval	4	cades	iere	linis	ry
+cave	7	-	NULL	at	d	men	rn	s
+cavern	3	NULL	ous	s
+cavi	3	ar	n	t
+cavort	3	NULL	ed	ing
+cease	5	-fire	NULL	d	less	s
+cele	3	b	r	stial
+celebrate	3	NULL	d	s
+cell	7	-free	NULL	ar	ist	ophane	s	ul
+cement	3	-and-glass	NULL	ed
+censor	3	ed	ial	s
+censure	3	NULL	d	s
+cent	6	NULL	e	i	r	s	u
+center	7	's	-	NULL	ed	ing	line	s
+centimeter	3	-	NULL	s
+centr	3	al	e	i
+central	6	's	-city	NULL	e	i	ly
+centrali	3	a	ty	z
+centraliz	3	ation	ed	ing
+centri	3	c	fug	st
+centrifug	3	a	e	ing
+cere	3	al	b	mon
+ceremoni	3	al	es	ously
+certain	3	NULL	ly	ty
+certi	3	f	orari	tudes
+cerv	3	NULL	antes	e
+cezanne	3	's	NULL	s
+chaf	3	e	f	ing
+chai	4	koff	n	r	se
+chain	4	-reaction	NULL	like	s
+chair	4	NULL	ing	m	s
+chal	5	idale	k	leng	mers	on-sur-saone
+chalk	4	-white	NULL	ed	y
+challenge	4	NULL	d	r	s
+cham	4	b	fer	ois	p
+chamber	5	NULL	ed	lain	maid	s
+champ	5	NULL	a	ion	lain	s
+chan	6	ce	d	g	n	sons	t
+chance	5	NULL	d	l	r	s
+change	5	-over	NULL	able	d	s
+channel	4	-type	NULL	ed	s
+chant	4	NULL	e	i	s
+chante	3	d	r	y
+chanti	3	er	lly	ng
+chap	7	NULL	e	l	man	pell	s	ter
+chapel	4	-like	NULL	les	s
+chapter	3	's	NULL	s
+char	11	NULL	acter	coal	don	g	i	l	m	nock	red	t
+character	4	-education	NULL	i	s
+characteristic	3	NULL	ally	s
+characteriz	3	ation	e	ing
+characterize	3	NULL	d	s
+charcoal	3	-broiled	NULL	ed
+charge	5	-	NULL	able	d	s
+chari	3	ot	sma	t
+charit	3	abl	ies	y
+charl	4	a	e	ie	otte
+charles	3	'	NULL	ton
+charlotte	3	's	NULL	sville
+charm	4	NULL	e	ing	s
+chart	6	NULL	aceos	e	i	r	s
+charter	3	NULL	ed	s
+chas	5	e	ing	m	sis	ti
+chase	3	NULL	d	s
+chat	4	NULL	eau	ham	t
+chatt	4	anooga	e	ing	y
+chatte	4	NULL	d	ls	r
+chatter	3	NULL	ed	ing
+chau	5	cer	ffeur	lmoogra	ncey	tauqua
+chauffeur	4	's	-driven	NULL	ed
+cheap	4	-money	NULL	er	ly
+cheat	3	NULL	ed	ing
+check	8	-out	NULL	book	e	i	list	s	up
+chee	4	k	r	se	ta
+cheek	3	NULL	bone	s
+cheer	7	NULL	e	ful	ing	leaders	s	y
+cheerful	3	NULL	ly	ness
+chemical	3	NULL	ly	s
+chemis	3	che	e	t
+chemist	3	's	r	s
+chen	4	NULL	g	nault's	oweth
+cher	7	ish	kasov	nishev	okee	r	ubim	well
+cherish	3	NULL	ed	ing
+ches	6	NULL	apeake	hire	ly	s	t
+chest	5	-back-	NULL	er	nut	s
+chev	3	a	rolet	y
+chew	3	NULL	ed	ing
+chic	4	NULL	a	k	o
+chicago	4	's	-style	NULL	ans
+chick	4	NULL	asaws	en	s
+chie	3	f	n	ti
+chief	6	's	NULL	dom	ly	s	tain
+chil	5	blains	d	e	i	l
+child	9	's	-	NULL	birth	e	hood	ish	l	ren
+child-	4	bearing	cloud	face	rearing
+childish	3	NULL	ly	ness
+chill	5	NULL	ed	i	s	y
+chim	3	e	iques	ney
+chin	9	-up	NULL	a	es	g	ked	less	ning	s
+china	3	's	NULL	man
+chip	4	-o's	NULL	p	s
+chippe	3	d	ndale	r
+chisel	3	NULL	ed	s
+chiv	3	alr	e	ying
+chlor	4	i	othiazide	promazine	tetracycline
+choc	3	k	olate	taw
+chole	4	NULL	lithiasis	ra	sterol
+choos	3	e	ing	y
+chop	4	NULL	in	p	s
+chopp	3	e	ing	y
+chor	6	al	d	e	in	tl	us
+chore	3	NULL	ograph	s
+choreograph	3	e	ic	y
+chou	3	NULL	ise	sin'
+chris	3	NULL	sake	t
+christ	9	's	-like	NULL	en	i	mas	opher	sake	y
+christen	3	dom	ed	ing
+christi	4	NULL	an	e	ne
+christian	4	NULL	a	i	s
+christians	3	'	NULL	en
+christmas	3	-season	NULL	time
+chrom	4	at	e	i	spun
+chronic	3	NULL	ally	le
+chronicle	5	's	NULL	d	rs	s
+chuck	3	-a-luck	NULL	le
+chuckle	3	NULL	d	s
+chum	3	NULL	miness	p
+chunk	3	NULL	s	y
+church	9	's	-state	NULL	es	go	ill	ly	men	yard
+churchill	3	's	NULL	ian
+churn	3	ed	ing	s
+cicero	3	's	NULL	nian
+cigar	3	NULL	et	s
+cinema	3	NULL	ctor	tic
+circ	4	a	l	onscription	u
+circle	3	NULL	d	s
+circu	4	it	la	m	s
+circuit	4	NULL	ous	ry	s
+circulat	3	e	i	ory
+circum	5	cision	ference	locution	polar	s
+circums	3	cri	pect	tance
+circumspect	3	NULL	ion	ly
+cite	3	NULL	d	s
+citi	3	es	ng	zen
+citizen	4	's	NULL	ry	s
+citizens	3	'	NULL	hip
+citr	3	ated	o	us
+city	6	's	-	NULL	bred	scapes	wide
+city-	5	bred	dweller	owned	trading	wide
+civil	3	-rights	NULL	i
+civili	3	an	ty	z
+civilian	3	-groups	NULL	s
+civiliz	3	ation	ed	ing
+civilization	3	NULL	al	s
+claim	5	NULL	ant	ed	ing	s
+clair	4	NULL	audiently	e	voyan
+clam	6	NULL	ber	my	or	p	s
+clamor	5	NULL	ed	ing	ous	s
+clamp	3	ed	ing	s
+clan	5	NULL	destine	g	king	nish
+clap	3	NULL	p	s
+clar	4	a	e	i	k
+clare	3	NULL	nce	t
+clari	3	f	net	ty
+clark	3	's	NULL	e
+clas	3	h	p	s
+class	8	'	-	NULL	e	i	less	mate	room
+classi	3	c	est	f
+classic	4	NULL	al	ist	s
+classification	3	-angle	NULL	s
+clatter	4	NULL	ed	ing	y
+claus	3	NULL	e	trophobia
+claw	4	NULL	ed	ing	s
+clay	4	-mining	NULL	s	ton
+clea	4	n	r	t	v
+clean	8	-	NULL	e	ing	ly	s	th	ups
+clean-	3	shaven	top	up
+cleans	3	NULL	ed	ing
+clear	9	-	NULL	ance	e	ing	ly	ness	s	water
+clemen	3	c	s	t
+clement	3	NULL	e	s
+cler	4	fayt	gy	ic	k
+cleric	3	NULL	al	is
+clerk	4	's	NULL	ing	s
+clever	3	NULL	ly	ness
+click	4	NULL	ed	ing	s
+client	5	's	-service	NULL	ele	s
+cliff	4	NULL	hanging	ord	s
+clim	3	a	b	es
+clima	3	ctic	te	x
+climb	4	NULL	ed	ing	s
+clin	5	ch	g	ic	ked	t
+clinche	3	d	r	s
+cling	3	NULL	ing	s
+clinic	4	NULL	al	o-pathologic	s
+clip	3	NULL	p	s
+clobber	3	NULL	ed	s
+clock	5	NULL	ed	ing	s	w
+clod	4	NULL	dishness	hoppers	s
+clos	4	e	ing	tridium	ure
+close	9	-	NULL	d	ly	ness	r	s	t	up
+closet	3	NULL	ed	s
+clot	4	NULL	h	ted	ure
+cloth	5	-of-gold	NULL	bound	e	i
+clothe	3	NULL	d	s
+clothes	4	NULL	brush	horse	line
+cloud	7	NULL	burst	croft	ed	less	s	y
+clove	3	NULL	r	s
+clown	4	's	NULL	ing	s
+club	6	's	NULL	bed	house	rooms	s
+cluck	4	NULL	ed	ing	s
+cluster	4	NULL	ed	ing	s
+clutch	3	NULL	e	ing
+co-o	3	ccurring	p	rdinat
+co-op	4	NULL	erat	s	t
+co-operate	3	NULL	d	s
+co-operati	3	ng	on	ve
+co-ordinat	3	e	i	or
+co-ordinate	3	NULL	d	s
+coach	6	's	NULL	es	ing	m	work
+coal	5	-	NULL	esce	ition	s
+coal-	3	black	like	railroad
+coalesce	4	NULL	d	nce	s
+coarse	3	NULL	ly	ne
+coast	6	-to-coast	NULL	al	ed	line	s
+coat	5	NULL	e	ing	s	tails
+coax	3	NULL	ed	i
+cobb	3	's	NULL	le
+coca	3	-cola	ine	o
+cock	8	NULL	atoo	e	ier	pit	roaches	tail	y
+coco	5	NULL	a	nut	on	palm
+coconut	3	-containing	NULL	s
+code	4	NULL	d	s	termines
+coed	3	NULL	itors	s
+coffee	4	-house	NULL	cup	pot
+cohe	3	n	re	si
+cohesive	3	NULL	ly	ness
+coil	4	NULL	ed	ing	s
+coin	4	NULL	cid	ed	s
+coincide	4	NULL	d	n	s
+cold	6	-	NULL	e	ly	ness	s
+colde	3	NULL	r	st
+cole	8	's	NULL	e	fax	man	ridge	s	tta
+coll	6	a	e	i	o	usion	yer
+colla	5	borat	ge	ps	r	t
+collaborat	3	e	ion	or
+collage	3	NULL	n	s
+collapse	3	NULL	d	s
+collar	5	-to-collar	NULL	bone	ed	s
+colle	5	ague	ct	g	s	tt
+collect	5	NULL	ed	i	or	s
+collecti	4	ble	ng	on	ve
+collective	3	-bargaining	NULL	ly
+collector	3	's	NULL	s
+college	4	's	-	NULL	s
+colli	5	ded	e	mated	n	sion
+collins	3	'	NULL	ville
+collo	4	idal	naded	qu	sal
+colo	7	NULL	gne	mbia	n	r	ss	ur
+colon	6	NULL	el	i	na	us	y
+colonel	3	's	NULL	s
+coloni	4	al	es	sts	zed
+colonial	3	NULL	is	s
+color	8	-tv	NULL	a	ed	ful	in	less	s
+colora	3	do	ma	t
+coloss	4	al	eum	ians	us
+colt	4	's	NULL	ish	s
+column	4	-shaped	NULL	ist	s
+comb	7	NULL	at	e	in	o	s	usti
+combat	5	-	NULL	ant	ing	ted
+combe	3	NULL	d	llack
+combin	4	a	e	g	ing
+combine	3	NULL	d	s
+come	9	-uppance	NULL	back	d	ly	n	r	s	t
+comedie	3	's	NULL	s
+comet	5	's-tail	NULL	ary	h	s
+comfort	5	NULL	abl	ed	ing	s
+comi	4	c	n	que	skey
+comic	4	NULL	ally	o-romantico	s
+comin	4	'	NULL	form	g
+comm	5	a	e	i	o	u
+comma	3	NULL	nd	wnded
+command	8	's	NULL	ant	e	ing	ment	o	s
+commande	3	d	er	r
+commander	3	-in-chief	NULL	s
+comme	3	morat	n	rc
+commemorate	3	NULL	d	s
+commen	4	c	d	surate	t
+commence	4	NULL	d	ment	s
+commend	5	NULL	a	ed	ing	s
+comment	5	NULL	a	ed	ing	s
+commerc	3	ants	e	ial
+commercial	4	NULL	i	ly	s
+commi	4	es	ng	s	t
+commission	5	's	-controlled	NULL	e	s
+commissioner	3	's	NULL	s
+commit	4	NULL	ment	s	t
+committ	3	e	ing	ment
+committee	5	's	NULL	m	s	woman
+commo	3	d	n	tion
+common	8	-sense	NULL	e	ly	ness	place	s	weal
+commun	3	al	e	i
+communi	6	cat	on	ques	s	t	ze
+communicat	3	e	i	or
+communicati	3	ng	on	ve
+communication	3	NULL	al	s
+communicator	3	's	NULL	s
+communis	3	m	n	t
+communist	4	-	NULL	ic	s
+communist-	3	inspired	led	type
+commut	3	at	e	ing
+commute	4	NULL	d	r	s
+comp	9	a	e	il	l	o	r	son	troller	u
+compa	6	ct	gnie	n	r	ss	t
+compact	3	NULL	ly	s
+companion	4	NULL	able	s	way
+company	3	's	-	NULL
+compar	4	a	e	i	tment
+compare	3	NULL	d	s
+compat	3	ability	ible	riot
+compe	4	l	n	t	yson
+compel	3	NULL	l	s
+compensat	3	e	i	ory
+compensate	3	NULL	d	s
+compete	4	NULL	d	n	s
+compil	3	ation	e	ing
+compile	3	NULL	d	r
+compl	4	a	e	i	y
+complain	6	NULL	ant	ed	ing	s	t
+comple	5	ated	ction	ment	t	x
+complement	4	NULL	ary	ing	s
+complete	5	NULL	d	ly	ness	s
+complex	4	-valued	NULL	es	i
+compli	4	ance	c	ed	ment
+compliment	5	NULL	ary	ed	ing	s
+compo	5	nent	rt	s	te	und
+comport	3	NULL	ed	ment
+compos	4	e	i	t	ure
+compose	4	NULL	d	r	s
+composer	4	's	-pianist-conductor	NULL	s
+composition	3	NULL	al	s
+compound	5	-engine	NULL	ed	ing	s
+compr	3	e	is	omis
+comprehend	3	NULL	ed	ing
+compress	4	NULL	e	i	or
+compressi	4	bility	ng	on	ve
+comprise	3	NULL	d	s
+compromise	3	NULL	d	s
+compulsive	3	NULL	ly	s
+comput	3	ation	e	ing
+computation	3	NULL	al	s
+compute	4	NULL	d	r	s
+conc	8	ave	e	hita	i	l	o	ret	u
+conce	8	al	d	i	ntr	pt	r	ssion	tta
+conceal	5	NULL	ed	ing	ment	s
+concede	3	NULL	d	s
+conceiv	3	abl	e	ing
+conceive	3	NULL	d	s
+concentrate	3	NULL	d	s
+concentration	3	-camp	NULL	s
+concept	4	NULL	ion	s	ual
+conceptual	3	NULL	i	ly
+concern	4	NULL	ed	ing	s
+concert	8	-disc	NULL	ante	ed	i	master	o	s
+concerto	3	's	NULL	s
+concession	3	NULL	aire	s
+conci	3	erge	liat	se
+conclude	3	NULL	d	s
+concord	3	NULL	an	e
+concur	3	NULL	re	s
+cond	5	e	i	liffe	o	u
+conde	3	mn	ns	scen
+condemn	5	NULL	at	ed	ing	s
+condens	3	ation	e	ing
+condense	3	NULL	d	r
+condi	3	cions	ments	tion
+condition	5	NULL	al	e	ing	s
+conduct	5	NULL	ed	i	or	s
+conducti	3	ng	on	vity
+conductor	3	's	NULL	s
+cone	4	-sphere	NULL	s	y
+conf	7	abulat	e	i	l	o	r	u
+confe	3	dera	r	ss
+confer	4	NULL	e	r	s
+conference	3	's	NULL	s
+confess	4	NULL	e	i	or
+confession	3	NULL	al	s
+confi	5	d	guration	n	rm	scat
+confid	3	ant	e	ing
+confide	3	NULL	d	n
+confident	3	NULL	ial	ly
+confidential	3	NULL	ity	ly
+confine	4	NULL	d	ment	s
+confirm	5	NULL	ation	ed	ing	s
+confl	3	agration	ict	uent
+conflict	4	's	NULL	ing	s
+conform	5	NULL	a	ed	i	s
+conformation	3	NULL	al	s
+confront	5	NULL	ation	ed	ing	s
+confu	3	ci	s	ted
+confuse	3	NULL	d	s
+cong	5	NULL	don	e	o	r
+conge	3	aled	ni	st
+congo	3	's	NULL	lese
+congr	3	atulat	e	uen
+congratulat	3	e	ion	ory
+congregation	3	NULL	al	s
+congregational	3	-baptist	NULL	is
+congress	6	'	NULL	es	ional	m	woman
+conj	3	ecture	oined	u
+conjecture	3	NULL	d	s
+conju	3	ga	nction	re
+conjugate	3	NULL	d	s
+conjure	3	NULL	d	s
+conn	5	NULL	all	e	i	o
+conne	5	aut	ct	d	ll	xion
+connect	4	NULL	ed	i	s
+connecti	4	cut	ng	on	ve
+conni	3	e	ng	v
+conno	4	isseur	lly's	r	t
+conque	3	r	st	te
+conquer	4	NULL	ed	ing	or
+cons	10	NULL	anguin	c	derations	e	i	o	pi	t	u
+conscious	3	NULL	ly	ness
+conscript	3	NULL	ed	ion
+conse	5	c	il	n	quen	rv
+consent	3	NULL	ed	ing
+consequent	3	NULL	ial	ly
+conserv	3	at	e	ing
+conservati	3	on	sm	ve
+conservative	4	-liberal	NULL	ly-cravated	s
+consi	4	der	gn	s	tutional
+consider	5	NULL	a	ed	in	s
+consist	4	NULL	e	ing	s
+conso	3	l	nan	rt
+consol	3	ation	e	i
+consonant	3	NULL	al	s
+consort	3	NULL	ed	ing
+conspire	3	NULL	d	s
+const	4	a	e	itu	r
+consta	3	ble	n	tation
+constable	3	's	NULL	s
+constant	5	-temperature	NULL	in	ly	s
+constantin	3	NULL	e	o
+constantino	3	NULL	ple	s
+constitute	3	NULL	d	s
+constitution	3	NULL	al	s
+constr	3	ain	ict	u
+constrain	3	ed	ing	t
+constrict	3	ed	i	or
+constru	3	ct	e	ing
+construct	3	NULL	ed	i
+constructi	3	ng	on	ve
+construction	3	NULL	al	s
+consul	3	NULL	a	t
+consult	4	NULL	a	ed	ing
+consum	4	e	ing	mat	pti
+consume	4	NULL	d	r	s
+consumer	3	's	NULL	s
+consummate	3	NULL	d	ly
+cont	6	a	e	i	o	r	usions
+conta	5	ct	dini	gio	in	minat
+contact	4	NULL	ed	ing	s
+contain	5	NULL	e	ing	ment	s
+conte	4	mp	n	st	xt
+contemp	3	lat	orar	t
+contemplate	3	NULL	d	s
+contemplati	3	ng	on	ve
+contempt	3	NULL	ible	uous
+contend	4	NULL	e	ing	s
+content	5	NULL	ed	i	ment	s
+contest	4	NULL	ants	ed	s
+contin	3	en	gen	u
+continent	3	NULL	al	s
+contingent	3	-fee	NULL	s
+continu	5	a	e	i	o	um
+continua	3	l	nce	tion
+continue	3	NULL	d	s
+contour	4	-obliterating	NULL	ing	s
+contr	4	a	etemps	i	o
+contra	7	ba	c	di	lto	ptions	r	st
+contract	7	-negotiation	NULL	ed	i	or	s	ual
+contractor	3	's	NULL	s
+contradict	5	NULL	ed	ion	or	s
+contrast	4	NULL	ed	ing	s
+contri	3	b	t	v
+contribut	3	e	i	or
+contribute	3	NULL	d	s
+contributor	3	NULL	s	y
+contriv	3	ances	e	ing
+control	3	NULL	l	s
+controller	3	's	NULL	s
+conv	5	a	e	i	o	uls
+conve	5	ction	n	r	x	y
+conven	3	ed	i	t
+convenient	3	-type	NULL	ly
+convention	3	NULL	al	s
+conventional	4	-type	NULL	i	ly
+conver	3	ge	s	t
+convers	3	a	e	i
+conversation	3	NULL	al	s
+conversion	3	-by-renovation	NULL	s
+convert	4	NULL	ed	i	s
+convey	6	NULL	ance	ed	ing	or	s
+convi	3	ct	nc	vial
+convict	5	's	NULL	ed	i	s
+convo	3	cation	luted	y
+cook	6	's	NULL	e	fire	i	s
+cool	8	NULL	ant	e	headed	i	ly	ness	s
+coole	3	d	r	st
+coolidge	3	's	NULL	s
+coop	3	NULL	e	s
+cooper	5	's	NULL	at	man	s
+cooperate	3	NULL	d	s
+cooperati	3	ng	on	ve
+coordinat	3	e	i	or
+coordinate	3	NULL	d	s
+cope	5	NULL	land	nhagen	rnic	s
+copernicus	3	'	-the-astronomer	NULL
+copi	3	e	ng	ous
+copy	5	NULL	books	ing	rights	writer
+cord	6	NULL	e	i	on	s	uroy
+core	4	-jacket	NULL	lli	s
+cori	3	ander	nth	olanus
+cork	3	NULL	e	s
+corn	11	-belt	NULL	bread	e	field	i	meal	s	ucopia	wall	y
+corne	4	NULL	ilus	ll	r
+corner	5	-	NULL	ed	ing	s
+corona	4	NULL	do	r	tion
+corp	4	NULL	or	s	u
+corpor	3	a	eal	is
+corporation	3	's	NULL	s
+corps	3	NULL	e	man
+corr	5	al	e	idor	o	u
+corre	5	ct	ggio	lat	spond	tte
+correct	5	NULL	ed	ion	ly	ness
+correlati	3	ng	on	vely
+correspond	4	NULL	e	ing	s
+corro	3	bor	d	si
+corrupt	4	NULL	e	i	s
+corrupti	3	ble	ng	on
+cors	3	age	i	o
+cort	3	e	ic	landt
+cortico	3	-	steroids	tropin
+cosm	3	etic	ic	o
+cosmo	4	NULL	log	politan	s
+cost	8	-	NULL	aggini	e	i	l	s	ume
+cost-	7	accounting	billing	data	finding	of-living	plus	raising
+costume	3	NULL	d	s
+cott	5	NULL	age	e	on	y
+cotton	5	's	-growing	NULL	mouth	seed
+cough	4	NULL	ed	ing	lin
+coul	3	d	omb	son
+could	4	've	NULL	a	n't
+coun	3	cil	sel	t
+council	5	's	NULL	man	s	woman
+counsel	4	NULL	ed	ing	or
+count	7	NULL	e	i	less	r	s	y
+counte	3	d	nance	r
+counter	11	-	NULL	a	balanc	challenge	ed	f	man	p	s	vailing
+counter-	8	attack	balanced	clockwise	drill	e	moves	offensive	successes
+counteract	3	NULL	ed	ing
+counterp	3	art	oint	roposal
+counti	3	an	es	n
+countr	3	ey	i	y
+country	6	's	-squirehood	NULL	m	side	wide
+county	3	's	-wide	NULL
+coup	7	-proof	NULL	al	e	l	on	s
+couple	5	's	NULL	d	r	s
+cour	7	age	bet	cy	eurs	ier	s	t
+court	11	's	-	NULL	e	house	i	l	ney	r	s	yard
+court-	3	appointed	length	packing
+courte	4	d	nay	ous	s
+cousin	4	's	-wife	NULL	s
+cove	5	NULL	n	r	s	t
+cover	7	NULL	a	ed	ing	let	s	t
+covet	4	NULL	ed	ing	ousness
+coward	4	's	NULL	ice	ly
+cowboy	3	's	NULL	s
+cowhand	3	'd	NULL	s
+crab	3	apple	bed	s
+crack	6	NULL	e	ing	l	pot	s
+crackle	3	NULL	d	s
+cradle	3	NULL	d	s
+craft	5	-industrial	NULL	er	s	y
+craftsman	3	's	NULL	ship
+cram	3	er	med	p
+cran	5	berries	e	k	nies	ston
+crane	4	's	NULL	like	s
+crank	3	NULL	shaft	y
+crash	3	NULL	e	ing
+crashe	3	d	r	s
+crass	3	NULL	est	ness
+crate	3	NULL	r	s
+crater	3	NULL	ed	s
+crave	3	NULL	d	n
+crawl	4	NULL	ed	ing	s
+craz	3	e	i	y
+crea	4	k	m	se	t
+creak	4	NULL	ed	ing	s
+cream	4	NULL	e	s	y
+crease	3	NULL	d	s
+creat	4	e	i	or	ure
+create	3	NULL	d	s
+creati	3	ng	on	v
+creative	3	NULL	ly	ness
+cred	4	entials	i	o	ul
+credit	5	NULL	able	ed	ors	s
+cree	3	d	k	p
+creed	3	NULL	al	s
+creek	3	-	NULL	s
+creep	5	NULL	er	ing	s	y
+crest	5	NULL	ed	fallen	on	s
+crew	6	's	NULL	cut	el	men	s
+crim	3	e	inal	son
+crime	3	NULL	a	s
+criminal	3	NULL	ity	s
+cris	6	NULL	es	is	p	s	to
+crisp	4	NULL	in	ly	ness
+criss-cross	3	NULL	ed	ing
+crit	3	eri	i	te
+critic	5	's	NULL	al	i	s
+critical	4	-intellectual	NULL	ity	ly
+croak	4	NULL	ed	in	s
+croc	3	het	ke	odile
+cromwell	3	's	NULL	ian
+crook	3	NULL	ed	s
+crop	3	NULL	p	s
+crosby	3	's	NULL	s
+cross	9	-	NULL	bars	e	ing	man	o	road	w
+cross-	8	cultural	e	fertiliz	l	purposes	s	top	writing
+crouch	4	's	NULL	ed	in
+crow	7	NULL	bait	d	ed	ing	n	s
+crowd	4	NULL	e	ing	s
+crown	4	NULL	ed	ing	s
+cruci	3	al	ble	f
+crude	3	NULL	ly	st
+cruel	4	NULL	est	ly	ty
+cruise	3	NULL	r	s
+crum	4	b	l	my	p
+crumbl	3	e	ing	y
+crus	4	NULL	ad	h	t
+crusade	3	NULL	r	s
+crush	3	NULL	e	ing
+crypt	3	NULL	ic	ographic
+crystal	3	NULL	l	s
+crystalli	3	ne	te	z
+crystalliz	3	ation	e	ing
+crystallograph	3	ers	ic	y
+cuba	3	's	NULL	n
+cuban	3	-american	NULL	s
+cube	3	NULL	d	s
+cuff	3	NULL	links	s
+culminate	3	NULL	d	s
+cult	5	NULL	e	i	s	ur
+cultivate	3	NULL	d	s
+culture	5	's	-protestantism	NULL	d	s
+cunning	3	NULL	ham	ly
+curb	3	NULL	ing	s
+curd	3	NULL	ling	s
+cure	5	-all	NULL	d	s	ttage
+curi	4	a	e	ng	o
+curio	3	NULL	sity	us
+curl	5	NULL	ed	ing	s	y
+curr	4	ant	en	icul	y
+current	3	NULL	ly	s
+curs	3	e	ing	ory
+curse	3	NULL	d	s
+curt	7	's	NULL	ai	i	ly	ness	seyed
+curtain	4	-raiser	NULL	ed	s
+curv	3	a	e	ing
+curve	3	NULL	d	s
+cushion	3	NULL	ing	s
+custom	6	-	NULL	ar	er	house	s
+customer	4	's	-cost	NULL	s
+cut-	5	and-dried	down	glass	off	to-a-familiar-pattern
+cutt	3	er	hroat	ing
+cutting	3	-edge	NULL	s
+cycl	5	ades	e	i	o	y
+cycle	3	NULL	d	s
+cylinder	3	's	NULL	s
+cynic	3	al	ism	s
+czar	3	NULL	ina	ship
+d'ar	3	gent	lay	t
+dabb	3	ed	ing	l
+dabble	3	d	r	s
+dais	3	NULL	es	ies
+dale	3	NULL	s	y
+dall	3	as	es	oway
+damage	3	NULL	d	s
+damn	4	NULL	ation	ed	i
+damp	3	NULL	en	ness
+dampen	3	NULL	ed	ing
+dana	3	's	NULL	her
+danc	3	e	hin	ing
+dance	6	-theatre	NULL	d	like	r	s
+dand	3	elion	ily	y
+dane	3	NULL	hy	s
+dang	3	NULL	e	l
+danger	3	NULL	ous	s
+daniel	3	's	NULL	s
+dare	4	-base	NULL	d	s
+dark	6	-	NULL	e	haired	l	ness
+dark-	4	b	gr	haired	skinned
+darke	3	n	r	st
+dart	3	ed	ing	mouth
+darwin	3	's	NULL	ism
+dash	5	NULL	board	e	i	wood
+date	4	NULL	d	lined	s
+daughter	3	's	NULL	s
+daunt	3	NULL	ed	less
+dave	3	's	NULL	nport
+davi	3	d	s	ts
+david	3	's	NULL	son
+dawn	3	NULL	ing	s
+day-	4	after-day	by-day	to-day	watch
+daylight	3	's	NULL	s
+dazzle	4	NULL	d	r	s
+dead	7	-	NULL	ened	heads	l	ness	w
+deadl	3	i	ock	y
+deal	5	NULL	er	ing	s	t
+dealer	3	's	NULL	s
+dealers	3	'	NULL	hips
+dean	4	's	NULL	e	s
+dear	6	NULL	born	e	ie	ly	th
+death	7	's-head	-	NULL	bed	ly	s	ward
+death-	3	l	trap	wish
+deba	3	cle	t	uchery
+debat	3	able	e	ing
+debate	3	NULL	d	s
+debt	3	-free	NULL	s
+debut	4	NULL	ante	ing	s
+deca	4	de	nt	t	y
+decade	3	NULL	n	s
+decay	4	NULL	ed	ing	s
+dece	8	ased	dent	i	lerat	mber	n	pti	rtify
+deceit	3	's	NULL	ful
+deceive	3	NULL	d	s
+decent	3	NULL	ly	raliz
+deci	4	cco	d	m	si
+decide	3	NULL	d	s
+decision	4	-making	NULL	al	s
+decisive	3	NULL	ly	ness
+deck	4	NULL	ed	ing	s
+decla	3	imed	matory	r
+declar	3	ati	e	ing
+declare	3	NULL	d	s
+declin	3	ations	e	ing
+decline	3	NULL	d	s
+deco	3	lletage	mp	r
+decor	5	NULL	at	ous	ticated	um
+decorat	3	e	i	or
+decorati	3	ng	on	ve
+decr	3	e	ie	y
+decre	3	as	e	ment
+decrease	3	NULL	d	s
+decree	4	NULL	d	ing	s
+deduc	3	e	ing	t
+deduct	4	NULL	able	ed	i
+deducti	4	b	ng	on	ve
+deem	3	NULL	ed	ing
+deep	5	-	NULL	e	ly	s
+deep-	3	eyed	s	tendon
+deepe	3	n	r	st
+deepen	3	NULL	ed	ing
+defe	4	at	c	n	r
+defeat	4	NULL	ed	i	s
+defect	3	NULL	i	s
+defen	3	ce	d	s
+defend	5	NULL	ant	e	ing	s
+defendant	3	's	NULL	s
+defense	3	NULL	less	s
+defer	4	NULL	en	ment	r
+defi	4	an	ci	ed	n
+defin	3	able	e	i
+define	3	NULL	d	s
+definition	3	-specialization	NULL	s
+defo	3	cusing	e	r
+degr	3	ad	ee	oot
+degrad	3	ation	e	ing
+dela	4	hanty	n	ware	y
+delan	3	cy	ey	o
+delay	3	NULL	ed	s
+dele	3	ctation	gat	nda
+delegate	3	NULL	d	s
+deli	8	a	berat	c	ght	mit	n	rium	v
+delic	3	a	ious	ti
+delicate	3	-beyond-description	NULL	ly
+delight	5	NULL	ed	ful	ing	s
+deliver	6	NULL	ance	ed	ing	s	y
+dell	6	'	NULL	a	e	s	wood
+delo	3	n	ris	used
+delphi	3	NULL	c	ne
+delu	4	d	ge	sion	xe
+dema	3	g	nd	rcat
+demag	3	e	nification	ogues
+demand	4	NULL	e	ing	s
+deme	3	an	nted	trius
+demi	3	-monde	neralization	se
+demo	7	cra	docus	graph	li	n	raliz	ted
+democrat	3	NULL	i	s
+democrati	3	c	que	z
+demographi	3	c	e	ques
+demon	6	's	-ridden	NULL	iac	s	tez
+demonstrat	3	e	i	ors
+demonstrate	3	NULL	d	s
+demonstrati	3	ng	on	ves
+demoraliz	3	ation	e	ing
+demoralize	3	NULL	d	s
+demythologiz	3	ation	e	ing
+deno	3	minat	t	u
+denominat	3	ed	ion	ors
+denomination	4	's	NULL	al	s
+denote	3	NULL	d	s
+denounce	3	NULL	d	s
+dens	4	NULL	e	it	more
+densit	3	ies	ometry	y
+dent	6	NULL	al	ed	i	on	ures
+dentist	4	's	NULL	ry	s
+denver	4	's	-area	NULL	ite
+depart	6	NULL	ed	ing	ment	s	ure
+department	4	's	NULL	al	s
+depe	3	nd	rsonaliz	w
+depend	5	NULL	able	e	ing	s
+depict	3	NULL	ed	i
+deplore	3	NULL	d	s
+deploy	3	ed	ing	ment
+depo	3	rt	s	t
+deposit	5	NULL	ed	ion	ors	s
+depr	3	av	e	iv
+depre	3	c	dations	ss
+depress	5	NULL	ants	e	i	ors
+depriv	3	ation	e	ing
+dera	3	ils	nge	s
+derelict	3	NULL	ion	s
+deriv	3	ati	e	ing
+derive	3	NULL	d	s
+desc	3	artes	en	ri
+descend	5	NULL	ant	e	ing	s
+describe	3	NULL	d	s
+dese	4	crat	gregat	nsitized	r
+desert	4	NULL	ed	ion	s
+deserve	3	NULL	d	s
+design	6	-	NULL	at	e	ing	s
+designate	3	NULL	d	s
+designer	3	's	NULL	s
+desir	4	ab	e	ing	ous
+desire	3	NULL	d	s
+desp	6	a	era	i	o	rez	ues
+despi	3	na	s	te
+despise	3	NULL	d	s
+despo	3	il	nden	t
+despot	3	NULL	ism	s
+destin	4	ation	ed	ies	y
+destroy	3	NULL	e	ing
+detach	4	NULL	able	ed	ment
+detail	3	NULL	ed	s
+dete	4	ct	nt	r	st
+detect	5	NULL	able	ed	i	or
+detecti	3	ng	on	ve
+detective	3	's	NULL	s
+deter	5	NULL	gen	iorat	min	ren
+deteriorate	3	NULL	d	s
+determin	4	a	e	g	i
+determina	3	b	nt	t
+determine	3	NULL	d	s
+detest	3	NULL	a	ed
+detr	3	act	i	oit
+deve	4	lop	ns	r	y
+develop	5	NULL	e	ing	ment	s
+development	3	NULL	al	s
+devi	5	a	ce	l	ous	s
+devil	4	's	NULL	ish	s
+devise	3	NULL	d	e
+devo	5	id	l	nshire	t	u
+devote	3	NULL	d	es
+devotion	3	NULL	al	s
+dexter	3	's	NULL	ity
+diag	4	hileff	no	onal	ram
+diagnos	4	able	e	i	tic
+diagnose	3	NULL	d	s
+diagonal	4	NULL	izable	ly	s
+diagram	3	NULL	med	s
+dial	6	NULL	e	ing	ogue	s	y
+dialect	3	NULL	ic	s
+dialectic	3	NULL	al	s
+diamond	3	-studded	NULL	s
+dian	3	's	a	e
+diap	3	ers	h	iace
+diaphragm	3	NULL	ic	s
+diar	3	i	rh	y
+dick	5	's	NULL	e	inson	s
+dicke	3	NULL	ns	y
+dict	3	at	ion	um
+dictat	3	e	ing	or
+dictate	3	NULL	d	s
+dictator	3	NULL	ial	s
+diet	7	NULL	ary	e	hyl	rich	s	y
+diff	4	er	i	r	us
+differ	4	NULL	e	ing	s
+different	4	-color	NULL	ia	ly
+differentia	3	b	l	t
+difficult	3	NULL	ies	y
+diffr	3	action	ing	unce
+diffuse	5	NULL	d	ly	rs	s
+digest	3	NULL	ed	i
+digesti	3	ble	ng	ve
+dilat	3	ation	e	i
+dilate	3	NULL	d	s
+dill	4	's	NULL	inger	on
+dilu	3	ents	t	zio
+dime	5	NULL	nsion	rs	s	thylglyoxime
+dimension	4	NULL	al	ing	s
+diminish	3	NULL	e	ing
+dine	4	NULL	d	en	s
+ding	3	hy	o	y
+dinner	4	NULL	s	time	ware
+dion	3	NULL	i	ys
+diplomat	4	's	NULL	ic	s
+direct	9	-sum	NULL	ed	i	ly	ness	or	rices	s
+directi	3	ng	on	v
+direction	3	NULL	al	s
+directional	3	NULL	ity	ly
+director	6	's	-general	NULL	ate	s	y
+dirt	3	-catcher	NULL	y
+disa	8	b	dvantage	ff	gree	llowed	pp	r	s
+disab	3	ilit	l	use
+disagree	5	NULL	able	d	ment	s
+disapp	3	ear	oint	ro
+disappear	5	NULL	ance	ed	ing	s
+disappoint	3	ed	ing	ment
+disapprov	3	al	e	ingly
+disapprove	3	NULL	d	s
+disarm	4	NULL	ament	ed	ing
+disb	3	anded	elie	urse
+disbelieve	3	NULL	d	s
+disc	10	NULL	ard	ern	harg	ipl	l	o	r	s	u
+discern	5	NULL	able	ed	i	ment
+discharge	3	NULL	d	s
+disciplin	3	ary	e	ing
+discipline	3	NULL	d	s
+disclose	3	NULL	d	s
+disco	7	id	lor	mfort	n	r	u	ver
+discon	3	cert	nected	t
+discontinu	4	ance	e	ity	ous
+discount	4	NULL	ed	ing	s
+discour	3	ag	s	teous
+discourage	3	NULL	d	ment
+discover	5	NULL	e	i	s	y
+discre	4	dit	et	panc	t
+discriminat	3	e	i	ory
+discuss	4	NULL	ant	e	i
+disdain	4	NULL	ful	ing	s
+dise	3	ase	mbodied	n
+disease	3	NULL	d	s
+disen	3	franchise	gage	tangle
+disgrace	3	NULL	d	ful
+disguise	3	NULL	d	s
+disgust	3	NULL	ed	ing
+dish	5	NULL	armony	e	on	wa
+dishe	4	arten	d	s	veled
+disi	3	llusion	mone	n
+disillusion	3	ed	ing	ment
+disintegrati	3	ng	on	ve
+disk	3	NULL	ing	s
+dislike	3	NULL	d	s
+dislo	3	cat	dge	yal
+dism	4	a	ember	iss	ount
+dismay	3	NULL	ed	ing
+dismiss	4	NULL	al	e	ing
+diso	3	be	r	wn
+disor	3	der	ganiz	iented
+disorder	4	NULL	ed	l	s
+disp	6	a	e	l	os	ro	ut
+dispa	3	r	ssionate	tch
+dispatch	3	NULL	e	ing
+dispe	3	l	ns	rs
+dispens	3	a	e	ing
+dispense	3	NULL	d	r
+dispers	3	al	e	i
+disperse	3	NULL	d	ment
+displace	4	NULL	d	ment	s
+display	4	NULL	ed	ing	s
+dispos	4	al	e	ition	sess
+dispute	3	NULL	d	s
+disquiet	3	NULL	ing	ude
+disr	3	e	obe	upt
+disre	3	gard	p	spect
+disregard	3	NULL	ed	ing
+disrupt	4	NULL	ed	i	s
+disrupti	3	ng	on	ve
+diss	5	atisf	e	i	o	uade
+disse	4	ct	m	n	rvice
+dissent	4	NULL	e	ing	s
+dissi	3	dent	m	pat
+disso	3	ciat	l	nances
+dist	7	NULL	a	ension	i	ort	r	urb
+dista	3	l	n	ste
+distill	3	ation	e	ing
+distinct	3	NULL	i	ly
+distinguish	4	NULL	able	e	ing
+distort	4	NULL	able	ed	ion
+distr	4	a	ess	i	ust
+distract	3	NULL	ed	i
+distress	3	NULL	e	ing
+distribut	3	e	i	or
+distribute	3	NULL	d	s
+distributi	3	ng	on	ve
+distributor	3	's	NULL	s
+disturb	4	NULL	ance	e	ing
+diva	3	NULL	n	rco
+divan	3	-like	NULL	s
+dive	4	NULL	d	r	s
+diver	4	NULL	g	s	t
+divers	3	NULL	e	i
+diversi	3	fi	on	t
+diversion	3	NULL	ary	s
+divert	3	NULL	ed	i
+divi	3	d	n	si
+divide	5	NULL	d	nd	r	s
+divin	4	ation	e	g	i
+divine	3	's	NULL	ly
+divisi	3	ble	on	ve
+division	4	's	NULL	al	s
+divorce	3	NULL	d	e
+dixie	3	NULL	crats	land
+django	3	's	NULL	logy
+dock	3	NULL	e	s
+doct	3	ers	or	rin
+doctor	5	's	NULL	ate	ed	s
+document	4	NULL	a	ed	s
+dodge	4	's	NULL	d	r
+dogma	3	NULL	s	ti
+doin	3	'	NULL	g
+dole	3	NULL	d	ful
+doll	6	NULL	ar	ey	ies	s	y
+dollar	4	-	NULL	ette	s
+dollar-	4	and-cents	britten	de	sign
+dollars	3	'	-and-cents	NULL
+dome	3	NULL	d	s
+domes	3	NULL	day	tic
+domestic	3	NULL	ally	ity
+domi	4	NULL	cil	n	tian's
+domin	3	a	eering	i
+domina	3	NULL	n	t
+dominate	3	NULL	d	s
+domini	3	c	on	que
+donat	3	e	i	o
+donate	3	NULL	d	s
+donn	4	a	e	ing	ybrook
+donne	3	d	ll	r
+doom	3	NULL	ed	s
+door	7	-	NULL	bell	k	m	s	way
+dope	3	-ridden	NULL	d
+dora	3	NULL	do	n
+dori	3	a	c	s
+dose	3	NULL	d	s
+doubl	4	e	ing	oon	y
+double	5	-	NULL	d	header	s
+double-	12	NULL	b	cross	entendre	figure	glaze	header	m	st	talk	valued	wall
+double-st	3	age	ep	rength
+doubt	6	NULL	e	ful	ing	less	s
+doug	3	NULL	h	las
+dove	4	NULL	r	s	tail
+dowe	3	l	r	x-2-chloride
+down	14	-	NULL	beat	cast	e	fall	grade	hill	ing	p	right	s	t	w
+down-	3	and-out	payments	to-earth
+downt	4	alking	own	r	urn
+draft	5	NULL	e	ing	s	y
+drafte	3	d	e	rs
+drag	4	NULL	g	net	o
+drago	3	n	oned	slav
+dragon	3	NULL	etti	s
+drain	5	NULL	age	ed	ing	s
+drama	4	-filled	NULL	s	ti
+dramati	3	c	st	z
+dramatic	3	NULL	al	s
+dramatiz	3	ation	e	ing
+drape	3	d	r	s
+draper	4	NULL	ies	s	y
+draught	3	NULL	s	y
+draw	8	-file	NULL	b	er	in	l	n	s
+drawing	3	-room	NULL	s
+drawl	3	NULL	ed	ing
+drea	3	d	m	r
+dread	4	NULL	ed	ful	nought
+dream	9	-	NULL	boat	e	in	l	s	t	y
+dream-	7	lusty	miss	next	ridden	sweetmite	torkin	way
+dreiser	3	's	NULL	s
+dresbach	3	's	NULL	s
+dress	4	NULL	e	ing	y
+dresse	3	d	r	s
+drie	3	d	r	s
+drift	4	NULL	ed	in	s
+driftin	3	'	NULL	g
+drill	4	NULL	ed	ing	s
+drink	5	NULL	er	house	ing	s
+drip	4	-	NULL	p	s
+drive	6	-	NULL	n	r	s	way
+driver	3	's	NULL	s
+drizzl	3	e	ing	y
+droop	3	NULL	ed	ing
+drop	6	-block	NULL	lets	outs	p	s
+drought	3	-seared	NULL	s
+drove	3	NULL	rs	s
+drown	4	NULL	ed	ing	s
+drows	3	ed	i	y
+drug	5	's	NULL	g	less	s
+drugg	3	an-lake	ed	ing
+drum	4	NULL	lin	m	s
+drummer	3	's	NULL	s
+drunk	5	-and-disorderlies	NULL	ard	e	s
+drunkard	3	's	NULL	s
+drunken	3	NULL	ly	ness
+dry-	3	dock	eyed	gulchin'
+dual	3	-	NULL	i
+dual-	3	channel	ladder	road-up
+duck	4	NULL	ed	ing	s
+duct	3	NULL	s	work
+duel	3	NULL	ing	s
+duke	3	's	NULL	s
+dull	6	-gray	NULL	e	ness	s	y
+dulle	3	d	r	s
+dulles	3	's	NULL	t
+dumm	3	ies	kopf	y
+dump	5	NULL	ed	ing	s	ty
+dunk	3	NULL	el	irk
+dunn	4	's	-atherton	NULL	e
+dura	3	b	nte	tion
+dure	3	n	r	ss
+dust	7	-	NULL	bin	ed	in	s	y
+dutch	3	NULL	ess	man
+dwarf	3	NULL	ed	s
+dwell	4	NULL	er	ing	s
+dyna	3	fac	m	st
+dynamic	3	NULL	al	s
+dynast	3	i	s	y
+dystopia	3	NULL	n	s
+eager	3	NULL	ly	ness
+eagle	3	's	NULL	s
+earl	3	NULL	ie	y
+earn	4	NULL	e	ing	s
+earnest	3	NULL	ly	ness
+earth	9	's	-	NULL	enware	ly	m	quake	worm	y
+earth-	3	bound	touching	week
+ease	4	NULL	d	l	ment
+easi	3	e	ly	ng
+east	7	-west	NULL	er	hampton	land	man	w
+easy	3	-	NULL	going
+easy-to-	3	operate	reach	spot
+eccentric	3	NULL	it	s
+echo	3	NULL	e	ing
+eclipse	3	NULL	d	s
+economi	4	c	es	st	z
+economic	3	NULL	al	s
+economist	3	's	NULL	s
+eddie	3	's	NULL	s
+edge	5	NULL	d	rton's	s	w
+edit	5	NULL	ed	h	i	or
+editor	4	's	NULL	ial	s
+editorial	4	NULL	ist	ly	s
+educat	3	e	i	or
+education	3	NULL	al	s
+educator	3	's	NULL	s
+edward	4	's	NULL	es	s
+effe	3	ct	minate	te
+effect	5	NULL	e	i	s	ua
+effective	3	NULL	ly	ness
+effort	3	NULL	less	s
+eight	6	-	NULL	een	h	ies	y
+eight-	7	and-a-half-foot	b	foot	inch	thirty	week	year
+eighteen	3	-year-old	NULL	th
+eighty-	6	f	nine	one	s	three	year-old
+einstein	3	's	NULL	ian
+eject	3	NULL	ed	ion
+elaborate	4	NULL	d	ly	s
+elapse	3	NULL	d	s
+elbow	3	NULL	ing	s
+elder	3	NULL	ly	s
+elec	3	's	NULL	t
+elect	5	NULL	ed	i	or	r
+electi	3	ng	on	ves
+elector	3	NULL	a	s
+electr	4	a	ess	i	o
+electri	3	c	f	ques
+electric	5	's	-	NULL	al	ity
+electro	9	-magnetic	cardiogra	d	lysis	m	n	phor	s	therapist
+electron	5	-microscopical	NULL	ic	ography	s
+electronic	3	NULL	ally	s
+eleg	3	an	i	y
+element	3	NULL	a	s
+elephant	4	's	NULL	ine	s
+elevat	3	e	ion	or
+elicit	3	NULL	ed	s
+eliminate	3	NULL	d	s
+elli	4	e	ott	p	s
+ellips	3	es	is	oid
+else	3	's	NULL	where
+eman	3	at	cipat	uel
+emba	5	lmers'	nkment	r	ss	ttled
+embar	4	cadero	go	k	rass
+embarrass	3	ed	ing	ment
+embe	3	dded	llished	zzl
+embo	4	d	ldened	ssed	uchure
+embr	3	ac	oi	yo
+embrace	3	NULL	d	s
+embroider	3	ed	ies	y
+emer	4	ald	g	itus	son
+emerge	4	NULL	d	n	s
+emergenc	3	e	ies	y
+emil	3	NULL	e	io
+emma	3	's	NULL	nuel
+emotion	3	NULL	al	s
+emotional	3	NULL	i	ly
+emperor	3	's	NULL	s
+emphasize	3	NULL	d	s
+employ	5	NULL	e	ing	ment	s
+employe	5	NULL	d	e	r	s
+employee	4	's	-contributed	NULL	s
+empower	3	NULL	ed	ing
+emptie	3	d	r	s
+enable	3	NULL	d	s
+enact	4	NULL	ed	ing	ment
+enamel	3	NULL	ing	led
+encamp	3	NULL	ed	ment
+enchant	4	NULL	ed	ing	ment
+enclos	3	e	ing	ure
+enco	3	m	res	u
+encounter	3	NULL	ed	s
+encourage	4	NULL	d	ment	s
+encroach	4	NULL	ed	ing	ment
+end-	3	product	to-end	use
+endanger	3	NULL	ed	ing
+ende	3	a	d	vor
+endear	3	ed	ing	ment
+endeavor	4	NULL	ed	ing	s
+endo	5	g	rs	sperm	the	w
+endorse	3	NULL	d	ment
+endow	4	NULL	ed	ment	s
+endur	3	a	e	ing
+endure	3	NULL	d	s
+enemy	3	's	-jew	NULL
+energ	3	etic	i	y
+enforce	6	NULL	able	d	ment	rs	s
+engage	4	NULL	d	ment	s
+engine	4	's	NULL	er	s
+engineer	3	NULL	ing	s
+engl	3	and	e's	ish
+england	4	's	-born	NULL	er
+english	4	-	NULL	m	y
+english-	3	born	d	s
+engulf	3	ed	ing	s
+enhance	3	NULL	d	s
+enjoin	3	NULL	der	ed
+enjoy	6	NULL	able	ed	ing	ment	s
+enlarg	3	d	e	ing
+enlarge	3	NULL	d	ment
+enli	3	ghten	st	vened
+enlighten	4	NULL	ed	ing	ment
+enlist	4	NULL	ed	ment	s
+enri	3	c	ght	que
+enrich	4	NULL	ed	ing	ment
+enroll	4	NULL	e	ing	ment
+enslave	3	NULL	d	ment
+ensu	3	e	ing	r
+ensue	3	NULL	d	s
+enter	8	'd	NULL	ed	ing	otoxemia	pris	s	t
+entertain	4	NULL	e	ing	ment
+enth	3	alpy	r	usias
+enthusiast	3	NULL	ic	s
+enti	3	c	re	t
+entire	3	NULL	ly	ty
+entit	3	ies	le	y
+entitle	3	NULL	d	s
+entr	6	an	e	ies	opy	ust	y
+entrance	3	NULL	d	way
+entre	3	at	nched	preneur
+entrust	3	NULL	ed	ing
+entry-limit	3	NULL	ed	ing
+enve	3	lop	nomed	r
+envi	5	abl	ed	ous	ron	s
+environ	3	ing	ment	s
+environment	3	NULL	al	s
+envision	3	NULL	ed	s
+epic	5	NULL	enter	s	ur	ycl
+epis	3	copal	ode	t
+epist	3	emology	les	olatory
+epit	3	aph	het	om
+epitomize	3	NULL	d	s
+equa	3	l	nimity	t
+equal	4	NULL	i	l	s
+equaliz	3	ation	e	ing
+equat	3	e	i	or
+equi	6	distant	libr	n	p	t	v
+equip	4	NULL	ment	otent	p
+equivalent	3	-choice	NULL	s
+eras	4	NULL	e	ing	mus's
+erase	3	NULL	d	r
+erect	4	NULL	ed	i	s
+eric	3	NULL	h	kson
+erro	3	l	neous	r
+erupt	4	NULL	ed	i	s
+esca	3	drille	lation	p
+escap	3	ade	e	i
+escape	5	's	NULL	d	es	s
+eschew	4	NULL	ed	ing	s
+escort	4	NULL	ed	ing	s
+espous	3	al	e	ing
+essay	4	NULL	ed	ists	s
+esse	3	NULL	n	x
+essential	3	NULL	ly	s
+establish	4	NULL	e	ing	ment
+este	5	em	lla	p	r	s
+estimate	3	NULL	d	s
+ether	3	NULL	eal	s
+ethic	4	NULL	al	ist	s
+eulogize	3	NULL	d	rs
+europe	3	's	NULL	an
+european	3	NULL	i	s
+evad	3	e	ing	na
+evade	3	NULL	d	s
+evaluati	3	ng	on	ve
+evans	3	NULL	ton	ville
+even	7	-handed	NULL	ing	ly	s	t	utally
+evening	3	's	NULL	s
+event	4	NULL	fully	s	ua
+eventual	3	NULL	it	ly
+ever	8	'	-	NULL	e	g	lasting	mounting	y
+ever-	7	changing	ex	growing	increasing	lovin'	present	tightening
+every	7	-day	NULL	body	day	one	thing	where
+evidence	3	NULL	d	s
+evident	3	NULL	ial	ly
+evil	3	NULL	doers	s
+evoke	3	NULL	d	s
+evolution	3	NULL	ary	ists
+evolve	3	NULL	d	s
+ex-m	3	a	rs	usician
+exact	6	-size	NULL	ed	ing	ly	s
+exalt	4	NULL	ation	ed	ing
+examin	3	ation	e	in
+examine	4	NULL	d	r	s
+exce	5	ed	l	pt	rpt	ss
+exceed	4	NULL	ed	ing	s
+excel	3	NULL	len	s
+exception	3	NULL	al	s
+excess	3	NULL	es	ive
+exchange	3	NULL	d	s
+excit	3	a	e	ing
+excite	3	NULL	d	ment
+exclaim	4	NULL	ed	ing	s
+exclude	3	NULL	d	s
+exclusive	3	NULL	ly	ness
+excuse	3	NULL	d	s
+execut	3	e	i	or
+executi	3	ng	on	ve
+execution	3	NULL	er	s
+executive	3	's	NULL	s
+exercise	3	NULL	d	s
+exert	4	NULL	ed	i	s
+exhaust	4	NULL	ed	i	s
+exhausti	4	ble	ng	on	ve
+exhibit	5	NULL	ed	i	ors	s
+exile	3	NULL	d	s
+exist	4	NULL	e	ing	s
+expand	5	NULL	able	ed	ing	s
+expansion	4	-contraction	NULL	ist	s
+expansive	3	NULL	ly	ness
+expe	6	NULL	ct	di	l	n	r
+expect	5	NULL	a	ed	ing	s
+expecta	3	ble	n	tion
+expend	4	NULL	able	ed	iture
+experience	3	NULL	d	s
+experiment	5	NULL	a	e	ing	s
+experimental	3	NULL	ism	ly
+expert	4	NULL	ise	ly	s
+expire	3	NULL	d	s
+expl	3	a	ic	o
+explain	4	NULL	ed	ing	s
+explicit	3	NULL	ly	ness
+explo	4	d	it	r	si
+explode	3	NULL	d	s
+exploit	5	NULL	ation	e	ing	s
+explor	3	at	e	ing
+explore	4	NULL	d	r	s
+explosive	3	NULL	ly	s
+expo	4	nent	rt	s	und
+export	5	-import	NULL	e	ing	s
+expos	3	e	i	ure
+expose	3	NULL	d	s
+exposit	3	ed	ion	ory
+exposure	3	-time	NULL	s
+express	5	NULL	e	i	ly	way
+expressi	4	ble	ng	on	v
+expression	4	NULL	is	less	s
+expressionist	3	NULL	ic	s
+expu	3	lsion	ng	rgation
+exquisite	3	NULL	ly	ness
+exte	3	mpor	n	r
+exten	4	d	s	t	uat
+extend	4	NULL	ed	i	s
+exter	3	ior	minat	n
+external	3	NULL	ization	ly
+extr	5	a	em	icate	overt	ud
+extra	11	-	NULL	ct	legal	marital	neous	ordinar	polat	s	terrestrial	vagan
+extra-	3	curricular	sensory	thick
+extract	5	NULL	ed	i	or	s
+extrapolate	3	NULL	d	s
+extrem	3	a	e	i
+extreme	3	NULL	ly	s
+eye-	8	beamings	deceiving	filling	gouging	machine	strain	to-eye	undeceiving
+eyel	3	ashes	ets	id
+fable	3	NULL	d	s
+fabric	4	NULL	at	ius	s
+facade	3	NULL	d	s
+face	6	-	NULL	d	less	s	t
+face-	3	lifting	saving	to-
+facet	4	-plane	NULL	ious	s
+faci	4	al	l	ng	unt
+facilit	3	at	ies	y
+facilitat	3	e	ing	ory
+facilitate	3	NULL	d	s
+fact	5	NULL	ion	o	s	ual
+factor	4	NULL	ies	s	y
+fade	4	-in	NULL	d	out
+fail	6	-safe	NULL	ed	ing	s	ure
+faint	3	NULL	e	ly
+fair	16	's	-	NULL	brothers	child	est	fax	goers	i	l	mo	ness	s	view	way	y
+fair-	4	looking	priced	sized	weather
+faith	3	NULL	ful	s
+fake	3	NULL	d	r
+fall	8	's	-	NULL	a	en	i	o	s
+fallo	3	ff	ut	w
+fals	3	e	i	taff
+false	3	-fronted	NULL	hood
+falter	3	NULL	ed	s
+fame	3	NULL	d	s
+famil	4	ar	i	le	y
+famili	3	a	es	s
+familiar	4	NULL	ity	ly	ness
+family	3	's	-	NULL
+family-	3	community	oriented	welfare
+fanatic	3	al	ism	s
+fancie	3	d	r	s
+fancy	3	-free	NULL	ing
+fann	3	ed	ing	y
+fantas	3	i	tic	y
+fantasi	3	a	es	st
+far-	5	away	f	o	r	sighted
+fare	3	NULL	s	well
+farm	7	NULL	e	house	ing	land	s	wife's
+farmer	4	's	-	NULL	s
+farn	3	ese	um	worth
+farr	3	NULL	ar	ell
+fasci	4	c	nat	o-communist	s
+fascinate	3	NULL	d	s
+fashion	5	NULL	able	ed	ing	s
+fast	4	-	NULL	e	idious
+fast-	6	closing	f	gro	moving	opening	spreading
+faste	3	n	r	st
+fasten	4	NULL	ed	ing	s
+fatal	3	NULL	i	ly
+fate	3	NULL	ful	s
+fath	3	er	om	uh
+father	6	's	-	NULL	ed	ly	s
+father-	5	and-son	brother	confessor	god	murder
+fatigue	3	NULL	d	s
+faulkner	3	's	NULL	ian
+fault	5	NULL	ed	less	s	y
+faust	5	's	NULL	ian	o	us
+favor	5	NULL	abl	e	i	s
+favore	3	NULL	d	r
+fawn	4	-colored	NULL	ed	ing
+fear	7	-	NULL	e	ful	ing	less	s
+feast	3	NULL	ing	s
+feat	4	NULL	her	s	ur
+feather	8	-like	NULL	bed	ed	s	top	weight	y
+feature	4	NULL	d	less	s
+federal	4	-	NULL	i	s
+federal-	3	question	right	state
+feed	6	-lot	NULL	back	er	ing	s
+feeding	3	-pain	NULL	s
+feel	4	NULL	e	ing	s
+feeling	3	-state	NULL	s
+feli	3	c	ne	x
+felicit	3	ies	ous	y
+fell	5	NULL	a	e	in	ow
+fellow	4	-	NULL	feeling	s
+fellow-	3	c	employees	men
+felon	4	NULL	ious	s	y
+female	3	's	NULL	s
+fence	4	-line	NULL	d	s
+ferment	4	NULL	ation	ed	ing
+fern	5	NULL	and	berger	ery	s
+ferr	5	aro	e	i	o	y
+festiv	4	al	e	ities	us
+fete	3	NULL	d	s
+feud	3	NULL	al	s
+fever	4	NULL	ed	ish	sham
+fiber	4	-	NULL	glas	s
+fibro	3	calcific	sis	us
+ficti	3	on	tious	ve
+fiction	3	-writ	NULL	al
+field	8	's	-	NULL	e	ing	mice	s	work
+field-	3	flattening	hands'	sequential
+fielder	3	's	NULL	s
+fierce	4	NULL	ly	ness	st
+fift	4	een	h	ie	y
+fifteen	3	-	NULL	th
+fifty-	9	cent	dollar	f	nin	o	pound	seven	t	year
+fight	4	NULL	er	in	s
+figur	3	a	e	in
+figure	3	NULL	d	s
+file	4	NULL	d	s	ts
+fili	5	al	buster	gree	ng	p
+fill	6	-in	NULL	e	i	s	y
+fille	4	NULL	d	r	s
+filli	3	es	ng	p
+film	7	's	NULL	dom	ed	ing	s	y
+filter	4	NULL	ed	ing	s
+final	5	NULL	e	i	ly	s
+finance	3	NULL	d	s
+financi	3	al	er	ng
+find	4	NULL	er	ing	s
+fine	7	-	NULL	d	ly	ness	r	s
+fine-	8	boned	chiseled	drawn	feat	grained	looking	point	tooth
+finger	8	-	NULL	ed	ing	nails	print	s	tips
+finger-	4	held	p	sucking	tips
+fingerprint	3	NULL	ing	s
+fini	4	al	cky	sh	te
+finish	3	NULL	e	ing
+finishe	3	d	r	s
+finn	4	NULL	e	ish	s
+finne	3	d	gan	y
+fire	13	's	-	NULL	arms	b	cracker	d	houses	light	m	p	s	works
+fire-	3	c	fighting	resistant
+firm	7	's	NULL	a	er	ly	ness	s
+first	3	-	NULL	hand
+first-	10	aid	born	class	degree	f	hand	level	order	place	r
+fish	6	NULL	e	ing	kill	mongers	pond
+fisher	4	NULL	m	s	y
+fist	5	-fighting	NULL	ed	oulari's	s
+fitz	3	gerald	hugh	roy
+five	3	-	NULL	s
+five-	13	a	c	day	elements	fo	gallon	h	m	ply	round	seventeen	volume	year
+five-and-	3	a-half	dime	twenty
+five-m	3	ember	inute	onth
+flag	7	-	NULL	e	ler's	poles	rant	s
+flail	3	NULL	ed	ing
+flam	4	boyant	e	ing	mable
+flame	4	-throwers	NULL	d	s
+flan	5	agan	ders	ge	k	n
+flank	3	NULL	ed	ing
+flare	3	NULL	d	s
+flash	7	-bulbs	NULL	back	e	ing	light	y
+flat	9	-	NULL	head	iron	l	ness	s	te	u
+flat-	3	b	footed	topped
+flatte	3	n	r	st
+flatten	3	NULL	ed	ing
+flatter	4	NULL	ed	ing	y
+flavor	4	NULL	ed	ing	s
+flaw	3	NULL	less	s
+flax	3	NULL	en	seed
+flea	3	NULL	s	wort
+fled	3	NULL	ermaus	gling
+flee	4	NULL	ing	s	t
+fleet	5	's	NULL	est	ing	s
+flex	4	NULL	ed	ib	ural
+flick	4	NULL	e	ing	s
+flin	3	ching	g	t
+flip	3	NULL	p	s
+flipp	3	ant	e	ing
+flirt	3	NULL	atio	ed
+float	4	NULL	e	ing	s
+floc	3	NULL	culat	k
+flock	5	's	NULL	ed	ing	s
+flood	8	's	-	NULL	ed	heads	ing	li	s
+floor	5	-	NULL	boards	ing	s
+flop	3	NULL	p	s
+flor	5	NULL	a	e	i	y
+flora	3	NULL	dora	l
+flori	3	can-	d	st
+florid	3	NULL	a	ian
+flot	3	ation-type	illa	te
+flou	3	n	r	t
+flounder	4	NULL	ed	ing	s
+flour	4	-milling	NULL	ed	ish
+flourish	3	NULL	e	ing
+flow	5	NULL	e	ing	n	s
+flower	7	's	-scented	NULL	ed	ing	pot	s
+fluid	4	-filled	NULL	ity	s
+fluoresce	3	in	n	s
+flush	3	NULL	ed	ing
+flut	3	e	i	ter
+flutter	3	NULL	ed	ing
+flyer	3	-castle	NULL	s
+foam	6	's	NULL	ed	ing	s	y
+focus	4	NULL	e	ing	sed
+fogg	5	's	NULL	ed	ia	y
+fold	4	NULL	e	ing	s
+folk	4	-	NULL	l	s
+folk-	4	dance	lore	music	tale
+folks	5	'	NULL	ongs	ton	y
+foll	3	i	ow	y
+follow	5	-	NULL	e	in	s
+followe	3	d	r	th
+fond	5	NULL	er	ly	ness	s
+fonta	3	NULL	inebleau	n
+food	3	-pr	NULL	s
+fool	6	NULL	ed	hardy	i	proof	s
+foolish	3	NULL	ly	ness
+foot	13	-	NULL	age	b	e	fall	hill	ing	man	note	path	st	w
+football	4	's	NULL	er's	s
+fora	3	g	nd	y
+forb	4	ad	e	id	or
+forbid	3	NULL	d	s
+force	6	's	-	NULL	d	ful	s
+fore	18	-play	NULL	a	b	c	f	g	head	ign	know	l	m	nsic	pa	runner	s	t	ver
+forecast	4	NULL	ers	ing	s
+foref	3	athers	eet	inger
+forego	3	NULL	ing	ne
+foreign	3	-	NULL	er
+foreign-	4	aid	entry-limit	policy	sounding
+fores	5	aw	ee	horten	ight	t
+foresee	4	NULL	able	ing	n
+forest	4	NULL	all	ry	s
+forg	4	ave	e	i	o
+forge	4	NULL	d	r	t
+forget	3	NULL	ful	ting
+forgi	3	ng	t	v
+fork	5	-lift	NULL	ed	lift	s
+form	9	-	NULL	a	by	e	i	osa	s	ula
+forma	4	NULL	bility	l	t
+formal	3	NULL	i	ly
+formali	3	sm	t	ze
+format	3	NULL	i	s
+formula	5	NULL	e	ic	s	t
+fors	4	a	ter's	wears	yth
+forsake	3	NULL	n	s
+fort	10	NULL	e	h	i	man	night	ress	s	un	y
+forte	3	-pianos	NULL	scue
+forth	3	NULL	coming	right
+forthright	3	NULL	ly	ness
+forti	5	e	f	n	ori	tude
+fortune	3	-	NULL	s
+forty-	6	eight	f	nine	s	t	year
+forward	4	-moving	NULL	ed	ing
+foster	5	's	NULL	ed	i	s
+foul	5	-smelling	NULL	e	ing	ly
+found	6	NULL	ation	e	ing	ling	ry
+foundation	4	's	-stone	NULL	s
+founder	4	-	NULL	ing	s
+fountain	4	-	NULL	head	s
+four	4	-	NULL	s	t
+four-	10	element	fold	hour	jet	l	o'clock	s	thirty	w	year
+four-s	3	ided	tory	yllable
+fourteen	3	-	NULL	th
+fourteen-	3	nation	team	year-old
+fourth-	5	c	down	flight	hand	of-july
+fraction	3	NULL	a	s
+fracture	3	NULL	d	s
+frag	4	ile	ment	onard	ran
+fragment	4	NULL	a	ed	s
+fram	3	besia	e	ing
+frame	5	NULL	d	r	s	work
+fran	9	's	NULL	c	gipani	k	ny	s	tic	z
+franc	8	NULL	aise	e	hise	i	k	o	s
+france	4	's	-germany	NULL	s
+franco	3	-	NULL	is
+frank	7	NULL	e	f	ie	l	ness	s
+frankfurter	3	's	NULL	s
+fraterni	3	sation	t	ze
+fraud	3	's	NULL	s
+fray	3	NULL	ed	ne
+freak	3	NULL	ish	s
+fred	5	's	NULL	d	eri	ri
+free	14	-	NULL	booters	d	h	ing	ly	man	port	r	s	thinkers	w	z
+free-	6	b	drink	for-all	holders	lance	w
+free-w	3	heeling	ill	orld
+freed	3	NULL	men	om
+freedom	4	's	-	NULL	s
+freeze	4	-out	NULL	r	s
+frei	3	da	ght	nkel
+freight	5	's	-	NULL	er	s
+freight-	3	bums	car	jumper
+fren	3	ch	etic	z
+french	3	-	NULL	m
+french-	3	born	canadian	polished
+frequent	3	NULL	ed	ly
+fres	3	co	h	n
+fresco	4	NULL	e	ing	s
+fresh	7	-ground	NULL	born	ened	ly	m	ness
+freud	3	's	NULL	ian
+friction	4	-free	NULL	al	s
+friday	3	's	NULL	s
+frie	3	d	nd	ze
+fried	4	NULL	enwald	man	rich
+friend	4	's	NULL	l	s
+friendli	3	er	ly	ness
+friends	3	'	NULL	hip
+fright	3	NULL	en	ful
+frighten	3	NULL	ed	ing
+fris	3	co	e	t
+frit	3	o	ters	z
+frog	3	-	NULL	s
+frog-	3	eating	haiku	marched
+frolic	3	NULL	king	s
+front	6	-	NULL	a	ed	i	s
+front-	3	back	line	page
+frost	8	's	-	NULL	bite	ed	ing	s	y
+froth	3	NULL	i	y
+frown	4	NULL	ed	ing	s
+fruit	5	NULL	ful	ion	less	s
+fruitful	3	NULL	ly	ness
+fuck	3	NULL	en	s
+fudo	3	's	NULL	mae
+fuel	4	NULL	ed	oil	s
+fulfill	5	NULL	ed	ing	ment	s
+full	6	-	NULL	back	e	ness	y
+full-	9	b	clad	dress	fledged	grown	of-the-moon	s	time	year
+full-b	3	anded	lown	odied
+function	5	NULL	a	ed	ing	s
+functional	3	NULL	ism	ly
+fund	6	's	-rais	NULL	amental	ing	s
+fundamental	4	NULL	is	ly	s
+funeral	3	-accessories	NULL	s
+fung	3	al	icides	us
+funn	3	el	ie	y
+funnel	3	NULL	ed	s
+furious	3	NULL	er	ly
+furnace	3	's	NULL	s
+furnish	3	NULL	e	ing
+furrow	3	NULL	ed	s
+further	4	NULL	ed	ing	more
+fuse	4	NULL	d	lage	s
+fusi	4	form	llades	ng	on
+fuss	3	NULL	i	y
+fuzz	3	NULL	ed	y
+gable	3	NULL	r	s
+gabriel	3	's	NULL	le
+gadget	3	NULL	ry	s
+gagg	3	ed	ing	le
+gain	5	NULL	e	ful	ing	s
+gaine	3	d	r	s
+gaines	3	'	NULL	ville
+gait	3	NULL	e	her
+gala	7	NULL	ctic	had	ntuomo	pagos	t	x
+gall	8	NULL	ant	bladder	e	i	o	s	u
+gallant	3	NULL	ry	s
+galle	4	d	r	t	y
+galli	4	NULL	ng	um	vantin'
+gallo	3	n	p	ws
+gallon	4	-loren	NULL	age	s
+gallop	3	NULL	ed	ing
+galvani	3	c	sm	zing
+gamble	3	NULL	r	s
+game	6	's	-management	NULL	bird	cock	s
+gang	7	's	NULL	es	l	plank	s	way
+garage	3	NULL	d	s
+garb	4	NULL	age	ed	led
+garden	4	NULL	e	i	s
+garg	3	antuan	ery	le
+gari	3	baldi	ne	sh
+garr	5	ard's	ett	i	ulous	y
+garrison	3	NULL	ed	ian
+gasket	3	's	NULL	s
+gasp	5	NULL	ard	e	ing	s
+gass	3	e	ing	y
+gasse	4	NULL	d	r	t
+gastro	3	cnemius	intestinal	nom
+gate	4	-post	NULL	s	way
+gather	4	NULL	ed	ing	s
+gathering	3	-in	NULL	s
+gaul	3	NULL	eiter	le
+gaze	6	NULL	d	lle	r	s	tte
+gear	6	-sets	NULL	ed	ing	s	y
+gene	7	-princess	NULL	alogies	r	s	tic	v
+genera	3	NULL	l	t
+general	7	's	-	NULL	e	i	ly	s
+generali	3	st	t	z
+generat	3	e	i	or
+generate	3	NULL	d	s
+generation	3	's	NULL	s
+geni	4	al	e	i	us
+gent	4	eel	i	l	ry
+gentile	3	-jewish	NULL	s
+gentle	4	NULL	m	ness	r
+geograph	3	ers	ic	y
+george	5	's	-barden	NULL	s	town
+georgia	4	's	-pacific	NULL	n
+geraghty	3	's	NULL	s'
+germ	4	NULL	an	ina	s
+german	9	's	-language	NULL	e	i	o-slavic	s	town	y
+germani	4	a	c	um	zed
+gero	3	ge	me	sa
+gest	3	apo	iculat	ur
+gesture	3	NULL	d	s
+ghost	4	NULL	ed	l	s
+gibb	4	et	on	s	y
+gift	3	NULL	ed	s
+giggle	3	NULL	d	s
+gild	3	NULL	as	ed
+gill	3	NULL	espie	is
+gird	3	NULL	ers	le
+girl	5	's	-	NULL	i	s
+give	7	-a	NULL	away	n	r	s	th
+glacier	3	-like	NULL	s
+glad	5	NULL	d	i	ly	ness
+glamor	3	NULL	ize	ous
+glance	3	NULL	d	s
+gland	4	NULL	ers	s	ular
+glass	5	-	NULL	es	less	y
+glass-	3	bottom	fiber	like
+glaze	4	NULL	d	r	s
+glea	3	m	n	son
+gleam	3	NULL	ed	ing
+glee	4	-club	NULL	ful	s
+glen	3	NULL	d	n
+glide	5	-bombed	NULL	d	rs	s
+glim	3	co	mer	pse
+glimpse	3	NULL	d	s
+glint	3	NULL	ed	ing
+glis	3	on	sade	ten
+glisten	3	NULL	ed	ing
+glitter	3	NULL	ed	ing
+glob	6	-flakes	al	e	igii	ocnik	ulin
+globe	4	-	NULL	s	trotter
+gloom	3	NULL	ily	y
+glori	4	a	es	f	ous
+gloss	4	NULL	ary	ed	y
+glove	4	NULL	d	r	s
+glow	4	NULL	e	ing	s
+glut	3	amic	inous	t
+glycerin	3	NULL	ated	e
+gnaw	3	NULL	ed	ing
+gnome	3	NULL	like	s
+goal	3	-	NULL	s
+goal-	3	line	oriented	values
+gobble	3	d	rs	s
+god-	4	curst	forsaken	given	like
+goddam	4	NULL	it	mit	n
+goin	3	'	NULL	g
+going	3	-over	NULL	s
+gold	8	-	NULL	a	berg	en	fish	smith	water
+gold-	3	filled	phone	wire
+golf	4	's	NULL	er	ing
+good	9	-	NULL	b	i	man	n	s	wi	y
+good-	6	by	humoredly	l	n	size	will
+good-n	3	atured	ews	ight
+gord	3	NULL	in	on
+gorge	3	NULL	ous	s
+gorton	3	's	NULL	ists
+gospel	4	-singer	NULL	ers	s
+goss	3	amer	ip	on
+gossip	3	NULL	ed	ing
+gott	4	NULL	a	e	ingen
+goulding	3	's	NULL	s
+gourmet	3	's	NULL	s
+govern	6	NULL	e	ing	ment	or	s
+government	5	's	-	NULL	al	s
+government-	5	blessed	controlled	owned	supported	to-government
+governor	4	's	-general	NULL	s
+gown	3	NULL	ed	s
+grab	3	NULL	b	s
+grace	4	NULL	d	ful	s
+graci	3	as	e	ous
+grad	7	NULL	ations	e	i	s	ua	y
+grade	5	-	NULL	d	r	s
+grade-	3	a	constructed	equivalent
+gradual	3	NULL	ist	ly
+graduate	3	NULL	d	s
+graf	3	f	in	t
+grain	4	-storage	NULL	ing	s
+gram	4	-negative	NULL	m	s
+gran	9	'dad	NULL	ary	d	ite	ny	t	ul	ville
+grand	11	-	NULL	children	daughter	e	father	i	ly	m	parents	s
+grand-	3	daughter	looking	slam
+grande	4	-bretagne	NULL	r	ur
+grandfather	3	-father-to-son	NULL	s
+grandmother	3	's	NULL	s
+grands	3	NULL	on	tand
+grant	7	's	-in-aid	NULL	ed	her	ing	s
+granul	3	ar	es	ocytic
+grap	3	e	h	p
+grape	5	-arbor	NULL	fruit	s	vine
+graph	4	NULL	ed	i	s
+gras	3	NULL	p	s
+grasp	3	NULL	ed	ing
+grass	8	-	NULL	e	fire	hoppers	land	roots	y
+grass-	3	fed	green	roots
+grasse	3	d	rs	s
+grat	5	a	e	i	t	uitous
+grate	3	NULL	d	ful
+grati	4	f	ng	s	tude
+grating	3	NULL	ly	s
+grav	3	e	i	y
+grave	6	NULL	l	n	r	s	yard
+graves	4	'	NULL	end	t
+gray	6	-	NULL	beard	e	ing	son
+gray-	4	backs	haired	looking	thatched
+graze	3	NULL	d	r
+grease	4	-removal	NULL	d	s
+great	7	's	-	NULL	coat	e	ly	ness
+great-grand	3	father	mother	son
+greate	3	NULL	r	st
+gree	6	ce	d	k	n	r	t
+greed	3	NULL	ily	y
+greek	3	-	NULL	s
+green	15	's	-	NULL	berg	e	field	house	i	l	ness	ock	s	tree	ville	w
+green-	3	b	scaled	tinted
+greenl	3	and	eaf	y
+greenw	3	are	ich	ood
+greet	3	NULL	ed	ing
+greg	5	's	NULL	arious	g	or
+gren	4	ade	ier	oble	ville
+grev	4	NULL	il	ouselye	yles
+grey	6	's	-	NULL	hound	ing	lag
+griev	3	ance	ing	ous
+griffin	3	's	-byrd	NULL
+griffith	3	's	-jones	NULL
+grigor	3	i	ss	y
+grill	3	NULL	e	work
+grille	4	-route	NULL	d	work
+grim	6	NULL	ace	e	ly	m	ness
+grin	4	NULL	d	n	s
+grind	5	NULL	ers	ing	lay	s
+grip	4	NULL	es	p	s
+gris	3	NULL	ly	t
+grist	3	NULL	mill	on
+grit	4	-impregnated	NULL	s	ty
+grizzl	3	ed	ies'	y
+groan	3	NULL	ed	ing
+grocer	5	's	NULL	ies	s	y
+groo	3	m	t	ve
+groom	4	NULL	ed	ing	s
+groove	3	NULL	d	s
+gross	5	's	NULL	e	ly	man
+grot	3	esque	h	toes
+grotesque	3	NULL	ly	s
+ground	7	-	NULL	e	ing	less	s	w
+ground-	4	glass	level	swell	truck
+group	5	's	NULL	ed	ing	s
+grove	4	NULL	l	r	s
+grow	7	NULL	er	ing	l	n	s	th
+growl	3	NULL	ed	ing
+grown	3	-up	NULL	ups
+growth	3	-stunting	NULL	s
+grub	3	NULL	b	s
+grunt	3	NULL	ed	ing
+guar	3	NULL	ant	d
+guarantee	3	NULL	d	s
+guard	7	's	-room	NULL	ed	house	i	s
+guardin	3	g	i	o
+guerrilla	3	-th'-wisp	NULL	s
+guess	3	NULL	e	ing
+guid	3	ance	e	ing
+guide	7	's	NULL	book	d	lines	posts	s
+guil	5	d	e	ford	laume	t
+guilt	4	NULL	iness	less	y
+guitar	4	-strumming	NULL	ist	s
+gull	5	NULL	ah	e	i	y
+gulle	3	d	t	y
+gulli	4	b	es	ng	ver's
+gulp	3	NULL	ed	s
+gunn	4	ar	er	ing	y
+gust	5	NULL	a	o	s	y
+gustav	3	NULL	e	us
+gutt	3	e	man-type	ural
+gutter	3	NULL	ed	s
+gymnast	3	NULL	ic	s
+gyps	3	ies	um	y
+gyro	4	-	NULL	compass	s
+habit	4	NULL	a	s	ual
+habita	3	ble	nts	t
+hack	8	NULL	e	ing	les	mann	neyed	s	work
+hacke	3	d	rs	tt
+hadd	3	NULL	ix	ock
+hail	3	NULL	ed	s
+hair	10	-	NULL	cut	dos	ier	less	pin	s	tonic	y
+half	6	-	NULL	back	hearted	time	way
+half-	19	a	b	c	d	e	f	g	h	in	li	m	off	past	re	s	t	understood	w	year
+half-a	3	-dozen	c	loud
+half-b	3	lood	ottles	r
+half-c	5	entury	ity	l	o	r
+half-d	4	arkness	igested	ozen	r
+half-g	3	ainer	ourd	rown
+half-m	5	an	elted	i	oons	urmured
+half-s	4	ister	mile	t	w
+half-t	3	ime	ransparent	urned
+hall	9	's	-m	NULL	e	mark	owe	s	ucinati	way
+hallowe	3	d	en	ll's
+halo	3	NULL	gens	s
+halt	4	NULL	e	ing	s
+hamilton	4	's	-oriented	NULL	ian
+hamm	6	's	NULL	arskjold	e	ing	o
+hammer	3	NULL	ed	less
+hamp	3	er	shire	ton
+hamper	3	NULL	ed	s
+hand	15	-	NULL	b	c	e	ful	gun	hold	i	kerchief	l	ma	s	writing	y
+hand-	11	blower	c	filed	h	in-glove	level	m	painted	screened	to-hand	w
+hande	3	NULL	d	r
+handi	4	c	e	ng	work
+handicap	3	NULL	ped	s
+handle	6	NULL	bars	d	r	s	y
+hands	6	-off	NULL	hake	ome	pikes	tand
+handsome	4	NULL	ly	r	st
+hang	7	NULL	ar	e	in	man	o	s
+hanover	4	's	-	NULL	ian
+hanover-	7	bertie	c	justitia	lucy	m	p	s
+hans	4	'	NULL	en	om
+happ	3	en	i	y
+happen	4	NULL	ed	ing	s
+happi	3	e	ly	ness
+harass	3	NULL	ed	ing
+harb	3	ert	or	urg
+harbor	5	's	NULL	ed	ing	s
+hard	12	's	-	NULL	b	e	ing	ly	ness	s	tack	w	y
+hard-	10	b	come-by	earned	fought	h	liquor	nosed	s	to-	won
+harde	4	e's	n	r	st
+hardw	3	are	ick	o
+hare	3	NULL	lips	m
+harl	3	an-	e	ingen
+harm	5	NULL	ed	ful	less	on
+harmon	3	NULL	i	y
+harmoni	4	c	es	ous	zation
+harn	3	ack	ess	ick
+harness	3	NULL	ed	ing
+harp	5	NULL	er	ing	sichord	y
+harper	3	's	NULL	s
+harr	5	assment	i	o	umphing	y
+harri	5	e	man	ngton	s	ty
+harris	3	'	NULL	on
+harrow	4	NULL	ed	ing	s
+harsh	4	NULL	e	ly	ness
+hart	7	NULL	es	ford	l	man	s	we
+harv	3	ard	e	ie
+harve	3	NULL	st	y
+harvest	4	NULL	e	ing	s
+hast	4	NULL	e	i	y
+hasten	3	NULL	ed	ing
+hatch	4	NULL	e	ing	way
+hate	4	NULL	d	ful	s
+hatte	3	d	r	s
+haught	3	i	on's	y
+haul	5	NULL	age	ed	ing	s
+haunt	4	NULL	ed	ing	s
+have	3	NULL	n	r
+haven	3	't	NULL	s
+havi	3	lland	ng	sham
+hawk	5	-faced	NULL	e	ins	s
+hawkins	3	'	NULL	es
+hawks	3	NULL	ley	worth
+hazard	3	NULL	ous	s
+haze	3	NULL	l	s
+head	14	-	NULL	ache	board	dress	e	ing	l	master	quarter	room	s	wa	y
+head-	5	and-shoulders	cold	in-the-clouds	on	tossing
+heade	3	NULL	d	r
+headl	3	and	ess	i
+heads	3	NULL	man	t
+heal	4	NULL	e	ing	th
+health	4	NULL	ful	i	y
+heap	3	NULL	ed	s
+hear	7	NULL	d	e	ing	n	s	t
+heare	3	NULL	r	st
+hearing	3	-aid	NULL	s
+hears	4	NULL	ay	e	t
+heart	11	's	-	NULL	b	ening	felt	h	i	less	s	y
+heart-	3	measuring	stopping	warming
+heat	7	's	-	NULL	e	he	ing	wole
+heat-	3	absorbing	denatured	processing
+heav	3	e	i	y
+heave	5	NULL	d	n	rs	s
+heaven	5	's	NULL	ly	s	ward
+heavi	3	e	ly	n
+heavy-	7	armed	coated	duty	electrical-goods	f	handed	weight
+hedge	3	NULL	d	s
+heed	3	NULL	ed	less
+heel	4	-	NULL	ers	s
+heel-	6	be	holiday	kaola	lotus	miracle	terka
+hegel	3	's	NULL	ian
+heide	4	gger	lberg	man	nstam
+height	4	-to-diameter	NULL	en	s
+heighten	3	NULL	ed	ing
+hein	3	e	kel	ze
+heir	3	NULL	ess	s
+helen	3	NULL	a	e
+heli	3	copter	o	um
+helio	4	centric	n	polis	trope
+hell	8	's	-	NULL	enic	fire	o	s	uva
+hell-	3	bound	f	raising
+helm	4	NULL	et	sman	ut
+help	7	NULL	e	ful	ing	less	mate	s
+helpful	3	NULL	ly	ness
+helpless	3	NULL	ly	ness
+hemo	4	globin	lytic	rrh	siderin
+hemp	3	el	hill	stead
+hend	3	erson	l	r
+henri	4	's	NULL	etta	k
+herald	3	-examiner	NULL	ed
+herb	3	NULL	er	s
+hercule	3	NULL	an	s
+herd	5	-owner	NULL	ed	in	s
+here	11	's	NULL	a	by	dit	ford	in	sy	t	unto	with
+herman	3	's	NULL	ovski
+hero	7	's	-worship	NULL	es	i	ld	n
+heroi	3	c	n	sm
+heroic	3	NULL	ally	s
+herr	4	NULL	i	mann	y
+herri	3	ck	dge	n
+herring	3	NULL	bone	ton
+hers	3	NULL	e	he
+hesitate	3	NULL	d	s
+hick	4	-self	NULL	o	s
+hide	5	-out	NULL	away	ou	s
+high	12	's	-	NULL	b	e	field	l	ness	point	road	s	way
+high-	17	NULL	backed	c	density	en	gain	interest	le	minded	p	quality	re	s	t	up	v	wa
+high-c	4	eilinged	lass	ost	urrent
+high-p	3	itched	o	r
+high-s	7	alaried	chool	et	ounding	p	tepped	udsing
+high-t	3	ailed	e	opped
+high-v	3	alue	elocity	oltage
+higher-	4	NULL	density	priced	quality
+highl	3	and	ight	y
+highlight	3	NULL	ing	s
+highway	3	NULL	man	s
+hike	3	NULL	d	s
+hill	10	NULL	ary	billy	crest	el	iard	man	s	tops	yer
+hills	4	NULL	boro	dale	ide
+hind	8	NULL	e	most	oo	quarters	rances	sight	u
+hinder	3	ed	ing	s
+hindu	3	NULL	ism	s
+hinge	3	NULL	d	s
+hint	5	NULL	e	ing	on	s
+hire	5	NULL	d	lings	s	y
+hirsch	3	's	NULL	ey
+hiss	3	NULL	e	ing
+histo	3	chemi	logy	r
+histori	4	an	c	es	ography
+historian	3	's	NULL	s
+historic	3	NULL	al	i
+hitch	4	NULL	cock	ed	ing
+hitler	3	's	NULL	s
+hoag	3	's	NULL	y
+hoarse	3	NULL	ly	ness
+hobb	4	es	i	le	y
+hock	4	's	aday	e	ing
+hodge	3	-podge	podge	s
+hoff	3	a	er	man
+hold	7	-back	NULL	e	in	overs	s	up
+holder	3	NULL	lin	s
+hole	3	NULL	d	s
+holi	3	day	e	ness
+holl	5	and	e	ingshead	ow	y
+hollow	6	NULL	ay	ell	ness	s	ware
+holy	3	NULL	oke	stones
+home	12	's	-	NULL	b	coming	folk	l	ma	owners	r	s	ward
+home-	9	and-home	b	c	for-the-night	grown	keeping	made	o	run
+home-b	4	lend	ound	red	uilding
+homema	3	de	ker	ster
+homer	5	's	NULL	i	s	un
+homes	3	NULL	ick	tead
+homestead	3	NULL	ers	s
+homo	5	NULL	gen	polymers	sexual	zygous
+homogen	3	ate	e	iz
+hone	3	NULL	st	y
+honest	4	-to-betsy	NULL	ly	y
+honey	6	-in-the-sun	NULL	bee	combed	moon	suckle
+honeymoon	3	NULL	e	ing
+hono	4	lulu	r	tassa	ur
+honor	5	NULL	a	e	ing	s
+hood	4	's	NULL	lum	s
+hoof	4	-and-mouth	NULL	marks	s
+hook	6	NULL	e	ing	s	up	worm
+hoop	4	NULL	er	la	s
+hoot	4	NULL	ed	ing	s
+hope	7	's	NULL	d	ful	i	less	s
+hoped	3	-for	NULL	ale
+hopeful	3	NULL	ly	s
+hopeless	3	NULL	ly	ness
+hopkins	3	'	NULL	ian
+hopp	3	e	ing	le
+horizon	3	NULL	s	tal
+horn	4	-rim	NULL	e	s
+horne	3	's	NULL	d
+horri	3	bl	d	f
+hors	3	NULL	e	tman
+horse	12	's	-	NULL	back	dom	flesh	hair	l	m	p	s	woman
+horse-	5	blanket	chestnut	playing	radish	tra
+hospital	4	-care	NULL	i	s
+host	8	's	-specific	NULL	a	e	il	ler	s
+hoste	3	NULL	lries	ss
+hot-	5	blooded	colored	honey	s	water
+hotel	5	's	-motel	NULL	man's	s
+hough	3	's	NULL	ton
+hour	5	's	-long	NULL	ly	s
+hous	4	e	ing	man	ton
+house	10	's	-	NULL	b	d	hold	keep	paint	s	w
+household	4	-type	NULL	er	s
+hove	3	NULL	l	r
+hover	4	NULL	ed	ing	s
+howe	4	's	NULL	ll	ver
+howl	4	NULL	ed	ing	s
+hows	3	a	e	omever
+hubb	4	a	ell	ub	y
+huff	3	's	NULL	man
+hulk	3	NULL	ing	s
+human	6	NULL	e	i	ly	ness	s
+humani	3	s	t	ze
+humanist	3	NULL	ic	s
+humanit	3	arian	ies	y
+humm	3	ed	ing	ocks
+humor	3	NULL	ists	ous
+hump	4	NULL	ed	hrey	ty
+hundred	4	-	NULL	s	th
+hundred-	4	and-	leaf	odd	yen
+hung	4	NULL	ar	er	r
+hunt	5	NULL	e	ing	ley	s
+hunter	4	's	-killer	NULL	s
+hurdle	3	NULL	d	s
+hurl	3	NULL	e	ing
+hurle	3	d	r	y
+hurr	3	a	i	y
+hurt	4	NULL	ing	l	s
+husband	5	's	-	NULL	ry	s
+hustle	3	NULL	d	r
+hutchins	3	'	NULL	on
+hydr	3	a	id	o
+hydro	8	-electric	c	gen	ly	ph	static	us	x
+hydrox	3	azine	ides	y
+hyper	7	bol	cellularity	emi	fine	plasia	troph	velocity
+hypo	7	-	a	c	dermic	physe	statization	th
+hypoth	3	alam	e	yroidism
+hypothalamic	3	-cortical	NULL	ally
+hyster	3	ectomy	i	on-proteron
+ice-c	3	hest	old	ubes
+idea	5	-exchange	NULL	l	s	tional
+ideal	4	NULL	i	ly	s
+identi	3	cal	f	t
+identifi	3	able	cation	e
+ideologi	3	cal	es	st
+idio	4	cies	m	syncra	t
+idiom	3	NULL	atic	s
+idiot	4	's	-grin	NULL	ic
+idle	4	NULL	d	ness	r
+idol	5	-worship	NULL	atry	ize	s
+ignor	3	a	e	ing
+ignore	3	NULL	d	s
+ill-	5	conceived	equipped	fated	prepared	starred
+illi	3	cit	nois	terate
+illumine	3	NULL	d	s
+illus	3	i	ory	tr
+illusion	3	NULL	ary	s
+illustrat	3	e	i	or
+illustrate	3	NULL	d	s
+illustrati	3	ng	on	ve
+imag	3	e	in	nation
+image	4	-provoking	NULL	ry	s
+imagin	4	a	e	g	ing
+imagine	3	NULL	d	s
+imbr	3	ium	oglio	uing
+imitat	3	e	i	ors
+imitate	3	NULL	d	s
+imitati	3	ng	on	ve
+imitation	3	-	NULL	s
+imma	3	culate	nent	t
+imme	5	asurabl	dia	morial	ns	rs
+immo	4	bility	de	r	vable
+impa	6	ct	ir	l	rt	ss	tien
+impact	3	NULL	ed	s
+impair	3	NULL	ed	ment
+impart	5	NULL	ation	ed	ial	s
+impass	3	able	e	i
+impe	6	ccabl	d	ll	n	r	tu
+imper	7	ative	ceptibl	fect	i	sona	t	vious
+imperfect	4	NULL	ability	ion	ly
+imperi	4	al	l	ous	shable
+imperial	3	NULL	es	is
+imperil	3	NULL	ed	led
+impersonal	3	NULL	ized	ly
+impi	3	ety	ng	ous
+impl	5	a	ement	i	or	y
+impla	3	cable	nt	usibly
+implant	3	NULL	ation	ed
+implement	5	NULL	ation	ed	ing	s
+impo	7	litic	nderable	rt	s	ten	undments	verished
+import	5	NULL	a	ed	s	un
+important	3	-looking	NULL	ly
+impos	3	e	i	sib
+impose	3	NULL	d	s
+impr	5	actica	e	i	o	udently
+impress	3	NULL	e	i
+impresse	3	d	r	s
+impressi	3	ng	on	ve
+impression	3	NULL	is	s
+impressionist	3	NULL	ic	s
+impri	3	matur	nt	son
+imprison	3	ed	ment	s
+impro	4	babl	mptu	p	v
+improve	4	NULL	d	ment	s
+improvis	3	ation	e	ing
+improvise	4	NULL	d	r	s
+impu	5	den	ls	nity	rit	t
+inactiv	3	at	e	ity
+inca	6	NULL	lculable	n	pa	r	utious
+ince	4	n	pt	rtain	s
+incen	3	diaries	se	tive
+incept	3	ed	i	or
+inci	5	den	nerator	pien	s	t
+incident	3	NULL	al	s
+incidental	3	NULL	ly	s
+incite	3	NULL	d	ment
+incl	4	ement	in	osed	u
+include	3	NULL	d	s
+inco	4	herent	m	n	r
+incom	3	e	ing	p
+incomp	4	a	eten	lete	rehensi
+incomplete	3	NULL	ly	ness
+incon	5	c	gru	s	t	venien
+incons	3	equential	i	picuous
+incorporate	3	NULL	d	s
+incorr	3	ect	igible	uptib
+incre	3	as	d	mental
+increase	3	NULL	d	s
+incu	4	b	lcat	mbent	r
+incub	3	at	i	us
+incur	4	NULL	abl	r	s
+inde	11	bted	c	ed	f	li	mnity	nt	penden	s	terminate	x
+indecisive	3	NULL	ly	ness
+indef	3	atigable	ensible	in
+indefinite	3	NULL	ly	ness
+independent	3	NULL	ly	s
+index	3	NULL	es	ing
+indi	9	a	c	es	fferen	g	rect	s	um	vi
+india	3	's	NULL	n
+indian	4	's	NULL	a	s
+indiana	3	's	NULL	polis
+indic	3	at	es	t
+indicat	3	e	i	or
+indicate	3	NULL	d	s
+indicati	3	ng	on	ve
+indig	4	ation	e	n	o
+indigen	3	es	ous	t
+indirect	3	NULL	ion	ly
+indis	3	cr	p	tin
+indisp	3	ens	os	utably
+individual	6	's	-contributor	NULL	i	ly	s
+individuali	3	s	ty	z
+individualist	3	NULL	ic	s
+indo	7	-china	c	len	mitable	nesia	or	rsed
+indu	4	bitable	c	lg	str
+induc	3	e	ing	t
+induce	4	NULL	d	ment	s
+indulge	3	NULL	d	n
+industr	3	alization	i	y
+industri	3	al	es	ous
+industrial	3	NULL	i	ly
+industrialist	3	NULL	es	s
+industry	3	's	-wide	NULL
+ineff	3	able	ect	icien
+ineffective	3	NULL	ly	ness
+inept	3	NULL	ly	ness
+inex	6	act	cusable	haustible	orabl	p	tricable
+inexp	3	e	licabl	ressibl
+infa	5	llible	m	n	rct	tuation
+infant	5	's	NULL	ile	ry	s
+infe	3	ct	r	st
+infect	3	NULL	ed	io
+infer	6	NULL	en	ior	n	red	tile
+infest	3	NULL	ation	ed
+infi	6	del	eld	ghting	ltrat	nit	rm
+infidel	3	NULL	ity	s
+infinit	4	e	ive	um	y
+infinite	3	NULL	ly	simal
+infirm	3	NULL	ary	ity
+infl	5	a	e	ict	ow	u
+inflict	3	NULL	ed	i
+influen	3	c	t	za
+influence	3	NULL	d	s
+inform	5	NULL	a	ed	ing	s
+informa	3	l	nt	ti
+informal	3	NULL	ity	ly
+information	3	-	NULL	al
+infr	3	a	equent	ingement
+infra	3	NULL	ction	red
+inha	3	bit	l	rmonious
+inhabit	4	NULL	a	ed	ing
+inherit	6	NULL	ance	ed	ing	ors	s
+inhibit	5	NULL	ed	i	or	s
+inhibitor	3	NULL	s	y
+inho	3	ldings	mogeneous	spitable
+inhuman	3	NULL	e	ities
+initial	4	NULL	ed	ly	s
+initiat	3	e	i	or
+initiate	3	NULL	d	s
+initiati	3	ng	on	ve
+inject	3	NULL	ed	i
+inju	3	n	r	stice
+injun	4	's	NULL	cti	s
+injur	3	ed	i	y
+injuri	3	es	ng	ous
+innocent	3	NULL	ly	s
+innovat	3	e	ion	ors
+innuendo	3	NULL	es	s
+inquir	3	e	i	y
+inquire	3	NULL	d	r
+inse	6	c	mination	nsitive	parable	rt	t
+insect	3	NULL	icide	s
+insert	4	NULL	ed	ion	s
+insi	5	d	g	n	pid	st
+inside	3	NULL	rs	s
+insist	4	NULL	e	ing	s
+inso	4	far	l	m	uciance
+inspect	4	NULL	ed	i	or
+inspir	3	ation	e	ing
+inspiration	3	NULL	al	s
+inspire	3	NULL	d	s
+inst	4	a	ead	i	ru
+insta	3	bility	l	n
+install	5	NULL	ation	ed	ing	ment
+instant	4	's	NULL	aneous	ly
+insti	4	gat	llation	nct	tut
+instigat	3	e	i	or
+instinct	4	NULL	ive	s	ual
+institut	3	NULL	e	i
+institute	4	's	NULL	d	s
+institution	5	's	-wide	NULL	al	s
+instruct	5	NULL	ed	i	or	s
+instructi	3	ng	on	ve
+instruction	3	NULL	al	s
+instructor	3	's	NULL	s
+instrument	4	-jammed	NULL	a	s
+instrumental	5	-reward	NULL	i	ly	s
+insu	5	b	fficient	l	perabl	r
+insul	3	a	in	t
+insulat	3	e	i	or
+insult	4	NULL	ed	ing	s
+insur	6	ance	e	gen	ing	mountable	rection
+insure	3	NULL	d	s
+inta	3	ct	ke	ngible
+inte	6	g	ll	mperance	n	r	stine
+integrate	3	NULL	d	s
+integrati	3	ng	on	ve
+intellectual	5	-literary	NULL	ity	ly	s
+intelligent	3	NULL	ly	sia
+inten	3	d	s	t
+intend	5	NULL	ant	ed	ing	s
+intensi	3	f	t	ve
+intent	3	NULL	ion	ly
+intention	4	NULL	al	ed	s
+inter	19	-	NULL	a	c	de	e	f	g	i	jected	l	m	n	p	r	s	twined	v	w
+inter-	5	american	plant	relation	species	t
+intera	3	ct	ma	xial
+interact	3	NULL	i	s
+interc	5	e	hange	lass	o	risis
+intercept	4	NULL	ed	or	s
+interchange	3	NULL	able	s
+interco	3	llegiate	n	urse
+interest	4	NULL	ed	ing	s
+interfer	3	e	ing	ometer
+interfere	4	NULL	d	nce	s
+interg	3	lacial	overnmental	roup
+interl	4	a	i	o	ude
+interm	4	arriage	e	i	olecular
+interme	3	dia	nt	shed
+intermi	3	nable	ssion	ttent
+intern	5	NULL	a	e	ist's	s
+internal	4	-external	NULL	ized	ly
+international	4	NULL	e	i	ly
+interp	4	e	la	o	ret
+interpe	3	netrate	ople	rsonal
+interpret	6	NULL	a	e	ing	or	s
+interr	3	e	ogat	upt
+interre	3	d	gnum	lat
+interrupt	3	NULL	ed	ion
+inters	4	cience	ect	pe	t
+interst	3	a	ellar	i
+interv	3	al	en	iew
+interven	3	e	ing	tion
+intervene	3	NULL	d	s
+interview	4	NULL	e	ing	s
+interviewe	3	d	e	r
+intima	4	NULL	cy	l	t
+intimate	3	NULL	d	ly
+into	4	NULL	lera	n	xicat
+intr	5	a	epid	i	o	u
+intra	8	-	ctable	departmental	epithelial	mu	n	pulmonary	tissue
+intra-	3	c	mural	st
+intri	3	cate	gu	nsic
+intrigue	3	NULL	d	s
+intro	4	duc	ject	specti	verted
+introduc	3	e	ing	t
+introduce	3	NULL	d	s
+introject	3	NULL	ed	s
+intrude	4	NULL	d	r	s
+inva	4	d	l	ria	sion
+invade	4	NULL	d	r	s
+invalid	4	NULL	ate	ism	s
+invasion	3	-theory	NULL	s
+inve	5	igh	nt	r	st	terate
+invent	4	NULL	ed	i	or
+inventi	3	ng	on	ve
+inventor	4	NULL	ies	s	y
+inver	3	calt	s	t
+invest	6	NULL	ed	i	ment	or	s
+investigat	3	e	i	or
+investigate	3	NULL	d	s
+investigati	3	ng	on	ve
+invi	6	ctus	gorati	ncible	ola	sibl	t
+invit	3	ation	e	ing
+invitation	3	NULL	al	s
+invite	4	NULL	d	es	s
+invo	4	cation	ices	k	l
+involve	4	NULL	d	ment	s
+inward	3	NULL	ly	ness
+iodo	4	amino	compounds	protein	t
+ireland	3	's	NULL	s'
+iron	7	-	NULL	ed	i	pants	s	y
+iron-	3	clad	poor	shod
+ironi	3	c	es	ng
+irra	3	diat	tional	waddy
+irrational	3	NULL	ity	ly
+irre	8	concilable	d	gular	levant	mediable	p	s	v
+irregular	4	NULL	it	ly	s
+irres	3	istibl	ol	p
+irrita	3	b	nt	t
+islam	3	's	NULL	ic
+island	5	's	NULL	ers	ia	s
+isot	3	hermal	o	ropic
+israel	3	's	NULL	i
+issu	3	ance	e	ing
+issue	3	NULL	d	s
+istiqlal	3	's	-sponsored	NULL
+ital	3	i	o	y
+itch	3	NULL	es	ing
+item	4	-categories	NULL	iz	s
+itemiz	3	ation	ed	ing
+jack	11	's	-	NULL	ass	boot	daws	et	ie	man	son	y
+jacket	3	NULL	ed	s
+jackson	5	's	NULL	ian	s	ville
+jacob	5	NULL	ean	ite	s	y
+jade	3	-handled	NULL	d
+jail	3	NULL	ed	s
+james	4	'	NULL	on	town
+jane	3	's	NULL	t
+jani	3	ce	s	t
+janitor	3	's	NULL	s
+jazz	3	NULL	men	y
+jealous	4	NULL	ies	ly	y
+jean	4	-	NULL	nie	s
+jean-	3	honore	marie	p
+jefferson	3	's	NULL	ian
+jenni	5	's	NULL	e	fer	ngs
+jere	3	bohm	miah	z
+jerk	5	NULL	ed	ing	s	y
+jess	5	's	NULL	e	i	y
+jew-	3	as-enemy	baiter	haters
+jewel	6	-bright	NULL	e	led	ry	s
+jewish	3	-gentile	NULL	ness
+jitter	3	bug	s	y
+joan	3	's	NULL	ne
+john	5	'	-	NULL	n	s
+johns	4	-manville	NULL	on	ton
+join	5	NULL	e	ing	s	t
+joint	3	NULL	ly	s
+joke	4	NULL	d	rs	s
+joll	3	a	iffe	y
+jones	5	'	-imboden	NULL	borough	es
+jorda	3	's	NULL	n
+jose	3	NULL	f	ph
+joseph	3	's	NULL	us
+journal	5	-	NULL	ese	is	s
+journey	4	's	NULL	ed	s
+jude	3	NULL	a	o-christian
+judg	3	e	ing	ment
+judge	6	's	-made	NULL	d	ment	s
+judges	3	'	NULL	hip
+juic	3	e	iest	y
+juli	4	a	e	o	us
+jump	5	NULL	e	ing	s	y
+junior	4	's	-	NULL	s
+junior-	4	grade	philosophical	senior	year-abroad
+junk	4	NULL	e	ies	s
+juri	3	dical	es	s
+juris	3	diction	pruden	t
+jurisdiction	3	NULL	al	s
+just	5	NULL	e	i	ly	ness
+justi	4	ce	f	n	tia
+justice	3	's	NULL	s
+justifi	3	abl	cation	ed
+kaiser	3	's	NULL	s
+kale	3	NULL	id	ntiev
+kami	3	eniec	kaze	nsky
+kare	3	NULL	n	t
+karl	4	-birger	NULL	heinz	is
+kath	4	arine	erine	leen	y
+kayabashi	3	's	-san	NULL
+keel	3	NULL	er	son
+keen	4	NULL	e	ing	ly
+keep	4	NULL	er	ing	s
+kell	3	ey's	um	y
+kenn	4	a	e	ing	y
+kenne	3	dy	l	t
+kent	3	NULL	field	uck
+kerr	4	's	NULL	ville	y
+keys	3	's	NULL	tone
+khrushchev	3	's	NULL	s
+kick	7	-	NULL	backs	ed	ing	off	s
+kill	6	NULL	able	e	in	path	s
+kille	3	brew	d	r
+kilo	3	meter	ton	watt
+kilowatt	3	-hour	NULL	s
+kimb	3	all	e	olton
+kind	8	's	NULL	a	e	l	ness	red	s
+kindl	3	ed	iness	y
+king	7	's	NULL	an	dom	pin	s	wood
+kingdom	3	-wide	NULL	s
+kings	3	NULL	ley	to
+kirk	4	NULL	land	patrick	wood
+kiss	4	NULL	ak	e	in
+kitchen	3	NULL	ette	s
+kitt	5	en	i	ler	redge	y
+kitten	3	NULL	ish	s
+klei	3	ber	n	st
+knee	5	-	NULL	cap	l	s
+knee-	3	deep	length	type
+kneel	4	NULL	ed	ing	s
+knife	5	's	-	/coating	NULL	like
+knife-	3	edge	grinder	men
+knight	6	-errant	NULL	es	fall	ly	s
+knit	3	NULL	e	t
+knob	3	NULL	by-knuckled	s
+knock	6	-down	NULL	down	ed	ing	s
+knot	4	-tying	NULL	s	t
+knott	3	NULL	ed	y
+know	7	-	NULL	e	ing	l	n	s
+knuckle	5	-duster	NULL	ball	d	s
+korn	3	bluth	e	gold
+kraut	3	NULL	heads	s
+krim	3	's	NULL	s
+kris	3	hna	s	t
+kroger	3	's	NULL	s
+l'uni	3	on	ta	versite
+label	5	NULL	ed	ing	led	s
+labo	3	r	the	u
+labor	7	's	-	NULL	ator	e	ious	s
+labor-	3	based	management	saving
+lace	6	-drawn	NULL	d	rat	s	y
+lack	5	NULL	adaisical	e	ing	s
+lady	4	's	-bugs	NULL	like
+lagu	3	ardia	erre	na
+lake	3	NULL	s	wood
+lalaurie	3	's	NULL	s
+lamb	4	NULL	arene	e	s
+lame	3	NULL	chian	nt
+lament	3	NULL	ation	s
+lamp	4	NULL	light	oon	s
+lanc	3	as	e	ret
+lance	3	NULL	d	s
+land	11	's	-	NULL	au	e	i	lord	mark	o	rum-griffin	s
+land-	3	based	locked	rover
+lande	3	d	r	s
+landlord	3	's	NULL	s
+lands	3	NULL	cap	lide
+landscape	3	NULL	d	s
+lanes	3	NULL	manship	ville
+lang	6	NULL	e	ford	horne	sdorf	u
+lange	3	NULL	land	r
+lappe	3	d	nb	ts
+laps	3	NULL	e	ing
+lapse	3	NULL	d	s
+large	5	-	NULL	ly	r	s
+large-	4	area	enough	package	scale
+lark	3	NULL	in	s
+larkin	3	's	NULL	s
+lash	3	NULL	e	ing
+lass	5	NULL	es	o	us	witz's
+last	6	-	NULL	ed	ing	ly	s
+last-	4	ditch	m	named	round
+late	8	-	NULL	iner	ly	nt	r	st	x
+lathe	3	NULL	r	s
+latter	3	's	-day	NULL
+laugh	6	NULL	ed	ing	lin	s	ter
+launch	4	-control	NULL	e	ing
+launche	3	d	r	s
+launder	3	-ometer	ed	ing
+laur	4	a	e	i	o
+laure	3	ate	l	n
+lauren	3	NULL	ce	t
+lauri	3	NULL	e	t
+lava	5	-rocks	NULL	llade	to	ughn
+lavish	4	NULL	ed	ing	ly
+law-	5	abiding	breaking	enforcement	governed	unto-itself
+lawrence	3	's	NULL	ville
+lawyer	3	's	NULL	s
+lay-	3	offs	sisters	up
+layer	4	NULL	ed	ing	s
+lead	4	NULL	e	ing	s
+leade	3	d	n	r
+leader	4	's	NULL	less	s
+leaf	7	NULL	ed	hopper	iest	let	mold	y
+league	5	's	NULL	d	r	s
+leak	5	NULL	age	ed	s	y
+lean	5	-to	NULL	ed	ing	s
+leap	6	NULL	ed	frog	ing	s	t
+lear	3	NULL	n	y
+learn	4	NULL	e	ing	s
+leas	5	e	h	ing	t	ure
+lease	3	NULL	d	s
+leather	7	-	NULL	ed	man	neck	s	y
+leave	4	-taking	NULL	n	s
+leaven	3	ed	ing	worth
+leavin	3	'	NULL	g
+lecture	4	NULL	d	r	s
+ledge	3	NULL	r	s
+leesona	3	's	-holt	NULL
+left	6	-	NULL	field	hander	ist	y
+left-	5	centerfield	front	hand	justified	of-center
+lega	3	c	l	t
+legal	3	NULL	i	ly
+legat	3	ee	ion	o
+legation	3	's	NULL	s
+legend	3	NULL	ary	s
+legg	3	e	ings	y
+legi	4	bility	on	slat	tim
+legislat	4	e	i	or	ure
+legislature	3	's	NULL	s
+lemon	4	-meringue	NULL	ade	s
+lend	4	NULL	ing	rum	s
+length	6	NULL	en	ily	s	wise	y
+lengthen	3	NULL	ed	ing
+leni	3	NULL	ent	n
+lenin	4	's	NULL	grad	ism-marxism
+leningrad	3	's	-kirov	NULL
+leon	4	NULL	a	e	ore
+leona	3	NULL	rd	to
+leopold	3	's	NULL	ville
+less	5	-	NULL	e	ing	on
+less-	4	d	hurried	indomitable	t
+lessen	4	NULL	ed	ing	s
+letter	6	NULL	ed	head	ing	m	s
+leve	3	e	l	r
+level	7	's	-headed	NULL	ed	ing	led	s
+lever	6	-action	NULL	age	ett	kuhn	s
+levi	5	-clad	e	n	s	t
+levit	3	ation	t	y
+lewis	3	'	NULL	ohn
+liar	3	's	NULL	s
+libel	3	NULL	los	ous
+liber	4	NULL	a	ia	t
+libera	3	ce	l	t
+liberal	6	's	-	NULL	i	ly	s
+liberal-	3	conservative	led	radical
+liberali	3	sm	ty	zing
+libert	3	arian	i	y
+liberty	3	's	-and-union	NULL
+librarian	4	's	-board	NULL	s
+license	4	NULL	d	e	s
+lick	3	NULL	ed	ing
+lieutenant	4	's	-	NULL	s
+life	8	's	-	NULL	b	guards	l	r	time
+life-	6	and-death	contracts	death	l	preservers	s
+lifel	3	ess	ike	ong
+lift	4	NULL	e	ing	s
+light	11	-	NULL	e	foot	h	ing	ly	n	s	weight	years
+light-	9	colored	duty	flared	hea	mindedness	reflecting	transmitting	weight	year
+lighte	4	d	n	r	st
+lighter	3	'n	NULL	s
+like	8	-minded	NULL	d	e	l	ne	s	wise
+lili	4	NULL	an	es	putian
+limb	5	NULL	er	ic	o	s
+lime	3	NULL	light	rick
+limit	6	NULL	ation	ed	ing	less	s
+limp	6	-looking	NULL	ed	i	ly	s
+lind	5	a	bergh's	e	s	y
+linds	3	ay	ey's	kog
+line	10	-	NULL	a	back	d	man	n	r	s	up
+line-	3	d	fragments	pairs
+linea	3	ge	l	r
+ling	3	er	o	uist
+linger	4	NULL	ed	i	s
+linguist	4	-anthropologist	NULL	ic	s
+linguistic	3	NULL	ally	s
+link	5	NULL	age	ed	ing	s
+lion	5	's	NULL	e	ized	s
+lioness	3	'	NULL	es
+lips	3	NULL	on	tick
+liqu	3	eur	id	or
+liquid	5	-glass	NULL	at	ity	s
+list	6	NULL	e	ing	less	on	s
+liste	3	NULL	d	n
+listen	4	NULL	e	in	s
+listener	4	's	-supported	NULL	s
+liter	3	NULL	a	s
+litera	3	l	ry	t
+literal	4	NULL	ism	ly	ness
+litt	3	a	er	le
+litter	5	NULL	bug	ed	ing	s
+little	5	-	NULL	page	st	ton's
+little-	3	girl	known	town
+live	6	-oak	NULL	d	l	r	s
+liveli	3	er	hood	ness
+liver	6	NULL	ied	more	pool	s	y
+living	3	-room	NULL	ston
+load	4	NULL	e	ing	s
+loan	3	NULL	ed	s
+loath	4	NULL	ed	ing	some
+local	4	NULL	e	i	ly
+locali	3	sms	t	z
+location	3	-minded	NULL	s
+lock	7	-outs	NULL	e	heed	i	s	up
+locke	3	's	d	r
+locki	3	an	es	ng
+lodg	3	e	ing	ment
+lodge	3	NULL	d	s
+logic	3	-rhetoric	NULL	al
+logistic	3	NULL	al	s
+loin	3	NULL	cloth	s
+london	5	's	-b	NULL	derry	er
+lone	4	NULL	l	rs	some
+long	11	-	NULL	e	fellow	h	i	run	s	time	ue	wood
+long-	15	NULL	a	bodied	c	distance	e	fa	ha	k	li	overdue	r	s	t	v
+long-li	3	fe	ne	ved
+long-s	5	ettled	hanked	leeved	ought	temmed
+longe	4	d	r	st	vity
+longi	3	n	sh	tud
+longs	4	NULL	ho	t	uffering
+look	8	-see	NULL	ed	i	out	s	up	y
+loom	4	NULL	ed	i	s
+loop	4	NULL	ed	hole	s
+loose	5	-	NULL	ly	n	st
+loose-	3	jo	knit	l
+loosen	4	NULL	e	ing	s
+loot	3	NULL	ed	ing
+lope	4	NULL	d	r	z
+lord	5	's	NULL	e	ly	s
+lore	3	NULL	lei	n
+loren	3	NULL	a	z
+lose	3	NULL	r	s
+loud	6	-voiced	NULL	e	ly	on's	speaker
+louis	6	'	NULL	a	e	ian	ville
+lounge	3	NULL	d	s
+lous	3	e	i	y
+love	10	's	-	NULL	d	joy	l	r	s	tt	ways
+lovel	5	ace	ess	i	orn	y
+lover	4	's	NULL	ing	s
+loving	3	NULL	ly	ood
+low-	14	b	c	d	f	grade	heeled	key	l	moisture	p	s	te	voltage	wa
+low-c	4	alorie	eilinged	lass	ost
+low-f	3	lying	oam	requency
+low-p	4	ass	itched	ower	riced
+lowe	5	's	NULL	ll	r	st
+lower	5	-	NULL	ed	ing	s
+lower-	5	c	level	middle	p	status
+lowl	3	ands	iest	y
+loyal	3	NULL	ist	t
+luci	6	a	d	en	fer	lle	us
+luck	5	NULL	ed	i	s	y
+luis	4	's	NULL	a	e
+luke	3	's	NULL	warm
+lull	6	NULL	aby	ed	s	water	y
+lumber	3	NULL	ed	ing
+lumi	3	a	ere	n
+lumin	3	aries	escen	o
+lump	5	NULL	e	ish	s	y
+lunch	4	NULL	eon	room	time
+luncheon	3	-table	NULL	s
+lund	3	NULL	een	y
+lung	3	NULL	e	s
+lurch	3	NULL	ed	ing
+lurk	4	NULL	ed	ing	s
+lust	7	NULL	er	ful	ily	r	s	y
+luther	3	's	NULL	an
+luxuri	3	ance	es	o
+lyric	4	NULL	al	is	s
+lyricist	3	's	NULL	s
+maca	4	bre	rthur	ssar	ulay
+mach	3	't	ado	i
+machine	6	-	NULL	gun	like	ry	s
+machine-	3	family	gun	masters
+mack	5	's	NULL	e	in	lin
+macro	4	-instructions	molecul	p	scopically
+mada	3	gascar	m	ripur
+madam	3	NULL	a	e
+madd	3	alena	en	ing
+madden	3	's	NULL	ing
+made	4	NULL	ira	leine	moiselle
+madrigal	3	NULL	ing	s
+magazine	3	's	NULL	s
+mage	3	e	nta	t
+magi	3	NULL	c	strate
+magic	4	-practicing	NULL	al	ian
+magician	3	's	NULL	s
+magn	5	a	et	i	olia	um
+magneti	3	c	sm	zed
+maid	4	's	NULL	en	s
+mail	6	NULL	box	e	ing	man	s
+main	6	-d'oeuvre	NULL	e	l	s	t
+mainl	3	and	iner-highland	y
+maintain	4	NULL	ed	ing	s
+majest	3	erial	i	y
+major	5	-	NULL	ed	it	s
+make	6	-	NULL	peace	r	s	up
+make-	4	believe	ready	up	work
+mala	7	bar	d	ise	mud	propism	ria	y
+malad	5	aptive	ies	just	roit	y
+male	5	NULL	diction	n	s	volen
+malf	3	easant	orm	unctioning
+mali	5	NULL	a	c	gn	n
+malign	3	NULL	anc	ed
+mall	4	NULL	eable	inckrodt	ory
+malm	3	esbury	ros	ud
+malt	4	NULL	a	e	reat
+mama	3	's	NULL	roneck
+mamma	3	NULL	l	s
+mammal	3	NULL	ian	s
+man-	3	hours	made	to-man
+mana	3	NULL	g	s
+manag	3	e	ing	ua
+manage	5	NULL	d	ment	r	s
+management	4	's	-trained	NULL	s
+manager	4	's	NULL	ial	s
+mand	5	a	erscheid	hata	o	rel
+manda	3	mus	rin	t
+mane	3	ret	s	uver
+maneuver	5	NULL	ability	ed	ing	s
+mani	8	a	c	f	kin	la	n	pulat	toba
+maniac	3	NULL	al	s
+manic	3	-depressive	NULL	like
+manifest	5	NULL	ation	ed	ing	ly
+manipulat	3	e	i	ors
+manl	3	ey	iness	y
+mann	5	's	NULL	e	ing	y
+manne	3	d	quin	r
+manner	5	NULL	ed	house	ism	s
+manning	3	's	NULL	ham
+mano	4	NULL	meter	n	r
+mans	4	NULL	e	ion	laughter
+mansion	3	's	NULL	s
+mant	5	e	hey	ic	le	rap
+mantle	3	's	NULL	piece
+manu	7	NULL	al	el	factur	mi	re	script
+manual	3	NULL	ly	s
+manufacture	4	NULL	d	r	s
+manufacturer	3	's	NULL	s
+many	3	-	NULL	e
+many-	5	bodied	faced	much	sided	times
+maple	3	NULL	crest	s
+marble	3	NULL	iz	s
+marc	7	NULL	el	h	i	mann	os	us
+marcel	3	's	NULL	l
+march	4	NULL	and	e	in
+mare	5	's	NULL	lla	nzio	s
+marg	4	ar	enau	in	o
+margin	3	NULL	al	s
+marginal	3	NULL	ity	ly
+mari	9	a	e	juana	lyn	mba	n	o	s	t
+marin	3	NULL	a	e
+marina	4	NULL	de	s	t
+marine	4	's	NULL	r	s
+mark	7	's	-up	NULL	e	ing	ovitz	s
+marke	4	d	l	r	t
+market	8	-place	NULL	ab	ed	ing	place	s	wise
+marksman	3	's	NULL	ship
+marl	4	borough	ene	in	owe
+marm	4	a	ee	i	on
+maro	3	c	on	y
+marque	3	es	ss	t
+marr	6	's	NULL	ed	i	ow	y
+marri	3	age	e	ng
+mars	7	NULL	den	eilles	h	icano	kmen	ton
+marsh	6	's	NULL	a	es	lands	mallows
+marshal	4	's	NULL	ing	l
+marshall	4	's	NULL	ed	ing
+mart	5	NULL	ha	i	s	y
+martin	5	's	NULL	e	gale	i
+martini	3	NULL	que	s
+marty	3	's	NULL	r
+martyr	3	NULL	dom	s
+marv	3	NULL	el	in
+marvel	5	NULL	ed	led	ous	s
+marx	3	's	NULL	ist
+mary	5	's	NULL	ed	insky	land
+maryland	3	's	NULL	ers
+mash	3	NULL	ed	ing
+mask	4	NULL	e	ing	s
+mason	5	's	NULL	ic	ry	s
+mass	7	-	NULL	a	e	i	on	uh
+mass-	3	building	distribution	production
+massacre	3	NULL	d	s
+masse	4	d	s	ur	y-ferguson
+massi	4	fs	mo	ng	ve
+mast	5	NULL	er	i	o	s
+master	11	's	-race	NULL	ed	ful	ing	ly	minding	piece	s	y
+match	6	-width	NULL	e	ing	less	mak
+mate	5	NULL	d	o	r	s
+mater	3	NULL	i	nal
+material	6	's	-formal	NULL	i	ly	s
+materials	3	'	-handling	NULL
+math	4	NULL	e	ias	ues
+mathe	3	matic	son	wson
+mathematic	3	al	ian	s
+mati	3	lda	n	sse
+matri	4	arch	culate	mon	x
+mats	4	NULL	on	u	yendra
+matt	6	NULL	athias	e	hew	i	resses
+matter	4	-of-factness	NULL	ed	s
+matur	3	ation	e	i
+maul	3	din	er	ing
+mauri	3	ce	er	ne
+maxim	5	's	NULL	al	i	um
+maximiz	3	ation	e	ing
+maximize	3	NULL	d	s
+mayo	3	NULL	nnaise	r
+mayor	5	's	-	NULL	al	ship
+mays	3	'	NULL	t
+mcca	4	fferty	rthy	uley	y
+mccl	3	ellan	oy	uskey
+mcke	3	e	llar	n
+mcle	3	more	ndon	od
+mcna	3	ir	mara	ughton
+meal	6	-to-meal	NULL	ie-meal	s	time	ynose
+mean	9	-square	NULL	der	es	in	ness	s	t	while
+meaning	4	NULL	ful	less	s
+meaningful	3	NULL	ly	ness
+measur	3	abl	e	ing
+measure	4	NULL	d	ment	s
+meat	4	-wagon	NULL	s	y
+mechani	3	c	s	z
+mechanic	4	's	NULL	al	s
+medal	3	NULL	lions	s
+medi	6	a	c	eval	ocr	t	um
+media	4	NULL	evalist	n	ting
+medic	4	a	i	o	s
+medical	3	NULL	e	ly
+medici	3	NULL	n	s
+meditati	3	ng	on	ve
+medium	5	's	-sized	NULL	istic	s
+meek	4	-mannered	NULL	e	ly
+meet	3	NULL	in	s
+mega	5	karyocytic	lo	rians	ton	watt
+melan	4	choly	deri	esian	ge
+meli	3	es	oration	s
+melod	3	i	rama	y
+melodi	3	c	es	ous
+melt	4	NULL	ed	ing	zer
+members	3	'	NULL	hip
+memento	3	NULL	es	s
+memo	4	NULL	ir	r	s
+memor	3	a	i	y
+memori	3	al	es	z
+memorial	3	NULL	ized	s
+memoriz	3	ation	e	ing
+mena	4	c	gerie	rche	s
+mend	5	NULL	acious	e	ing	oza
+mende	3	d	lssohn	res
+ment	3	al	ion	or
+mental	3	NULL	it	ly
+mention	4	NULL	ed	ing	s
+menu	3	NULL	hin	s
+merc	6	NULL	e	han	i	ur	y
+merce	4	NULL	des	nar	r
+mercer	3	's	NULL	s
+merci	3	er	ful	less
+mere	5	NULL	dith	ly	st	tricious
+merge	4	NULL	d	r	s
+merit	4	NULL	ed	orious	s
+merri	5	ck	est	l	m	tt
+merry	3	-go-round	NULL	making
+mess	7	NULL	age	e	hall	i	rs	y
+messe	3	d	nger	s
+messi	3	ah	eurs	n
+messin	3	a	esi	g
+meta	4	boli	l	morph	ph
+metaboli	4	c	sm	te	zed
+metal	5	-	NULL	lic	s	working
+metal-	4	cleaning	hydrido	tasting	working
+metaphor	3	NULL	ical	s
+metaphysic	3	NULL	al	s
+mete	3	d	or	r
+meteor	4	NULL	i	ological	s
+meter	5	NULL	ed	ing	ological	s
+meth	4	acrylate	od	uselah	yl
+method	5	NULL	e	i	olog	s
+meti	3	culous	er	s
+metr	4	azol	e	ical	o
+metro	3	NULL	nome	poli
+metropoli	3	an	s	t
+meyer	3	NULL	beer's	s
+mich	4	NULL	ael	el	i
+michael	3	's	NULL	s
+mick	3	NULL	ey	ie
+micro	11	-microcurie	analysis	bial	c	f	mete	ns	organism	phon	s	wave
+microc	3	hemistry	osm	ytochemistry
+micros	3	cop	econds	omal
+microscop	3	e	ic	y
+mid-	11	1	a	c	f	ju	october	range	s	t	victorian	w
+mid-19	4	48	5	6	th
+mid-a	3	ir	pril	tlantic
+middle	4	-	NULL	s	town
+middle-	7	NULL	age	class	eastern	gaelic	range	s
+middle-s	3	chool	ized	outh
+mids	3	hipm	t	ummer
+midst	3	NULL	ream	s
+midw	4	ay	e	ife	ood
+might	3	NULL	i	y
+migrat	3	e	i	ory
+migrate	3	NULL	d	s
+mike	3	's	NULL	en
+mild	4	-	NULL	e	ly
+mild-	3	mannered	voiced	winter
+mile	5	-long	NULL	age	noff	s
+mili	3	aris	eu	t
+milita	3	nt	r	ted
+milk	3	NULL	s	y
+mill	6	-	NULL	ay	e	i	s
+mille	4	NULL	dgeville	n	r
+millen	3	arianism	ium	ni
+milli	9	amperes/cell	degree	e	gram	liter	meter	n	on	voltmeter
+million	3	NULL	aire	s
+mills	3	's	NULL	tone
+milt	3	NULL	ies	on
+milton	3	's	NULL	ic
+mind	7	's	NULL	anao	ed	ful	less	s
+mine	5	-safety	NULL	d	r	s
+miner	4	NULL	al	s	va
+mineral	5	-rich	NULL	ized	og	s
+mingle	3	NULL	d	s
+mini	6	ature	fying	m	ng	s	ver
+minim	3	al	iz	um
+minimize	3	NULL	d	s
+minister	5	's	NULL	ed	i	s
+ministr	3	ations	ies	y
+minn	4	NULL	e	ie	s
+minne	3	apolis	sota	tt
+mino	4	an-mycenaean	r	so	t
+minor	3	NULL	it	s
+minu	3	et	s	t
+minute	5	's	NULL	ly	m	s
+mira	3	NULL	c	nda
+mirror	3	NULL	ed	s
+misc	5	a	e	h	o	reant
+miscellan	3	eous	ies	y
+miser	3	abl	ies	y
+misg	3	auged	ivings	uided
+misinterpret	3	NULL	ation	e
+misp	3	erceives	lac	ronunciation
+misrepresent	3	ation	ing	s
+miss	8	NULL	a	e	hapen	i	ou	tep	y
+missi	5	le	ng	on	ssippi	ve
+missile	4	's	-type	NULL	s
+mission	3	NULL	ar	s
+mississippi	3	's	NULL	ans
+missouri	3	's	-illinois	NULL
+mist	9	-like	NULL	ak	e	letoe	ook	r	s	y
+mistake	3	NULL	n	s
+mistr	3	ess	ial	ust
+misunderstand	3	NULL	ers	ing
+mite	3	-box	NULL	r
+mitr	3	al	e	opoulos
+moan	3	NULL	ed	s
+mobiliz	3	ation	e	ing
+mock	3	NULL	e	ing
+mode	4	NULL	l	r	s
+model	4	NULL	ed	ing	s
+moderat	3	e	i	or
+moderate	4	-income	NULL	ly	s
+modern	4	-dance	NULL	i	s
+moderni	3	s	ty	z
+moderniz	3	ation	e	ing
+modest	3	NULL	ly	y
+modi	4	cum	f	gliani	sh
+modifie	3	d	r	s
+moist	3	NULL	en	ure
+moisten	3	NULL	ed	ing
+mola	3	l	r	sses
+molar	3	NULL	d	s
+mold	6	NULL	avian	board	ed	ing	s
+mole	3	NULL	cul	s
+moll	5	NULL	er	i	usks	y
+molly	3	's	NULL	coddle
+moment	6	's	NULL	ar	o	s	um
+momm	3	a	or	y
+mon-	4	columbia	fay	goddess	khmer
+mona	5	cle	gan	r	st	ural
+mond	4	ay	e	onville	rian
+monday	3	's	NULL	s
+mone	4	i	l	t	y
+money	6	's	-	NULL	ed	making	s
+money-	5	fed	h	m	saving	winner
+moni	5	c	es	lia	tor	uszko's
+monitor	4	NULL	ed	ing	s
+monk	4	NULL	ey	ish	s
+monkey	3	-gland	NULL	s
+mono	10	-	c	disperse	g	l	mer	nuclear	p	syllable	ton
+mono-	3	NULL	iodotyrosine	unsaturated
+monoc	3	hromes	ite	linic
+monopoli	3	es	st	z
+monoton	3	e	ous	y
+mons	3	ieur	oon	t
+mont	11	NULL	a	e	faucon	gomery	h	icello	m	pelier	r	y
+monte	4	NULL	negrin	r	v
+month	5	's	-long	NULL	ly	s
+monument	3	NULL	al	s
+monumental	3	NULL	ity	ly
+mood	4	NULL	ily	s	y
+moon	8	's	-	NULL	an	cursers	li	s	track
+moon-	5	drenched	faced	round	splashed	washed
+moonli	3	ght	ke	t
+moor	3	e	i	s
+moore	3	's	NULL	d
+mora	5	ine's	l	ss	torium	vian
+moral	5	NULL	e	i	ly	s
+more	7	'	-than-	NULL	house	l	over	s
+morg	3	a	en	ue
+mori	3	arty	kawa	tz
+morning	4	's	-	NULL	s
+morph	3	emic	ine	o
+morris	3	'	NULL	on
+morse	3	's	NULL	l
+mort	5	NULL	a	gage	i	on
+mortal	4	NULL	ity	ly	s
+mortar	4	NULL	ed	ing	s
+mosaic	3	-like	NULL	s
+moscow	3	's	-allied	NULL
+mosquito	3	-plagued	NULL	es
+most	3	-valuable	NULL	ly
+motel	3	-keep	NULL	s
+moth	5	's	-eaten	NULL	er	s
+mother	8	's	-	NULL	ed	hood	l	s	well
+mother-	3	in	naked	of-pearl
+mothers	3	'	-in-law	NULL
+moti	3	f	on	v
+motion	7	-p	NULL	al	ed	ing	less	s
+motivate	3	NULL	d	s
+motor	4	-car	NULL	i	s
+motors	3	'	NULL	cooters
+mould	3	NULL	ering	ing
+moun	3	d	e	t
+mound	3	NULL	ed	s
+mount	5	NULL	ain	ed	ing	s
+mountain	4	NULL	eering	ous	s
+mourn	4	NULL	e	ful	ing
+mous	4	e	ie	tache	y
+mouth	7	-watering	NULL	ed	ful	ing	piece	s
+move	5	NULL	d	ment	rs	s
+movie	3	-	NULL	s
+much-	4	c	discussed	needed	thumbed
+muck	4	's	NULL	er	ing
+mud-	3	beplastered	caked	sweat-and-tears
+mudd	3	ied	l	y
+muff	3	NULL	ins	l
+mule	3	-drawn	NULL	s
+mull	3	ah	e	i
+mullen	3	NULL	ax	dore
+muller	3	's	NULL	in
+multi	10	-	c	dimensional	figure	lateral	m	p	stage	tud	v
+multi-	9	NULL	colored	family	lingual	million	p	state	valued	year
+multi-p	3	hase	roduct	urpose
+multip	4	actor	hastic	l	urpose
+multipl	3	e	i	y
+munch	3	NULL	ed	ing
+municipal	3	NULL	it	ly
+murder	5	NULL	e	ing	ous	s
+murderer	3	's	NULL	s
+murmur	3	NULL	ed	ing
+murr	3	ay	in	ow
+musc	3	le	ovy	ula
+muscle	5	-	NULL	d	men	s
+muse	5	NULL	d	e	s	um
+mushroom	3	NULL	ing	s
+musi	5	al	c	l's	ng	que
+music	5	-	NULL	a	ian	ologists
+music-	3	hall	loving	making
+musical	5	NULL	e	ity	ly	s
+musician	3	's	NULL	s
+musk	3	adell	e	oka
+mussolini	3	's	NULL	s
+must	7	've	NULL	a	er	iness	n't	s
+musta	4	NULL	ch	ng	rd
+mustache	3	NULL	d	s
+muster	3	NULL	ed	ing
+mute	3	NULL	d	ly
+mutin	3	eer	ies	y
+mutter	4	NULL	e	ing	s
+mutual	4	-aid	NULL	ity	ly
+mysti	3	c	fi	que
+mystic	4	NULL	al	ism	s
+myth	5	-making	NULL	ic	olog	s
+nail	4	NULL	ed	ing	s
+naive	3	NULL	ly	te
+naked	3	NULL	ly	ness
+name	6	's	-dropper	NULL	d	l	s
+napoleon	3	's	NULL	ic
+narrat	3	ed	i	or
+narrow	7	-minded	NULL	e	ing	ly	ness	s
+nathan	3	NULL	ael	iel
+nation	7	's	-	NULL	al	hood	s	wide
+nation-	3	building	state	wide
+national	5	NULL	car	i	ly	s
+nationali	3	s	ty	z
+nationalist	3	NULL	ic	s
+native	3	-born	NULL	s
+natur	3	a	e	opath
+natural	5	-law	NULL	i	ly	ness
+nature	3	's	NULL	s
+naught	3	NULL	ier	y
+navigat	3	e	i	or
+navy	3	's	-blue	NULL
+nazi	3	-minded	NULL	s
+near	8	-	NULL	by	e	ing	ly	ness	sighted
+near-	6	a	b	communists	equivalents	m	s
+near-b	3	alkanization	lind	y
+neare	3	d	r	st
+neat	4	NULL	est	ly	ness
+necessit	3	at	ies	y
+necessitate	3	NULL	d	s
+neck	5	NULL	ing	l	s	tie
+necro	4	mantic	psy	sis	tic
+nectar	3	NULL	eous	ies
+need	7	NULL	ed	ham	ing	le	s	y
+needle	4	-sharp	NULL	d	s
+neglect	4	NULL	ed	ing	s
+negro	5	's	-appeal	NULL	es	id
+neighbor	6	's	NULL	hood	ing	liness	s
+neo-	8	NULL	classicis	dadaist	ecclesiasticism	jazz	p	romanticism	s
+neon	3	-li	NULL	atal
+nerve	4	-	NULL	less	s
+nervous	3	NULL	ly	ness
+nest	6	NULL	e	ing	l	or	s
+nett	3	ed	ing	le
+network	3	's	NULL	s
+neur	4	a	enschatz	itis	o
+neuro	6	logi	muscular	n	p	s	tic
+neutrali	3	s	ty	z
+never	4	-	NULL	sink	theless
+new-	7	england	found	house	rich	spilled	waver	york
+newb	4	ery	iggin	o	ur
+newe	3	l	r	st
+newly	3	-	NULL	wed
+newly-	7	appointed	created	emerging	married	plowed	scrubbed	weds
+newport	3	's	-based	NULL
+news	9	NULL	boy	letter	m	om	paper	reel	stand	week
+newspaper	3	NULL	m	s
+newt	3	NULL	o	s
+newton	3	's	NULL	ian
+nice	6	-looking	NULL	ly	r	st	ties
+nich	3	e	ol	tige
+nick	5	's	NULL	e	laus	name
+nickel	3	-iron	NULL	s
+nickname	3	NULL	d	s
+nico	3	demus	las	tine-choked
+nigger	3	NULL	s	town
+night	12	's	-	NULL	club	dress	e	fall	ingale	ly	mar	s	time
+night-	3	coach	sight	watchman
+nightclub	3	's	NULL	s
+nine	4	-	NULL	t	veh
+nine-	5	chambered	game	state	t	year
+ninet	3	een	ie	y
+nineteen	3	-	NULL	th
+ninety-	4	eight	five	nine	six
+nipp	3	ed	les	ur
+noble	4	NULL	man	r	s
+nobles	3	NULL	se	t
+nois	3	e	i	y
+noise	4	NULL	less	makers	s
+non-	20	a	b	c	d	e	f	g	hydrogen-bonded	i	j	li	military	n	object	p	r	s	t	v	w
+non-a	5	bsorbent	cademic	lgebraically	rtistic	uthoritative
+non-c	3	atholic	h	o
+non-co	4	de	l	m	n
+non-com	3	NULL	m	p
+non-d	3	ealer	is	ramas
+non-f	5	arm	ederal	i	orthcoming	reezing
+non-i	3	dentity	n	temized
+non-in	3	dian	sti	te
+non-jew	3	NULL	ish	s
+non-p	4	a	o	ro	ubli
+non-pro	3	ductive	f	paga
+non-re	3	aders	p	si
+non-s	7	cienti	e	kid	o	top	u	ystematic
+non-t	3	axable	hermal	ime
+non-v	3	erbal	iolen	olatile
+non-w	4	age	estern	hite	riters
+nonc	3	e	h	o
+noncom	3	batant	mi	pliance
+nond	3	e	iscriminatory	r
+none	4	NULL	quivalen	theless	xistent
+nonf	3	iction	ood	unctional
+nonm	4	agical	etallic	usical	ythological
+nono	3	bservant	ccurrence	genarian
+nonp	3	a	o	rofit
+nons	6	e	hifters	ingular	pecific	top	ystematic
+nord	3	mann	strom	yke
+norm	3	NULL	a	s
+norma	4	NULL	l	n	tive
+normal	5	NULL	cy	ize	ly	s
+norris	3	-laguardia	NULL	town
+north	10	-	NULL	ampton	e	field	land	rop	s	umberland	w
+northe	3	ast	ners	r
+norther	3	ly	n	s
+northern	3	NULL	er	most
+nose	3	NULL	b	s
+not-	6	a	knowing	less-deadly	quite-perfect	s	yet-married
+nota	3	bl	ri	tion
+notch	3	NULL	e	ing
+note	5	NULL	book	d	s	worthy
+nothin	3	'	NULL	g
+nothing	5	's	-down	NULL	ness	s
+noti	5	c	f	ng	on	tia
+notice	4	NULL	abl	d	s
+nourish	3	e	ing	ment
+nova	3	NULL	k	ya
+novel	5	's	NULL	i	s	t
+novelist	3	's	NULL	s
+now-	3	famous	historic	misplaced
+nucle	4	a	i	o	us
+null	3	-type	NULL	i
+numb	4	NULL	er	ing	ness
+number	4	NULL	ed	ing	s
+numer	3	al	ical	o
+nurse	4	's	NULL	ry	s
+nymph	3	NULL	omaniac	s
+oath	4	-taking	NULL	e	s
+obedience	3	-trained	NULL	s
+obey	4	NULL	ed	ing	s
+object	5	NULL	ed	i	or	s
+objecti	4	fication	ng	on	v
+objection	3	NULL	able	s
+objective	4	NULL	ly	ness	s
+obli	4	g	que	tera	vio
+oblig	3	at	e	ingly
+obligation	3	NULL	al	s
+obscure	4	NULL	d	ly	s
+obse	3	qui	rv	ss
+observ	3	a	e	ing
+observa	3	ble	n	t
+observation	3	NULL	al	s
+observe	4	NULL	d	r	s
+observer	3	's	NULL	s
+obst	3	acle	inate	ruct
+obstruct	3	NULL	ed	ionist
+obtain	4	NULL	able	e	ing
+obvious	3	NULL	ly	ness
+occasion	4	NULL	al	ed	s
+occup	3	a	ie	y
+occupation	4	's	NULL	al	s
+occur	3	NULL	r	s
+ocean	6	-going	NULL	a	ia	ograph	s
+octa	3	gonal	hedron	v
+octo	3	ber	pus	roon
+off-	9	b	color	duty	f	key	level	road	s	the-cuff
+offen	4	bach's	ces	d	s
+offend	3	NULL	e	ing
+offensive	3	NULL	ly	s
+offer	4	NULL	ed	ing	s
+office	5	's	NULL	holders	r	s
+officer	4	's	NULL	ed	s
+offici	3	a	elle	o
+official	4	NULL	dom	ly	s
+offs	5	addled	et	hore	pring	tage
+often	3	NULL	er	times
+oil-	3	b	field	well
+old-	6	age	fashioned	grad-type	line	style	time
+olde	4	NULL	n	r	st
+olive	6	-	NULL	faced	r	s	t
+omit	3	NULL	s	t
+on-s	3	ite	tage	ure
+once-	5	a-month	dry	in-a-lifetime	over	popular
+one-	21	NULL	a	color	d	eighth	f	gee	h	i	kiloton	leg	m	night	o	plane	quarter	r	s	t	w	year
+one-d	3	ay	igit	umbbell
+one-s	3	hot	i	t
+one-st	3	ep	ory	roke
+one-t	4	enth	h	ime	w
+onward	3	-driving	NULL	s
+open	6	-	NULL	e	ing	ly	s
+open-	7	air	collared	end	f	handed	m	work
+open-m	3	eeting	inded	outhed
+opening	3	-day	NULL	s
+opera	7	's	NULL	ble	goers	nd	s	t
+operat	3	e	i	or
+operate	3	NULL	d	s
+operati	4	c	ng	on	ve
+operation	3	NULL	al	s
+opinion	3	NULL	ated	s
+oppo	3	nent	rtun	s
+opponent	3	's	NULL	s
+oppose	3	NULL	d	s
+oppress	3	ed	i	ors
+opti	3	c	m	on
+optim	4	al	i	o	um
+option	3	NULL	al	s
+orat	3	e	io	or
+orator	4	NULL	i	s	y
+orbit	4	NULL	al	ing	s
+orch	3	ard	es	ids
+orchestra	5	's	NULL	l	s	tion
+order	5	NULL	ed	ing	l	s
+ordina	3	nce	r	tes
+ores	3	NULL	me	te
+organ	4	NULL	dy	i	s
+organi	4	c	fication	s	z
+organis	3	ed	m	t
+organism	3	NULL	ic	s
+organiz	3	ation	e	ing
+organization	5	's	-position	NULL	al	s
+organize	4	NULL	d	rs	s
+orient	4	NULL	a	ed	ing
+origin	4	/destination	NULL	a	s
+original	4	NULL	ity	ly	s
+originate	3	NULL	d	s
+ornament	4	NULL	ation	ed	s
+orph	3	an	eus	ic
+orphan	4	NULL	age	ed	s
+ortho	4	do	graph	p	rhombic
+orthodontist	3	's	NULL	s
+orwell	3	's	NULL	ian
+other	5	's	-directed	NULL	s	w
+oust	3	NULL	e	ing
+out-	5	dated	group	m	of-	reaching
+out-of-	6	bounds	door	mind	pocket	s	t
+out-of-s	3	chool	ight	t
+outb	4	ack	oard	reak	urst
+outc	4	ast	lass	ome	r
+outd	4	ated	istanc	o	rew
+outf	4	ace	i	low	o
+outg	3	eneraled	oing	r
+outl	5	a	et	i	ook	ying
+outla	3	nd	w	y
+outlaw	4	NULL	ed	ry	s
+outline	3	NULL	d	s
+outp	4	atient	layed	o	ut
+output	4	-axis	NULL	s	ting
+outr	4	age	each	ig	un
+outrage	4	NULL	d	ous	s
+outs	9	NULL	coring	et	i	kirt	marted	p	t	ville
+outw	4	ard	eigh	it	orn
+over	20	-	/under	NULL	a	b	c	d	e	f	g	h	indulged	l	night	p	r	s	t	vaulting	w
+over-	11	NULL	a	c	emphasize	hand	large	night	occupied	pr	s	the-counter
+over-a	3	chieve	ll	rranged
+over-s	4	impl	pent	titched	ubscribed
+overa	3	ctive	g	ll
+overb	4	earing	lown	oard	urden
+overc	5	a	erebral	o	rowd	urious
+overco	4	at	m	nfident	o
+overd	4	eveloped	o	riving	ue
+overe	4	a	mphasi	stimat	x
+overf	4	all	eed	ill	low
+overflow	3	NULL	ed	ing
+overhea	3	d	r	t
+overheat	3	NULL	ed	ing
+overl	3	a	o	y
+overla	4	id	nd	p	y
+overlap	3	NULL	p	s
+overlo	4	ad	ok	rds	ud
+overlook	4	NULL	ed	ing	s
+overp	4	a	layed	o	r
+overpower	3	ed	ing	s
+overpr	3	essure	iced	otecti
+overr	5	a	each	id	ode	un
+overrid	3	den	e	ing
+overs	6	e	h	i	oft	t	ubscribed
+oversho	3	es	ots	t
+oversi	3	ght	mplifi	ze
+overt	7	NULL	a	hrow	ime	ly	o	ur
+overw	4	eight	helm	orked	ritten
+overwhelm	3	NULL	ed	ing
+owne	3	NULL	d	r
+owner	3	's	NULL	s
+owners	3	'	NULL	hip
+oxid	3	ation	e	ised
+pace	6	-setter	NULL	d	m	r	s
+pacifi	3	c	e	s
+pack	6	NULL	a	e	ing	s	wood
+package	3	NULL	d	s
+packe	3	d	rs	t
+padd	4	ed	i	le	ock
+pagan	3	NULL	i	s
+page	4	NULL	ant	s	t
+pageant	3	NULL	ry	s
+paid	3	-for	NULL	e
+pain	6	NULL	e	ful	less	s	t
+pains	3	-taking	NULL	taking
+paint	5	NULL	brush	e	ing	s
+painter	4	's	NULL	esque	s
+pair	3	NULL	ed	s
+pala	4	c	sts	t	zz
+palace	3	's	NULL	s
+pale	9	-blue	NULL	d	ly	ness	o	rmo	s	tte
+paleo	3	-	cortical	explosion
+pall	5	NULL	a	et	i	or
+palladi	3	an	o	um
+palm	4	-	NULL	e	s
+pamp	3	a	er	h
+pand	3	anus	e	ora
+pande	3	lli's	mic	rs
+pane	3	NULL	l	s
+panel	5	's	NULL	ed	i	s
+pans	3	NULL	ies	y
+pant	8	-legs	as	ed	he	i	omim	ry	s
+panthe	3	ist	on	r
+papa	5	's	-san	NULL	l	nicolaou
+paper	6	's	NULL	back	s	w	y
+papp	3	NULL	as	y's
+para	14	ble	chute	d	g	keets	l	m	no	oxon	p	s	troop	xial	y
+parad	3	e	i	ox
+parade	3	NULL	d	s
+paradi	3	gm	ng	se
+paradigm	3	NULL	atic	s
+paragraph	3	NULL	ing	s
+paral	4	anguage	inguistic	lel	y
+parallel	4	NULL	ed	i	s
+paralyze	3	NULL	d	s
+param	4	agnet	et	ilitary	ount
+parap	3	et	h	sychology
+paras	3	it	ol	ympathetic
+parcel	3	NULL	ed	s
+pardon	4	NULL	able	ed	s
+pare	5	NULL	don	e	lla	n
+parent	6	's	-	NULL	a	h	s
+pari	7	-mutuel	ah	chy	mutuels	ngs	oli	s
+paris	5	'	NULL	h	i	ology
+parish	3	NULL	es	ioners
+park	7	NULL	e	house	i	like	s	way
+parker	3	's	NULL	sburg
+parl	4	a	ey	iament	or
+parliament	3	NULL	ar	s
+paro	3	chial	d	le
+parr	3	i	ot	y
+parri	3	ed	llo	s
+parrot	4	-like	NULL	ing	s
+pars	5	NULL	i	ley	on	ympathetic
+parson	3	NULL	age	s
+part	11	-time	NULL	ak	ed	henon	i	l	ner	ook	s	y
+partake	3	NULL	r	s
+parti	7	NULL	al	c	es	ng	san	tion
+partic	3	ipa	le	ula
+participate	3	NULL	d	s
+particular	4	NULL	i	ly	s
+partner	3	NULL	ed	s
+party	3	's	-line	NULL
+pasca	3	goula	l	taqua
+pass	6	NULL	a	e	i	os	port
+passa	3	ble	ge	vant
+passage	3	NULL	s	way
+passe	4	d	nger	r	s
+passer	3	-by	by	s-by
+passi	3	ng	on	v
+passion	3	NULL	ate	s
+passive	3	NULL	ly	ness
+past	9	-fantasy	NULL	e	i	ness	or	ry	ure	y
+paste	6	NULL	d	l	rn	s	urization
+pastel	3	-like	NULL	s
+pastern	3	NULL	ak	s
+pasti	3	lles	me	ng
+pastor	4	's	NULL	al	s
+patch	3	NULL	e	work
+patche	3	d	n	s
+pate	3	NULL	nt	r
+patent	5	-sharing	NULL	e	ing	s
+pater	4	NULL	nal	ollers	son
+path	6	NULL	et	less	o	s	ways
+patho	3	gen	log	s
+pati	6	NULL	en	l	na	o	sseries
+patient	4	's	NULL	ly	s
+patri	5	arch	c	mony	ot	stic
+patriarch	3	NULL	al	y
+patric	3	e	ia	k
+patriot	3	NULL	i	s
+patrol	4	NULL	l	m	s
+patron	6	NULL	age	ess	iz	ne	s
+patt	4	e	i	on	y
+patter	4	NULL	ed	n	son
+pattern	3	NULL	ed	s
+patti	3	NULL	es	ng
+paul	7	's	-minneapolis	NULL	a	eys	ing	us
+paula	3	's	NULL	h
+paus	4	'l	e	ing	on
+pause	3	NULL	d	s
+pave	4	NULL	d	ment	se
+pavlov	3	NULL	itch	sky
+payne	3	's	NULL	s
+peac	3	e	h	ock
+peace	6	-	NULL	able	ful	making	time
+peak	4	NULL	ed	s	y
+peal	3	NULL	e	s
+pear	3	NULL	l	s
+pearl	4	-gray	NULL	s	y
+peasant	3	NULL	hood	s
+peck	3	NULL	ed	s
+pectoral	3	-	is	s
+peculiar	3	NULL	it	ly
+peda	3	gog	l	ntic
+peddle	3	NULL	d	r
+pede	3	n	rsen	st
+peel	4	NULL	ed	ing	s
+peep	3	NULL	ing	y
+peer	6	-group	NULL	ed	ing	less	s
+pelt	4	ing	ry	s	z
+pemb	3	erton	ina	roke
+pena	3	NULL	l	nce
+penal	3	NULL	ized	t
+pencil	4	-	NULL	ed	s
+pend	4	ant	ing	leton	ulum
+penn	7	NULL	a	e	i	ock	sylvania	y
+penny	3	's	-wise	NULL
+pens	3	NULL	acola	i
+pension	3	NULL	er	s
+pent	3	agon	ecostal	house
+penu	3	ltimate	r	tian
+people	5	's	-oriented	NULL	d	s
+pepper	5	NULL	ed	mints	oni	y
+per-	3	day	game	year
+perc	5	e	h	olator	ussi	y
+perce	3	iv	nt	pt
+perceive	3	NULL	d	s
+percepti	3	ble	on	ve
+perch	3	NULL	ance	ed
+pere	4	lman	mptory	nnia	z
+perf	4	ect	idious	or	u
+perfect	5	NULL	ability	ed	i	ly
+perfecti	3	bility	ng	on
+perfor	3	at	ce	m
+perform	5	NULL	ance	e	ing	s
+performance	3	-capacity	NULL	s
+perfu	3	me	nctor	sion
+perfume	4	NULL	d	ry	s
+peri	10	cle	dontal	er	l	meter	netti	od	ph	s	winkles
+peril	4	NULL	la	ous	s
+period	3	NULL	ic	s
+periodic	3	NULL	al	ity
+periodical	3	NULL	ly	s
+perish	4	NULL	able	e	ing
+perk	4	NULL	en	ins	y
+perl	3	e	man	uss
+perm	3	anen	eate	i
+permeate	3	NULL	d	s
+permi	3	an	ssi	t
+permissi	3	b	on	ve
+permit	3	NULL	s	t
+perpetrat	3	ed	ion	or
+perplex	3	NULL	ed	i
+pers	6	e	hing	i	on	p	ua
+perse	3	NULL	cut	ver
+persecut	3	ed	ion	ory
+persi	4	a	flage	mmons	st
+persian	3	NULL	esque	s
+persist	4	NULL	e	ing	s
+person	7	's	-to-person	NULL	a	if	nel	s
+persona	4	NULL	e	ge	l
+personal	3	NULL	i	ly
+perspir	3	ation	ed	ing
+persuade	3	NULL	d	rs
+pert	4	NULL	ain	inen	urb
+pertain	4	NULL	ed	ing	s
+peru	3	NULL	s	vian
+perva	3	d	poration	sive
+pest	5	NULL	er	i	le	s
+pete	4	's	NULL	r	y
+peter	6	's	NULL	ed	house	mann	s
+peters	3	NULL	burg	on
+petit	4	NULL	e	ion	s
+petition	3	NULL	e	s
+petr	4	archan	i	oleum	uchka
+petri	3	e	fied	ni
+pett	3	e	i	y
+petti	4	bone	grew	n	t
+pharmac	4	eutical	ist	o	y
+pheno	3	men	nenon	thiazine
+phil	9	's	NULL	a	co	harmoni	i	l	mont	o
+philanthropi	3	c	es	st
+phili	3	bert	p	stines
+philip	3	's	NULL	p
+philipp	3	e	i	off
+philippi	3	NULL	ans	ne
+philosoph	3	er	i	y
+philosophi	3	c	es	z
+phon	4	e	i	o	y
+phone	5	NULL	d	m	s	tic
+phosph	3	ate	i	or
+phosphate	3	-buffered	NULL	s
+phosphor	5	-screen	NULL	escent	s	us
+photo	11	-	NULL	c	electron	floodlights	g	luminescence	micrograph	n-counting	realism	s
+photograph	5	NULL	e	i	s	y
+phrase	5	NULL	d	making	ology	s
+physi	3	c	o	que
+physic	4	al	i	ochemical	s
+physical	4	-chemical	NULL	ly	ness
+physician	3	's	NULL	s
+physio	4	chemical	gnomy	log	therapist
+pianist	4	's	NULL	ic	s
+pick	11	-up	NULL	axe	e	f	in	le	man	off	s	up
+picke	3	d	r	t
+picker	3	NULL	ing	s
+picket	5	NULL	ed	ing	s	t's
+pickle	3	NULL	d	s
+picnic	3	NULL	ke	s
+picture	4	-	NULL	d	s
+piece	4	NULL	meal	s	wise
+pier	7	-table	NULL	c	o	pont	re	s
+piers	3	NULL	ee	on
+piet	4	a	ism	ro	y
+pigeon	3	NULL	hole	s
+pigment	3	NULL	ed	s
+pile	3	NULL	d	s
+pilgrim	4	's	NULL	age	s
+pill	4	NULL	a	o	s
+pillar	3	NULL	ed	s
+pilot	4	's	NULL	ing	s
+pimp	3	NULL	l	s
+pinch	4	-hit	NULL	ed	ing
+pine	4	-knot	NULL	apple	s
+pink	5	-petticoated	NULL	i	ly	s
+pinn	3	acle	ed	ing
+pinpoint	3	NULL	ing	s
+pins	3	NULL	cher	k
+pint	3	-sized	NULL	o
+pioneer	5	's	NULL	ed	ing	s
+pipe	5	NULL	d	line	rs	s
+pira	5	cy	eus	n	ro	te
+pistol	4	-	NULL	eers	s
+pitch	4	NULL	e	fork	ing
+pitche	3	d	r	s
+piti	4	able	ed	ful	less
+pitt	4	-rivers	NULL	enger	sb
+pivot	3	NULL	al	ing
+plac	3	ating	e	i
+place	7	-	NULL	d	less	ment	ntia	s
+plain	9	-	NULL	clothes	est	field	ly	s	ti	view
+plain-	3	clothesmen	out	spoken
+plaintiff	3	's	NULL	s
+plan	9	's	NULL	ar	e	k	n	oconcave	s	t
+plane	6	NULL	d	load	r	s	t
+planet	6	's	NULL	ar	en	oid	s
+plank	3	NULL	ing	s
+plant	7	's	-location	NULL	a	e	ing	s
+plaster	5	-of-paris	NULL	e	ing	s
+plasti	3	-bars	c	sols
+plastic	5	-covered	NULL	ally	ity	s
+plat	6	e	form	h	i	o	te
+plate	4	NULL	au	d	s
+platform	3	-controller	NULL	s
+plato	4	's	NULL	ni	on
+play	16	's	-	NULL	a	b	e	ful	ground	house	in	mate	off	room	s	time	wri
+play-	3	acting	girl	off
+playe	3	d	r	s
+player	3	's	NULL	s
+playwright	3	-director	NULL	s
+plea	4	NULL	d	s	ts
+plead	4	NULL	e	ing	s
+pleas	5	NULL	an	e	in	ure
+pleasant	3	NULL	ly	ness
+please	3	NULL	d	s
+pleasure	3	-boat	NULL	s
+pledge	3	NULL	d	s
+plen	3	ary	i	t
+plot	3	NULL	s	t
+plow	5	NULL	ed	ing	man's	s
+pluck	3	NULL	ed	ing
+plug	4	NULL	g	s	ugly
+plum	5	NULL	b	e	me	p
+plumb	3	NULL	e	ing
+plump	3	NULL	ed	ness
+plun	3	der	g	k
+plunder	3	NULL	ers	ing
+plunge	3	NULL	d	s
+plus	3	-one	NULL	h
+pocket	7	's	-size	NULL	book	ed	ful	s
+podger	3	's	NULL	s
+poet	6	's	-painter	NULL	i	r	s
+poetic	3	NULL	ally	s
+poetry	3	's	-and-jazz	NULL
+pohl	3	's	NULL	y
+point	6	-blank	NULL	e	ing	less	s
+poise	3	NULL	d	s
+poison	5	NULL	ed	ing	ous	s
+poke	5	NULL	d	neu	r	s
+polar	3	NULL	i	oid
+polari	3	s	t	z
+polariz	3	ation	e	ing
+pole	4	NULL	cat	mic	s
+polemic	3	NULL	al	s
+poli	5	c	ng	o	s	t
+polic	3	e	i	y
+police	4	-dodging	NULL	d	m
+policeman	3	's	-murderer	NULL
+polish	3	NULL	e	ing
+polit	4	buro	e	i	y
+polite	3	NULL	ly	ness
+politic	6	NULL	al	ian	king	o	s
+politico	3	-sociological	NULL	s
+poll	6	NULL	e	ing	ock	s	ut
+polo	3	NULL	lu	naise
+poly	13	-unsaturated	anka	butene	c	e	gynous	iso	m	nomial	p	s	t	unsaturated
+polye	3	lectrolytes	ster	th
+polyether	3	-type	NULL	s
+polymer	3	NULL	i	s
+pomp	4	NULL	a	e	o
+pompous	3	NULL	ly	ness
+ponch	3	artrain	ielli	o
+pond	3	NULL	er	s
+ponder	4	NULL	ed	ing	ous
+pont	4	's	NULL	chartrain	i
+ponti	4	ac	f	ssara	us
+pool	6	's	-	NULL	ed	ing	s
+pool-	4	care	equipment	owners	side
+poor	5	's	-	NULL	e	ly
+pope	3	's	NULL	s
+popp	3	ed	i	y
+popula	4	ce	ire	r	t
+popular	3	NULL	i	ly
+porc	3	elain	h	upines
+pore	3	NULL	d	s
+port	11	NULL	a	e	folio	i	l	o	ra	s	ug	watchers
+porta	5	NULL	ble	g	l	nt
+porter	4	's	NULL	house	s
+porti	3	a	co	on
+portrait	3	NULL	s	ure
+portray	5	NULL	al	ed	ing	s
+pose	6	NULL	d	idon	s	ur	y
+position	3	NULL	ed	s
+poss	3	e	ib	um
+posse	4	's	NULL	m	ss
+possess	4	NULL	e	i	or
+possessi	3	ng	on	ve
+possibl	3	e	ities	y
+post	13	's	-	NULL	a	card	e	graduate	humous	m	pon	s	u	war
+post-	11	attack	bellum	c	dispatch	graduate	in	mortem	operative	reapportionment	serialism	w
+poster	3	NULL	i	s
+postma	3	n	rk	ster
+postmaster	3	's	NULL	s
+postpone	3	NULL	d	ment
+postulate	3	NULL	d	s
+potential	4	NULL	it	ly	s
+pott	3	awatomie	e	ing
+potter	3	NULL	s	y
+pound	5	-	NULL	ed	ing	s
+pour	4	NULL	ed	ing	s
+poussin	3	's	NULL	s
+powder	5	NULL	ed	puff	s	y
+power	8	's	-	NULL	ed	ful	less	plants	s
+powerful	3	NULL	ly	ness
+practi	3	c	s	tioner
+practic	3	a	e	ing
+practical	3	NULL	ity	ly
+practice	3	NULL	d	s
+prai	3	NULL	rie	s
+praise	4	NULL	d	god	s
+pran	4	cing	dtl	ha	k
+pratt	3	's	NULL	ville
+pray	3	NULL	e	in
+prayer	5	-	NULL	books	ful	s
+pre-	16	1960	a	c	d	e	f	h	inaugural	l	marital	nuptial	p	revolutionary	s	vision	w
+pre-a	4	cademic	nglo-saxon	ssault	ttack
+pre-c	3	ast	ivil	o
+pre-e	3	aster	m	xisten
+pre-p	5	acked	enicillin	lanning	rimary	unic
+pre-s	3	chool	e	haped
+pre-se	3	ason	lling	t
+prea	3	ch	mble	rranged
+preach	3	NULL	e	ing
+preache	3	d	r	s
+preacher	3	-singer	NULL	s
+prec	7	a	e	hlorination	i	lude	o	ut
+precaution	3	NULL	ary	s
+prece	3	d	ed	pt
+precede	4	NULL	d	n	s
+precedent	3	-based	NULL	s
+preci	4	nct	ous	pi	s
+preco	3	ci	n	oked
+precon	3	ce	dition	scious
+precondition	3	NULL	ed	s
+pred	4	e	i	nisone	omina
+prede	3	cessor	stined	termined
+predi	4	c	gested	lections	spos
+predict	6	NULL	ab	ed	i	ors	s
+predicti	3	ng	on	ve
+predominate	3	d	ly	s
+pref	5	a	e	ixes	light	uh
+prefer	6	NULL	abl	en	ment	r	s
+prejudice	3	NULL	d	s
+prem	3	a	i	onit
+premi	4	er	se	um	x
+prep	5	NULL	a	o	r	u
+prepa	3	ckaged	r	yment
+prepar	3	at	e	ing
+preparation	3	-inquirers'	NULL	s
+prepare	3	NULL	d	s
+prepo	3	lymer	ndera	s
+prer	3	adiation	equisite	ogative
+pres	9	age	byterian	c	e	id	ley	s	t	u
+presbyterian	3	-st	NULL	ism
+prescribe	3	NULL	d	s
+present	9	-	NULL	a	e	ing	ly	ments	ness	s
+presentation	3	NULL	al	s
+presente	3	NULL	d	r
+preserv	3	ation	e	ing
+preserve	3	NULL	d	s
+preside	4	NULL	d	n	s
+president	5	's	-elect	NULL	ial	s
+press	4	NULL	e	ing	ure
+presse	3	d	r	s
+pressure	3	-	NULL	s
+pressure-	6	cooker	formed	happy	measuring	sensing	volume-temperature
+presum	4	ably	e	ing	pt
+presume	3	NULL	d	s
+presuppose	3	NULL	d	s
+pret	3	e	rial	t
+prete	3	n	st	xt
+preten	4	ce	d	s	tious
+pretend	4	NULL	e	ing	s
+pretti	3	e	ly	ness
+prev	4	a	ent	i	o
+preva	3	il	len	yle
+prevail	4	NULL	e	in	s
+prevent	4	NULL	ed	i	s
+preventi	3	ng	on	ve
+previ	3	ew	ous	sion
+pric	3	e	ing	k
+price	5	-	NULL	d	less	s
+price-	5	c	earnings	level	setting	wise
+prick	4	NULL	ed	ly	s
+pride	4	's	-	NULL	s
+prie	3	-dieu	st	ur
+priest	4	's	NULL	ly	s
+prim	6	NULL	a	e	i	ly	ping
+prima	5	-facie	cy	l	r	te
+prime	5	NULL	d	rs	s	val
+prince	4	's	NULL	s	ton
+princes	3	'	NULL	s
+princess	3	-in-a-carriage	NULL	e
+princip	3	al	ia	le
+principal	3	NULL	ly	s
+print	6	NULL	able	e	ing	making	s
+printe	3	d	mps	r
+prior	4	-year	NULL	it	y
+pris	3	ca	on	tine
+prison	3	NULL	er	s
+priv	4	a	et	i	y
+private	3	-	NULL	ly
+privilege	3	NULL	d	s
+prize	4	-	NULL	d	s
+pro-	9	ball	c	europe	hearst	neutralist	t	u	western	yankee
+prob	4	a	e	i	l
+probe	3	NULL	d	s
+probl	3	'y	em	y
+problem	4	-solving	NULL	atic	s
+proc	6	aine	e	l	r	tor	ure
+proce	3	dur	ed	ss
+proceed	4	NULL	ed	ing	s
+process	5	-server	NULL	e	i	or
+proclaim	4	NULL	ed	ing	s
+procure	4	NULL	d	ment	r
+prod	4	NULL	d	ig	uc
+prodig	3	al	i	y
+produc	3	e	in	t
+produce	4	NULL	d	r	s
+producer	3	-hubby	NULL	s
+product	3	NULL	i	s
+prof	7	NULL	an	e	fered	i	ound	u
+profess	4	NULL	e	i	or
+professe	3	d	s	ur
+profession	3	NULL	al	s
+professional	4	NULL	ism	ly	s
+professor	3	's	NULL	s
+profi	3	cien	l	t
+profit	5	-	NULL	ab	ed	s
+profound	4	NULL	est	ity	ly
+prog	4	andist	eny	nos	r
+prognos	3	es	is	ticat
+program	6	's	NULL	ed	ing	m	s
+programme	3	d	r	s
+progress	3	NULL	e	i
+progressi	3	ng	on	v
+prohibit	5	NULL	ed	i	on	s
+prohibiti	3	ng	on	ve
+project	5	NULL	ed	i	or	s
+projecti	4	le	ng	on	ve
+prol	4	etariat	i	ong	usion
+prolong	5	NULL	ation	ed	ing	s
+prom	6	azine	e	i	ot	pt	ulgat
+promise	3	NULL	d	s
+promote	4	NULL	d	r	s
+prompt	5	NULL	ed	ings	ly	s
+promulgat	3	ed	ing	ors
+pron	3	e	oun	to
+pronoun	3	NULL	c	s
+pronounce	3	NULL	d	ment
+prop	11	NULL	aga	e	he	i	o	p	riet	s	ulsion	yl
+propagandist	3	NULL	ic	s
+proper	3	NULL	ly	t
+prophe	3	c	sie	t
+prophet	3	NULL	ic	s
+propo	3	nent	rtion	s
+proportion	3	NULL	a	s
+proportional	3	NULL	ity	ly
+propos	3	al	e	i
+propose	3	NULL	d	s
+proposition	3	NULL	ed	s
+propriet	3	er	or	y
+proprietor	3	NULL	s	y
+pros	8	NULL	aic	c	e	o	pe	se	t
+prose	3	NULL	cut	lytizing
+prosecut	3	e	i	or
+prosecution	3	's	NULL	s
+prospect	3	NULL	ive	s
+prosper	5	NULL	ed	i	ous	s
+prost	3	ate	itut	rate
+prot	6	agonist	e	itch	o	r	uberance
+prote	6	ase	ct	ge	in	oly	st
+protect	5	NULL	ed	i	orate	s
+protecti	3	ng	on	ve
+protein	3	-bound	NULL	s
+protest	5	NULL	a	ed	ing	s
+protestant	4	-dominated	NULL	ism	s
+proto	7	-	col	geometric	n	plasm	typ	zoa
+proto-	3	athabascan	senility	yokuts
+proud	4	NULL	e	hon	ly
+prov	4	died	e	i	o
+prove	5	NULL	d	n	rb	s
+proverb	3	NULL	ial	s
+provi	3	d	n	s
+provide	4	NULL	d	n	s
+province	3	NULL	s	town
+provision	4	NULL	al	ed	s
+provo	3	cat	ke	st
+provoke	3	NULL	d	s
+prow	4	NULL	azwki	ess	l
+prowl	3	NULL	e	ing
+prox	3	im	mire	y
+prudent	3	NULL	ial	ly
+prune	3	NULL	d	s
+pseudo	5	-	NULL	monas	nym	phloem
+pseudo-	11	anthropological	capitalism	emotion	feeling	glamorous	happiness	patriotism	questions	s	thinking	willing
+pseudo-s	3	cientific	ophistication	ymmetric
+psych	3	e	i	o
+psycho	6	-physiology	a	log	p	somatic	t
+psychological	3	-intellectual	NULL	ly
+psychop	3	ath	harmacological	omp
+psychotherap	3	eutic	ists	y
+publi	3	c	que	sh
+public	7	's	-	NULL	a	i	k	ly
+public-	4	address	limit	opinion	s
+publici	3	sts	ty	z
+publish	3	NULL	e	ing
+publishe	3	d	r	s
+puff	5	NULL	ed	ing	s	y
+pull	6	NULL	e	ing	man	over	s
+pulle	3	d	n	y
+pullman	3	's	NULL	s
+puls	3	ati	e	ing
+pulse	3	-	NULL	d
+pump	6	-	NULL	ed	ing	kin	s
+punch	4	NULL	bowl	e	ing
+punche	3	d	r	s
+punish	5	NULL	able	e	ing	ment
+puppet	3	's	NULL	s
+purchase	4	NULL	d	r	s
+pure	3	NULL	ly	st
+purg	3	at	e	ing
+purge	3	NULL	d	s
+puri	3	f	s	t
+puritan	3	NULL	ical	s
+purl	3	ed	ing	oined
+purport	4	NULL	ed	ing	s
+purpose	5	NULL	d	ful	l	s
+purse	4	NULL	d	s	warden
+pursu	3	ant	e	i
+pursue	4	NULL	d	r	s
+push	5	-	NULL	e	in	up
+pushe	3	d	rs	s
+putt	5	NULL	ana	e	in	y
+puzzle	5	NULL	d	ment	r	s
+pyramid	3	NULL	al	s
+quack	3	NULL	e	s
+quadr	4	atic	ennial	i	upl
+quadri	3	c	ll	partite
+quake	3	's	NULL	r
+quaker	3	NULL	ess	s
+qualit	3	ative	ies	y
+quantit	3	ative	ies	y
+quarrel	4	NULL	ed	ing	s
+quart	4	NULL	e	s	z
+quarter	6	-	NULL	back	ly	master	s
+quarter-	4	century	inch	mile	to-quarter
+quasi-	5	folk	governmental	mechanistic	performer	recitative
+quaver	3	NULL	ed	ing
+queen	3	's	NULL	s
+quer	3	ie	ulous	y
+question	7	-and-answer	NULL	a	e	ing	naire	s
+quib	3	ble	s	usdam
+quick	7	-	NULL	e	ie	ly	ness	s
+quick-	5	drying	frozen	handling	kill	wate
+quicke	3	n	r	st
+quicken	3	NULL	ed	ing
+quiet	6	-spoken	NULL	e	is	ly	ness
+quin	4	c	ey	t	zaine
+quint	6	's	NULL	ana	et	illion	us
+quir	3	inal	k	t
+quirk	3	NULL	ing	s
+quit	4	NULL	e	s	ting
+quiver	3	ed	ing	s
+quot	3	a	e	ing
+quota	3	NULL	s	tion
+quote	3	NULL	d	s
+rabb	4	NULL	eting	i	le
+rabbi	3	's	NULL	t
+race	7	-driver	NULL	d	rs	s	track	way
+raci	4	al	e	n	sts
+racin	3	'	e	g
+rack	5	NULL	e	ing	mil	s
+racket	4	NULL	eer	s	y
+radi	6	a	c	i	o	sh	us
+radia	3	l	n	t
+radiat	3	e	i	or
+radiate	3	NULL	d	s
+radiation	3	-produced	NULL	s
+radical	4	NULL	ism	ly	s
+radio	10	-t	NULL	activ	c	ed	graphy	men	nic	pasteurization	s
+radioc	3	arbon	hlorine	last
+raft	3	NULL	er	s
+rafter	3	NULL	ed	s
+rage	3	NULL	d	s
+raid	4	NULL	e	ing	s
+rail	9	-mobile	NULL	birds	head	ing	lery	road	s	way
+railroad	5	's	NULL	er	ing	s
+railway	3	-based	NULL	s
+rain	12	's	-slick	NULL	bow	coats	drops	e	fall	i	less	s	y
+raise	4	NULL	d	r	s
+rake	3	NULL	d	straw
+rall	3	NULL	ie	y
+rami	3	fication	llies	rez
+ramp	3	NULL	a	s
+rampa	3	ge	nt	rt
+ranc	3	h	idity	or
+ranch	3	NULL	e	o
+rand	4	NULL	all	o	y
+random	4	-storage	NULL	ization	ly
+rang	5	NULL	e	ing	oni	y
+range	5	NULL	d	lands	r	s
+rank	6	-and-file	NULL	e	in	les	s
+ranke	3	NULL	d	st
+rankin	3	's	NULL	g
+rans	3	ack	om	y
+ransack	3	NULL	ed	ing
+rape	3	NULL	d	s
+raphael	3	's	NULL	s
+rapi	4	d	er	ng	sts
+rapid	4	-	NULL	ity	ly
+rapp	4	ed	ing	ort	rochement
+rare	3	NULL	ly	r
+rasp	5	NULL	berry	ed	ing	s
+rat-	3	a-tat-tatty	face	holes
+rate	4	NULL	able	d	s
+rati	3	f	ng	o
+ratio	4	NULL	cinating	n	s
+ration	5	NULL	al	ed	ing	s
+rational	4	NULL	e	i	ly
+rationali	3	s	ty	z
+ratt	4	ail	l	o	zhenfuut
+rattle	4	NULL	d	r	s
+rayburn	3	's	-johnson	NULL
+razor	3	-	NULL	back
+re-a	4	ctivate	dopt	rguing	ssumed
+re-e	7	cho	lect	m	n	stablish	valuat	x
+re-en	3	act	forces	ter
+re-enact	3	ed	ing	ment
+re-examine	3	NULL	d	s
+re-s	3	cheduled	et	harpening
+reac	3	h	quainted	t
+reach	3	NULL	e	ing
+react	6	NULL	ants	ed	i	or	s
+reacti	3	ng	on	v
+reaction	3	NULL	ar	s
+read	8	's	NULL	a	er	i	just	s	y
+reader	3	's	NULL	s
+reading	3	-rooms	NULL	s
+readjust	3	NULL	ed	ment
+ready	3	-made	NULL	ing
+reaffirm	4	NULL	ation	ed	s
+real	8	-	NULL	e	i	ly	m	ness	t
+reali	4	gning	s	t	z
+realiz	3	ation	e	ing
+realize	3	NULL	d	s
+realtor	3	's	NULL	s
+reap	4	NULL	ed	ing	p
+reapp	3	ear	ortion	raisal
+reappear	5	NULL	ance	ed	ing	s
+rear	7	-	NULL	ed	guard	ing	med	rang
+reason	5	NULL	abl	ed	ing	s
+reass	3	e	ign	ur
+reassur	3	ance	e	ing
+rebel	3	NULL	l	s
+rebu	4	ff	il	ke	t
+rebuild	3	NULL	ing	s
+reca	3	l	nted	p
+recall	4	NULL	ed	ing	s
+rece	6	ave	d	i	nt	pt	ss
+receive	4	NULL	d	r	s
+reception	3	NULL	ist	s
+recess	3	NULL	ed	ion
+recip	3	e	ient	roca
+recit	4	NULL	a	e	ing
+reckless	3	NULL	ly	ness
+reckon	4	NULL	ed	ing	s
+recl	3	a	ining	use
+reco	10	gni	il	llect	m	n	oned	pied	rd	u	ver
+recogni	3	sed	tion	z
+recogniz	3	able	e	ing
+recognize	3	NULL	d	s
+recoil	3	NULL	ed	less
+recollect	3	NULL	ed	ion
+recommend	5	NULL	ation	ed	ing	s
+recon	6	cil	d	naissan	s	tamination	ve
+reconcile	3	NULL	d	s
+reconsider	3	NULL	ation	ed
+reconstruct	4	NULL	ed	ion	s
+record	5	-	NULL	e	ing	s
+recou	3	nt	ped	rse
+recount	4	NULL	ed	ing	s
+recover	6	NULL	able	ed	ing	s	y
+recr	3	eat	imination	uit
+recreate	3	NULL	d	s
+recruit	5	NULL	e	ing	ment	s
+rect	4	ang	i	linearly	or
+recti	3	fier	linear	tude
+recu	4	mbent	perating	r	sant
+recur	3	NULL	r	sive
+red-	11	and-yellow	b	clay	faced	haired	light	necked	prone	rimmed	t	visored
+red-t	3	ailed	ile	urbaned
+rede	7	corat	dicate	em	fin	mpti	position	velop
+redeem	3	NULL	ed	in
+redhead	3	NULL	e	s
+rediscover	3	NULL	ing	y
+redo	3	NULL	ndo	u
+reduc	3	e	ing	tion
+reduce	4	NULL	d	r	s
+reed	5	NULL	buck	er	ville	y
+reek	3	NULL	ed	ing
+reel	4	NULL	e	ing	s
+rees	3	NULL	e	tablish
+refer	4	NULL	e	r	s
+referen	3	ce	dum	t
+reference	3	-points	NULL	s
+referr	3	al	ed	in
+refin	3	ance	e	ing
+refine	3	NULL	d	ment
+reflect	6	NULL	ance	ed	i	or	s
+reflecti	3	ng	on	ve
+reflex	3	NULL	es	ly
+refo	3	cusing	lded	rm
+reform	6	NULL	at	e	i	s	ulated
+refr	3	a	esh	igerat
+refract	3	ed	i	ory
+refresh	4	NULL	e	ing	ment
+refrigerat	3	ed	ion	or
+refu	6	el	ge	nd	rbish	s	te
+refund	3	NULL	ed	s
+refus	3	al	e	ing
+refuse	4	-littered	NULL	d	s
+rega	4	in	l	rd	ttas
+regain	4	NULL	ed	ing	s
+regal	3	NULL	ed	ia
+regard	5	NULL	ed	ing	less	s
+regen	3	cy	erat	ts
+regi	6	NULL	me	na	on	st	us
+regime	3	NULL	n	s
+regiment	5	's	NULL	ation	ed	s
+region	4	's	NULL	al	s
+regional	3	NULL	ism	ly
+register	4	NULL	ed	ing	s
+registr	3	a	ies	y
+registra	3	nt	r	tion
+registrant	3	's	NULL	s
+regret	4	NULL	fully	s	t
+regul	3	a	i	us
+regular	5	-featured	NULL	ity	ly	s
+regulat	3	e	i	or
+regulati	3	ng	on	ve
+reha	3	bilitati	rmonization	sh
+rehears	3	al	e	ing
+reich	3	NULL	enberg	stag
+reign	4	NULL	ed	ing	s
+reimburse	5	NULL	able	d	ment	s
+rein	8	NULL	carnated	e	forc	hard	s	t	v
+reinforce	4	NULL	d	ment	s
+reiterate	3	NULL	d	s
+reject	4	NULL	ed	i	s
+rejoice	3	NULL	d	s
+rejoin	3	NULL	der	ing
+rela	3	t	x	y
+relate	3	NULL	d	s
+relati	3	ng	on	v
+relation	3	NULL	al	s
+relationship	3	-building	NULL	s
+relative	3	NULL	ly	s
+relax	4	NULL	ation	e	ing
+relay	3	NULL	ed	ing
+rele	4	a	gated	nt	van
+release	3	NULL	d	s
+relentless	3	NULL	ly	ness
+reli	7	a	c	e	gio	nquish	sh	v
+relie	4	d	f	s	v
+relieve	3	NULL	d	s
+religio	3	n	sity	us
+religion	3	NULL	ists	s
+religious	3	NULL	ly	ness
+relinquish	3	NULL	ed	ing
+relish	3	NULL	es	ing
+rely	3	NULL	ing	riced
+rema	4	in	k	nd	r
+remain	5	NULL	der	ed	ing	s
+remar	3	k	que	r
+remark	5	NULL	abl	ed	ing	s
+remember	4	NULL	ed	ing	s
+remi	3	n	ssions	tted
+remin	3	d	gton	isc
+remind	4	NULL	e	ing	s
+reminisce	3	d	n	s
+remo	7	del	lding	nstrate	rse	te	unting	v
+remorse	3	NULL	ful	less
+remote	5	NULL	ly	ness	r	st
+remov	3	a	e	ing
+remove	3	NULL	d	s
+remu	3	da	nerati	s
+rena	5	issance	l	med	turation	ults
+rend	3	NULL	e	ition
+render	4	NULL	ed	ing	s
+renew	5	NULL	a	ed	ing	s
+reno	6	-lake	NULL	ir	uncing	v	wn
+rent	5	NULL	al	ed	ing	s
+reopen	3	NULL	ed	ing
+reor	3	der	ganiz	ient
+reorganiz	3	ation	e	ing
+repa	3	i	r	y
+repai	3	d	nting	r
+repair	5	NULL	ed	ing	men	s
+repay	3	NULL	able	ment
+repe	5	a	l	nt	r	titi
+repeat	4	NULL	e	ing	s
+repel	3	NULL	le	s
+repl	4	a	e	i	y
+replace	4	NULL	d	ment	s
+replenish	3	NULL	ed	ment
+report	6	NULL	age	e	ing	orial	s
+repr	3	e	i	o
+represent	5	NULL	ati	ed	ing	s
+representation	3	NULL	al	s
+repress	3	NULL	ed	i
+repri	4	eve	manded	nt	sal
+repro	5	ach	bat	duc	of	vingly
+reproduc	3	e	i	ti
+reproduce	3	NULL	d	s
+repu	5	blic	diat	gnan	ls	t
+republic	3	NULL	an	s
+republican	4	-controlled	NULL	ism	s
+reputation	3	's	NULL	s
+request	4	NULL	e	ing	s
+require	4	NULL	d	ment	s
+rese	5	a	mbl	nt	r	ttl
+research	5	-staff	NULL	able	e	ing
+resembl	3	ance	e	ing
+resemble	3	NULL	d	s
+resent	4	NULL	ed	ful	ment
+reserv	4	ation	e	ing	oir
+reserve	3	NULL	d	s
+resi	6	d	fted	gn	lience	n	st
+resid	3	e	ing	u
+reside	4	NULL	d	n	s
+resident	3	NULL	ial	s
+resign	5	NULL	ation	ed	ing	s
+resin	5	-saturated	NULL	like	s	y
+resist	6	NULL	an	ed	i	or	s
+reso	4	l	na	r	u
+resolve	3	NULL	d	s
+resort	4	NULL	ed	ing	s
+resource	4	-use	NULL	ful	s
+resourceful	3	NULL	ly	ness
+resp	4	ect	i	lendent	on
+respect	6	NULL	ab	ed	ful	i	s
+respond	4	NULL	e	ing	s
+respondent	3	's	NULL	s
+responsive	3	NULL	ly	ness
+rest	11	-room	NULL	a	ed	ful	i	less	o	r	s	udy
+resti	3	ng	tution	ve
+restless	3	NULL	ly	ness
+restor	3	a	e	ing
+restore	3	NULL	d	rs
+restr	3	ain	ict	uctured
+restrain	5	NULL	ed	ing	s	t
+restrict	4	NULL	ed	i	s
+restricti	3	ng	on	ve
+resu	5	blimed	lt	m	r	spen
+result	5	NULL	ant	ed	ing	s
+resum	3	e	ing	ption
+reta	3	i	liat	rd
+retail	3	NULL	er	ing
+retain	4	NULL	e	ing	s
+retaliat	3	e	i	ory
+retard	4	NULL	ation	ed	ing
+reti	4	culate	ed	n	r
+retire	4	NULL	d	ment	s
+reto	3	ld	rt	uching
+retr	4	a	e	i	o
+retra	3	c	ining	nslated
+retrac	3	e	ing	t
+retreat	4	NULL	ed	ing	s
+retrieve	3	NULL	d	r
+retro	3	gr	spect	vision
+return	4	NULL	ed	ing	s
+reunion	3	-halloween	NULL	s
+reve	5	al	l	n	r	tments
+reveal	4	NULL	ed	ing	s
+revel	7	NULL	at	ed	ing	l	ry	s
+revenue	3	NULL	rs	s
+rever	7	berat	dy	e	ie	s	t	y
+revere	3	NULL	d	n
+reveren	3	ce	d	t
+revers	3	al	e	i
+reverse	4	-surface	NULL	d	s
+revi	5	ew	led	s	talize	v
+review	4	NULL	e	ing	s
+revisi	3	ng	on	ted
+revision	3	NULL	ist	s
+reviv	3	al	e	i
+revival	3	NULL	ism	s
+revol	3	t	ution	v
+revolt	4	NULL	ed	ing	s
+revolution	5	's	NULL	ar	i	s
+revolutioni	3	bus	sts	zed
+revolve	4	NULL	d	r	s
+reward	4	NULL	ed	ing	s
+rewrit	3	e	ing	ten
+rhine	3	-	NULL	stones
+rhino	3	ceros	s	tracheitis
+rhythm	4	-	NULL	ic	s
+rich	7	NULL	ard	e	ly	mond	ness	ter-haaser
+richard	3	's	NULL	s
+richards	3	'	NULL	on
+riche	3	r	s	y
+rick	3	ards	e	shaw
+ricke	3	nbaugh	t	y's
+ridd	4	ance	en	ing	l
+riddle	3	NULL	d	s
+ride	3	NULL	r	s
+rider	4	's	-fashion	NULL	s
+ridge	3	NULL	field	s
+ridicul	3	e	ing	ous
+rifle	6	's	-shotgun	NULL	d	m	s
+riflemen	3	's	-rangers	NULL
+rigg	3	e	ing	s
+right	9	-	NULL	eous	f	hander	ist	ly	ness	s
+right-	4	angle	hand	of-entry	wing
+rigid	4	NULL	ity	ly	s
+ring	6	-	NULL	e	ing	le	s
+ringe	3	d	l	rs
+riot	5	NULL	e	ing	ous	s
+ripp	3	ed	ing	l
+ripple	3	NULL	d	s
+rise	3	NULL	n	s
+risk	5	NULL	ed	ing	s	y
+ritual	3	NULL	ized	s
+rival	6	's	NULL	ed	led	r	s
+rive	3	n	r	ts
+river	5	's	NULL	b	s	view
+road	7	's	-	NULL	b	house	s	way
+roadb	3	ed	lock	uilding
+roads	3	NULL	ide	ter
+roam	3	NULL	ed	ing
+roar	4	NULL	ed	ing	s
+roast	3	NULL	ed	s
+robb	3	e	i	y
+robber	4	NULL	ies	s	y
+robe	4	NULL	d	rt	s
+robert	4	NULL	a	o	s
+roberts	3	'	NULL	on
+robinson	3	's	NULL	ville
+robot	3	NULL	ism	s
+roch	3	dale	ester	ford
+rock	14	'n'roll	-	NULL	a	bound	e	fork	hall	i	like	port	s	ville	y
+rock-	5	and-roll	carved	like	ribbed	st
+rocke	4	d	feller	r	t
+rocket	5	's	-bomb	NULL	s	tes
+rode	4	NULL	nt	o	ph
+rodney-	3	honor	miss	the
+role	5	-experiment	NULL	play	s	tte
+roll	4	NULL	e	i	s
+rolli	3	cking	e	n
+roman	8	-camp	NULL	c	iuk	o	s	tic	za
+romance	3	NULL	rs	s
+romantic	5	NULL	ally	i	k	s
+rome	3	's	NULL	o
+romp	3	NULL	ed	ing
+roof	5	NULL	e	ing	s	t
+rookie	3	-of-the-year	NULL	s
+room	8	's	NULL	berg	ful	ing	mate	s	y
+roos	3	NULL	evelt	t
+roosevelt	3	's	NULL	ian
+rooster	3	's	NULL	s
+root	5	NULL	ed	ing	less	s
+rope	4	NULL	d	rs	s
+rosa	4	NULL	belle	lie	ries
+rose	9	's	-	NULL	bu	lla	mary	n	s	ttes
+rose-	3	of-sharon	pink	tea
+rosen	3	NULL	berg	mueller
+ross	3	NULL	i	off
+rost	3	agno	er	rum
+rotate	3	NULL	d	s
+rotation	3	NULL	ally	s
+roto	3	gravures	nda	r
+rott	4	en	ger	ing	osei
+rotund	3	NULL	a	ity
+rough	8	-	NULL	cast	e	ish	ly	ne	shod
+rough-	4	and-tumble	h	sanded	tough
+roughe	4	d	ned	r	st
+round	11	's	-	NULL	about	ed	h	ing	ly	ness	s	up
+round-	4	bottom	eyed	faced	t
+round-t	3	able	he-clock	ipped
+rous	3	e	ing	seau
+rousseau	3	's	NULL	an
+rout	3	e	in	o-jig
+route	3	NULL	d	s
+routine	3	NULL	ly	s
+rove	3	NULL	d	r
+royal	3	NULL	e	t
+rubb	3	e	i	le
+rubber	4	-like	NULL	ized	y
+rudd	3	er	iness	y
+rude	3	NULL	ly	ness
+ruin	5	NULL	ed	ing	ous	s
+rule	4	NULL	d	r	s
+ruling	4	's	-class	NULL	s
+rumble	3	NULL	d	s
+rumm	3	ag	el	y
+rumor	3	NULL	ed	s
+rump	3	NULL	led	us
+run-	4	down	of-the-mine	scoring	up
+rundfunk	3	-sinfonie-orchesternp	NULL	chor
+runner	3	-up	NULL	s
+rush	5	NULL	all	e	ing	more
+russ	4	NULL	e	ia	o-american
+russe	3	NULL	ll	t
+russia	3	's	NULL	n
+russian	3	-dominated	NULL	s
+rust	6	NULL	ed	i	l	proof	y
+rustle	3	NULL	d	r
+rustler	3	-hunter	NULL	s
+ruth	4	's	NULL	e	less
+ruthless	3	NULL	ly	ness
+sack	4	NULL	e	ing	s
+sacr	4	a	e	i	osanct
+sacrament	3	NULL	o	s
+sacre	3	NULL	d	stia
+sacrifice	3	NULL	d	s
+sacrifici	3	al	ng	um
+saddle	4	NULL	bags	d	s
+safe	8	-	NULL	guard	keeping	ly	r	st	t
+sage	3	NULL	brush	s
+sail	6	NULL	boat	ed	ing	or	s
+sailor	3	NULL	ly	s
+saint	6	-saens	NULL	ed	hood	liness	s
+sala	5	ble	cious	d	m	r
+sale	4	NULL	do	m	s
+sales	5	-	NULL	girl	lady	m
+salesman	3	's	NULL	ship
+sali	5	da	ent	n	s	va
+saliva	3	NULL	ry	te
+sall	4	e	ies	ow	y
+sally	3	's	NULL	ing
+salo	3	monovich	n	on
+saloon	3	NULL	keeper	s
+salt	8	-	NULL	bush	e	i	on	s	y
+salt-	3	crusted	edged	fractionation
+salu	3	NULL	brious	t
+salv	3	a	e	o
+salva	3	dor	g	t
+samo	3	a	s	var
+sample	4	NULL	d	rs	s
+sana	3	NULL	ntonio	torium
+sanct	3	am	i	uary
+sancti	4	fied	monious	on	ty
+sanction	3	NULL	ed	s
+sand	11	NULL	al	b	e	ing	man	paper	ra	s	wich	y
+sandal	3	phon	s	wood
+sandburg	3	's	NULL	s
+sandwich	3	-type	NULL	es
+sane	3	NULL	r	st
+sang	5	-froid	NULL	a	er-harris	uine
+sanita	3	ire	r	tion
+sant	4	'	a	e	o
+santa	3	's	NULL	yana
+sapp	3	ed	ing	y
+sara	7	's	NULL	cens	h	n	s	toga
+sard	3	anapalus	ines	onic
+sart	3	i	oris	re
+sash	3	NULL	ayed	imi
+sati	5	ate	ety	n	r	s
+satiri	3	c	st	zes
+satisf	3	act	ie	y
+satur	3	at	day	n
+saturday	4	's	-night	NULL	s
+sauce	4	NULL	pan	rs	s
+saud	3	's	NULL	i
+sausage	3	-meat	NULL	s
+savage	4	NULL	ly	ry	s
+save	4	NULL	d	r	s
+savo	3	narola	r	y
+savor	4	NULL	ed	ing	y
+saxon	3	NULL	s	y
+sayin	3	'	NULL	g
+scal	5	a	d	e	lop	p
+scald	3	NULL	ed	ing
+scale	3	NULL	d	s
+scan	5	NULL	d	n	s	t
+scandal	3	NULL	iz	s
+scap	3	egoat	in	ulars
+scar	10	NULL	borough	c	e	f	i	let	red	s	y
+scare	3	NULL	crowish	d
+scatter	6	NULL	brained	ed	gun	ing	s
+scen	4	ario	e	ic	t
+scene	3	NULL	r	s
+scha	5	ack	ef	ffner	ng	piro
+sche	6	dul	herazade	lling	m	nk	r
+schedule	3	NULL	d	s
+schem	3	a	e	ing
+schi	4	ele	lling	sm	zophrenic
+schle	4	iermacher	k	singer	y
+schnabel	4	's	-pro	NULL	ian
+scho	6	ckler	la	n	o	penhauer	tt
+scholar	4	-businessman	NULL	ly	s
+scholastic	3	NULL	a	s
+school	14	's	-	NULL	bo	children	days	e	girl	house	ing	ma	room	s	work
+schoolgirl	3	NULL	ish	s
+schoolma	3	rm	ster	te
+schu	5	bert	l	man	tz	yl
+schubert	3	's	-beethoven-mozart	NULL
+schuman	3	's	NULL	n's
+schwa	3	b	da	r
+science	4	's	-fiction	NULL	s
+scimitar	3	-wielding	NULL	s
+scoop	3	NULL	ed	ing
+scop	3	NULL	e	s
+scope	3	NULL	d	s
+scor	4	che	e	ing	n
+score	6	NULL	board	card	d	less	s
+scorn	3	NULL	ed	ful
+scot	7	-free	NULL	ch	ian	land	s	t
+scotch	4	-	NULL	gard	man
+scott	4	's	NULL	ish	y
+scou	3	ndrel	r	t
+scour	5	NULL	ed	ge	ing	s
+scout	5	's	NULL	ed	ing	s
+scra	5	ggly	mbl	p	tch	w
+scrap	6	NULL	book	e	i	ped	s
+scrape	3	NULL	d	s
+scratch	4	NULL	e	in	y
+scre	4	am	e	vane	w
+scream	4	NULL	ed	ing	s
+screech	4	NULL	e	ing	y
+screen	6	NULL	ed	ing	land	play	s
+screw	5	-loose	NULL	ball	ed	s
+scri	4	b	m	p	vener
+scrib	3	bled	e	ing
+script	3	's	NULL	ur
+scru	4	b	mptious	pulo	tin
+scrutin	3	NULL	iz	y
+sculpt	3	ed	or	ur
+sculptor	3	's	NULL	s
+sculpture	3	NULL	d	s
+sea-	6	b	damp	food	horses	road	village
+seal	4	NULL	ed	ing	s
+seam	5	NULL	an	en	less	s
+sear	5	NULL	ch	ing	les	s
+search	4	NULL	e	ing	light
+searching	3	NULL	ly	s
+seas	4	NULL	hore	ide	on
+season	6	's	NULL	al	ed	ing	s
+seat	6	NULL	ed	ing	o	s	tle
+second	6	-	NULL	ar	hand	ly	s
+second-	11	NULL	class	degree	echelon	floor	ha	l	order	place	rate	st
+secret	6	NULL	ar	ed	ion	ly	s
+secretary	3	's	-	NULL
+secretary-	3	designate	general	treasurer
+sect	5	NULL	arian	ion	or	s
+section	3	NULL	alized	s
+secure	3	NULL	d	ly
+sediment	3	NULL	a	s
+seed	6	-	NULL	bed	coat	l	s
+seek	5	NULL	er	in	onk	s
+seem	4	NULL	ed	ing	s
+seep	4	NULL	age	ed	ing
+segment	3	NULL	al	s
+seiz	3	e	in	ure
+select	6	NULL	ed	i	men	ors	s
+selecti	3	ng	on	v
+selection	3	-rejection	NULL	s
+self	6	's	-	NULL	effacing	ish	less
+self-	19	a	betrayal	c	d	e	flagellation	government	help	i	judging	locking	mastery	o	p	r	s	unloading	victimized	will
+self-a	6	cceptance	ggrandi	nalysis	ppointed	sserti	wareness
+self-c	3	e	o	ri
+self-co	3	mpletion	n	rrecting
+self-con	5	ceited	fiden	gratulation	s	t
+self-cons	3	cious	istent	uming
+self-conscious	3	NULL	ly	ness
+self-cont	3	ained	ent	rol
+self-d	3	e	i	ramatization
+self-de	6	ce	fe	lu	precation	structi	termination
+self-e	6	ffac	mployed	n	steem	vident	x
+self-ex	3	amination	ile	tinguishing
+self-in	3	dulgence	surance	terest
+self-p	6	acification	erceived	ity	lagiarisms	ortrait	r
+self-r	3	e	ighteousness	ule
+self-re	4	alized	definition	lian	s
+self-s	4	a	e	tyled	u
+selkirk	3	's	NULL	ers
+sell	5	NULL	e	in	out	s
+seller	3	's	NULL	s
+semi	11	-	a	circular	drying	empirical	n	public	quantitative	ramis	secret	tr
+semi-	10	a	c	heights	i	literate	m	nude	p	rigid	s
+semi-a	3	bstract	mbiguous	utonomous
+semi-c	3	atatonic	i	on
+semi-pr	3	ecious	ivate	o
+semi-s	3	erious	killed	pecial
+seminar	3	NULL	i	y
+senator	4	's	NULL	ial	s
+send	4	NULL	ers	ing	s
+seni	3	l	or	um
+senior	4	-graduate	NULL	it	s
+sens	6	NULL	ation	e	i	or	u
+sensation	3	NULL	al	s
+sense	4	NULL	d	less	s
+sensi	3	b	ng	ti
+sensitive	4	-area	NULL	ly	s
+sensor	3	NULL	s	y
+sent	4	NULL	enc	i	ry
+sentence	4	-structure	NULL	d	s
+senti	3	ent	ment	nel
+sentiment	3	NULL	al	s
+sentimentali	3	sts	ty	ze
+separat	3	e	i	ors
+separate	5	NULL	d	ly	ness	s
+sept	5	NULL	a	ember	i	u
+sequ	3	e	ins	oia
+seque	3	l	nce	stration
+sequence	3	NULL	d	s
+sera	3	NULL	fin	phim
+seren	3	ade	e	i
+serge	3	NULL	ant	i
+seri	4	al	e	f	ous
+serious	4	-minded	NULL	ly	ness
+serpent	3	NULL	ine	s
+serv	4	a	e	i	o
+serve	3	NULL	d	s
+servi	5	c	ettes	le	ng	tors
+service	5	-connected	NULL	able	men	s
+sett	3	er	ing	l
+settle	5	NULL	d	ment	r	s
+seven	3	-	NULL	t
+seven-	8	NULL	concert	hit	i	o'clock	s	thirty	w
+sevent	4	een	h	ies	y
+seventeen	3	-	NULL	th
+seventy-	5	eight	f	odd	six	two
+sever	7	NULL	al	e	i	ly	na	s
+several	3	NULL	ly	ty
+severe	4	-looking	NULL	d	ly
+sewa	3	ge	nee	rd
+sewer	3	's	NULL	s
+sext	4	et	illion	on	uor
+sexual	3	NULL	i	ly
+shabb	3	at	ily	y
+shack	5	-up	NULL	ed	le	s
+shad	4	e	ing	ow	y
+shade	4	-darkened	NULL	d	s
+shadow	5	NULL	ed	ing	s	y
+shaf	3	er	fner	t
+shak	4	NULL	e	i	y
+shake	4	NULL	n	r	s
+shakespeare	3	's	NULL	an
+shallow	3	NULL	er	ness
+sham	6	NULL	bl	e	poo	rock	s
+shame	4	NULL	d	f	s
+shan	7	't	NULL	gri-la	k	n	si	t
+shann	3	's	NULL	on
+shant	4	ies	ung	y	z
+shape	5	-up	NULL	d	l	s
+shar	7	ds	e	i	k	on	p	tzer's
+share	7	-holders	NULL	crop	d	holder	rs	s
+shark	4	's	-infested	ey	s
+sharp	6	-limbed	NULL	e	ly	ness	shooters
+sharpe	5	's	NULL	n	r	st
+sharpen	3	NULL	ed	ing
+shatter	5	NULL	ed	ing	proof	s
+shave	3	NULL	d	n
+shaw	6	's	NULL	ano	l	nee	omet
+shay	3	NULL	ne	ol
+she'	4	arim	d	ll	s
+shea	5	's	NULL	f	r	th
+shear	3	NULL	ing	n
+shed	3	NULL	ding	s
+shee	4	n	p	r	t
+sheep	4	-lined	NULL	e	skin
+sheer	3	NULL	an	ed
+sheet	5	-metal	NULL	ed	ing	s
+shel	7	agh	by	don	f	l	ter	ve
+shell	4	-psychology	NULL	e	s
+shelter	3	NULL	ed	s
+shep	3	NULL	ard	herd
+shepherd	3	's	NULL	s
+sher	7	aton-	bet-colored	i	lock	man	r	wood
+sheriff	3	's	NULL	s
+shie	4	d	ld	s	tz
+shield	4	NULL	ed	ing	s
+shift	6	NULL	e	ing	less	s	y
+shifte	3	NULL	d	rs
+shill	4	NULL	ings	ong	s
+shim	3	NULL	m	s
+shimm	3	er	ing	y
+shin	7	NULL	bone	e	gles	ing	toism	y
+ship	10	's	-to-surface	NULL	b	ley	m	p	s	wreck	yards
+ships	3	'	NULL	hape
+shir	4	es	king	l	t
+shirt	4	-sleeved	NULL	front	s
+shit	3	-sick	NULL	ts
+shiver	4	NULL	ed	ing	y
+shock	5	NULL	e	ing	s	wave
+shoe	5	-string	NULL	lace	s	ttle
+shoo	3	ing	k	t
+shoot	4	-down	NULL	er	in
+shop	6	's	NULL	keepers	p	s	worn
+shore	3	NULL	line	s
+short	10	's	-	NULL	age	c	e	hand	ly	ness	s
+short-	7	barrel	c	lived	of-war	r	s	t
+short-c	3	hanging	ontact	ut
+shorte	3	n	r	st
+shorten	3	NULL	ed	ing
+shorts	3	NULL	ighted	top
+shot	4	NULL	gun	s	well
+shotgun	3	-type	NULL	s
+shou	4	ders	ld	p	t
+should	4	NULL	da	er	n't
+shoulder	5	-	NULL	ed	ing	s
+shout	4	NULL	ed	ing	s
+shove	3	NULL	d	l
+shovel	3	NULL	ed	s
+show	12	-	NULL	case	down	e	in	m	n	piece	room	s	y
+shower	5	NULL	ed	head	ing	s
+shre	3	d	veport	w
+shred	3	NULL	d	s
+shrewd	3	NULL	est	ly
+shri	5	ek	ll	mp	n	ve
+shriek	3	NULL	ed	ing
+shrill	5	NULL	ed	ing	ness	y
+shrink	4	NULL	age	ing	s
+shru	3	b	g	nken
+shrub	4	-covered	NULL	bery	s
+shrug	3	NULL	ged	s
+shudder	4	NULL	ed	ing	y
+shun	4	NULL	n	s	t
+shunt	3	NULL	ed	s
+shut	5	NULL	down	e	s	t
+shutt	3	er	ing	l
+shutter	3	NULL	ed	s
+sibl	3	ey	ing	y
+sicilian	3	NULL	a	s
+sick	6	NULL	e	ish	ly	ness	room
+side	11	's	-	NULL	arms	board	chairs	d	l	men	s	w
+side-	6	arm	conclusions	effects	looking	rack	step
+sides	3	NULL	how	teps
+sigh	5	NULL	ed	ing	s	t
+sight	5	-seeing	NULL	ed	ing	s
+sigm	3	a	en	und
+sign	8	NULL	a	board	e	i	or	post	s
+signal	5	-	NULL	ed	i	s
+significant	3	NULL	ly	s
+signor	3	NULL	a	e
+silence	3	NULL	d	s
+silhouette	3	NULL	d	s
+silica	3	-glass	NULL	te
+silk	4	NULL	e	worms	y
+sill	3	NULL	iest	y
+silo	3	NULL	ne	s
+silv	3	as	er	io
+silver	4	-	NULL	s	y
+simil	3	ar	e	itude
+similar	3	NULL	it	ly
+simm	3	e	ons	s
+simmons	3	'	NULL	ville
+simon	4	's	NULL	elli	son's
+simp	3	kins	l	son
+simpl	3	e	i	y
+simple	6	-	NULL	r	s	ton	x
+simpli	3	cit	f	stic
+simplicit	4	er	ies	ude	y
+sina	3	i	n	tra
+sincere	3	NULL	ly	st
+sing	8	's	-song	NULL	e	ing	l	s	ular
+singer	3	's	NULL	s
+singl	3	e	ing	y
+single	6	-	NULL	d	handedly	ness	s
+single-	9	barrel	c	dose	foot	handed	lane	minded	s	valued
+single-s	4	eeded	hot	paced	tep
+singular	3	NULL	ity	ly
+sink	4	NULL	hole	ing	t
+sinuous	3	NULL	ly	ness
+sinus	3	NULL	es	oid
+sister	4	's	-in-law	NULL	s
+sisters	3	'	-in-law	NULL
+sitter	3	's	NULL	s
+situ	3	NULL	at	s
+six-	8	dollar	fo	gallon	inch	m	point	shooter	t
+sixt	4	een	h	ies	y
+sixteen	3	-year-old	NULL	th
+sixty-	7	day	eight	five	nine	one	seven	two
+size	4	NULL	able	d	s
+skeptic	3	al	ism	s
+sketch	4	NULL	book	e	ing
+skid	3	NULL	d	s
+skidd	3	ed	ing	y
+skiff	3	's	NULL	s
+skill	4	NULL	e	ful	s
+skillful	3	NULL	ly	ness
+skin	7	-perceptiveness	NULL	div	folds	less	n	s
+skinn	3	er	in'	y
+skip	4	NULL	jack	p	s
+skirmish	3	NULL	e	ing
+skirmishe	3	d	rs	s
+skirt	4	NULL	ed	ing	s
+skol	3	kau	man	ovsky
+skull	4	-bashings	NULL	cap	s
+sky-	4	carving	god	reaching	tapping
+slack	4	NULL	en	ing	s
+slan	3	der	g	t
+slander	3	er	ous	s
+slant	5	-wise	NULL	ed	ing	s
+slap	3	NULL	p	s
+slash	4	-	NULL	e	ing
+slat	4	NULL	e	s	ted
+slate	3	NULL	d	r
+slaughter	3	NULL	ed	ing
+slav	3	e	i	s
+slave	5	's	-	NULL	r	s
+slee	4	k	p	t	ve
+sleep	8	-wakefulness	NULL	er	i	less	s	walker	y
+sleeper	3	's	NULL	s
+slender	3	-waisted	NULL	er
+slice	3	NULL	d	s
+slick	3	-headed	NULL	er
+slid	3	NULL	e	ing
+slide	3	-lock	NULL	s
+slight	4	NULL	e	ly	s
+slim	5	-waisted	NULL	ed	ly	mer
+sling	3	NULL	ing	s
+slip	3	NULL	p	s
+slipp	3	age	e	ing
+slipper	3	NULL	s	y
+slit	3	NULL	s	ter
+sloan	4	's	NULL	aker	e
+slogan	3	NULL	eering	s
+slop	4	NULL	e	ing	p
+slope	3	's	NULL	s
+slopp	3	ed	i	y
+slot	4	NULL	hful	s	ted
+slow	6	-	NULL	e	ing	ly	ness
+slow-	6	acting	b	firing	growing	moving	scrambling
+slowe	3	d	r	st
+slug	3	NULL	g	s
+sluice	4	NULL	d	house	s
+slum	4	NULL	ber	p	s
+smack	3	NULL	ed	s
+small	8	-	NULL	e	ish	ness	pox	time	wood
+small-	6	arms	boat	car	game	scale	town
+smart	3	NULL	e	ly
+smash	4	-'em-down	NULL	ed	ing
+smell	4	NULL	ed	ing	s
+smile	3	NULL	d	s
+smith	8	's	-	NULL	ereens	field	sonian	town	y
+smok	3	e	i	y
+smoke	6	-	NULL	d	house	rs	s
+smolder	3	ed	ing	s
+smooth	6	NULL	bore	e	ing	ly	ness
+smoothe	3	d	r	st
+smuggle	3	NULL	d	rs
+snail	3	's	NULL	s
+snake	4	-	NULL	d	s
+snap	6	-in	NULL	back	dragons	p	shots
+snapp	3	e	ing	y
+snatch	3	NULL	e	ing
+sneak	5	NULL	e	ing	s	y
+snee	3	d	r	z
+sneer	4	NULL	ed	ing	s
+sniff	4	NULL	ed	ing	le
+snip	4	er	ing	py	s
+snob	3	-clannish	b	s
+snor	3	ing	kle	t
+snow	9	's	-	NULL	ball	ed	f	ing	s	y
+snow-	3	covered	fence	white
+snug	4	-	NULL	gled	ly
+soak	3	NULL	ed	ing
+soap	3	NULL	s	y
+sober	4	NULL	ed	ing	ly
+soci	4	a	et	nianism	o
+social	4	-	NULL	i	ly
+social-	5	cl	economic	political-economical	r	welfare
+sociali	3	s	ty	z
+socialize	3	NULL	d	s
+societ	4	al	e	ies	y
+socio	3	-	economic	log
+socio-	4	archaeological	economic	political	structural
+sock	4	NULL	dologizing	e	s
+sofa	3	NULL	r	s
+soft	6	-	NULL	e	ly	ness	wood
+soft-	5	NULL	drink	hea	looking	s
+softe	3	n	r	st
+soften	4	NULL	e	ing	s
+soil	4	-	NULL	ed	s
+sokol	4	NULL	ev	ov	sky
+solar-	4	corpuscular-radiation	electromagnetic-	radiation	wind
+sold	4	-out	NULL	er	ier
+solder	3	NULL	ed	ing
+soldier	7	's	-masters	NULL	ing	ly	s	y
+sole	5	NULL	ly	mn	noid	s
+solemn	3	NULL	i	ly
+soli	4	cit	d	psism	t
+solicit	6	NULL	ed	ing	o	s	ude
+solid	6	-	NULL	arity	i	ly	s
+solo	5	NULL	ist	mon	s	viev
+solution	3	-type	NULL	s
+solv	3	ating	e	ing
+solve	4	NULL	d	n	s
+soma	3	NULL	tic	y
+some	9	NULL	body	day	how	one	place	r	t	wh
+somers	3	NULL	ault	et
+somersault	3	NULL	ing	s
+somethin	3	'	NULL	g
+sona	3	mbula	r	t
+song	7	's	-writing	NULL	au	b	ful	s
+sono	4	fabitch	gram	ma	r
+sonor	3	a	it	ous
+soon	3	's	NULL	er
+sooth	3	e	ing	sayer
+sophi	3	a	e	sticat
+sophia	3	's	NULL	s
+sophisticate	3	NULL	d	s
+sore	5	-ridden	NULL	ly	ness	s
+sorr	4	e	iest	ow	y
+sort	4	NULL	ed	i	s
+soul	6	's	-searching	NULL	e	ful	s
+sound	8	-truck	NULL	e	ing	ly	ness	proof	s
+sour	5	NULL	ce	dough	ly	s
+south	11	's	-	NULL	ampton	bound	e	field	land	paw	s	w
+south-	3	asian	central	east
+southe	3	ast	rn	y
+southern	4	-	NULL	er	isms
+southerner	3	's	NULL	s
+sovereign	3	NULL	s	ty
+soviet	4	's	-	NULL	s
+soviets	3	'	NULL	kaya
+sp-4400	5	1	2	5	6	7
+space	6	-time	NULL	craft	d	r	s
+spaces	3	NULL	hip	uit
+spahn	3	's	NULL	ie
+span	6	NULL	drels	gle	i	n	s
+spar	7	e	ing	k	ling	r	se	ta
+spare	3	NULL	d	s
+spark	5	NULL	ed	l	s	y
+sparkle	3	NULL	d	s
+spat	5	NULL	e	ial	s	ter
+spatial	3	NULL	ity	ly
+speak	5	-easy	NULL	er	in	s
+speaker	3	's	NULL	s
+spear	4	-throwing	NULL	ed	head
+spec	5	NULL	i	k	t	ulat
+speci	5	al	e	f	men	ous
+special	5	-interest	NULL	i	ly	t
+specializ	3	ation	e	ing
+specialize	3	NULL	d	s
+specific	4	NULL	a	ity	s
+specimen	3	NULL	s	talia
+speck	3	NULL	le	s
+spect	4	a	er	or	r
+spectator	3	-type	NULL	s
+spectr	4	a	e	o	um
+spectro	3	met	photomet	scopy
+speculat	3	e	i	or
+speculati	3	ng	on	ve
+spee	3	ch	d	r
+speech	4	-making	NULL	es	less
+speed	8	NULL	boat	ed	i	ometer	s	up	y
+spell	6	-binding	NULL	bound	ed	ing	s
+spen	4	cer	d	glerian	t
+spencer	3	's	NULL	ian
+spend	4	NULL	ers	ing	s
+spher	3	e	ical	ules
+spic	3	NULL	e	y
+spice	4	-	NULL	d	s
+spider	3	-leg	NULL	y
+spike	4	-haired	NULL	d	s
+spill	5	NULL	ane's	e	ing	s
+spin	8	NULL	ach	co	dle	e	ley's	n	rad
+spine	3	-chilling	NULL	less
+spinn	3	ability	eret	ing
+spir	3	al	e	it
+spiral	3	NULL	ed	i
+spirit	6	-gum	NULL	ed	o	s	ual
+spiritual	4	NULL	ity	ly	s
+spit	3	NULL	e	t
+spla	3	sh	ttered	yed
+splash	4	NULL	e	ing	y
+splen	3	d	etic	omegaly
+splendid	3	NULL	e	ly
+spli	3	c	nt	t
+splinter	4	NULL	ed	s	y
+split	4	-	NULL	s	ting
+spoil	5	NULL	a	ed	ing	s
+spoke	3	NULL	n	s
+spon	3	g	sor	tane
+spong	3	e	ing	y
+sponge	3	NULL	d	s
+sponsor	5	's	NULL	ed	ing	s
+spoo	3	f	ky	n
+spoon	3	NULL	ed	ful
+spor	3	adic	es	t
+sport	4	-king	NULL	i	s
+sports	3	NULL	m	writer
+spot	5	-	NULL	l	s	t
+spott	3	ed	ing	y
+spout	3	NULL	ed	ing
+spra	5	gue	in	ng	wl	y
+sprawl	3	NULL	ed	ing
+spray	5	-dried	NULL	ed	ing	s
+spread	5	-	NULL	er	ing	s
+spri	3	g	n	te
+sprin	3	g	k	ted
+spring	7	-	NULL	board	field	ing	s	time
+spring-	3	back	joints	training
+sprout	3	NULL	ed	ing
+spru	3	ce	e	ng
+spur	7	NULL	dle	ious	n	r	s	t
+squa	8	bbl	d	l	ndered	re	sh	t	w
+squad	3	NULL	ro	s
+square	6	's	-	NULL	d	ly	s
+squash	4	NULL	ed	ing	y
+squat	4	-style	NULL	s	t
+sque	3	a	ez	lched
+squea	3	k	l	mish
+squeak	4	NULL	ed	ing	y
+squeal	4	NULL	ed	ing	s
+squi	3	bb	nt	r
+squint	3	NULL	ed	ing
+squir	4	e	m	rel	t
+squire	3	's	NULL	s
+squirt	3	NULL	ed	ing
+stab	6	NULL	at	bed	ili	le	s
+stabiliz	3	ation	e	ing
+stabilize	4	NULL	d	rs	s
+stable	5	-garage	NULL	d	man	s
+stac	4	cato	ey	k	y
+stack	4	NULL	ed	ing	s
+staff	6	's	NULL	e	ing	ord	s
+stag	6	NULL	e	ger	in	na	s
+stage	6	-plays	NULL	coach	d	r	s
+stagger	3	NULL	ed	ing
+stai	4	d	ger	n	r
+stain	5	NULL	ed	ing	less	s
+stair	5	-	NULL	case	s	w
+stake	4	-out	NULL	d	s
+stal	6	ag	e	in	k	l	wart
+stale	3	NULL	mate	y
+stalin	5	's	NULL	gr	ist	s
+stall	5	NULL	ard	ed	i	s
+stam	5	ens	ford	ina	mer	p
+stamp	4	NULL	ed	ing	s
+stan	12	NULL	bury	c	d	ford	hope	islas	ley	nard	s	ton	za-form
+stand	8	-	NULL	ard	by	eth	in	point	s
+standard	4	-	NULL	iz	s
+star	14	's	-spangled	NULL	b	ch	d	e	ing	k	l	r	s	t	v
+starch	3	NULL	ed	y
+stare	3	NULL	d	s
+stark	3	NULL	ey	ly
+starr	3	NULL	e	ing
+start	6	NULL	e	in	l	s	ups
+starv	3	ation	e	ing
+stat	5	NULL	e	i	or	u
+state	10	's	-	NULL	d	l	ment	n	room	s	wide
+state-	4	administered	l	owned	s
+states	4	'	-yugoslav	NULL	m
+statesman	3	NULL	like	ship
+stati	4	c	ng	on	sti
+station	6	's	NULL	ary	e	master	s
+statistic	3	al	ians	s
+statu	6	NULL	ary	e	re	s	t
+statue	3	NULL	s	tte
+status	3	-	NULL	es
+stay	4	NULL	ed	ing	s
+stea	5	d	k	l	m	rns
+stead	4	NULL	fastly	i	y
+steadi	3	e	ly	ness
+steal	5	NULL	er	in	s	th
+steam	6	-	NULL	boat	e	i	ship
+stee	5	d	l	p	r	ves
+steel	7	's	-edged	NULL	e	maker	s	y
+steele	4	's	NULL	d	rs
+steep	3	NULL	e	l
+steepe	3	d	r	st
+steer	4	NULL	ed	ing	s
+stein	6	's	NULL	be	er	hager	kerque
+stem	3	NULL	med	s
+sten	6	ch	d	gel	nis	ography	ton
+step	11	-	NULL	anovich	child	h	ladders	mother	p	relationship	s	wise
+stephan	3	e	ie	otis
+stephen	3	's	NULL	s
+stephens	3	's	NULL	on
+ster	5	eo	i	ling	n	oid
+stereo	3	NULL	phonic	type
+stereotype	3	NULL	d	s
+steriliz	3	ation	e	ing
+stern	7	-	NULL	al	ly	o-cleido	s	um
+steroid	3	-induced	NULL	s
+stet	3	hoscope	son	tin
+steve	3	NULL	dore	ns
+stevens	3	NULL	es'	on
+stew	4	NULL	ar	ed	s
+steward	3	NULL	ess	s
+stick	8	NULL	ing	ler	man	ney	pin	s	y
+stiff	6	-backed	NULL	e	ly	ness	s
+stiffen	3	ed	ing	s
+stil	3	e	l	t
+still	6	-	NULL	births	ness	s	well
+stimul	3	a	i	us
+stimulat	3	e	i	ory
+stimulate	3	NULL	d	s
+stin	3	g	k	t
+sting	4	NULL	ing	s	y
+stink	4	NULL	ing	potters	y
+stir	5	NULL	ling	r	s	ups
+stirr	3	ed	in	up
+stirring	3	NULL	ly	s
+stock	12	's	-market	NULL	ade	broker	growers'	h	ing	piling	room	s	y
+stoic	4	-patristic	NULL	ism	s
+stol	4	e	id	l	zenbach
+stomach	3	-belly	NULL	s
+ston	3	e	ily	y
+stone	7	's	-	NULL	d	henge	s	ware
+stone-	3	blind	gray	still
+stoo	5	d	ges	l	ooomp	p
+stoop	3	NULL	ed	ing
+stop	5	-overs	NULL	over	p	s
+stopp	3	age	e	ing
+stor	5	age	e	i	m	y
+store	8	-front	NULL	d	front	house	keepers	r	s
+storm	6	NULL	bound	ed	ing	s	y
+story	4	-book	NULL	line	teller
+stout	3	's	NULL	ly
+stowe	4	's	NULL	d	y
+stra	13	ddl	f	ggl	i	m	n	p	s	t	uss	vinsky	w	y
+straf	3	aci	e	ing
+straggle	3	NULL	d	rs
+strai	3	ght	n	t
+straight	6	-	NULL	away	en	forward	way
+straight-	5	a	backed	haired	line	out
+straighten	4	NULL	ed	ing	s
+strain	4	NULL	ed	in	s
+strait	3	-laced	NULL	s
+stram	3	's	NULL	onium
+stran	3	ahan	d	g
+strand	4	NULL	ed	ing	s
+strang	4	NULL	e	led	ulation
+strange	6	-sounding	NULL	ly	ness	r	st
+stranger	3	's	NULL	s
+strap	3	NULL	p	s
+strat	7	a	eg	ford	if	osphere	ton	um
+stratford	3	's	NULL	e
+straw	4	-	NULL	berries	s
+stray	3	NULL	ed	s
+stre	7	a	et	n	ptococcus	ss	tch	wn
+streak	3	NULL	ed	s
+stream	7	's	-of-consciousness	NULL	e	ing	line	s
+street	6	's	NULL	car	ers	light	s
+strength	3	NULL	en	s
+strengthen	4	NULL	ed	ing	s
+stress	5	-temperature	NULL	e	ful	ing
+stretch	3	NULL	e	ing
+stretche	3	d	r	s
+stri	8	c	d	fe	k	n	p	tch	v
+strict	4	NULL	est	ly	ures
+strike	3	NULL	breakers	s
+string	5	NULL	e	ing	s	y
+strip	5	NULL	e	pe	s	tease
+stripe	3	NULL	d	s
+strive	3	NULL	n	s
+stro	6	de	k	ll	ng	p	ve
+stroke	3	NULL	d	s
+stroll	3	NULL	ed	ing
+strong	6	-made	NULL	e	h	ly	rooms
+stru	6	c	ggl	kturbericht	mming	ng	t
+structur	3	al	e	ing
+structure	3	NULL	d	s
+struggle	3	NULL	d	s
+stub	3	NULL	b	s
+stubb	5	ed	le	orn	s	y
+stubborn	3	NULL	ly	ness
+stud	6	NULL	ded	e	i	s	y
+student	4	's	-	NULL	s
+student-	3	directed	loan	physicists
+studio	3	NULL	s	us
+stuff	4	NULL	ed	ing	y
+stumble	3	NULL	d	s
+stump	6	NULL	age	ed	ing	s	y
+stun	4	g	k	n	t
+stup	3	e	id	or
+stupid	4	NULL	est	it	ly
+stur	5	bridge	ch	dy	geon	ley
+style	4	NULL	d	mark	s
+styli	3	ng	s	z
+styr	3	ene	on	yl-lithium
+styrene	3	's	NULL	s
+sub-	9	assembly	c	freezing	group	human	interval	s	tests	zero
+subdue	3	NULL	d	s
+subject	5	's	NULL	ed	iv	s
+subl	3	ease	i	unary
+subm	4	a	erg	i	ucosa
+submarine	4	-ball	NULL	rs	s
+submit	3	NULL	s	t
+subordinate	3	NULL	d	s
+subp	3	ar	ena	oena
+subs	9	NULL	cri	e	i	oil	p	t	u	ystem
+subscribe	3	NULL	d	rs
+subse	4	ction	dies	quent	rvien
+subsid	3	e	i	y
+subsidi	3	ar	es	ze
+subst	4	an	erilization	itut	r
+substitute	3	NULL	d	s
+substitution	3	NULL	ary	s
+subt	5	e	i	l	ract	ype
+subtle	3	NULL	r	t
+subtract	3	NULL	ed	i
+suburb	4	NULL	an	ia	s
+succ	4	e	inct	or	umb
+succeed	4	NULL	ed	ing	s
+success	6	-oriented	NULL	es	ful	i	or
+successors	3	-in-spirit	NULL	hip
+succumb	3	NULL	ed	ing
+suck	3	NULL	e	ing
+sudden	4	-end	NULL	ly	ness
+suff	5	er	i	ocat	rage	use
+suffer	4	NULL	e	ing	s
+suggest	4	NULL	ed	i	s
+suggesti	4	bility	ng	on	ve
+suit	6	NULL	ab	case	e	or	s
+suite	4	's	NULL	d	s
+sulf	3	aquinoxaline	ide	ur
+sulk	4	ed	i	s	y
+sull	4	am	en	ivan	ying
+sultan	3	NULL	e	s
+summ	4	a	e	i	on
+summariz	3	ation	e	ing
+summarize	3	NULL	d	s
+summer	6	's	-winter	NULL	dale	s	time
+summon	3	NULL	ed	s
+sun-	5	b	inflamed	suit	t	warmed
+sun-b	4	aked	leached	rowned	urned
+sunb	3	aked	onnet	urn
+sund	5	ay	er	ials	own	ry
+sunday	4	's	-school	NULL	s
+suns	4	NULL	et	h	pot
+super	14	-	NULL	b	c	ego	f	h	i	l	ma	n	pos	s	v
+super-	6	c	e	h	imposed	protein	se
+super-c	3	harged	ity	ondamine
+superc	3	eded	ilious	ritical
+superficial	3	NULL	ity	ly
+superi	4	eure	mpos	ntend	or
+superimpose	3	NULL	d	s
+superintendent	3	's	NULL	s
+superior	3	NULL	ity	s
+superma	3	chine	rket	tic
+supers	3	e	onic	t
+supervis	3	e	i	or
+supervise	3	NULL	d	s
+supervisor	4	's	NULL	s	y
+supp	5	NULL	er	l	o	ress
+suppl	4	ant	e	i	y
+supplant	3	NULL	ed	ing
+supplement	5	NULL	a	ed	ing	s
+supplie	3	d	r	s
+support	4	NULL	e	i	s
+suppose	3	NULL	d	s
+suppress	3	NULL	ed	ion
+supra	3	-	NULL	national
+sure	3	-	NULL	ly
+surf	3	NULL	ac	eit
+surface	5	-	NULL	d	ness	s
+surge	4	NULL	d	on	ry
+surmise	3	NULL	d	s
+surp	3	ass	lus	ris
+surprise	3	NULL	d	s
+surre	3	alis	nder	ptitious
+surrender	3	NULL	ed	ing
+surround	3	NULL	ed	ing
+survey	6	-type	NULL	ed	ing	or	s
+surviv	4	a	e	ing	or
+survival	3	NULL	ist	s
+survive	3	NULL	d	s
+suspect	4	NULL	ed	ing	s
+suspens	3	e	ion	or
+sustain	4	NULL	ed	ing	s
+swallow	5	-barn	NULL	ed	ing	s
+swam	3	NULL	i	p
+swamp	5	NULL	ed	ing	s	y
+swan	4	NULL	k	like	s
+swarm	4	NULL	ed	ing	s
+swart	3	NULL	hy	z
+swath	3	NULL	ed	ings
+sway	4	-backed	NULL	ed	ing
+swea	3	r	t	zey
+swear	3	NULL	ing	s
+swearing	3	-in	NULL	e
+sweat	8	-s	NULL	band	e	hruna	ing	shirt	y
+sweat-s	3	aturated	oaked	uits
+swee	3	ney	p	t
+sweep	3	NULL	ing	stakes
+sweeping	3	NULL	ly	s
+sweet	9	-	NULL	e	heart	ish	ly	ness	peas	s
+sweet-	4	clover	faced	s	t
+sweet-s	3	hrub	melling	ou
+sweetheart	3	-secretary	NULL	s
+swell	4	NULL	ed	ing	s
+swift	6	's	-	NULL	est	ly	ness
+swim	3	NULL	m	suit
+swin	4	burne	dl	e	g
+swing	4	NULL	in	s	y
+swirl	3	NULL	ed	ing
+switch	6	-hitter	NULL	b	e	gear	ing
+swoop	4	NULL	ed	ing	s
+swor	3	d	e	n
+sword	3	NULL	e	s
+symbol	3	NULL	i	s
+symboli	3	c	s	z
+symbolic	3	-sounding	NULL	al
+symbolize	3	NULL	d	s
+symp	4	ath	hon	osium	tom
+sympath	3	etic	i	y
+sympathi	3	es	que	z
+symptom	3	NULL	atic	s
+synchron	3	i	ous	y
+synchronize	3	NULL	d	rs
+syndicate	4	's	NULL	d	s
+synonym	4	NULL	ous	s	y
+synthesize	3	NULL	d	s
+system	6	's	NULL	ati	e	i	s
+systematiz	3	ation	ed	ing
+table	8	's	-t	NULL	au	cloths	land	s	t
+tablespoon	3	NULL	ful	s
+tacit	3	NULL	ly	us
+tack	5	-solder	NULL	ed	ing	le
+tact	5	NULL	ful	i	lessness	ual
+tactic	3	NULL	al	s
+tail	6	NULL	back	gate	in'	or	s
+tailor	3	-ma	NULL	ed
+take	6	-	NULL	ing	n	o	s
+takin	3	'	NULL	g
+tale	3	NULL	nt	s
+talent	3	NULL	ed	s
+talk	7	-aboutiveness	NULL	ative	e	in	s	y
+tall	8	-	NULL	ah	chief	e	ies	ow	y
+tall-	3	growing	masted	tale
+tang	7	NULL	anika	e	ibl	le	o	y
+tangent	3	NULL	ial	s
+tank	3	NULL	er	s
+tann	4	e	haeuser	in	y
+tanne	3	d	nbaum	r
+tape	4	NULL	d	r	s
+taper	3	NULL	ed	ing
+tapp	3	an	e	ing
+tara	4	NULL	day	ntara	s
+target	4	's	-	NULL	s
+tarr	3	ant	ed	y
+tart	4	NULL	ar	ly	uffe
+tartar	3	NULL	ughe	y
+task	3	NULL	master	s
+tass	3	NULL	els	o
+tast	3	e	i	y
+taste	5	NULL	d	ful	less	s
+tatt	3	ered	le-tale	ooed
+taunt	4	NULL	ed	ing	s
+tax-	4	a	exempt	free	paying
+taxi	7	-ways	NULL	cab	ed	ing	ng	s
+taxpayer	3	's	NULL	s
+taylor	3	's	NULL	s
+teach	3	NULL	e	ing
+teacher	4	's	-employee	NULL	s
+team	8	's	-mate	NULL	ed	ing	mate	s	work
+teammate	3	's	NULL	s
+teams	3	'	NULL	ter
+tear	7	-	NULL	drop	fully	ing	le	s
+teas	4	NULL	e	ing	poon
+teaspoon	3	NULL	ful	s
+tech	3	's	NULL	n
+technical	4	-ladder	NULL	ities	ly
+teen	4	-age	NULL	age	s
+teet	3	ering	h	otaler
+tele	8	funken	gra	mann	olog	p	scop	type	vis
+telegraph	4	NULL	e	i	y
+telegrapher	3	's	NULL	s
+telegraphi	3	c	e	ng
+telep	3	ath	hon	rompter
+telephone	4	-booth	NULL	d	s
+telescope	3	NULL	d	s
+televis	3	ed	ion	on-record
+tell	5	-tale	NULL	er	i	s
+temp	4	e	l	o	t
+tempe	3	h	r	st
+temper	4	NULL	a	ed	s
+tempera	4	NULL	ment	nce	t
+temple	3	NULL	man	s
+tempo	3	NULL	r	s
+tempor	3	a	e	ize
+tempt	5	NULL	ation	e	ing	s
+ten-	9	by-ten-mile	concert	day	f	gallon	hour	m	t	year
+tena	3	ble	ci	n
+tend	6	NULL	a	e	ing	ons	s
+tende	3	d	nc	r
+tender	5	NULL	ed	foot	l	ness
+tene	3	brous	ment	ts
+tenn	4	NULL	essee	is	yson
+tens	4	NULL	e	i	pot
+tense	4	NULL	d	ly	s
+tensi	3	le	ng	on
+tension	5	NULL	al	ing	less	s
+tent	5	NULL	a	h	ing	s
+term	5	-end	NULL	ed	in	s
+termin	5	a	g	i	ology	us
+terminate	3	NULL	d	s
+terr	5	a	est	i	o	y
+terra	6	-cotta-colored	NULL	ce	in	l	m
+terrace	3	NULL	d	s
+terri	4	bl	er	f	to
+terror	3	-stricken	NULL	i
+test	6	-	NULL	ament	ed	i	s
+testi	5	c	f	ly	mon	ng
+tetra	5	chloride	gonal	halides	meron	sodium
+text	7	-	NULL	book	ile	ron	s	u
+text-	3	form	lookup	ordered
+textile	4	's	-	NULL	s
+textile-	3	exporting	importing	producing
+texture	3	NULL	d	s
+than	3	NULL	k	t
+thank	6	NULL	ed	ful	ing	less	s
+that	5	'	-a-way	NULL	che	t
+that'	3	d	ll	s
+thaw	3	NULL	ed	ing
+thea	5	NULL	f	re	se	t
+theater	4	-going	NULL	go	s
+theatre	4	-by-the-sea	NULL	goer	s
+theatrical	3	NULL	ly	s
+thei	3	NULL	r	stic
+their	3	's	NULL	s
+them	5	's	NULL	atic	e	selves
+theo	5	cracy	do	log	n's	r
+theologian	3	-philosophers	NULL	s
+theor	3	e	i	y
+theori	4	es	sts	ticians	z
+ther	4	NULL	ap	e	m
+therap	3	eutic	i	y
+therapist	3	's	NULL	s
+there	11	'	NULL	a	by	f	in	o	sa	to	u	with
+there'	3	d	ll	s
+therm	3	al	istor	o
+thermo	9	couple	dynamic	electric	form	gravimetric	met	nuclear	p	s
+thermodynamic	3	NULL	ally	s
+thermop	3	ile	lastic	ylae
+thermostat	4	NULL	ed	ics	s
+thes	4	aurus	e	is	pians
+they'	4	d	ll	re	ve
+thick	5	-	NULL	e	ly	ness
+thicke	4	n	r	st	t
+thicken	4	NULL	e	ing	s
+thigh	3	-bone	NULL	s
+thin	7	-	NULL	e	g	k	ly	n
+think	4	NULL	e	in	s
+thinne	3	d	r	ss
+thio	3	cyanate-perchlorate-fluoronn	t	uracil
+thir	3	d	st	t
+third	4	-	NULL	ly	s
+third-	6	NULL	dimensional	grade	inning	rate	s
+thirst	3	NULL	ed	y
+thirt	3	een	ie	y
+thirty-	9	caliber	eight	f	mile	nin	one	s	t	year
+thom	5	's	NULL	as	pson	son
+thor	8	's	NULL	eau	iated	n	ough	p	stein
+thorn	5	NULL	burg	s	ton	y
+thorough	6	NULL	bred	fare	going	ly	ness
+thou	4	NULL	gh	sand	t
+thought	4	NULL	ful	less	s
+thoughtful	3	NULL	ly	ness
+thousand	4	-	NULL	s	th
+thre	4	a	e	sh	w
+thread	5	NULL	bare	ed	ing	s
+threat	3	NULL	en	s
+threaten	4	NULL	ed	ing	s
+three	4	-	NULL	fold	s
+three-	15	axis	b	d	f	h	in	judge	m	night	p	quarters	ro	s	w	year
+three-b	3	edroom	ody	uilding
+three-f	4	amily	ifths	o	ront
+three-fo	3	ld	ot	urths
+three-m	3	a	en-and-a-helper	onth
+three-w	3	ay	eek	ood
+threes	3	-fulfilled	NULL	ome
+thresh	4	ed	hold	ing	old
+thri	4	ce	ft	ll	v
+thrill	4	NULL	e	ing	s
+thrive	3	NULL	d	s
+thro	8	at	bb	es	mb	n	ttl	ugh	w
+throat	4	's	NULL	s	y
+throne	3	NULL	berry	s
+through	3	NULL	out	put
+throw	6	-rug	NULL	e	in	n	s
+thru	4	NULL	mming	s	way
+thrust	5	-to-weight	NULL	ing	on	s
+thud	3	NULL	ding	s
+thug	3	NULL	gee	s
+thum	3	NULL	b	p
+thumb	6	-	NULL	ed	ing	nail	s
+thump	3	NULL	ed	ing
+thunder	6	-purple	NULL	claps	ed	ing	ous
+thur	3	ber	man	sday
+thursday	3	's	-night	NULL
+thwart	3	NULL	ed	ing
+thyro	5	globulin	id	nine	t	xine
+thyroid	4	-stimulating	NULL	al	s
+tick	5	NULL	e	ing	le	s
+ticke	3	d	r	t
+tide	4	NULL	lands	s	water
+tiger	3	's	NULL	s
+tight	4	-turn	NULL	e	ly
+tighte	3	n	r	st
+tighten	3	NULL	ed	ing
+tile	3	NULL	d	s
+till	4	NULL	e	i	otson
+tille	3	d	r	t
+tilli	3	ch	e	ng
+tilt	6	-top	NULL	ed	h	ing	s
+timber	4	NULL	ed	lands	s
+time	12	's	-	NULL	d	l	n	piece	rs	s	table	worn	x
+time-	9	&-motion	c	delay	honored	life	mynah	o	s	temperature
+timel	3	ess	iness	y
+times	3	'	-picayune	NULL
+timid	3	NULL	ity	ly
+tint	6	NULL	able	ed	oretto	s	ype
+tipp	3	e	ing	le
+tippe	3	canoe	d	rary
+tire	4	NULL	d	less	s
+tired	3	NULL	ly	ness
+titan	3	NULL	i	s
+title	4	-holder	NULL	d	s
+toad	3	NULL	ies	yism
+toast	3	NULL	ed	ing
+toil	3	NULL	e	some
+token	3	NULL	ish	s
+tole	3	NULL	k	ra
+tolera	3	ble	n	t
+toll	6	-r	NULL	e	gate	house	s
+tomato	3	-red	NULL	es
+tomb	4	NULL	igbee	like	s
+tonal	3	NULL	ities	ly
+tone	4	NULL	less	r	s
+tong	3	NULL	s	ue
+tongue	4	-	NULL	d	s
+tongue-t	3	hrusting	ied	wister
+toni	4	NULL	c	ght	o
+too-	5	expensive	hearty	large	naked	s
+tool	5	-	NULL	ing	maker	s
+toot	5	-toot	NULL	h	ley-toot-tootled	sie
+tooth	4	-	NULL	brush	paste
+top-	9	drawer	grade	heavy	level	notch	priority	quality	ranking	tang
+topic	3	NULL	al	s
+topp	3	e	ing	l
+tops	3	NULL	oil	y-turvy
+torment	3	NULL	e	ing
+torp	3	e	id	or
+torque	3	NULL	mada	r
+torrid-	3	adios	breeze	mighty
+torso	3	-defining	NULL	s
+torture	3	NULL	d	s
+toss	3	NULL	e	ing
+total	6	-cost	NULL	ed	i	l	s
+totali	3	ng	stic	t
+touch	6	NULL	down	e	ing	stone	y
+tough	5	-looking	NULL	e	ness	s
+tour	5	NULL	ed	i	nament	s
+tourist	3	's	NULL	s
+toward	3	NULL	es	s
+towe	3	d	l	r
+towel	3	NULL	ing	s
+tower	4	's	NULL	ing	s
+town	5	's	NULL	e	ley	s
+towns	4	NULL	end	hip	m
+trac	5	e	hea	ing	k	t
+trace	5	NULL	able	d	rs	s
+track	7	-signal	NULL	down	ed	ing	less	s
+tract	4	NULL	arians	or	s
+tractor	3	-trailer	NULL	s
+trade	6	-	NULL	d	mark	r	s
+tradition	5	-minded	NULL	al	nel	s
+traditional	3	NULL	i	ly
+traditionalist	3	NULL	ic	s
+tragic	3	NULL	ally	omic
+trai	4	l	n	psing	t
+trail	5	-worn	NULL	e	ing	s
+train	5	NULL	e	ing	man	s
+trait	3	NULL	or	s
+traitor	3	NULL	ous	s
+tram	3	mel	p	way
+tramp	3	NULL	ed	l
+tran	3	ce	quil	s
+tranquil	3	NULL	i	lity
+trans	14	-	a	c	ducer	f	gress	i	l	m	o	p	shipment	ve	ylvania
+trans-	4	atlantic	illuminat	lingually	political
+transa	3	ct	minase	tlantic
+transc	3	end	ri	ultural
+transcend	5	NULL	ant	e	ing	s
+transcript	3	NULL	ion	s
+transf	3	er	orm	usions
+transfer	5	NULL	e	or	r	s
+transfere	3	d	e	nce
+transferor	3	's	NULL	s
+transferr	3	al	ed	ing
+transform	5	NULL	ation	e	ing	s
+transi	3	en	stor	t
+transition	3	NULL	al	s
+translat	3	e	i	or
+translate	3	NULL	d	s
+transmit	3	NULL	s	t
+transmitt	3	able	e	ing
+transp	4	aren	ir	lant	o
+transpir	3	ati	ed	ing
+transplant	4	NULL	able	ed	ing
+transport	5	NULL	ation	ed	ing	s
+transvers	3	ally	e	us
+trap	5	NULL	door	ezoid	p	s
+trapp	3	NULL	e	ing
+trave	3	l	rs	sty
+travel	6	NULL	e	in	l	ogue	s
+travelogue	3	-like	NULL	s
+trea	4	cher	d	s	t
+tread	4	NULL	ing	mill	well
+treason	3	NULL	able	ous
+treasur	3	e	ies	y
+treasure	4	NULL	d	r	s
+treat	6	NULL	ed	i	ment	s	y
+treati	3	es	ng	se
+tree	6	-clumps	NULL	ce	like	s	tops
+trem	5	bl	endous	or	pler	ulously
+tremble	3	NULL	d	s
+tren	3	ch	d	ton
+trench	3	NULL	a	e
+trend	3	-following	NULL	s
+tri-	3	iodothyronine	motor	state
+tria	4	d	l	mcinolone	n
+trial	3	-book	NULL	s
+trian	3	dos	g	on
+trib	3	al	e	u
+tribe	3	's	NULL	s
+tribu	3	lation	n	te
+tric	3	h	k	olor
+trich	3	i	loroacetic	rome
+trick	5	NULL	ed	l	s	y
+trig	4	's	NULL	g	onal
+trigger	3	-happy	NULL	ed
+trill	3	NULL	ed	ion
+trim	6	-your-own-franks	NULL	ble	ester	m	s
+trio	3	NULL	l	mphe
+trip	10	-hammer	NULL	artite	e	h	l	o	p	s	tych
+triphenyl	3	arsine	phosphine	stibine
+triple	4	-	NULL	d	t
+tris	4	NULL	ervice	odium	tan
+triumph	3	NULL	ant	s
+troll	3	ey	op	s
+troop	3	NULL	er	s
+trop	4	ez	h	i	ocollagen
+troph	3	ies	o-	y
+tropic	3	NULL	al	s
+trot	3	NULL	sky	te
+trou	5	b	gh	p	ser	t
+trouble	4	-	NULL	d	s
+troubles	3	NULL	hooter	ome
+truc	3	e	k	ulen
+truck	6	's	NULL	driver	e	ing	s
+trucke	3	d	e	r
+true	4	-false	NULL	r	st
+trujillo	3	's	NULL	s
+trum	3	an	bull	p
+trump	3	NULL	e	s
+trun	3	cated	dl	k
+trust	6	NULL	e	fully	ing	s	worthy
+truste	3	d	e	th
+trustee	3	's	NULL	s
+trustees	3	'	NULL	hip
+truth	4	-	NULL	ful	s
+truthful	3	NULL	ly	ness
+tsar	4	's	NULL	evich	ism
+tube	4	-nosed	NULL	r	s
+tuck	3	NULL	e	ing
+tulip	3	-shaped	NULL	s
+tull	3	e	io	n
+tumble	4	NULL	d	r	s
+tune	6	-belly	NULL	d	ful	lessly	s
+tuni	3	c	ng	s
+tunnel	3	NULL	ed	s
+turb	4	an	in	ofan	ulen
+turk	4	NULL	ey	ish	s
+turn	10	-out	NULL	around	e	i	key	o	pike	s	table
+turne	3	NULL	d	r
+turno	3	ff	ut	ver
+turtle	5	-neck	NULL	backs	neck	s
+tutor	3	NULL	i	s
+twenty-	10	dollar	eight	f	mile	nine	one	page	s	t	year
+twenty-fi	3	fth	rst	ve
+twin	5	NULL	ed	ge	kl	s
+twist	5	NULL	e	ing	s	y
+twitch	3	NULL	ed	ing
+two-	18	and-a-half-mile	b	c	d	f	game	h	inch	l	mile	nosed	part	r	s	t	valued	w	year
+two-b	4	edroom	its'	urner	y-four
+two-di	3	git	mensional	sc
+two-f	3	amily	isted	old
+two-r	3	ecord	oom	un
+two-s	3	ea	t	ystem
+two-t	5	ail	erm	hirds	im	o-three
+type	4	NULL	d	s	writ
+types	3	NULL	cript	etting
+typewrit	3	er	ing	ten
+typi	3	cal	f	ng
+typical	3	NULL	ity	ly
+tyranni	3	cal	s	ze
+ultra	5	-	centrifug	m	sonic	v
+ultra-	6	efficient	fast	high-speed	liberal	modern	violet
+unab	3	a	le	ridged
+unac	4	c	hiev	knowledged	quainted
+unacc	3	eptable	o	ustomed
+unad	3	justed	orned	ulterated
+unal	3	ienable	lo	terable
+unam	3	NULL	bigu	used
+unan	4	alyzed	im	nounced	swered
+unas	4	hamedly	ked	sisted	terisked
+unatt	3	a	ended	ractive
+unbe	4	arabl	knownst	liev	nt
+unbl	3	emished	inkingly	ushing
+unbr	3	eakable	idled	oken
+unca	5	lled	nny	p	s	used
+uncertain	3	NULL	ly	t
+unch	3	a	ecked	ristian
+uncha	3	llenged	ng	r
+uncl	4	a	e	ouded	uttered
+uncle	5	's	NULL	a	nched	s
+unco	9	-operative	iling	lored	m	n	operative	rked	u	ver
+uncom	4	bable	fort	m	p
+uncomm	3	itted	on	unicative
+uncon	7	cern	dition	nected	querable	s	troll	v
+uncou	3	nted	rageous	sinly
+unde	10	c	dicated	fined	mocratic	niabl	p	r	s	te	veloped
+under	18	-	NULL	a	b	c	d	e	foot	g	handed	l	min	neath	p	rate	s	t	w
+underc	3	l	over	u
+underg	3	irding	o	r
+undergo	4	NULL	es	ing	ne
+underl	3	ay	i	ying
+underlin	3	e	g	ing
+underp	4	aid	in	layed	rivileged
+unders	5	core	e	hirt	i	t
+underst	3	a	ood	ructure
+understand	5	NULL	abl	ed	ing	s
+understanding	3	NULL	ly	s
+understate	3	d	ment	s
+undertake	4	NULL	n	r	s
+underw	4	a	e	o	rit
+undi	7	d	fferentiated	gested	luted	m	s	vided
+undis	6	c	guised	mayed	puted	rupted	t
+undo	4	NULL	ing	ne	ubtedly
+uneas	3	e	i	y
+unen	5	d	forcible	thusiastic	unciated	vi
+unequal	3	NULL	ed	l
+unfa	6	i	lteringly	miliar	stened	thomable	vorable
+unfai	3	ling	r	thful
+unfe	4	lt	nced	rtil	ttered
+unfi	4	nished	red	t	xed
+unfo	3	ld	r	unded
+unfold	5	NULL	ed	ing	ment	s
+unfor	5	eseen	g	med	seen	tunate
+unfortunate	3	NULL	ly	s
+unfro	3	cking	sted	zen
+unfu	3	lfilled	nn	rled
+unga	3	inly	llant	va
+unhappi	3	est	ly	ness
+unhe	3	a	ed	sita
+unhea	3	lthy	rd	ted
+unif	3	i	orm	y
+unifi	3	cation	e	l
+uniform	5	NULL	ed	ity	ly	s
+unimp	4	a	eachabl	o	r
+unin	7	fluenced	hibited	itiate	j	ominal	te	v
+uninte	3	lligible	n	r
+union	4	's	-industry	NULL	s
+unique	4	-ingrown-screwedup	NULL	ly	ness
+unit	6	NULL	arian	e	i	s	y
+unitarian	3	NULL	ism	s
+unite	3	NULL	d	s
+uniti	3	es	ng	zed
+univers	3	al	e	it
+universal	5	-international	NULL	i	ly	s
+universali	3	stic	ty	ze
+university	3	's	-	NULL
+university-	3	educated	trained	wide
+unla	5	c	mented	shed	undered	wful
+unle	3	a	ss	veled
+unleash	3	NULL	ed	ing
+unli	5	censed	ke	mited	n	terary
+unlo	3	ad	ck	vely
+unload	4	NULL	ed	ing	s
+unlock	4	NULL	ed	ing	s
+unma	6	gnified	licious	nage	r	sked	t
+unme	3	ritorious	shed	thodical
+unmi	3	ndful	stakabl	xed
+unmo	4	dified	lested	tivated	ved
+unnatural	3	NULL	ly	ness
+unne	3	cessar	eded	rving
+unpa	6	ck	dded	i	r	tr	ved
+unpai	3	d	ntable	red
+unpl	4	agued	eas	owed	umbed
+unpleasant	3	NULL	ly	ness
+unpre	5	cedented	dictab	meditated	pared	tentious
+unpro	7	blematic	curable	ductive	f	mising	tected	v
+unqu	3	alified	e	iet
+unre	13	a	co	deemed	eling	flective	hearsed	l	m	pentant	quited	s	vealing	warding
+unrea	3	dy	l	s
+unreason	3	NULL	abl	ing
+unreco	3	gniz	nstructed	verable
+unrel	3	ated	e	i
+unres	4	ervedly	olved	ponsive	t
+unsa	5	fe	id	lted	t	vory
+unsc	3	athed	ientific	r
+unscr	3	amble	ew	upulous
+unse	5	a	e	lf	rvile	ttl
+unsee	3	NULL	mly	n
+unself	3	-conscious	consciousness	ish
+unsh	3	a	e	ielded
+unsha	3	k	rpened	ve
+unshe	3	ath	d	l
+unsp	3	e	oken	rayed
+unst	5	a	ead	ilted	r	u
+unsta	4	ble	ined	pled	ring
+unsu	6	ccessful	it	ng	pport	r	specting
+unsur	3	e	mountable	passed
+unte	3	ach	llable	na
+unth	3	aw	ematic	ink
+unti	4	d	e	l	mely
+unto	4	NULL	ld	uched	ward
+untr	3	a	eated	u
+untra	4	cked	ditional	ined	mmeled
+untru	3	e	stworthiness	th
+unwa	4	ivering	nted	rrant	veringly
+unwi	5	lling	nding	re	se	tting
+unwilling	3	NULL	ly	ness
+unwo	3	manly	r	unded
+unwor	3	kable	n	thy
+uphold	4	NULL	ers	ing	s
+upper	4	-	NULL	c	most
+upper-	4	NULL	class	l	middle
+upri	3	ght	sing	ver
+upset	3	NULL	s	ting
+upsta	3	irs	nding	te
+upward	3	-mobile	NULL	s
+urban	5	-fringe	NULL	a	i	o
+urge	4	NULL	d	n	s
+useful	3	NULL	ly	ness
+useless	3	NULL	ly	ness
+utilit	3	arian	ies	y
+utiliz	3	ation	e	ing
+utilize	3	NULL	d	s
+utopia	3	NULL	n	s
+utopian	3	NULL	ism	s
+utter	6	NULL	ance	ed	ing	ly	most
+vacation	5	NULL	ers	ing	land	s
+vacuum	4	-	NULL	ed	ing
+vague	4	NULL	ly	ness	st
+vale	7	NULL	dictorian	nt	r	t	ur	we
+valid	4	NULL	at	ity	ly
+valle	3	NULL	e	y
+valley	3	's	NULL	s
+value	5	-	NULL	d	less	s
+value-	4	judgments	orientations	problems	system
+vand	4	al	ervoort	iver	ringsar
+vani	3	lla	sh	t
+vanish	3	NULL	e	ing
+vapor	3	-pressure	NULL	ization
+vari	6	a	colored	e	grad	ous	t
+varia	3	b	n	tion
+variable	3	-speed	NULL	s
+varian	3	NULL	ce	t
+varie	4	d	gated	s	t
+vast	3	NULL	er	ly
+vault	3	NULL	ing	s
+veer	4	NULL	ed	ing	s
+vegeta	3	ble	rian	tion
+veil	4	NULL	ed	ing	s
+vein	4	NULL	ed	ing	s
+velo	3	cit	n	ur
+velocit	3	er	ies	y
+vene	4	er	r	t	zuela
+vent	6	NULL	ed	i	ricle	s	ur
+ventilat	3	e	i	or
+ventur	3	a	e	i
+venture	3	NULL	d	s
+vera	3	NULL	ci	nda
+veranda	3	NULL	h	s
+verb	5	NULL	a	enas	o	s
+verdi	3	's	NULL	ct
+veri	5	dical	e	f	similitude	t
+verm	3	e	ilion	o
+verme	3	ersch	il	jo
+vern	5	NULL	a	e	ier	o
+verna	3	cular	l	va
+vers	5	a	e	ion	t	us
+versa	3	NULL	illes	til
+verse	3	NULL	d	s
+vertebra	3	e	l	te
+vertical	3	-takeoff-and-landing	NULL	ly
+vest	5	NULL	ed	i	ments	s
+veteran	3	's	NULL	s
+vibrat	3	ed	i	o
+vice	6	-	NULL	like	nza	roy	s
+vice-	3	cha	president	regent
+vici	3	nity	ous	ssitudes
+vick	3	er	sburg	y
+vict	4	im	or	rola	uals
+victim	4	's	NULL	ize	s
+victor	5	's	-butler	NULL	i	y
+victori	3	a	es	ous
+victoria	3	's	NULL	n
+vien	3	n	ot	tiane
+viet	3	NULL	h	nam
+view	6	NULL	e	ing	less	point	s
+villa	3	NULL	ge	in
+village	3	NULL	r	s
+villain	3	NULL	ous	s
+vine	5	-	NULL	gar	s	yard
+vine-	3	crisscrossed	embowered	shaded
+viol	3	a	e	in
+viola	3	's	NULL	t
+violate	3	NULL	d	s
+violin	3	NULL	ist	s
+virginia	3	's	NULL	n
+virtu	3	al	e	o
+visco	4	elastic	meter	sity	u
+visi	4	b	goths	on	t
+visit	6	NULL	ation	ed	ing	or	s
+visual	3	NULL	iz	ly
+visualize	3	NULL	d	s
+vita	3	NULL	l	min
+vital	4	NULL	ity	ly	s
+vitamin	3	-and-iron	NULL	s
+viva	3	NULL	ci	ldi
+vivi	4	an	d	er	f
+vivid	3	NULL	ly	ness
+voca	3	bular	l	tion
+vocal	4	NULL	i	ly	s
+vocali	3	c	s	z
+vocational	3	-advancement	NULL	ly
+vociferous	3	NULL	ly	ness
+voice	5	's	NULL	d	less	s
+volley	3	-ball	NULL	ball
+volt	3	a	meter	s
+volta	4	's	NULL	ge	i
+volu	4	ble	m	nt	ptuous
+volume	3	NULL	s	tric
+volunteer	4	NULL	ed	ing	s
+vote	4	NULL	d	r	s
+vouch	3	ers	ing	safes
+vowel	3	-length	NULL	s
+voyage	4	NULL	r	s	urs
+wack	3	er	lin	y
+wade	3	-evans	NULL	d
+wage	5	-	NULL	d	r	s
+wage-	4	earning	price	rate	setter
+wagg	3	ed	in	l
+wagner	3	's	-peyser	NULL
+wail	5	NULL	bri	ed	ing	s
+waist	3	-	NULL	coat
+wait	5	NULL	e	in	ress	s
+waite	3	NULL	d	r
+wake	5	NULL	d	ful	n	s
+walk	7	-	NULL	e	in	o	s	ways
+walk-	3	to	up	way
+wall	10	-	NULL	ace	board	e	ingford	o	paper	s	y
+wall-	3	flowers	s	t
+walle	4	NULL	d	nstein	t
+wallop	3	NULL	ed	ing
+wallow	3	NULL	ed	ing
+walt	5	NULL	er	ham	on	z
+walter	3	's	NULL	s
+wander	6	-years	NULL	e	ing	jahr	s
+want	6	NULL	a	ed	ing	on	s
+war-	3	dirty	ridden	time
+ward	6	's	-	NULL	en	ro	s
+ware	3	NULL	hous	s
+warehouse	3	NULL	man's	s
+warf	3	are	ield	ront
+warm	10	-	NULL	e	hearted	i	ly	ongering	s	th	up
+warm-	3	blooded	toned	up
+warn	4	NULL	e	ing	s
+warning	3	NULL	ly	s
+warp	3	NULL	ed	ing
+warr	3	ant	e	i
+warrant	4	NULL	ed	s	y
+warren	3	's	NULL	ton
+wars	3	NULL	aw	hips
+wart	6	-hog	NULL	ime	orn	s	y
+wash	6	-	NULL	b	e	i	oe
+washe	3	d	r	s
+washing	3	NULL	s	ton
+washington	3	's	-	NULL
+wast	4	age	e	ing	rel
+waste	7	NULL	basket	d	ful	land	s	water
+watch	7	-spring	NULL	dog	e	ful	ing	m
+watche	3	d	rs	s
+water	14	's	-	NULL	bury	color	ed	f	ing	l	melon	proof	s	way	y
+water-	8	balance	cooled	filled	holding	line	proof	s	washed
+watercolor	3	NULL	ist	s
+waterf	3	all	lows	ront
+waters	4	NULL	hed	ide	kiing
+watson	3	's	-watt	NULL
+watt	3	NULL	e	les
+wave	6	-	NULL	d	l	r	s
+wave-	4	length	particle	setting	travel
+weak	4	NULL	e	ly	ness
+weake	3	n	r	st
+weaken	4	NULL	ed	ing	s
+wealth	3	NULL	iest	y
+weapon	3	NULL	ry	s
+wear	4	NULL	i	s	y
+weari	4	ed	ly	n	some
+wearin	3	'	ess	g
+weather	7	-r	NULL	beaten	ford	ing	proof	s
+weave	3	NULL	r	s
+webster	3	's	NULL	ville
+wedge	3	-shaped	NULL	d
+wednesday	3	's	NULL	s
+weed	3	NULL	e	s
+week	7	's	-	NULL	day	end	l	s
+week-	3	end	long	old
+weig	4	and	el's	h	le
+weigh	5	NULL	ed	ing	s	t
+weight	7	-height	NULL	ed	ing	lessness	s	y
+weir	3	NULL	d	s
+weird	3	NULL	ly	y
+welcome	3	NULL	d	s
+weld	5	NULL	ed	ing	on	wood
+well	9	's	-	NULL	being	e	ing	known	man	s
+well-	19	a	b	cemented	d	e	f	grooved	house	informed	k	m	nigh	or	p	r	s	t	understood	w
+well-b	4	a	eing	ound	r
+well-br	3	aced	ed	ushed
+well-de	3	fined	s	veloped
+well-e	3	ducated	quipped	stablished
+well-m	3	ade	eaning	o
+well-p	3	la	repared	ublicized
+well-r	3	e	ounded	uled
+well-re	3	ad	ceived	gulated
+well-st	3	ocked	retched	uffed
+well-w	4	edged	ish	orn	ritten
+wells	4	's	NULL	ley	ville
+welt	4	anschauung	er	on	s
+wert	3	's	NULL	her
+wesley	3	's	NULL	an
+west	12	's	NULL	brook	chester	er	field	hampton	inghouse	m	on	p	w
+western	3	-style	NULL	er
+whar	3	f	ton	ves
+what	6	'	-nots	NULL	ever	man	soever
+what'	3	d	re	s
+wheat	3	-germ	NULL	on
+whee	4	NULL	dled	l	z
+wheel	6	NULL	an's	e	ing	ock	s
+when	3	NULL	ce	ever
+where	11	'	NULL	a	by	ever	fore	in	o	upon	ver	with
+where'	3	d	re	s
+whim	3	NULL	per	s
+whims	3	NULL	ey	ical
+whin	3	e	ing	n
+whip	5	's	NULL	lash	p	s
+whipp	3	e	ing	le
+whips	3	NULL	awed	nade
+whir	3	NULL	l	ring
+whirl	5	NULL	ed	ing	pool	wind
+whis	3	k	per	tl
+whisk	3	e	ing	y
+whiske	3	d	r	y
+whisper	4	NULL	ed	ing	s
+whit	9	NULL	comb	e	field	ing	man	ney	row	t
+white	12	's	-	NULL	face	h	l	ma	n	s	tail	washed	y
+white-	4	c	dominated	s	topped
+white-s	3	hirted	tucco	uited
+whiten	3	e	ing	s
+who'	3	d	ll	s
+whole	6	-	NULL	heartedly	ness	s	wheat
+wholes	3	NULL	ale	ome
+wick	3	NULL	e	ham
+wicke	3	d	r	t
+wicked	3	NULL	ly	ness
+wide	7	-	NULL	grip	ly	n	r	s
+wide-	9	awake	cut	door	eyed	grip	open	ranging	s	winged
+widen	3	NULL	e	s
+widow	4	NULL	e	hood	s
+width	3	NULL	s	wise
+wife	4	's	-to-be	NULL	ly
+wild	7	-	NULL	cat	e	hack	l	ness
+wilde	4	NULL	nstein	r	st
+wilder	3	's	NULL	ness
+will	10	-to-power	NULL	a	cox	e	ful	i	ow	s	y
+willa	3	NULL	mette	rd
+wille	3	d	m	tt
+willi	4	am	e	ng	s
+william	3	's	NULL	s
+williams	4	'	NULL	burg	on's
+willing	5	NULL	e	ly	ness	s
+willow	4	-lined	NULL	s	y
+willy	3	-nilly	NULL	a
+wilson	3	's	NULL	ian
+winc	3	ed	he	ing
+wind	13	-	NULL	b	e	fall	ham	ing	less	mill	ow	s	up	y
+wind-	4	and-water	blown	swept	velocity
+window	5	-washing	NULL	less	panes	s
+winds	4	NULL	hield	or	torm
+wine	5	's	-	NULL	head	s
+wing	7	-shooting	NULL	back	ed	ing	man	s
+wink	3	NULL	ed	ing
+winn	3	e	i	ow
+wins	5	NULL	ett	low	o	ton
+wint	3	er	hrop	ry
+winter	5	NULL	ed	ing	s	time
+wire	4	-haired	NULL	d	s
+wise	7	NULL	cracked	d	ly	nheimer	r	st
+wish	5	NULL	art	e	ful	ing
+wisp	3	NULL	s	y
+with	9	-but-after	NULL	al	dr	e	h	in	out	st
+withdraw	4	NULL	al	ing	n
+wither	4	NULL	ed	ing	spoon
+witness	3	NULL	e	ing
+witt	4	NULL	er	ingly	y
+wobbl	3	e	ing	y
+wolf	5	NULL	e	f	gang	ishly
+wolfe	3	's	NULL	s
+woman	4	's	NULL	hood	ly
+women	3	's	-trodden	NULL
+wond	3	er	rous	uh
+wonder	7	-working	NULL	ed	ful	ing	land	s
+wonderful	3	NULL	ly	ness
+wood	14	-	NULL	b	c	e	graining	in	land	man's	pecker	r	s	w	yard
+woodc	3	arver	ock	utters
+woods	5	's	NULL	hed	ide	moke
+woodw	3	ard	ind	ork
+wool	5	NULL	en	gather	l	wor
+word	7	-games	NULL	ed	ing	lessly	s	y
+work	13	's	-	NULL	able	bench	day	e	in	m	out	piece	s	table
+work-	4	out	paralysis	s	weary
+work-s	3	atisfaction	tudy	uccess
+worker	3	's	NULL	s
+working	4	-class	NULL	men	s
+workman	4	's	NULL	like	ship
+world	7	's	-	NULL	ers	ly	s	wide
+world-	7	at-large	famous	ignoring	oriented	renowned	sha	wide
+worm	3	NULL	s	y
+worn	3	-	NULL	out
+worr	3	ell	i	y
+wors	3	e	hip	t
+worship	5	NULL	ed	ful	ing	p
+worst	3	-marked	NULL	ed
+worth	6	-w	NULL	iest	less	while	y
+would	5	-be	NULL	a	be	n't
+wound	5	-tumor	NULL	ed	ing	s
+wrack	3	NULL	ed	ing
+wrap	3	NULL	p	s
+wreath	3	NULL	ed	s
+wreck	4	NULL	age	ed	ing
+wrestle	3	NULL	r's	s
+wrinkle	3	NULL	d	s
+wrist	3	NULL	s	watch
+writ	6	NULL	e	h	ing	s	ten
+write	3	NULL	r	s
+writer	4	's	-turned-painter	NULL	s
+writing	3	-like	NULL	s
+wrong	7	-	NULL	do	ed	ful	ly	s
+yacht	4	NULL	e	ing	s
+yale	3	's	-army	NULL
+yank	5	NULL	e	ing	s	ton
+yankee	4	-hatred	NULL	fication	s
+yard	4	NULL	age	s	umian
+year	8	's	-	NULL	book	d	ly	n	s
+year-	6	'round	e	long	old	round	to-year
+yearn	3	NULL	ed	ing
+yearning	3	NULL	ly	s
+yell	4	NULL	e	in	ow
+yellow	4	-	NULL	ed	i
+yellow-	3	b	dwarf	green
+yelp	4	NULL	ed	ing	s
+yield	4	NULL	ed	ing	s
+york	5	's	-	NULL	er	town
+york-	3	born	mind	pennsylvania
+yorker	3	's	NULL	s
+you'	6	d	ll	re	s	uns	ve
+young	6	's	NULL	e	ish	ster	uh
+youngster	3	's	NULL	s
+youth	3	NULL	ful	s
+zeal	3	NULL	and	o
+zero	4	-magnitude	NULL	ed	s
+zone	3	NULL	d	s
+zoom	3	ed	ing	s
